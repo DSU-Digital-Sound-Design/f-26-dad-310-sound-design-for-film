@@ -1,0 +1,102 @@
+groups:
+  - group: Course and studio
+    items:
+      - name: DSU Studio documentation
+        url: "https://sites.google.com/view/charmstudios/studio-documentation"
+        desc: "Signal flow, patchbay, microphone locker, and booking."
+      - name: Zoom H4n Pro manual (PDF)
+        url: "https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf"
+        desc: "The field recorder you check out. Recording format is on p. 47."
+      - name: Setting gain levels for field recording
+        url: "https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/"
+        desc: "Target levels for quiet ambiences, loud ambiences, and hard effects."
+
+  - group: REAPER
+    items:
+      - name: REAPER
+        url: "https://www.reaper.fm/"
+        desc: "The DAW for this course. Free 60-day evaluation."
+      - name: ReaPack
+        url: "https://reapack.com/"
+        desc: "Package manager. Install this before the spotting workflow."
+      - name: SWS / S&M Extension
+        url: "https://www.sws-extension.org/"
+        desc: "The extension set the spotting hotkeys depend on."
+      - name: Recording modes reference (PDF)
+        url: "https://stash.reaper.fm/oldsb/201374/recording_modes_INPUT-DEVICE.pdf"
+        desc: "Auto-punch and the other record modes, diagrammed."
+
+  - group: Sound libraries
+    items:
+      - name: Freesound
+        url: "https://freesound.org"
+        desc: "Creative Commons library. Check the licence before you ship."
+      - name: Freesound Labs
+        url: "https://labs.freesound.org/"
+        desc: "Experimental search and browsing tools built on Freesound."
+      - name: BBC Sound Effects
+        url: "https://sound-effects.bbcrewind.co.uk/"
+        desc: "16,000 effects from the BBC archive, free for personal use."
+      - name: SoundQ
+        url: "https://www.prosoundeffects.com/soundq/"
+        desc: "Search Freesound and the free Pro Sound Effects tier from one app."
+      - name: Soundly
+        url: "https://getsoundly.com/"
+        desc: "Library manager with a usable free tier. Good editing reference."
+      - name: GameSounds.xyz
+        url: "https://gamesounds.xyz/"
+        desc: "Royalty-free effects and music, sorted by pack."
+
+  - group: Impulse responses
+    items:
+      - name: OpenAir
+        url: "https://www.openair.hosted.york.ac.uk/"
+        desc: "Measured impulse responses of real spaces, from York. Free."
+      - name: Voxengo impulses
+        url: "https://www.voxengo.com/impulses/"
+        desc: "A small free set — halls, plates, and hardware units."
+
+  - group: Synthesis
+    items:
+      - name: Vital
+        url: "https://vital.audio/"
+        desc: "Wavetable synth used for the synthesis assignment. Free tier."
+
+  - group: Listening and soundscape
+    items:
+      - name: Earth.fm
+        url: "https://earth.fm/"
+        desc: "Long-form nature field recordings, free to stream."
+      - name: "radio aporee ::: maps"
+        url: "https://aporee.org/maps/"
+        desc: "A world map of field recordings you can wander through."
+      - name: Cities and Memory
+        url: "https://citiesandmemory.com/"
+        desc: "Field recordings paired with reimagined versions of the same place."
+      - name: World Soundscape Project
+        url: "https://www.sfu.ca/sonic-studio/WSPDatabase/WSP_Tapes/index2.html"
+        desc: "Schafer's original tapes, archived at Simon Fraser."
+      - name: Soundscape composition
+        url: "https://www.sfu.ca/~truax/scomp.html"
+        desc: "Barry Truax on what soundscape composition is and isn't."
+      - name: Save the Sounds
+        url: "http://savethesounds.info/"
+        desc: "Endangered and disappearing sounds."
+
+  - group: Reading
+    items:
+      - name: "Designing for Sound — Randy Thom"
+        url: "https://www.filmsound.org/articles/designing_for_sound.htm"
+        desc: "The argument for designing sound from the script onward."
+      - name: "Eight great uses of POV perspective in movies"
+        url: "https://lwlies.com/articles/eight-great-uses-of-pov-perspective-in-movies/"
+        desc: "Little White Lies, on first-person perspective and what sound does in it."
+
+  - group: Around the program
+    items:
+      - name: DSU Live
+        url: "https://www.facebook.com/DSU.Live/"
+        desc: "Student concerts and the student record label."
+      - name: Student Research Initiatives
+        url: "https://dsu.edu/research/forms.html"
+        desc: "Funding for undergraduate creative and research work."

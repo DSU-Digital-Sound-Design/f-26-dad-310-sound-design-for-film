@@ -1,0 +1,112 @@
+baseURL = "https://dsu-digital-sound-design.github.io/f-26-dad-310-sound-design-for-film/"
+languageCode = "en-us"
+title = "DAD 310: Sound Design for Film"
+enableRobotsTXT = true
+
+# Console renders the course pages; reveal-hugo renders the lecture decks.
+# Order matters: Console is listed first so its templates win for HTML output,
+# while reveal-hugo's *.reveal.html templates win for the Reveal output format.
+theme = ["t-console-theme", "reveal-hugo"]
+
+[outputFormats.Reveal]
+  baseName = "index"
+  mediaType = "text/html"
+  isHTML = true
+
+[params]
+  accent = "#c58cff"
+  description = "An introduction to sound editing and sound design for film and linear media — foley, field recording, ambience, and the final mix."
+
+  [params.course]
+    code = "DAD 310"
+    title = "Sound Design for Film"
+    term = "Fall 2026"
+    meeting = "TuTh 2:30–3:45"
+    instructor = "Tate Carson"
+    final = "TBD · final exam period Dec 10–16"
+
+  [params.schedule]
+    # Monday of week 1. DSU Fall 2026 classes begin Aug 24.
+    start = "2026-08-24"
+    filterPlaceholder = 'filter — try "foley" or "due"'
+
+    # This course's own tag vocabulary. Setting this REPLACES the defaults
+    # ([slides] [project] [due] [lab] [off]) rather than adding to them, so
+    # every tag the schedule uses has to be listed here.
+    [[params.schedule.tags]]
+      id = "slides"
+      label = "Lectures"
+      color = "#c58cff"
+    [[params.schedule.tags]]
+      id = "screening"
+      label = "Screenings"
+      color = "#6ec1ff"
+    [[params.schedule.tags]]
+      id = "reading"
+      label = "Readings"
+      color = "#5fe0b0"
+    [[params.schedule.tags]]
+      id = "lab"
+      label = "Studio & field"
+      color = "#b6ff5c"
+    [[params.schedule.tags]]
+      id = "assignment"
+      label = "Assignments"
+      color = "#ffd166"
+    [[params.schedule.tags]]
+      id = "due"
+      label = "Due"
+      color = "#ff8a5c"
+    [[params.schedule.tags]]
+      id = "off"
+      label = "No class"
+      color = "#7d8a7a"
+      skip = true
+
+  [[params.facts]]
+    key = "Meets"
+    value = "TuTh 2:30–3:45"
+  [[params.facts]]
+    key = "Room"
+    value = "TCB 209"
+  [[params.facts]]
+    key = "Instructor"
+    value = "Tate Carson"
+  [[params.facts]]
+    key = "Credits"
+    value = "3"
+  [[params.facts]]
+    key = "Prerequisites"
+    value = "DAD 222 and MUS 204"
+  [[params.facts]]
+    key = "Software"
+    value = "REAPER, Vital, SoundQ"
+  [[params.facts]]
+    key = "Grading"
+    value = "Attendance 30% · Assignments 50% · Final project 20%"
+
+[[menus.main]]
+  name = "schedule"
+  pageRef = "/schedule"
+  weight = 10
+[[menus.main]]
+  name = "assignments"
+  pageRef = "/assignments"
+  weight = 20
+[[menus.main]]
+  name = "syllabus"
+  pageRef = "/syllabus"
+  weight = 30
+[[menus.main]]
+  name = "resources"
+  pageRef = "/resources"
+  weight = 40
+
+[markup.goldmark.renderer]
+  # Lecture decks contain raw HTML (iframes, audio embeds).
+  unsafe = true
+
+[markup.tableOfContents]
+  ordered = false
+  startLevel = 1
+  endLevel = 2

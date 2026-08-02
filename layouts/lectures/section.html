@@ -1,0 +1,45 @@
+{{/*
+  The lectures index, grouped by the week folder each deck lives in.
+
+  The theme's generic section.html renders `.Summary`, which for these pages
+  carries raw HTML — iframes and page-relative <img> paths that resolve against
+  the deck's own URL, not this one, and so render broken here. This template
+  lists titles only and marks which pages are slide decks.
+
+  Group off .File.Dir, not .RelPermalink: the permalink carries the baseURL
+  subpath on a project-site deploy, so prefix-trimming it silently matches
+  nothing and drops every page into one bucket.
+*/}}
+{{ define "main" }}
+<div class="wrap">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="prose" style="margin-top:14px">{{ . }}</div>{{ end }}
+
+  {{/* [{week: 1, page: …}, …] so the weeks sort numerically, not as strings. */}}
+  {{ $rows := slice }}
+  {{ range .Pages }}
+    {{ $dir := strings.TrimSuffix "/" (strings.TrimPrefix "lectures/" .File.Dir) }}
+    {{ $week := 0 }}
+    {{ with (index (findRE `week-([0-9]+)` $dir 1) 0) }}
+      {{ $week = int (strings.TrimPrefix "week-" .) }}
+    {{ end }}
+    {{ $rows = $rows | append (dict "week" $week "page" .) }}
+  {{ end }}
+
+  {{ range (sort (uniq (apply $rows "index" "." "week")) ) }}
+    {{ $w := . }}
+    <h2 class="section-label" style="margin-top:30px">week {{ $w }}</h2>
+    <div class="projects">
+      {{ range where $rows "week" $w }}
+        {{ $p := .page }}
+        <a class="project-row" href="{{ $p.RelPermalink }}">
+          <span class="project-row__body">
+            <span class="project-row__title">{{ $p.Title }}</span>
+            <span class="project-row__summary">{{ if $p.OutputFormats.Get "Reveal" }}slide deck{{ else }}notes{{ end }}</span>
+          </span>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}
