@@ -1,6 +1,10 @@
 +++
 title = "Aesthetic - Exploring The Overall Feel Of A Sound Track"
 outputs = ["Reveal"]
+# Never written past this opening quote. Drafted so it stays out of the
+# lectures index rather than showing up as an empty deck. Flip to false
+# once there are slides here, and add it back to content/schedule.md.
+draft = true
 [reveal_hugo]
 theme = "blood"
 # show_notes = "separate-page"

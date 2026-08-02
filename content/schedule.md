@@ -198,7 +198,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 11/30
 - [due] [Assignment 7: Ambiences](/assignments/assignment-7-ambiences/)
-- [slides] [Aesthetic: the overall feel of a soundtrack](/lectures/week-11/sdff-chapter-12/)
+- Listen to the ambiences together — where does each one put you, and what gives it away?
 
 ## 12/2
 - **In-class spotting session.** Each of you presents your project setup in REAPER and walks through your spotting plan — what you intend to record, and what you'll pull from libraries or Freesound.
