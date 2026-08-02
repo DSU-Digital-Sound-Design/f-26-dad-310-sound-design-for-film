@@ -21,9 +21,9 @@ theme = ["t-console-theme", "reveal-hugo"]
     code = "DAD 310"
     title = "Sound Design for Film"
     term = "Fall 2026"
-    meeting = "TuTh 2:30–3:45"
+    meeting = "MWF 2:00–2:50"
     instructor = "Tate Carson"
-    final = "TBD · final exam period Dec 10–16"
+    final = "Wednesday, December 16 · 1:00–3:00 PM"
 
   [params.schedule]
     # Monday of week 1. DSU Fall 2026 classes begin Aug 24.
@@ -65,7 +65,7 @@ theme = ["t-console-theme", "reveal-hugo"]
 
   [[params.facts]]
     key = "Meets"
-    value = "TuTh 2:30–3:45"
+    value = "MWF 2:00–2:50"
   [[params.facts]]
     key = "Room"
     value = "TCB 209"

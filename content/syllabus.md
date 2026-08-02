@@ -14,11 +14,18 @@ recording, sound design, and mixing.
 
 ## Meetings
 
-Tuesday and Thursday, 2:30–3:45 pm, TCB 209.
+Monday, Wednesday and Friday, 2:00–2:50 pm, Tunheim Classroom Building 209.
 
 ## Instructor
 
 Tate Carson · TCB 305 · <tate.carson@dsu.edu>
+
+Office hours are Monday, Wednesday, and Friday, 10:00–10:50 am and
+12:00–1:50 pm.
+
+## Final exam
+
+Wednesday, December 16, 1:00–3:00 pm — you present your final project.
 
 ## Learning outcomes
 

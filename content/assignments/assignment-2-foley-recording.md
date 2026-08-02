@@ -3,8 +3,8 @@ title: "Foley Recording"
 number: "02"
 weight: 2
 week: 5
-assigned: "2026-09-24"
-due: "2026-10-08"
+assigned: "2026-09-25"
+due: "2026-10-05"
 summary: "Record and layer the same animation's Foley in the studio."
 rubric: false   # the brief carries its own rubric table
 ---

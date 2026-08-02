@@ -2,6 +2,9 @@
 title: "SFX Processing and Final Production"
 number: "05"
 weight: 5
+week: 11
+assigned: "2026-11-04"
+due: "2026-11-11"
 summary: "Normalize, EQ, and bounce five production-ready sound effects."
 rubric: false   # the brief carries its own rubric table
 ---

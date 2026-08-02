@@ -2,6 +2,9 @@
 title: "Sound Synthesis"
 number: "06"
 weight: 6
+week: 12
+assigned: "2026-11-11"
+due: "2026-11-18"
 summary: "Five synthesised foreground sounds for a science-fiction scene."
 rubric: false   # the brief carries its own rubric table
 ---

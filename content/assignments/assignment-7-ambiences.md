@@ -2,6 +2,9 @@
 title: "Ambiences"
 number: "07"
 weight: 7
+week: 13
+assigned: "2026-11-18"
+due: "2026-11-30"
 summary: "A 30-second ambience for a real or imagined place."
 rubric: false   # the brief carries its own rubric table
 ---

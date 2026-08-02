@@ -3,8 +3,8 @@ title: "Reverb and Echo"
 number: "—"
 weight: 8
 week: 10
-assigned: "2026-10-27"
-due: "2026-11-05"
+assigned: "2026-10-30"
+due: "2026-11-06"
 summary: "Four send busses, four acoustic spaces, using ReaDelay and ReaVerb."
 rubric: false   # the brief carries its own rubric table
 ---

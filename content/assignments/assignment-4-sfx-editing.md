@@ -3,8 +3,8 @@ title: "SFX Editing"
 number: "04"
 weight: 4
 week: 9
-assigned: "2026-10-22"
-due: "2026-11-05"
+assigned: "2026-10-23"
+due: "2026-11-04"
 summary: "Clean, trim, and build variations from your field recordings."
 rubric: false   # the brief carries its own rubric table
 ---

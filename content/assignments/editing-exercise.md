@@ -2,6 +2,9 @@
 title: "Editing Exercise"
 number: "—"
 weight: 9
+week: 9
+assigned: "2026-10-21"
+due: "2026-10-26"
 summary: "Five short editing drills — handling noise, beeps, impacts, squeaks, coins."
 rubric: false   # the brief carries its own rubric table
 ---

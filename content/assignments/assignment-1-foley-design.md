@@ -3,8 +3,8 @@ title: "Foley Design"
 number: "01"
 weight: 1
 week: 3
-assigned: "2026-09-10"
-due: "2026-09-22"
+assigned: "2026-09-11"
+due: "2026-09-21"
 summary: "Perform live Foley for a 10-second robot animation, in teams."
 rubric: false   # the brief carries its own rubric table
 ---
