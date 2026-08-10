@@ -163,13 +163,15 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/)
 
 ## 11/11
-- [due] [Assignment 5: SFX Processing and Final Production](/assignments/assignment-5-sfx-processing-and-final-production/)
-- [assignment] [Assignment 6: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital
+- **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14). Wednesday and Friday are independent work days.
+- [due] [Assignment 5: SFX Processing and Final Production](/assignments/assignment-5-sfx-processing-and-final-production/) — submit on D2L as usual
+- [assignment] [Assignment 6: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
 - [due] [Assignment 6](/assignments/assignment-6-sound-synthesis/) by Wed 11/18
 
 ## 11/13
-- [lab] Vital work session — build your sound map, then start synthesising
-- [slides] [Sci-fi sound design: Tron](/lectures/week-11/tron/)
+- **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14)
+- [lab] Independent Vital work session — build your sound map, then start synthesising
+- [slides] [Sci-fi sound design: Tron](/lectures/week-11/tron/) — work through the deck on your own; we'll pick up the thread Monday
 
 ## 11/16
 - [slides] [Layering and pitch shifting: the explosion](/lectures/week-11/explosion/)
