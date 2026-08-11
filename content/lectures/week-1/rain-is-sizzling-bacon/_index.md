@@ -5,6 +5,12 @@ outputs = ["Reveal"]
 margin = 0.2
 +++
 
+<h2 class="r-fit-text">&ldquo;Rain is sizzling bacon.&rdquo;</h2>
+
+### &mdash; Skip Lievsay
+
+---
+
 ## Sound Design Insights from Skip Lievsay
 
 - Sounds in film often aren't literal representations.
