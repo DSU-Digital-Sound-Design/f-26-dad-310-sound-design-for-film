@@ -1,7 +1,7 @@
 ---
 title: "Final Project"
 number: "★"
-weight: 10
+weight: 11
 week: 13
 assigned: "2026-11-18"
 due: "2026-12-16"

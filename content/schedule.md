@@ -43,6 +43,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 9/9
 - Two students share an Earth.fm narrative — 10 minutes
 - [slides] [Character: the aesthetics of Foley](/lectures/week-3/sdff-chapter-2/)
+- [screening] **Screening 1: *WALL-E*** — watch the whole film at home
+- [assignment] [Screening log 1](/assignments/screening-log/) — three timestamped moments
+- [due] [Screening log 1](/assignments/screening-log/) by Wed 9/16
 
 ## 9/11
 - [screening] [Foley Grail, chapter 3](/lectures/week-3/foley-grail-chap-3-pt-2/) — clips
@@ -56,6 +59,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Starting a new project](/lectures/week-2/this-is-reaper-2/)
 
 ## 9/16
+- [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
+  - Ben Burtt built every sound in that film from silence — no production audio at all
 - [slides] [Audio hardware](/lectures/week-4/audio-hardware/) — microphones, levels, converters
 
 ## 9/18
@@ -82,6 +87,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 9/30
 - [slides] [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/)
+- [screening] **Screening 2: *Spirited Away*** — watch the whole film at home
+- [due] [Screening log 2](/assignments/screening-log/) by Mon 10/5
 
 ## 10/2
 - [screening] *A Quiet Place* — Foley redesign
@@ -90,7 +97,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 10/5
 - [due] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/)
+- [due] [Screening log 2](/assignments/screening-log/) — *Spirited Away*
 - [slides] [Setting: ambience, immersion and sense of place](/lectures/week-6/sdff-chapter-3/)
+  - The bathhouse clip in the deck should sound different now that you've seen the whole film
 - **Trojan Days** run Oct 5–10, including the Day of Service — check the campus calendar for events you want to be at
 
 ## 10/7
@@ -115,13 +124,17 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 10/14
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
+- [screening] **Screening 3: *Sound of Metal*** — watch the whole film at home
+- [due] [Screening log 3](/assignments/screening-log/) by Mon 10/19
 
 ## 10/16
 - [lab] Field recording session — bring your recorder
 - Listen back to the first takes and talk about what to fix
 
 ## 10/19
+- [due] [Screening log 3](/assignments/screening-log/) — *Sound of Metal*
 - [slides] [Shape: sound maps, contrast and motif](/lectures/week-9/sdff-chapter-6/)
+  - The film closes this deck — we'll come back to the opening contrast at the end
 
 ## 10/21
 - [due] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/)

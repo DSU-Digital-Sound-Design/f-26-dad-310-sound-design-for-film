@@ -1,7 +1,7 @@
 ---
 title: "Reverb and Echo"
 number: "—"
-weight: 8
+weight: 9
 week: 10
 assigned: "2026-10-30"
 due: "2026-11-06"
