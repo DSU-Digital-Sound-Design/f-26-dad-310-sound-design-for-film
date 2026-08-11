@@ -17,6 +17,11 @@ theme = ["t-console-theme", "reveal-hugo"]
   accent = "#c58cff"
   description = "An introduction to sound editing and sound design for film and linear media — foley, field recording, ambience, and the final mix."
 
+  [params.reveal_hugo]
+  custom_theme = "reveal-console.css"
+  transition = "fade"
+  slide_number = true
+
   [params.course]
     code = "DAD 310"
     title = "Sound Design for Film"
