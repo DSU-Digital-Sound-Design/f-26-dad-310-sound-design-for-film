@@ -18,6 +18,7 @@ Your final project will be to craft a comprehensive five-minute sound design pie
 
 Here are some options: 
 - [SterilleFlower\_MOS\_1080p\_ProRes422\_23-976fps.mov](https://www.dropbox.com/s/7jjbrnjupup99y0/SterilleFlower_MOS_1080p_ProRes422_23-976fps.mov?dl=0)
+- The [Blender Open Movies](https://studio.blender.org/films/) — *Big Buck Bunny*, *Sintel*, *Spring*, *Charge*, and more. These animated shorts are Creative Commons and free to download in high quality, which makes them ideal for a complete sound redesign.
 - Also find some great shorts on [Vimeo](https://vimeo.com/categories)
 
 Your final submission should integrate all elements of sound design that we've discussed throughout our course. Each sound design must include the following components:

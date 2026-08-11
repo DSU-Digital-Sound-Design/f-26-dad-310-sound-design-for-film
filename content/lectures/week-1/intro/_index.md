@@ -82,3 +82,18 @@ separator = "##"
 - The sound elements make the danger more palpable, drawing the audience deeper into the scene's perilous atmosphere.
 
 {{%/ note %}}
+
+---
+
+## The Arrival of EVE from "WALL-E" (2008)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyBeACKZOU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+
+- Animation is the purest case of sound design: there is no production sound at all, so every sound in the film had to be invented from silence.
+- Ben Burtt (R2-D2, the lightsaber) designed the entire film, giving each robot a voice built from processed speech, servos, and synthesis — WALL-E rough and mechanical, EVE smooth and synthetic.
+- The scene plays with almost no dialogue; character, comedy, and menace (EVE's cannon) are all carried by sound.
+- A useful correction to the idea that sound design means "adding effects to reality" — here the sound invents the reality.
+
+{{%/ note %}}

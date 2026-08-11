@@ -54,6 +54,21 @@ separator = "##"
 
 ---
 
+## Foley and animated characters
+
+### How to Train Your Dragon (2010)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jw0EBmAVjT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Sound design by Randy Thom — the author of the "Designing for Sound" essay we read in week 2. Thom has argued that animation gives sound designers more creative freedom than live action, because nothing arrives from the set: every sound is a choice.
+- The "Forbidden Friendship" scene is nearly dialogue-free. Toothless is characterized entirely through designed vocalizations (built from animal recordings and human performance) and Foley.
+- Listen for the Foley carrying the bond: footsteps on rock, the stick scratching the dirt drawing, cloth moves as Hiccup edges closer.
+- Like *Once Upon a Time in the West*, this is sound as storyteller — but with zero production audio to lean on.
+{{%/ note %}}
+
+---
+
 ## Foley and first person experience 
 
 - *Hardcore Henry* (2015)

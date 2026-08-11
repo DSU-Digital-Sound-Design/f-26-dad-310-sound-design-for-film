@@ -90,6 +90,31 @@ theme = "blood"
 
 ---
 
+## WALL-E - Define Dancing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gUXg0dKZb0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Ben Burtt scores the vacuum of space as near-silence, so the few sounds that remain — the fire extinguisher bursts, EVE's thrusters — read with total clarity against it.
+- Negative space in action: the emptiness isn't an absence of design, it's the design. Every burst is placed like a note.
+- Compare with *2001* on the previous slide: same physics, opposite tone — silence as wonder rather than dread.
+{{%/ note %}}
+
+---
+
+## Spirited Away - Ma
+
+<iframe src="https://player.vimeo.com/video/373831201" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="The Train Scene - Spirited Away"></iframe>
+
+{{% note %}}
+- The train sequence: almost nothing happens, sonically or narratively, on purpose. The train's rhythm, the water, and sparse score are nearly the whole mix.
+- Miyazaki calls this *ma*: the deliberate emptiness between events. In sound terms it's negative space held long enough to become the point rather than a pause.
+- The quiet train ride is the emotional exhale of the film — and it only works because the bathhouse before it was so dense.
+- Longer video essay on the scene if useful: [10 Minutes of Perfection](https://www.youtube.com/watch?v=0YWxUTvaJ0E)
+{{%/ note %}}
+
+---
+
 ## Acoustic Elements: Echo, Reverb, and Resonance
 
 - **Echo**: Adds distance, reflecting space and isolation

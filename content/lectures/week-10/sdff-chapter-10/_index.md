@@ -79,6 +79,11 @@ In essence, sound plays a pivotal role in shaping an audience's experience of ti
 
 **Flashback - Soul**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5i_DKxZu0aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Joe's piano is the bridge: the diegetic playing in his apartment carries over the cuts into his memories, binding present and flashback into one continuous emotional line. The ambience shifts under the piano with each memory (the pizza parlor, the subway, his father's club) while the music holds the timeline together.
+{{%/ note %}}
 
 ---
 
