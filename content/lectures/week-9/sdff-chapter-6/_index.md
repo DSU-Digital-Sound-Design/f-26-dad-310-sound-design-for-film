@@ -148,7 +148,7 @@ Why did it have to be snakes?
 
 ## Contrast and turning points
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Lnb1bI0VIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch *Ivan's Childhood* on YouTube](https://www.youtube.com/watch?v=6Lnb1bI0VIk) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
 If we want to pull narrative elements apart, instead of connecting them, we can make use of contrast – in order to say something strongly, making the opposite point immediately before is a way to underline the intended meaning.

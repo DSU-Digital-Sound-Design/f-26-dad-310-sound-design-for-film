@@ -98,7 +98,7 @@ Through expressive sound design, Lynch creates an audio landscape that externali
 
 ## Details - In The Mood For Love (2000)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3A983z2yItg?si=J_Jax8dXtIoSqFld&amp;start=2955" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the rain scene on YouTube](https://www.youtube.com/watch?v=3A983z2yItg&t=2955s) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
 Wong Kar-wai uses the sound of rain as a detailed element, evoking emotions of longing and melancholy. The rain becomes a subtle but significant part of the setting, punctuating moments of silence.
@@ -322,7 +322,7 @@ The opening scene of "Son of Saul" is a powerful and disturbing depiction of the
 
 ### Hunger
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oQrX-6NGzl8?start=4125" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the scene on YouTube](https://www.youtube.com/watch?v=oQrX-6NGzl8&t=4125s) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
 Hunger takes a different approach to extension, with a soundscape that barely expands the frame. Telling the story of Bobby Sands’ fatal hunger strike in the Maze Prison in Northern Ireland, designer Paul Davies avoids the typical background of off- screen shouts and cell-door slams, instead focusing on the claustrophobia of the cell itself. This works to bring us into the character’s singular, extremely determined perspective, as we come to terms with the profound price he is willing to pay.

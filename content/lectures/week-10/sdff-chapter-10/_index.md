@@ -224,7 +224,7 @@ Both film examples adeptly utilize sound to enhance the narrative's impact, show
 
 ### Saving Private Ryan
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmiphUYwL_0?start=113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sB4h6obTRBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
 
