@@ -9,6 +9,8 @@ slide_number = "c/t"
 
 # Mood
 
+---
+
 ## Emotion, Tone, and Working with Music
 
 {{% note %}}

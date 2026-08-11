@@ -9,6 +9,8 @@ slide_number = "c/t"
 
 # Symbol
 
+---
+
 ## Sound Worlds And Metaphors
 
 {{% note %}}
@@ -294,6 +296,9 @@ The contrast between the urban dystopia scenes and the desolate wasteland scenes
 
 
 <!-- 
+
+---
+
 ## Sound Worlds - Parasite
 
 - [Hulu](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4)

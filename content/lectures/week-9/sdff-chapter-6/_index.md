@@ -8,6 +8,8 @@ theme = "blood"
 
 # Shape
 
+---
+
 ## Sound Maps, Contrast And Motif
 
 {{% note %}}
