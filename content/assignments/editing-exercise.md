@@ -1,7 +1,7 @@
 ---
 title: "Editing Exercise"
 number: "—"
-weight: 9
+weight: 10
 week: 9
 assigned: "2026-10-21"
 due: "2026-10-26"
