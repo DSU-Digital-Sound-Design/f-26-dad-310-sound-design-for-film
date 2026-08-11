@@ -2,7 +2,6 @@
 title = "Mood: Emotion, Tone, and Working with Music"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "night"
 slide_number = "c/t"
 # show_notes = "separate-page"
 +++

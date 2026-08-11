@@ -2,7 +2,6 @@
 title = "Time: Transitions, Rhythm And Time Perception"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "blood"
 # show_notes = "separate-page"
 +++
 

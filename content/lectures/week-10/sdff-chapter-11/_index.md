@@ -2,7 +2,6 @@
 title = "Space: Acoustics, Silence And The Frequency Spectrum"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "blood"
 +++
 
 # Space

@@ -2,9 +2,7 @@
 title = "Listening: Soundscapes, Audiences and Stories"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 > Still the noise in the mind: that is the first task – then everything else will follow in time.

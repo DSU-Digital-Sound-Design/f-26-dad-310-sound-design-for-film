@@ -2,9 +2,7 @@
 title = "Narrative transition from silent movies to sound"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 ## Narrative in Silent Films

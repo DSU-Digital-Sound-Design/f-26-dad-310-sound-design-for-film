@@ -2,9 +2,7 @@
 title = "Rain is sizzling bacon"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 ## Sound Design Insights from Skip Lievsay

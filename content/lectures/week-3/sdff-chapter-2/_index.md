@@ -2,13 +2,13 @@
 title = "Character"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 <!-- Sources: Sound design for film chatper 2 + Foley Grail Chapter 3 -->
 
+
+{{< slide background-image="foleyartistsCincinnati1945.jpg" background-opacity="0.4" >}}
 
 # Foley: history of a craft
 

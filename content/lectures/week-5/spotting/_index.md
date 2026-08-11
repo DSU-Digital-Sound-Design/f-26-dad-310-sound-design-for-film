@@ -2,7 +2,6 @@
 title = "Spotting, Cueing, and Editing Foley"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "solarized"
 # show_notes = "separate-page"
 +++
 

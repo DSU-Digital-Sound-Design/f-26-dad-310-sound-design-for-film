@@ -6,7 +6,6 @@ outputs = ["Reveal"]
 # once there are slides here, and add it back to content/schedule.md.
 draft = true
 [reveal_hugo]
-theme = "blood"
 # show_notes = "separate-page"
 +++
 

@@ -2,7 +2,6 @@
 title = "Shape: Sound Maps, Contrast And Motif"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "blood"
 # show_notes = "separate-page"
 +++
 

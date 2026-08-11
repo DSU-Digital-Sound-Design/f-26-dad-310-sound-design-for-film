@@ -2,9 +2,7 @@
 title = "Sound Design in Film"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 ## Introduction to Sound Design in Film

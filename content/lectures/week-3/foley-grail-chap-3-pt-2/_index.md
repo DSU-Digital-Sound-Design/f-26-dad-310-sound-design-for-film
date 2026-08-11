@@ -2,9 +2,7 @@
 title = "Foley Pt. 2"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
 margin = 0.2
-separator = "##"
 +++
 
 # NOISE VS. SOUND: FOLEY AS IT IS USED IN THE VARIOUS GENRES

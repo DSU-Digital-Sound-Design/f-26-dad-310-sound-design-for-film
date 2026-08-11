@@ -2,7 +2,6 @@
 title = "Setting: Ambience, Immersion And Sense Of Place"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "night"
 # show_notes = "separate-page"
 +++
 

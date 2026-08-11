@@ -2,7 +2,6 @@
 title = "Symbol: Sound Worlds And Metaphors"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "night"
 slide_number = "c/t"
 # show_notes = "separate-page"
 +++
