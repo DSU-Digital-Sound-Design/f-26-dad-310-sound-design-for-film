@@ -260,6 +260,18 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 
 {{%/ note %}}
 
+---
+
+## Into the Spider-Verse - What's Up Danger
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3Ax50dwO_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- "What's Up Danger" was written for the film, but it functions like a needle drop: a pop track stepping into the role of score at the emotional peak.
+- Listen to the handoff between song and sound design in the leap: the track drops away for the glass shatter and the rising wind, then surges back — the mix passes the scene back and forth between music and SFX.
+- Note the inverted image and how sound sells it: the "fall" upward is scored as a rise.
+- Compare with American Honey: there the track sits inside the scene (diegetic, sung along to); here it hovers over it. Same tool, opposite relationship to the film world.
+{{%/ note %}}
 
 ---
 

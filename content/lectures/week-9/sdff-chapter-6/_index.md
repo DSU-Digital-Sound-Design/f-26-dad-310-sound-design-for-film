@@ -79,8 +79,16 @@ In A Man Escaped, the striking of a bell is associated with the attempt of a pri
 
 {{% note %}}
 A good video essay on other aspects of sound in the film.
+{{%/ note %}}
 
-There is another example of a key motive in the anime Akira, but I couldn't find the scene.
+---
+
+## Akira - Kaneda's theme
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rubRpPgbY_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+The opening bike sequence establishes two sonic signatures at once: Geinoh Yamashirogumi's percussive, chanted "Kaneda" theme, and the distinctive whine of Kaneda's bike. Both return throughout the film, and each return carries the charge of this first ride — the motif working exactly like the bell in A Man Escaped.
 {{%/ note %}}
 
 ---
@@ -99,6 +107,16 @@ Symbolizes her escape from her trapped inside existence
 ## The Empire Strikes Back - Vadar's breath
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aV2DLkDPwM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Into the Spider-Verse - The Prowler
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOIGw1vl3mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+The Prowler's motif — a distorted electric screech — works the same way as Vader's breath: it announces the character before we see him, and after one or two repetitions the sound alone is enough to spike dread. Because it sits halfway between score and sound effect, it's also a good example of how blurry that line gets in modern animation.
+{{%/ note %}}
 
 ---
 

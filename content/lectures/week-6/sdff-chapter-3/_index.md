@@ -245,8 +245,17 @@ In 1996, the Japanese government designated ‘100 Soundscapes of Japan’, in a
 
 {{%/ note %}}
 
+---
 
+### Sense of Place: Spirited Away (2001)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5szC4XgR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The bathhouse is a place built out of soundmarks: creaking wooden architecture, sliding doors, water everywhere, and the crowd walla of the spirits.
+- Because it's animation, none of this ambience came for free — every layer of the place was chosen and built. Ghibli's approach favors a few precise details over dense beds.
+- Ask: what three sounds tell you where you are in this scene?
+{{%/ note %}}
 
 ---
 
@@ -257,6 +266,18 @@ In 1996, the Japanese government designated ‘100 Soundscapes of Japan’, in a
 
 {{% note %}}
 One of the most iconic sounds in Blade Runner is the sound of the rain. The rain is constant and relentless, and it creates a sense of gloom and despair. The sound of the rain is also used to create a sense of isolation, as it drowns out all other sounds.
+{{%/ note %}}
+
+---
+
+### My Neighbor Totoro (1988)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPOgiR5aUWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Rain again — but doing the opposite job from Blade Runner. Here the night rain at the bus stop is gentle and specific: drips, drops on the umbrella, the wet road.
+- The scene plays with no dialogue; the rain ambience and its small details carry the mood entirely.
+- The Cat Bus arrival breaks the quiet — the contrast only lands because the ambience before it was so restrained.
 {{%/ note %}}
 
 ---
