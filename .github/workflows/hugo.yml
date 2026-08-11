@@ -44,7 +44,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
@@ -57,4 +57,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        # v5 runs on Node 24. v4 declared Node 20, which the runner force-upgraded,
+        # and the mismatch surfaced as intermittent "self-signed certificate" errors
+        # when creating the Pages deployment.
+        uses: actions/deploy-pages@v5
