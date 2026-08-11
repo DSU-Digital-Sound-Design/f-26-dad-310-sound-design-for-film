@@ -88,6 +88,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 9/30
 - [slides] [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/)
 - [screening] **Screening 2: *Spirited Away*** — watch the whole film at home
+- [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments
 - [due] [Screening log 2](/assignments/screening-log/) by Mon 10/5
 
 ## 10/2
@@ -125,6 +126,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 10/14
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
 - [screening] **Screening 3: *Sound of Metal*** — watch the whole film at home
+- [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments
 - [due] [Screening log 3](/assignments/screening-log/) by Mon 10/19
 
 ## 10/16
