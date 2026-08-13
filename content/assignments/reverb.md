@@ -6,7 +6,19 @@ week: 10
 assigned: "2026-10-30"
 due: "2026-11-06"
 summary: "Four send busses, four acoustic spaces, using ReaDelay and ReaVerb."
-rubric: false   # the brief carries its own rubric table
+rubric:
+  - key: "Four sends"
+    weight: "40%"
+    detail: "Four named send busses, each a distinct, recognizable acoustic space."
+  - key: "Plugin choice"
+    weight: "30%"
+    detail: "ReaDelay, ReaVerbate, and ReaVerb each used where they fit; the impulse-response reverb uses a real IR."
+  - key: "Fit"
+    weight: "20%"
+    detail: "Send levels place the dry sounds convincingly in each space."
+  - key: "Files"
+    weight: "10%"
+    detail: "Impulse response file included in the project folder; submitted on D2L by the due date."
 ---
 
 We'll do a short assignment where we use different plugins in Reaper to put a sound in different places.

@@ -1,12 +1,24 @@
 ---
-title: "SFX Editing"
+title: "SFX Editing and Processing"
 number: "04"
 weight: 4
 week: 9
 assigned: "2026-10-23"
-due: "2026-11-04"
-summary: "Clean, trim, and build variations from your field recordings."
-rubric: false   # the brief carries its own rubric table
+due: "2026-11-11"
+summary: "Clean, trim, and build variations from your field recordings, then finish five production-ready sound effects."
+rubric:
+  - key: "Editing quality"
+    weight: "30%"
+    detail: "Clean cuts and fades with no clicks; unwanted sounds removed; each environment runs exactly one minute."
+  - key: "Variations"
+    weight: "25%"
+    detail: "Five distinct, usable variations of each object/device/event sound — 15 short effects that differ in duration, intensity, or perspective."
+  - key: "Processing & final polish"
+    weight: "25%"
+    detail: "Normalization in the specified ranges; EQ and light compression leave each of the five final sounds production-ready, with no artifacts."
+  - key: "Deliverables & annotation"
+    weight: "20%"
+    detail: "FINAL-SFX folder with all five bounces; edits labeled on separate tracks with comments and unique track/region colors."
 ---
 
 ### Part 1 - Editing
@@ -43,8 +55,10 @@ Make sure you have the five recordings from Assignment 3 ready. These include re
      - Normalize each recording to -0.5 dB.
      - Apply equalization and light compression if necessary. 
 
-3. **Bouncing**:
-   - Bounce WAVs of all five variations of each sound (two stereo environments and three mono object/device/event sounds).
+### Part 3 - Final Production
 
-4. **Submission**:
-   - Submit the Reaper project and each rendered ambience/sound effect. 
+1. **Finish each sound**: Work through the remaining steps of the [L-I-S-T-E-N editing mantra](/lectures/week-7/listen-mantra/) — the focus here is the signal-processing and noise steps — until each of your five sounds is production-ready.
+
+2. **Bouncing**: Bounce your five final sound effects (two stereo environments; three mono objects/devices/events) into a FINAL-SFX folder inside your REAPER project folder.
+
+3. **Submission**: Submit the zipped REAPER project folder with all of your edits labeled and notated on separate tracks — comment each track and give each track and region a unique color, the same way we annotated the editing exercise. Include the bounced FINAL-SFX files.

@@ -2,11 +2,17 @@
 title: "Editing Exercise"
 number: "—"
 weight: 10
-week: 9
-assigned: "2026-10-21"
-due: "2026-10-26"
+week: 4
+assigned: "2026-09-14"
+due: "2026-09-25"
 summary: "Five short editing drills — handling noise, beeps, impacts, squeaks, coins."
-rubric: false   # the brief carries its own rubric table
+rubric:
+  - key: "The five edits"
+    weight: "18% each"
+    detail: "Each file meets its spec as written — length, content, and quality — with clean, click-free edits."
+  - key: "Session housekeeping"
+    weight: "10%"
+    detail: "Comments on each track, unique track and region colors, session zipped and posted."
 ---
 
 

@@ -55,8 +55,11 @@ undergraduate work. Everything you make in here is played out loud in class.
   - Find time to rehearse as a group before then
 
 ## 9/14
-- [slides] [Introduction to REAPER](/lectures/week-1/reaper-intro/)
-- [slides] [Starting a new project](/lectures/week-2/this-is-reaper-2/)
+- **REAPER refresher and skills check.** A quick 10–15 minute tour of the interface, then straight into the lab.
+- [assignment] [Editing exercise](/assignments/editing-exercise/): five short drills on the supplied files
+- [lab] Start the editing exercise in class. The drills are the skills check: if they feel easy, you're ready. If not, work through the refresher decks below before Friday and come to office hours.
+- Refresher decks, as reference: [Introduction to REAPER](/lectures/week-1/reaper-intro/) and [Starting a new project](/lectures/week-2/this-is-reaper-2/)
+- [due] [Editing exercise](/assignments/editing-exercise/) by Fri 9/25
 
 ## 9/16
 - [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
@@ -75,9 +78,11 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 9/23
 - [slides] [Recording Foley](/lectures/week-4/recording-foley/)
-- [slides] [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/)
+- Live demo: setting up a Foley session in REAPER (inputs, record arm, takes). Reference decks if you need them: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/)
+- [lab] Voice capture: record one line of dialogue clean, then record it again "in a space." We'll come back to both takes when we get to reverb and spatial processing.
 
 ## 9/25
+- [due] [Editing exercise](/assignments/editing-exercise/)
 - [lab] Record someone walking through the building, then replace the footsteps
 - [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation
 - [due] [Assignment 2](/assignments/assignment-2-foley-recording/) by Mon 10/5
@@ -141,17 +146,14 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 10/21
 - [due] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/)
 - [slides] [The editing mantra: L-I-S-T-E-N](/lectures/week-7/listen-mantra/)
-- [assignment] [Editing exercise](/assignments/editing-exercise/) — five short drills on the supplied files
-- [due] [Editing exercise](/assignments/editing-exercise/) by Mon 10/26
 
 ## 10/23
 - [slides] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
-- [assignment] [Assignment 4: SFX Editing](/assignments/assignment-4-sfx-editing/)
-- [due] [Assignment 4](/assignments/assignment-4-sfx-editing/) by Wed 11/4
+- [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/)
+- [due] [Assignment 4](/assignments/assignment-4-sfx-editing/) by Wed 11/11
 - Look at [Soundly](https://getsoundly.com/) and [SoundQ](https://www.prosoundeffects.com/soundq/) for well-edited reference SFX
 
 ## 10/26
-- [due] [Editing exercise](/assignments/editing-exercise/)
 - [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/)
 
 ## 10/28
@@ -166,9 +168,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Space: acoustics, silence and the frequency spectrum](/lectures/week-10/sdff-chapter-11/)
 
 ## 11/4
-- [due] [Assignment 4: SFX Editing](/assignments/assignment-4-sfx-editing/)
-- [assignment] [Assignment 5: SFX Processing and Final Production](/assignments/assignment-5-sfx-processing-and-final-production/) — finish the five effects
-- [due] [Assignment 5](/assignments/assignment-5-sfx-processing-and-final-production/) by Wed 11/11
+- [lab] SFX processing work session — bring your edited sounds and start the final-production pass
 
 ## 11/6
 - [due] [Reverb and echo](/assignments/reverb/)
@@ -179,9 +179,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 11/11
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14). Wednesday and Friday are independent work days.
-- [due] [Assignment 5: SFX Processing and Final Production](/assignments/assignment-5-sfx-processing-and-final-production/) — submit on D2L as usual
-- [assignment] [Assignment 6: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
-- [due] [Assignment 6](/assignments/assignment-6-sound-synthesis/) by Wed 11/18
+- [due] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — submit on D2L as usual
+- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
+- [due] [Assignment 5](/assignments/assignment-6-sound-synthesis/) by Wed 11/18
 
 ## 11/13
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14)
@@ -193,9 +193,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [lab] Build your own layered explosion from the raw material
 
 ## 11/18
-- [due] [Assignment 6: Sound Synthesis](/assignments/assignment-6-sound-synthesis/)
-- [assignment] [Assignment 7: Ambiences](/assignments/assignment-7-ambiences/) — one 30-second place, real or imagined
-- [due] [Assignment 7](/assignments/assignment-7-ambiences/) by Mon 11/30
+- [due] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/)
+- [assignment] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/) — one 30-second place, ideally a scene from your final project
+- [due] [Assignment 6](/assignments/assignment-7-ambiences/) by Mon 11/30
 - [assignment] [Final Project](/assignments/final-project/) — a five-minute sound design piece
   - Proposal due Mon 11/23: post links to the clips you'll be designing
 
@@ -214,7 +214,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [off] **No class — Thanksgiving recess** (Nov 25–29)
 
 ## 11/30
-- [due] [Assignment 7: Ambiences](/assignments/assignment-7-ambiences/)
+- [due] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/)
 - Listen to the ambiences together — where does each one put you, and what gives it away?
 
 ## 12/2
