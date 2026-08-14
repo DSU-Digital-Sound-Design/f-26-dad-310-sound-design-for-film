@@ -162,6 +162,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Assignment 4 work continues in the 11/4 session
 
 ## 10/30
+- [slides] [ADR: replacing a line to picture](/lectures/adr/)
+- [lab] Film a partner's line somewhere noisy, then replace it in the studio and fit it back to picture
 - [assignment] [Reverb and echo](/assignments/reverb/) — four sends, four spaces
 - [due] [Reverb and echo](/assignments/reverb/) by Fri 11/6
 - Free impulse responses at [OpenAir](https://www.openair.hosted.york.ac.uk/)
