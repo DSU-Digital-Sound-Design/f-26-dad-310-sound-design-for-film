@@ -36,14 +36,19 @@ For each object/device, vary the sound by:
 - Perspective: Move the microphone for different perspectives.
 - Speed: Make takes at different speeds/intensities. 
 
-## Set Proper Levels 
+## Set proper levels
 
-- Quieter environments: between -50 dB and -20 dB
-- Louder environments: between -6 and dB -3 dB
+Ask the performer to make the loudest sound you expect to record, then adjust
+REC LEVEL while watching the meter. Keep peaks below 0 dBFS and leave enough
+headroom for an unexpectedly loud sound. If the input clips, lower REC LEVEL
+and record another take.
 
-A location loud enough to need careful gain is loud enough to affect your ears.
-Wear earplugs when recording traffic, machinery, or crowds; the recorder does
-not need your ears open. The [hearing health
+Recorder levels do not tell you whether a location is safe for your ears. If
+you must raise your voice to speak to someone an arm's length away, treat the
+sound level as potentially hazardous. Move farther from the source, limit your
+time there, or wear correctly fitted hearing protection. Near traffic or
+machinery, use protection that still lets you hear warnings and approaching
+vehicles. The [hearing health
 slides](https://dsu-digital-sound-design.github.io/f-26-DAD-222-Audio-Production-I/lectures/week-1/sound-and-hearing/#/16)
 from DAD 222 cover the exposure limits.
 

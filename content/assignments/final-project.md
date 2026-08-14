@@ -76,15 +76,15 @@ The final mixdown is where you balance and blend all the elements to achieve the
 
 ## Your portfolio
 
-The finals from DAD 222, DAD 310, and DAD 422 are designed to add up to a
-portfolio: a produced track, a film sound design, and an immersive piece.
-Treat this one accordingly. Render it clean, name the files properly, and
-archive the project folder somewhere you will still have after graduation.
-When you apply for work or graduate programs, these pieces are the demo reel.
+The final projects in DAD 222, DAD 310, and DAD 422 can become a three-part
+portfolio: a produced track, a film sound design, and an immersive piece. This
+is the second one. Make a clean render, use clear filenames, and keep the full
+project in storage you can access after graduation. Together, the three pieces
+can anchor a demo reel for jobs or graduate programs.
 
 ## Deliverables
 
 - Rendered video, measuring -24 LUFS integrated with true peak under -2 dB
 - Stems: one rendered file per category (dialogue if used, Foley, effects, ambience, music), which together sum to your full mix
 - Reaper project file
-- One page documentation on the project 
+- One page documentation on the project
