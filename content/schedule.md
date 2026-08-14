@@ -130,6 +130,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 10/14
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
+- [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
 - [screening] **Screening 3: *Sound of Metal*** — watch the whole film at home
 - [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments
 - [due] [Screening log 3](/assignments/screening-log/) by Mon 10/19

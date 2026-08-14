@@ -42,6 +42,10 @@ Your final submission should integrate all elements of sound design that we've d
 ### Miscellaneous Sound Effects (SFX)
 - For all other on-screen elements that do not fall under dialogue, foley, or ambience.
 
+### Music (optional)
+- If your piece uses music, it must be original or properly licensed — see the [working with music lesson](/lectures/working-with-music/) for cleared sources.
+- List each track's title, source, and license in your documentation.
+
 ### Final Mix
 The final mixdown is where you balance and blend all the elements to achieve the intended emotional impact. Follow the [final mix lesson](/lectures/final-mix-deliverables/): the finished render should measure **-24 LUFS integrated with true peak under -2 dB** (check it with "Calculate loudness" in REAPER's render dialog).
 - **Dialogue**: Start with the dialogue tracks if you're using them. The overall levels should average between -12 dB to -6 dB. Utilize compression to maintain consistency in the dialogue's dynamic range.
