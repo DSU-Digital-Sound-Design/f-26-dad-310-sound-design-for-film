@@ -74,6 +74,14 @@ The final mixdown is where you balance and blend all the elements to achieve the
   - A section dedicated to any technical challenges encountered during the mixing process, including how they were overcome.
 
 
+## Your portfolio
+
+The finals from DAD 222, DAD 310, and DAD 422 are designed to add up to a
+portfolio: a produced track, a film sound design, and an immersive piece.
+Treat this one accordingly. Render it clean, name the files properly, and
+archive the project folder somewhere you will still have after graduation.
+When you apply for work or graduate programs, these pieces are the demo reel.
+
 ## Deliverables
 
 - Rendered video, measuring -24 LUFS integrated with true peak under -2 dB

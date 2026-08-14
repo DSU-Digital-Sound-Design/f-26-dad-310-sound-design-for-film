@@ -41,6 +41,12 @@ For each object/device, vary the sound by:
 - Quieter environments: between -50 dB and -20 dB
 - Louder environments: between -6 and dB -3 dB
 
+A location loud enough to need careful gain is loud enough to affect your ears.
+Wear earplugs when recording traffic, machinery, or crowds; the recorder does
+not need your ears open. The [hearing health
+slides](https://dsu-digital-sound-design.github.io/f-26-DAD-222-Audio-Production-I/lectures/week-1/sound-and-hearing/#/16)
+from DAD 222 cover the exposure limits.
+
 ## Recording Format 
 
 - Record at 96kHz/24bit for the best quality. See [this page](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf#page=47) for instructions on changing the format. 
