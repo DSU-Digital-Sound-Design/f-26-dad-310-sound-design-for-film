@@ -5,94 +5,103 @@ tags: [music, editing, licensing, post-production]
 ---
 
 The [Mood chapter](/lectures/week-8/sdff-chapter-4/) covers what music does to a
-scene. This lesson covers the practical side: how music gets chosen, cut to
-picture, and cleared for use.
+scene. This lesson explains how to choose music, edit it to picture, and document
+permission to use it.
 
 ## Temp music
 
-Editors rarely wait for a finished score. During the edit they lay in temporary
-music, existing recordings pulled from other scores, library tracks, or songs,
-to stand in for the music the film will eventually have. The temp track sets
-the scene's pacing in the cut, gives test audiences something to react to, and
-becomes the reference the composer works against.
+Editors often work with temporary music before the score is finished. They may
+use existing scores, library tracks, or songs to stand in for the final music.
+The temp track helps establish the pace of the edit, gives test audiences music
+to respond to, and provides a reference for the composer.
 
-Temp music has a famous side effect. Directors hear the temp hundreds of times
-and fall for it, then ask the composer for the same thing. The industry calls
-this temp love, and it is why some scores sound like imitations of other
-scores.
+Repeated exposure can make a director attached to the temp track and reluctant
+to accept a different musical approach. This is known as temp love, and it can
+push a composer toward imitating the reference track.
 
-For your projects, temp is a prototyping tool. Drop a candidate track against
-your scene early, watch how it changes the pacing, and treat it as a sketch you
-expect to replace, not a decision you have already made.
+Use temp music to test ideas. Place a candidate track against the scene early,
+notice how it changes the pacing, and expect to replace it later.
 
 ## Cutting music to picture
 
-Music has a grid of its own: beats, phrases, and chord progressions. Editing it
-means respecting that grid.
+Music is organized by beats, phrases, and chord progressions. Keep that structure
+intact when editing a cue.
 
-- Cut in the quiet valley just before a downbeat, not on the beat's peak.
-  Cutting into the peak chops the transient and pops.
+- Cut in the quiet section just before a downbeat rather than at the beat's peak.
+  Cutting through the peak can truncate the transient and cause a pop.
 - Shorten a cue by removing whole phrases from the middle. Find the same beat
   of the bar at both edit points and join them with a short crossfade, about
-  half a second. If the join is inaudible, you removed a phrase cleanly.
+  half a second. Listen through the join to check the edit.
 - End a cue at a cadence, a natural resting point in the music, or duck it
-  under dialogue or a sound effect and fade it there. A cue that just stops
-  sounds broken.
-- Let the music breathe across picture cuts. Hitting a music accent on every
-  visual cut turns the scene into a music video. Save the sync moments for the
-  cuts that matter.
+  under dialogue or a sound effect before fading it out. Avoid stopping the cue
+  abruptly.
+- Allow music to continue across picture cuts. If every visual cut has a musical
+  accent, the synchronization becomes distracting. Reserve those accents for
+  selected cuts.
 
-The mechanics are the same editing you already do: splits, crossfades, and your
-ears. Turn snapping off; the music's grid and REAPER's grid are not the same
-thing.
+Use the same editing tools as before: splits, crossfades, and careful listening.
+Turn snapping off because the musical pulse may not align with REAPER's grid.
 
 ## Licensing
 
-The music you use has two copyrights on it, and you need permission for both.
+A recorded song usually involves two copyrights: the musical work and the sound
+recording. Using both in a film generally requires permission from both rights
+holders.
 
 {{< stats >}}
 {{< stat value="Sync license" label="The composition" note="Permission to pair the written song, its melody and lyrics, with picture. Comes from the songwriter or publisher." >}}
 {{< stat value="Master license" label="The recording" note="Permission to use one specific recorded performance of that song. Comes from whoever owns the recording, usually a label." >}}
 {{< /stats >}}
 
-Being a student changes nothing here. A festival screening is a public
-performance, and festivals ask you to certify that your music is cleared. A
-film with an uncleared song in it cannot be screened, streamed, or submitted,
-which means the work you spent a semester on stops existing in public.
+Student work is not automatically exempt from copyright requirements. Festivals
+may ask you to confirm that you have permission to use the music. An uncleared
+song can prevent you from screening, streaming, or submitting the film publicly.
 
-Your realistic options, in order of preference:
+Use one of these options:
 
-1. **Make it.** You have Vital and a studio. An original cue is cleared by
-   definition, and it is the strongest line on your reel.
-2. **Free libraries.** The [YouTube Audio
-   Library](https://www.youtube.com/audiolibrary) and
-   [Pixabay](https://pixabay.com/music/) are cleared for use without
-   attribution. The [Free Music Archive](https://freemusicarchive.org/) is
-   larger but every track carries its own Creative Commons license, so read it:
-   some require attribution, some forbid derivatives, and cutting a track to
-   picture is a derivative.
-3. **Paid licenses** from services like Musicbed or Artlist, if a project ever
-   warrants it.
+1. Compose and record the cue yourself. You have Vital and access to a studio.
+   If all of the material is original, you control both the composition and the
+   recording.
+2. Use a free library and read the license for the specific track. The [YouTube
+   Audio Library](https://www.youtube.com/audiolibrary) includes tracks that
+   require attribution and tracks that do not. [Pixabay](https://pixabay.com/music/)
+   permits music to be used in larger creative works without attribution, but
+   you should keep a record of the download and license. Tracks on the [Free
+   Music Archive](https://freemusicarchive.org/) use different Creative Commons
+   licenses. Check the attribution, commercial-use, ShareAlike, and NoDerivatives
+   terms before choosing one. Synchronizing music to picture counts as an
+   adaptation under Creative Commons licenses, so do not use a NoDerivatives
+   track in a film you plan to share.
+3. Purchase a license from a service such as Musicbed or Artlist when the project
+   warrants the expense.
 
 Keep a note of every track's source and license as you work. Your final
-project's documentation asks for it, and every festival submission form will
-too.
+project documentation requires it, and a festival may ask for the same
+information.
 
 {{< drill label="Lab: cut a cue to picture" >}}
 Pick any scene you have, or a Blender short, and a track from one of the free
 libraries above.
 
 1. Lay the track against the scene as temp music and watch once. Note where it
-   fights the picture.
+   conflicts with the picture.
 2. Shorten the cue by at least eight bars by removing a middle section. The
    join must be inaudible.
-3. End the cue at a cadence or duck it out under a sound. No dead stops.
+3. End the cue at a cadence or duck and fade it under another sound. Avoid an
+   abrupt stop.
 4. Write down the track's title, source, and license as if you were filling in
    a festival form.
 {{< /drill >}}
 
 ## Reference
 
+- [U.S. Copyright Office guide to synchronization and master use
+  licenses](https://www.copyright.gov/music-modernization/educational-materials/musicians-income.pdf)
+- [YouTube Audio Library attribution
+  rules](https://support.google.com/youtube/answer/3376882)
+- [Pixabay Content License](https://pixabay.com/service/license-summary/)
+- [Creative Commons guidance on license versions and
+  adaptations](https://wiki.creativecommons.org/wiki/License_Versions%23Licenses)
 - [Quick tips for cutting music cues](https://www.filmeditingpro.com/quick-tips-for-cutting-music-cues/)
 - [Sync vs. master licenses](https://www.es-collab.com/blog/what-is-music-licensing)
 - [Music licensing for film festivals](https://www.musicbed.com/articles/resources/music-licensing-for-film-festivals/)

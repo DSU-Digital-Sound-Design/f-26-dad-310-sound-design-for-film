@@ -4,88 +4,82 @@ summary: "How a film mix comes together: dialogue first, then everything else, m
 tags: [mixing, loudness, stems, post-production]
 ---
 
-The re-recording mix is the last stage of postproduction, where dialogue, ADR,
-Foley, effects, ambiences, and music are balanced into one soundtrack. On your
-final project you are the editor and the mixer at once, which makes it worth
-knowing how the professional version works. The habits scale down.
+The re-recording mix is the last stage of postproduction. This is where dialogue,
+ADR, Foley, effects, ambiences, and music are balanced into a single soundtrack.
+For the final project, you will handle both editing and mixing, so the session
+needs to stay organized through both stages.
 
-Most of this follows Purcell's *Dialogue Editing for Motion Pictures*; the
-loudness specs come from current delivery standards.
+The mixing workflow below follows Purcell's *Dialogue Editing for Motion
+Pictures*. The loudness targets come from current delivery standards.
 
-## Dialogue leads
+## Mix dialogue first
 
-Dialogue is mixed first, and everything else is balanced against it. The level,
-tone, and noise floor established in the dialogue premix decide how loud and how
-wide the music and effects are allowed to play. If your film has spoken lines,
-set them first and do not move them to make room for a sound effect. Move the
-effect.
+Mix dialogue first, then balance the other elements against it. The dialogue
+premix establishes the level, tone, and noise floor that the music and effects
+must work around. If the film has spoken lines, set their levels before adding
+the other elements. Adjust an effect rather than moving the dialogue to make room
+for it.
 
-For your final mix, work in this order: dialogue, then Foley, then effects, then
-ambiences, with music placed against the finished balance. This is the same
-order the [final project brief](/assignments/final-project/) asks for.
+For the final mix, work in this order: dialogue, Foley, effects, ambiences, and
+music. The [final project brief](/assignments/final-project/) uses the same order.
 
-One warning from Purcell that applies directly to you: do not crush dialogue
-with heavy compression or limiting to make it loud. Tracks squeezed that way
-sound thin and metallic on better speakers than yours. Match levels from shot to
-shot, ride the faders, and leave the dynamics mostly alone.
+Do not use heavy compression or limiting simply to make dialogue loud. Purcell
+warns that this can make dialogue sound thin and metallic on more revealing
+speakers. Match levels from shot to shot with fader automation and preserve most
+of the original dynamics.
 
-## Organize like a mixer is coming
+## Session organization
 
-Professional mixers receive sessions with a fixed track layout that never
-changes from reel to reel, muted work tracks, sync pops, and cue sheets that let
-them navigate the film without watching it. You already know the editing side of
-this from the [dialogue editing lesson](/lectures/dialogue-editing/): splits,
-checkerboarding, and safety tracks.
+Professional mix sessions keep the same track layout from reel to reel. They also
+include muted work tracks, sync pops, and cue sheets for navigating the film. The
+[dialogue editing lesson](/lectures/dialogue-editing/) covers the related editing
+practices: splits, checkerboarding, and safety tracks.
 
-The student version of that hygiene:
+For the final project:
 
-- Name every track by what it carries, and group tracks by category: dialogue,
-  Foley, effects, ambience, music.
-- Keep one folder or bus per category. This is what makes stems possible later.
+- Name each track for its contents and group the tracks into dialogue, Foley,
+  effects, ambience, and music categories.
+- Use one folder or bus for each category so you can render stems later.
 - Mute and hide your work tracks instead of deleting them.
 - Keep any sound that is not speech off the dialogue tracks. Door slams and
-  props that came in with the dialogue recording get their own track, for the
-  reason below.
+  props captured with dialogue belong on separate tracks.
 
 ## Stems and the M&E
 
-A finished film is not delivered as one stereo file. The mix is recorded into
-**stems**: separate, synchronized renders of dialogue, music, and effects that
-sum to the full mix. Stems exist so the film can be reversioned without
-remixing: a TV cut, a trailer, a censored airline version.
+A film mix includes more than a single stereo file. It is also rendered as stems:
+separate, synchronized files for dialogue, music, and effects that combine to
+reproduce the full mix. These files allow someone to create a TV cut, trailer, or
+censored airline version without rebuilding the mix.
 
-The clearest example is the **M&E track**, music and effects with no dialogue.
-Foreign distributors need it to dub the film into other languages. If a door
-slam is baked into your dialogue track, it disappears along with the English,
-and the dubbed version has a silent door. That is why non-speech production
-sound gets split onto its own tracks.
+The M&E track contains music and effects without dialogue. Foreign distributors
+use it when dubbing a film into another language. If a door slam remains on the
+dialogue track, removing the original dialogue will also remove the slam. Keep
+non-speech production sound on separate tracks so it remains in the M&E.
 
-In REAPER, stems are cheap if your session is organized: select the tracks in
-one category and use `File > Render`, with the source set to selected tracks or
-the category's parent folder.
+To render stems in REAPER, select the tracks in one category and choose `File >
+Render`. Set the source to the selected tracks or the category's parent folder.
 
 ## The loudness spec
 
-Distributors do not accept "it sounded right on my headphones." Delivery specs
-state a measured loudness, and the measurement is integrated loudness in LUFS
-(also written LKFS; same thing), with a true peak ceiling.
+Delivery specifications define a measured loudness rather than relying on the
+listener's monitoring level. They use integrated loudness in LUFS, also written
+as LKFS, along with a true peak ceiling.
 
 {{< stats >}}
 {{< stat value="-27 LKFS" label="Netflix, dialogue-gated" note="Measured only where dialogue is present, with a tolerance of 2 LU either way and a -2 dBTP true peak ceiling." >}}
 {{< stat value="-24 LKFS" label="US broadcast (ATSC A/85)" note="Full-program measurement, -2 dBTP. European broadcast (EBU R128) is -23 LUFS with a -1 dBTP ceiling." >}}
 {{< /stats >}}
 
-Netflix has a rule that matters for this class: if a film is less than 15%
-dialogue, which describes many of your projects, it is measured program-gated at
-**-24 LKFS** instead. That is the target for your final render: **-24 LUFS
-integrated, true peak under -2 dB**.
+Netflix measures a film program-gated at -24 LKFS when dialogue makes up less
+than 15% of the program. Many projects in this class fit that description. Use
+the same target for the final render: -24 LUFS integrated with true peak below
+-2 dB.
 
-Measuring in REAPER costs nothing. Right-click the master meter and enable the
-loudness readout to watch LUFS-I while you work, and check the "Calculate
-loudness" option in the render dialog (or run a dry render) to get an exact
-integrated number for the finished file. If you land at -20, lower the master
-until the measurement reads -24. If you land at -30, raise it. Do not reach for
-a limiter to close the gap.
+In REAPER, right-click the master meter and enable the loudness readout to monitor
+LUFS-I as you work. To measure the finished file, select "Calculate loudness" in
+the render dialog or run a dry render. If the result is -20 LUFS, lower the
+master until it reads -24. If it is -30 LUFS, raise the master. Do not use a
+limiter simply to reach the target.
 
 {{< drill label="Lab: measure, hit spec, render stems" >}}
 Bring your final project session in whatever state it is in.
