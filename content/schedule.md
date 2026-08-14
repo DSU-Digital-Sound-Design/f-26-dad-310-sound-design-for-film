@@ -79,7 +79,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 9/23
 - [slides] [Recording Foley](/lectures/week-4/recording-foley/)
 - Live demo: setting up a Foley session in REAPER (inputs, record arm, takes). Reference decks if you need them: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/)
-- [lab] Voice capture: record one line of dialogue clean, then record it again "in a space." We'll come back to both takes when we get to reverb and spatial processing.
+- [lab] Voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
 
 ## 9/25
 - [due] [Editing exercise](/assignments/editing-exercise/)
@@ -157,7 +157,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/)
 
 ## 10/28
-- [lab] SFX editing work session — bring your Assignment 3 material
+- [slides] [Dialogue editing](/lectures/dialogue-editing/) — room tone, splits, and repair
+- [lab] Fix a scene: build room tone fill and hide a cut between two takes, using the dialogue line you recorded on 9/23
+- Assignment 4 work continues in the 11/4 session
 
 ## 10/30
 - [assignment] [Reverb and echo](/assignments/reverb/) — four sends, four spaces
