@@ -43,7 +43,7 @@ Your final submission should integrate all elements of sound design that we've d
 - For all other on-screen elements that do not fall under dialogue, foley, or ambience.
 
 ### Final Mix
-The final mixdown is crucial—it's where you balance and blend all the elements to achieve harmony and the intended emotional impact.
+The final mixdown is where you balance and blend all the elements to achieve the intended emotional impact. Follow the [final mix lesson](/lectures/final-mix-deliverables/): the finished render should measure **-24 LUFS integrated with true peak under -2 dB** (check it with "Calculate loudness" in REAPER's render dialog).
 - **Dialogue**: Start with the dialogue tracks if you're using them. The overall levels should average between -12 dB to -6 dB. Utilize compression to maintain consistency in the dialogue's dynamic range.
 - **Integrating Foley, SFX, and Ambience**: Once the dialogue sits well in the mix, incorporate the foley, followed by other SFX, and finally, the ambiences.
 - **Reverb and Panning**: Use reverb SENDs to unify the sound elements by placing them in the same acoustic space. Employ panning and its automation to match the sounds to the on-screen action spatially.
@@ -72,6 +72,7 @@ The final mixdown is crucial—it's where you balance and blend all the elements
 
 ## Deliverables
 
-- Rendered video 
-- Reaper project file 
+- Rendered video, measuring -24 LUFS integrated with true peak under -2 dB
+- Stems: one rendered file per category (dialogue if used, Foley, effects, ambience, music), which together sum to your full mix
+- Reaper project file
 - One page documentation on the project 

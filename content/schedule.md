@@ -224,7 +224,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Spotting in REAPER](/lectures/week-9/spotting-assignment/)
 
 ## 12/4
-- [lab] Work session — finish your Foley and ambiences, start the final mix
+- [slides] [The final mix and deliverables](/lectures/final-mix-deliverables/) — dialogue leads, loudness specs, stems
+- [lab] Work session — finish your Foley and ambiences, start the final mix. Measure your loudness and set up your stem folders while you're at it.
 
 ## 12/7
 - Last meeting — course evaluations
