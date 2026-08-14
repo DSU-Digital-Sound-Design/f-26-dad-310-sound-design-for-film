@@ -82,12 +82,14 @@ Two more rules carry over from the dialogue lesson:
 
 ## The modern session
 
-The three-beep convention survives, but the streamer is now drawn by software:
-[Viper](https://www.vennaudio.com/our-new-plugin-viper/) is a free plugin that
-wipes a cue line across the video, and
+The three-beep convention survives, but the streamer is now drawn by software.
+Professional stages use dedicated cueing tools; two affordable ones are
+[Viper](https://www.vennaudio.com/our-new-plugin-viper/) (about £42, with a free
+trial), which wipes a cue line across the video, and
 [Rythmoband](https://www.extremraym.com/en/downloads/reascripts-pack-rythmoband/)
-adds dubbing-style scrolling text to REAPER. For our lab, click items as beeps
-and REAPER's video window are enough.
+(€30 for students), which adds dubbing-style scrolling text to REAPER. Neither
+is required here: click items as beeps and REAPER's video window do the job in
+our lab.
 
 {{< drill label="Lab: replace a line to picture" >}}
 Work in pairs. You need a phone, the studio, and one line of dialogue.
@@ -111,5 +113,5 @@ Work in pairs. You need a phone, the studio, and one line of dialogue.
 
 - John Purcell, *Dialogue Editing for Motion Pictures: A Guide to the Invisible
   Art*, ADR chapters
-- [Viper](https://www.vennaudio.com/our-new-plugin-viper/), a free streamer and
-  beep plugin
+- [Viper](https://www.vennaudio.com/our-new-plugin-viper/), a streamer and beep
+  plugin with a free trial
