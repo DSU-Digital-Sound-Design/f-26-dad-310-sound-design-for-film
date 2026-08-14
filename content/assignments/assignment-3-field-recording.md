@@ -58,7 +58,9 @@ Example slates:
 
 ## Deliverables
 
-Create a Reaper project with 5 tracks per recording to prepare for editing in the next assignment. 
+Create a Reaper project with 5 tracks per recording to prepare for editing in the next assignment.
+
+Name each of the five files in the UCS pattern from the [library organization lesson](/lectures/ucs-library-organization/): `CatID_FXName_CreatorID_SourceID`, with the CatID looked up on the [official list](https://universalcategorysystem.com/), your initials as CreatorID, and `DAD310` as SourceID. "Properly labeled and organized" in the rubric means this.
 
 
 ## **Rubric for Assignment 3: Zoom (Field) SFX Recording**

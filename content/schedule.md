@@ -121,6 +121,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Check out a recorder from me and fill out the form on the wall
 
 ## 10/9
+- [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — name your recordings like a working editor from day one
 - [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom
 - [due] [Assignment 3](/assignments/assignment-3-field-recording/) by Wed 10/21
 - [lab] First field session — outdoor SFX and ambiences
