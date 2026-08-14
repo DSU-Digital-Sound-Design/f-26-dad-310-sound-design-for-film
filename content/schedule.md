@@ -208,7 +208,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 11/20
 - [lab] Compare REAPER's time-stretching and pitch-shifting algorithms
-- [slides] [Working: Joanna Fang](/lectures/week-3/fang/) — what the job actually looks like, and what AI isolation and generated SFX mean for it
+- [slides] [Working: Joanna Fang](/lectures/week-3/fang/) — what the job actually looks like
+- [slides] [AI in post](/lectures/ai-in-post/) — discussion: what isolation and generated SFX mean for this work
 
 ## 11/23
 - [due] Final project proposal — bring the clips
