@@ -171,13 +171,14 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 11/2
 - [slides] [Space: acoustics, silence and the frequency spectrum](/lectures/week-10/sdff-chapter-11/)
+- [slides] [Worldizing and futz](/lectures/worldizing-and-futz/) — real spaces, phone voices, and perspective cuts
 
 ## 11/4
 - [lab] SFX processing work session — bring your edited sounds and start the final-production pass
 
 ## 11/6
 - [due] [Reverb and echo](/assignments/reverb/)
-- [lab] Experiment with space in your own SFX recording session
+- [lab] [One line, three worlds](/lectures/worldizing-and-futz/): futz your 9/23 line, worldize it through a speaker in a real space, and compare both against a reverb plugin
 
 ## 11/9
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/)
