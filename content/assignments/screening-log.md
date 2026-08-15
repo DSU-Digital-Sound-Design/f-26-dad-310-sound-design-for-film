@@ -33,6 +33,11 @@ sound coming from offscreen, which is why it belongs in this unit. If you
 would rather not watch it, take *Nope* instead and answer the same questions.
 You do not need to tell me which one you picked or why.
 
+If these films leave you wanting more, I keep a
+[running list of films with interesting sound design](https://letterboxd.com/tatecarson/list/sound/)
+on Letterboxd. Nothing on it is required. It is where many of our class clips
+come from.
+
 ## Finding the films
 
 All four films are available through the library, so you do not need to rent or

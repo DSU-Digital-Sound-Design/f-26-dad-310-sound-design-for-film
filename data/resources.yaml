@@ -92,6 +92,15 @@ groups:
         url: "https://lwlies.com/articles/eight-great-uses-of-pov-perspective-in-movies/"
         desc: "Little White Lies, on first-person perspective and what sound does in it."
 
+  - group: Watching
+    items:
+      - name: "Sound — a running film list"
+        url: "https://letterboxd.com/tatecarson/list/sound/"
+        desc: "Films with interesting sound design, kept on my Letterboxd. Where many of our class clips come from."
+      - name: My Letterboxd
+        url: "https://letterboxd.com/tatecarson/"
+        desc: "The rest of what I watch, if you want to compare notes or argue."
+
   - group: Around the program
     items:
       - name: DSU Live
