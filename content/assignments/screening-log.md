@@ -33,8 +33,22 @@ sound coming from offscreen, which is why it belongs in this unit. If you
 would rather not watch it, take *Nope* instead and answer the same questions.
 You do not need to tell me which one you picked or why.
 
-Check the library's streaming services before renting or buying a film. If you
-cannot find a copy, ask me early enough that we can work out access.
+## Finding the films
+
+All four films are licensed through the library, so you do not need to rent or
+buy anything.
+
+1. Open the [library's streaming film collection](https://digitalcampus-swankmp-net.ezproxy.dsu.edu/dakotastate357892).
+2. Sign in with your DSU username and password.
+3. Search for the title, open it, and press play.
+
+Use that link rather than going to the Swank site on your own. The site by
+itself will offer to create an instructor account, which you do not need and
+should not make.
+
+All four films have captions. If a film will not play, or the sign-in does not
+work, tell me before the due date rather than after. Access problems are easy
+to fix with a few days' notice and impossible to fix the night before.
 
 ## What to turn in
 
