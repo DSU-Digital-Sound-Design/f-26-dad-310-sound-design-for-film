@@ -121,6 +121,18 @@ Sound Design Elements:
 
 ---
 
+## Foley as supported reality - The Taste of Things (2023)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZ5_6aqJ4Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Everything so far has been heightened: duels, dragons, transformations. This is the other register, and the humblest one. A kitchen sequence with no score, carried entirely by pans, coals, sizzle, and ladles.
+- The Foley Grail reading sorts Foley into supporting, enhancing, replacing, and creating reality. This is pure supporting reality, and with no music there is nowhere for weak Foley to hide.
+- Exercise: inventory every distinct Foley source you hear in two minutes. Then ask which sounds could be production audio and which had to be performed later. This is the bar for your own layering in Assignment 2.
+{{%/ note %}}
+
+---
+
 ## Practical Foley design
 
 - Categories of Foley:

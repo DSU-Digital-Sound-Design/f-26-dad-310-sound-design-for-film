@@ -122,6 +122,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Check out a recorder from me and fill out the form on the wall
 
 ## 10/9
+- [screening] *Blow Out* (1981) — the opening: a sound man in a park at night, hunting wind, owls, and a frog with a shotgun mic. Count the recording decisions he makes; Assignment 3 asks you to make the same ones
+  - <iframe width="560" height="315" src="https://www.youtube.com/embed/k2cCRwKvfWw" title="Blow Out (1981) recording scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — name your recordings like a working editor from day one
 - [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom
 - [due] [Assignment 3](/assignments/assignment-3-field-recording/) by Wed 10/21

@@ -276,6 +276,54 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 
 ---
 
+## Chungking Express - California Dreamin'
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6acks-wQ1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- One licensed song, played diegetically from Faye's boombox, roughly a dozen times across the film. This clip is one instance; in the film the repetition is the device.
+- The recording never changes. What changes is everything around it: who plays it, how loud, who is listening. Meaning drifts from annoyance to longing without touching the track.
+- A pre-existing song used the way a sound motif is used. Worth recalling when we get to motif in the Shape chapter.
+{{%/ note %}}
+
+---
+
+## Donnie Darko - Head Over Heels
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qsyfGwlf_l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- A whole school introduced inside one needle drop. The steadicam, the speed ramps, and every character entrance are cut to the song's phrasing.
+- The track is doing structural work, not just energy work. Remove it and the scene's grammar collapses.
+- Ask: what did you learn about six characters without one line of dialogue?
+{{%/ note %}}
+
+---
+
+## Aftersun - Under Pressure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAL9kuqc-kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Where the last two clips used a song to build a scene, this one uses a song to break one. The rave strobe cuts the track in and out with the light, so the needle drop is edited the way memory works: incomplete, looping, interrupted by silence.
+- Mood here is not the song's mood. Under Pressure is euphoric; the scene is grief. The gap between what the music says and what the scene means is the design.
+- Ask: what are the silences doing inside a scene whose whole point is a song?
+{{%/ note %}}
+
+---
+
+## Portrait of a Lady on Fire - the bonfire chant
+
+[Watch the bonfire scene on YouTube](https://www.youtube.com/watch?v=AIU9Q-9OzA0) (embedding is disabled for this one, so it opens on YouTube)
+
+{{% note %}}
+- The opposite budget: a nearly scoreless film where the only music is performed inside the story, so the one a cappella piece detonates.
+- Eighty minutes of waves, fires, and footsteps make the chant land like a physical event. Economy as a music strategy.
+- Ask afterward: did the chant feel diegetic, scored, or ritual? It is staged as all three at once.
+{{%/ note %}}
+
+---
+
 ## Worldizing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z2OoxzYqgNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -316,6 +364,41 @@ Overall, worldizing is a powerful tool that can be used to enhance the sound des
 * The audience readily accepts the melody's ascent through the layers of cinematic reality, rather than assuming that there is a spacecraft just out of frame that contains an entire symphonic ensemble.
 
 In other words, a diegetic switch is a way to remind the audience that they are watching a movie, and that the music they are hearing is not necessarily coming from the world of the film itself. This can be done for a variety of reasons, such as to create a humorous or playful effect, or to highlight the emotional impact of a scene.
+{{%/ note %}}
+
+---
+
+## Moonlight - the diner jukebox
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Kc0KPKx3XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Same device as the Star Trek bagpipes, played straight instead of playful. Kevin walks to the jukebox and Hello Stranger starts fully diegetic, source on screen.
+- Then the camera abandons the source and the song swallows the scene, functioning as score without ever changing what it is.
+- Ask students to raise a hand at the moment the song stops being "in the room." There is no single right answer, and that is the point: diegetic is a relationship, not a property of the sound.
+{{%/ note %}}
+
+---
+
+## Beau Travail - setup
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oSh2XRRI-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Context first, since almost nobody has seen this film. Galoup is a French Foreign Legion sergeant. The film is his life of drill and repetition: bodies moving in unison, almost no dialogue, total control.
+- Play about a minute of this training scene. That restraint is the setup for the next slide.
+{{%/ note %}}
+
+---
+
+## Beau Travail - the ending
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbrcxTkOPF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- After two near-silent hours of that discipline, the film ends here: alone in an empty disco with Rhythm of the Night.
+- The music is technically diegetic, a real speaker in a real room, but the scene functions as pure interior monologue. Ask: which side of the line is this on? Let the room disagree; the argument is the lesson.
+- Mirror image of the Moonlight clip: there a diegetic song drifted into score, here the score-like release stays stubbornly in the room.
 {{%/ note %}}
 
 ---

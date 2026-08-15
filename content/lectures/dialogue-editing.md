@@ -12,6 +12,15 @@ their lines.
 Everything below follows John Purcell's *Dialogue Editing for Motion Pictures*,
 adapted here for REAPER.
 
+Before the techniques, hear the problem at its hardest. The opening of *The
+Player* is a single eight-minute take with half a dozen conversations crossing
+at different distances, and because there are no cuts, there are no edits to
+hide behind. Every balance decision you hear was made live or in the mix. Watch
+two minutes and note which conversations you can follow and which you lose;
+someone decided that for you, and the rest of this page is about how.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AfYcCg5QqyQ" title="The Player (1992) opening take" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Room tone
 
 Room tone is what remains in a take when no one is speaking or moving. Each

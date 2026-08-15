@@ -77,6 +77,30 @@ Overall, ambient sounds are used thoughtfully in the film to establish a strong 
 
 ---
 
+### Beds - Mirror (1975)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNmENdfEkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The wind crossing the field is a bed that acts. It arrives on cue, moves through the grass toward the camera, and carries the scene's emotion the way an effect would.
+- Ask: is this a bed or a sound effect? The honest answer is both. A bed does not have to be passive, which is worth remembering when you build your own ambiences for Assignment 6.
+- Same director as the Stalker bed you just heard. Tarkovsky treats weather as a performer.
+{{%/ note %}}
+
+---
+
+### Beds - Uncle Boonmee Who Can Recall His Past Lives (2010)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXXKS73iTzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Jungle night insects as a bed so dense it becomes the film's presence. The dinner scene is effectively scored by biophony.
+- Watch what the sound does when the ghost appears: nothing. No sting, no drop. The bed refuses to react, and that refusal is what makes the scene uncanny.
+- Restraint as a design choice. The ambience holding steady tells the audience this world accepts the supernatural.
+{{%/ note %}}
+
+---
+
 ### Details - The Elephant Man
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sF19L00KbAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -149,6 +173,20 @@ Lynch's use of drone sounds in Eraserhead is one of the many ways that he create
 
 {{% note %}}
 The dead air inside the spaceship emphasizes isolation and introspection, making the room tone vital in this film’s creation of atmosphere. The minimal hum of the spaceship serves as a constant reminder of the character's separation from Earth.
+{{%/ note %}}
+
+---
+
+## Alien (1979)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl2p3pM0NKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Isolated Nostromo room tone, recreated](https://www.youtube.com/watch?v=U4p1mZnKkhc)
+
+{{% note %}}
+- The opening of Alien: the Nostromo wakes up before the crew does. Almost no dialogue for three minutes, just the ship's layered tone. Low engine, mid ventilation, high electronics.
+- The ship has a personality before any character speaks. Ask: what kind of place is this, and which layers told you?
+- The link below the clip is a recreated ambience bed, useful for hearing the tone in isolation. Compare it with the 30 seconds of room tone you recorded in the studio lab. What does our classroom's tone say about it?
 {{%/ note %}}
 
 ---

@@ -152,6 +152,22 @@ Why did it have to be snakes?
 [Watch *Ivan's Childhood* on YouTube](https://www.youtube.com/watch?v=6Lnb1bI0VIk) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
+See the note on the next slide for the playable in-class example.
+{{%/ note %}}
+
+---
+
+## Ran - the castle massacre
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYdYoy-taO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Where Ivan's Childhood cuts between two sound worlds, Kurosawa removes one entirely. The massacre plays with all battle sound stripped out, only Takemitsu's elegy, until a single gunshot snaps reality back.
+- Ask students to call out the exact moment sound returns. Then ask what that gunshot does that twenty minutes of battle audio could not.
+- Ties into the sound map: which world is on top, and when does it flip.
+{{%/ note %}}
+
+{{% note %}}
 If we want to pull narrative elements apart, instead of connecting them, we can make use of contrast – in order to say something strongly, making the opposite point immediately before is a way to underline the intended meaning.
 
 In the opening to Ivan’s Childhood, for example, a dreamy sequence sees Ivan playing in a forest, amidst the sound of cuckoos and a romantic score. Suddenly he awakes, and we are thrust into his reality as a war-time spy, in a world filled with gunfire and ominous music. The sharp contrast between these two sequences communicates the gap between what we feel childhood should be about, and the character’s actual situation. By first showing us the idealized dream, the reality is all the more shocking.

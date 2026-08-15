@@ -42,6 +42,12 @@ intact when editing a cue.
 Use the same editing tools as before: splits, crossfades, and careful listening.
 Turn snapping off because the musical pulse may not align with REAPER's grid.
 
+For a scene about this collaboration from the composer's side, watch the
+[piano scene from *Three Colours: Blue*](https://www.youtube.com/watch?v=11l2lxSh4sI):
+as Julie and Olivier mark up a score at the piano, the full orchestration fades
+in as imagination made audible. The gap between the sketch they play and the cue
+they hear in their heads is the same gap between a temp track and a final score.
+
 ## Licensing
 
 A recorded song usually involves two copyrights: the musical work and the sound

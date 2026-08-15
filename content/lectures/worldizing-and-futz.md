@@ -35,6 +35,15 @@ Walter Murch coined the term. These films use the technique in different ways:
 You can worldize a sound with a portable speaker and a Zoom recorder in a space
 such as a stairwell.
 
+The DJ scene in *La Haine* (1995) performs the technique inside the fiction. A
+DJ points his speakers out an apartment window and the camera drifts over the
+housing estate as the music reverberates off the buildings, changing with every
+distance. It is the stairwell exercise at the scale of a neighborhood. Watch how
+the sound changes as the camera moves, and describe it in the same terms you
+will use for your own worldized line.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PE6UdMGfjHQ" title="La Haine (1995) DJ scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Futz
 
 Futzing uses filtering and distortion to make a signal sound as if it comes from

@@ -294,8 +294,6 @@ The contrast between the urban dystopia scenes and the desolate wasteland scenes
 {{%/ note %}}
 
 
-<!-- 
-
 ---
 
 ## Sound Worlds - Parasite
@@ -304,18 +302,32 @@ The contrast between the urban dystopia scenes and the desolate wasteland scenes
   - poor families home - start - 6:00
   - Rich people's home - 12:36 - onwards
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1Fuae_OS1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {{% note %}}
-Here's a summary of the key points about the use of sound design in Parasite to contrast the rich and poor families:
+Context for the clip: the Kims have just fled the Park house during the storm, and this is their walk home, downhill the whole way. The flood is the film's two sound worlds colliding in one continuous descent. The same rain that is a pleasant patter uphill becomes a roar downhill.
 
-- Sound designer Ralph Tae-Young Choi developed distinct sound aesthetics for the two families' spaces.
-- The poor family's home is subjected to aggressive outside noises - dogs, cars, neighbors. This represents their lack of barriers from the external world. 
+The clip runs about seven minutes; the descent and the arrival at the flooded street carry the point, so a two or three minute stretch is enough in class. Track the rain itself: one source, two worlds. And note where the score enters relative to the water.
+
+Background on the two sound worlds, from sound designer Ralph Tae-Young Choi:
+
+- The poor family's home is subjected to aggressive outside noises - dogs, cars, neighbors. This represents their lack of barriers from the external world.
 - In the wealthy home, only gentle natural sounds like birdsong enter. Lavish reverb gives interior sounds a sense of openness and scale.
-- Doors and gates were emphasized in the sound design. Their sounds represent the division between haves and have-nots. 
-- Overall, the contrasting use of invasive versus expansive, harsh versus gentle sounds helps establish the differences between the families' living conditions, resources, and insulation from the outside world.
-- The sound design provides auditory metaphors for inequality and the boundaries between rich and poor.
+- Doors and gates were emphasized in the sound design. Their sounds represent the division between haves and have-nots.
+- The contrasting use of invasive versus expansive sounds provides auditory metaphors for inequality and the boundaries between rich and poor.
+{{%/ note %}}
 
-{{%/ note %}} -->
+---
 
+## Sound Worlds - Sinners
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwhlDEx9RDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The juke joint montage: one continuous blues performance whose sound world expands to swallow other eras. Ancestors and descendants enter the room while the song never stops.
+- The montage seams are hidden inside the unbroken music, so the metaphor (music as ancestral time machine) is carried entirely by the mix.
+- Ask: what changes sonically as each era enters? Instrumentation, room acoustics, processing. List them while the song holds steady underneath.
+{{%/ note %}}
 
 ---
 

@@ -72,6 +72,19 @@ outputs = ["Reveal"]
 
 ---
 
+## Come and See - the bombardment
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YcedfSzGwU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The shelling leaves Flyora deafened, and the mix goes with him: highs and mids collapse into muffled ringing while the world keeps moving at full volume around him.
+- Band-limiting as storytelling. Have students name which parts of the spectrum are gone, then sketch the before and after spectra.
+- This is also what hearing damage sounds like from the inside. It connects to the hearing-safety conversation from the field recording unit.
+- The film keeps returning to sound from Flyora's perspective: the recon plane's drone recurs as a dread signal. [Isolated clip of the plane](https://www.youtube.com/watch?v=DgZrTfUxfjQ) if you want the motif cross-reference to the Shape chapter.
+{{%/ note %}}
+
+---
+
 ## Negative Space in Sound Design
 
 - Silence creates anticipation and emotional weight
@@ -111,6 +124,30 @@ outputs = ["Reveal"]
 - Miyazaki calls this *ma*: the deliberate emptiness between events. In sound terms it's negative space held long enough to become the point rather than a pause.
 - The quiet train ride is the emotional exhale of the film — and it only works because the bathhouse before it was so dense.
 - Longer video essay on the scene if useful: [10 Minutes of Perfection](https://www.youtube.com/watch?v=0YWxUTvaJ0E)
+{{%/ note %}}
+
+---
+
+## Challengers - match point
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DvjURzTbRXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The same negative-space device as WALL-E and the *ma* train, at maximum adrenaline instead of calm. At match point the crowd drains away and breath, heartbeat, and the score take over the body.
+- Ask: what was removed, in what order, and what remains? Removal order is a design decision, and this scene makes it audible.
+- Proof the technique is not an art-film move. This is a mainstream sports film most of the room has seen.
+{{%/ note %}}
+
+---
+
+## Oppenheimer - Trinity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tK0IDmSYYGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The most extreme silence-before-impact on this deck, and it is physically accurate. Light arrives instantly; the pressure wave arrives seconds late. Nolan holds the real-world delay.
+- The silence is not stylization, it is physics, which makes the eventual impact land twice: once as sound, once as realization.
+- Quick exercise: count the seconds from flash to bang and compute the distance at 343 meters per second.
 {{%/ note %}}
 
 ---
