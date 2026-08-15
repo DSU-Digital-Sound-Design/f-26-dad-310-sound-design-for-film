@@ -35,20 +35,18 @@ You do not need to tell me which one you picked or why.
 
 ## Finding the films
 
-All four films are licensed through the library, so you do not need to rent or
-buy anything.
+All four films are available through the library, so you do not need to rent or
+buy them.
 
 1. Open the [library's streaming film collection](https://digitalcampus-swankmp-net.ezproxy.dsu.edu/dakotastate357892).
 2. Sign in with your DSU username and password.
 3. Search for the title, open it, and press play.
 
-Use that link rather than going to the Swank site on your own. The site by
-itself will offer to create an instructor account, which you do not need and
-should not make.
+Use this link rather than going directly to Swank. If you visit Swank on its
+own, it will ask you to create an instructor account. You do not need one.
 
-All four films have captions. If a film will not play, or the sign-in does not
-work, tell me before the due date rather than after. Access problems are easy
-to fix with a few days' notice and impossible to fix the night before.
+All four films have captions. If a film will not play or you cannot sign in,
+tell me as soon as possible. Do not wait until the night before the log is due.
 
 ## What to turn in
 
