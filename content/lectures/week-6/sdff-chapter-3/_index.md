@@ -291,9 +291,23 @@ One of the most iconic sounds in Blade Runner is the sound of the rain. The rain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z6L7IBO0k3g?si=y4dCLc0Fy_QOYOv8&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
-Scenes in the garden have sounds of the camp on the ohter side of the wall. Scenes in nature have pleasant sounds of birds and wind.
+Scenes in the garden have sounds of the camp on the other side of the wall. Scenes in nature have pleasant sounds of birds and wind.
 
 The Zone of Interest contrasts the horrors of the Holocaust with the eerie quiet of domestic life inside the Commandant's home. The almost complete absence of external sound (e.g., the camps' noises) creates an unsettling separation from the atrocities happening nearby.
+
+**Screening 2 discussion.** They have now heard the whole runtime, not just this scene. Ask what the camp sounds like, and how they know it is there. The place is never shown, so every answer has to be a sound.
+{{%/ note %}}
+
+---
+
+### Nope (2022)
+
+{{% note %}}
+- For the students who took the alternate screening. Ask them the same question, then put the two answers side by side.
+- The creature is heard long before it is seen. The electrical dropout is the warning that it is close, so silence becomes the danger signal rather than the relief.
+- The valley is built from wind, crickets, and distance. Listen for how far away things sound.
+- The Gordy scene is the sharpest link to Zone of Interest: violence carried almost entirely by sound while the camera stays somewhere else.
+- Both films put the thing that matters offscreen and let the soundtrack place it.
 {{%/ note %}}
 
 ---

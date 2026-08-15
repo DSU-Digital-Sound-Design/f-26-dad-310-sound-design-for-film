@@ -9,47 +9,56 @@ summary: "Three feature films watched at home — three timestamped moments each
 rubric: false
 ---
 
-Three times this semester you'll watch a whole film at home and bring a log to
-class. This isn't a review. The point is to practice hearing a soundtrack as a
-set of decisions someone made, using the vocabulary we're building in class.
+Three times this semester, you will watch a full film at home and bring a
+screening log to class. The log is not a review. Listen to the soundtrack as a
+series of choices, then describe those choices using the terms from class.
 
-Watching a full film matters because most of what we look at in the decks is a
-two-minute clip. Motif, contrast and sound worlds only really work across ninety
-minutes — you can't hear a callback if you never heard the original.
+Most of our class examples are short clips. A full film lets you hear how a
+soundtrack develops over time through contrast, recurring motifs, and changes
+in a film's sound world. You can only recognize a callback if you remember its
+earlier appearance.
 
 ## The films
 
 | Log | Film | Watch before | Pairs with |
 |-----|------|--------------|------------|
 | 1 | *WALL-E* (2008) | Wed 9/16 | the Foley unit |
-| 2 | *Spirited Away* (2001) | Mon 10/5 | Setting: ambience and sense of place |
-| 3 | *Sound of Metal* (2019) | Mon 10/19 | Shape: contrast and motif |
+| 2 | *The Zone of Interest* (2023) or *Nope* (2022) | Mon 10/5 | Setting: ambience and sense of place |
+| 3 | *A Quiet Place* (2018) | Mon 10/19 | Shape: contrast and motif |
 
-Check the library's streaming services before you rent or buy anything — ask me
-if you can't find a copy, and don't let access be the reason you skip one.
+Log 2 gives you a choice. *The Zone of Interest* follows the family of a
+concentration camp commandant living in a house beside the camp. Nothing
+inside the camp is ever shown. The film reaches you almost entirely through
+sound coming from offscreen, which is why it belongs in this unit. If you
+would rather not watch it, take *Nope* instead and answer the same questions.
+You do not need to tell me which one you picked or why.
+
+Check the library's streaming services before renting or buying a film. If you
+cannot find a copy, ask me early enough that we can work out access.
 
 ## What to turn in
 
-For each film, find **three moments** and give me a timestamp for each:
+For each film, choose three moments and provide a timestamp for each:
 
-- **One Foley moment** — footsteps, cloth, a prop. Something a person performed.
-- **One ambience moment** — a place established by its background sound.
-- **One design choice** — anything else you noticed being *made* rather than
-  recorded: a processed voice, a silence, a sound that isn't literally on screen.
+- A Foley performance, such as footsteps, cloth, or a handled prop
+- An ambience that establishes a place through its background sound
+- Another deliberate design choice, such as a processed voice, a silence, or a
+  sound that does not literally come from something on screen
 
-For each moment, write two sentences: what you heard, and what it's doing for
-the story. Six sentences and three timestamps per film.
+Write two sentences about each moment. In the first, describe what you heard.
+In the second, explain what the sound does for the story. Each log should have
+six sentences and three timestamps.
 
-Post it to D2L before class. We'll play a few of them out loud, so pick moments
-you'd be interested in hearing again.
+Post the log to D2L before class. We will play several examples in class, so
+choose moments that are worth hearing again.
 
 ## How to watch
 
-- **Headphones, or the best speakers you have.** Laptop speakers will cost you
-  the low end, which is where a lot of the design lives.
-- **Watch it through once, normally.** Don't take notes on the first pass —
-  just watch the film.
-- **Then go back for your three moments** and listen to each one again.
-- **Try one of them with your eyes closed.** You will hear things you missed.
+- Use headphones or the best speakers available to you. Laptop speakers may
+  hide low-frequency details.
+- Watch the film once without taking notes.
+- Return to the film, choose your three moments, and listen to each one again.
+- Listen to one moment with your eyes closed and note what becomes easier to
+  hear.
 
-Graded complete / incomplete.
+This assignment is graded complete or incomplete.

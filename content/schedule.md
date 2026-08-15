@@ -92,7 +92,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 9/30
 - [slides] [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/)
-- [screening] **Screening 2: *Spirited Away*** — watch the whole film at home
+- [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
+  - Read the note on the assignment page before you choose
 - [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments
 - [due] [Screening log 2](/assignments/screening-log/) by Mon 10/5
 
@@ -103,9 +104,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 10/5
 - [due] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/)
-- [due] [Screening log 2](/assignments/screening-log/) — *Spirited Away*
+- [due] [Screening log 2](/assignments/screening-log/) — *The Zone of Interest* or *Nope*
 - [slides] [Setting: ambience, immersion and sense of place](/lectures/week-6/sdff-chapter-3/)
-  - The bathhouse clip in the deck should sound different now that you've seen the whole film
+  - Both films build a place you never see. Compare the camp next door with what waits in the valley
 - **Trojan Days** run Oct 5–10, including the Day of Service — check the campus calendar for events you want to be at
 
 ## 10/7
@@ -132,7 +133,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 10/14
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
 - [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
-- [screening] **Screening 3: *Sound of Metal*** — watch the whole film at home
+- [screening] **Screening 3: *A Quiet Place*** — watch the whole film at home
+  - You saw the Foley redesign on 10/2. This time listen to how the film uses the whole runtime
 - [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments
 - [due] [Screening log 3](/assignments/screening-log/) by Mon 10/19
 
@@ -141,9 +143,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Listen back to the first takes and talk about what to fix
 
 ## 10/19
-- [due] [Screening log 3](/assignments/screening-log/) — *Sound of Metal*
+- [due] [Screening log 3](/assignments/screening-log/) — *A Quiet Place*
 - [slides] [Shape: sound maps, contrast and motif](/lectures/week-9/sdff-chapter-6/)
-  - The film closes this deck — we'll come back to the opening contrast at the end
+  - The film closes this deck — we'll come back to the implant motif at the end
 
 ## 10/21
 - [due] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/)

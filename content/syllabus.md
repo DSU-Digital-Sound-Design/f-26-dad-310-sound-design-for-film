@@ -48,8 +48,9 @@ The [schedule](/schedule/) has the day-by-day plan. In broad strokes:
 - **Weeks 13–15** — Ambiences (Assignment 6); final project proposals and spotting
 - **Week 16 and finals** — Full-draft presentations; final project presented at the exam
 
-Three at-home screenings run alongside: *WALL-E*, *Spirited Away*, and
-*Sound of Metal*, each with a [screening log](/assignments/screening-log/).
+Three at-home screenings run alongside: *WALL-E*, *The Zone of Interest*
+(or *Nope*), and *A Quiet Place*, each with a
+[screening log](/assignments/screening-log/).
 
 ## Materials
 
