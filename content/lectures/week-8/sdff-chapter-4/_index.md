@@ -162,6 +162,10 @@ Here are summary bullet points for how sound design can establish mood in film, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iNiJ8VpNOgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{% note %}}
+Skippable if short on time — the previous clip already makes the irony/suspense point.
+{{%/ note %}}
+
 ---
 
 ## The Man Who Knew Too Much
@@ -293,6 +297,8 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qsyfGwlf_l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — American Honey, Spider-Verse, and Chungking Express carry the needle-drop thread.
+
 - A whole school introduced inside one needle drop. The steadicam, the speed ramps, and every character entrance are cut to the song's phrasing.
 - The track is doing structural work, not just energy work. Remove it and the scene's grammar collapses.
 - Ask: what did you learn about six characters without one line of dialogue?
@@ -305,6 +311,8 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAL9kuqc-kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — same thread as the previous needle drops.
+
 - Where the last two clips used a song to build a scene, this one uses a song to break one. The rave strobe cuts the track in and out with the light, so the needle drop is edited the way memory works: incomplete, looping, interrupted by silence.
 - Mood here is not the song's mood. Under Pressure is euphoric; the scene is grief. The gap between what the music says and what the scene means is the design.
 - Ask: what are the silences doing inside a scene whose whole point is a song?
@@ -317,6 +325,8 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 [Watch the bonfire scene on YouTube](https://www.youtube.com/watch?v=AIU9Q-9OzA0) (embedding is disabled for this one, so it opens on YouTube)
 
 {{% note %}}
+Skippable if short on time — it opens on YouTube anyway; mention it as homework listening instead.
+
 - The opposite budget: a nearly scoreless film where the only music is performed inside the story, so the one a cappella piece detonates.
 - Eighty minutes of waves, fires, and footsteps make the chant land like a physical event. Economy as a music strategy.
 - Ask afterward: did the chant feel diegetic, scored, or ritual? It is staged as all three at once.
@@ -329,6 +339,8 @@ In conclusion, music and sound design are two essential elements of filmmaking t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z2OoxzYqgNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — worldizing gets its own full lesson on 11/2 (Worldizing and futz).
+
 * **Placing music in scenes:**
     * Once the music selections have been made, the clean recordings can be placed within their scenes by applying reverb and EQ, simulating the acoustics of a diegetic space.
     * A more interesting approach is to use a process called worldizing, pioneered by Walter Murch on American Graffiti.
@@ -385,6 +397,8 @@ In other words, a diegetic switch is a way to remind the audience that they are 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oSh2XRRI-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time (with the ending clip that follows) — Moonlight already lands the diegetic-line argument.
+
 - Context first, since almost nobody has seen this film. Galoup is a French Foreign Legion sergeant. The film is his life of drill and repetition: bodies moving in unison, almost no dialogue, total control.
 - Play about a minute of this training scene. That restraint is the setup for the next slide.
 {{%/ note %}}
@@ -396,6 +410,8 @@ In other words, a diegetic switch is a way to remind the audience that they are 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbrcxTkOPF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — pairs with the setup slide before it.
+
 - After two near-silent hours of that discipline, the film ends here: alone in an empty disco with Rhythm of the Night.
 - The music is technically diegetic, a real speaker in a real room, but the scene functions as pure interior monologue. Ask: which side of the line is this on? Let the room disagree; the argument is the lesson.
 - Mirror image of the Moonlight clip: there a diegetic song drifted into score, here the score-like release stays stubbornly in the room.

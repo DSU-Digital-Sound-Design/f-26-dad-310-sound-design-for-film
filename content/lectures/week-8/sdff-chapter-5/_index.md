@@ -161,6 +161,8 @@ Philosophical Themes: The sound design here suggests that perception is unreliab
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fd5HEJdcBwM?si=MVVspG--obh3Ojm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — Club Silencio already makes the Lynch ambiguity point.
+
 Description: In this scene, when Diane meets the Cowboy in a dark room, the sound is unsettlingly quiet, with only minimal ambient noise. The Cowboy’s calm, deliberate speech is unnerving in its simplicity, and the absence of background music or noise adds to the tension.
 
 Ambiguity and Uncertainty: The stark, minimalist soundscape increases the ambiguity of the Cowboy's role in the story. His voice, clear and distinct, contrasts with the eerie silence, making his words feel more like cryptic messages than direct communication. The sound here heightens the sense of foreboding and mystery.
@@ -175,6 +177,7 @@ Philosophical Themes: This scene reflects the film's exploration of fate and con
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFMaEIHIrGw?si=YYKT8OSW5oZxLXw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — a third Lynch example; mention it verbally.
 
 - Extra-diegetic music by Angelo Badalamenti evokes nostalgia yet unease. In Twin Peaks, Badalamenti's synthesizer chords float ambiguously as extra-diegetic or "in the air" diegetic sounds. Musical cues undermine traditional rules of film scoring.
 {{%/ note %}}
@@ -203,6 +206,8 @@ Philosophical Themes: The Zone is often interpreted as a metaphor for human cons
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VPBuFheox7Q?si=irkmzdOhoaFssbyL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — the Zone entry clip carries the Stalker argument.
+
 Scene: The Room and the Sound of Water
 Description: In the final act, as the Stalker, Writer, and Professor approach the Room (where desires are supposedly granted), the sound of flowing water becomes more prominent. The consistent, ambient hum of water contrasts with the near silence around it. The sounds are subdued, yet they dominate the scene.
 
@@ -238,6 +243,8 @@ Musical texture use as sound effects to create a brooding but ambiguous tone.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9kJ5rpTZE8?si=LAwnM6b68NldvXJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
 {{% note %}}
+Skippable if short on time — the featurette before this covers the 2049 sound world; play scenes only if the discussion wants them.
+
 Scene: Opening in the City (K's Apartment)
 
 Description: Early in the film, we see K returning to his apartment after his mission. The soundscape is filled with mechanical hums, drones, and the constant hum of flying vehicles. There’s an overwhelming presence of industrial noise, which dominates the background. The artificial AI companion Joi adds another layer of synthetic sound to the environment.
@@ -283,6 +290,8 @@ Why it works: The sparse sound design heightens the feeling of desolation and is
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2uiFOuDq_s?si=A8xW1TdAot0LU2h7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — same 2049 thread as the apartment scene.
+
 Scene: K's Confrontation with Deckard (Inside the Abandoned Casino)
 
 Description: Inside the dilapidated casino, the sound world is filled with echoes and distant, muffled sounds. The abandoned space amplifies every footstep, and the occasional sound of broken glass or objects being knocked over echoes through the empty halls. The eerie silence contrasts with the mechanical, industrial sound world of the city.
@@ -354,6 +363,10 @@ Here is a bullet point summary of the key points:
 ## Force Majeure -  Nature
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ooXF9VDouN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Skippable if short on time (with the Resort clip that follows) — the intercutting clip already shows both worlds.
+{{%/ note %}}
 
 ---
 

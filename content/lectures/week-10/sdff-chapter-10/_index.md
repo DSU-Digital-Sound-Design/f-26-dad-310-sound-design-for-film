@@ -92,6 +92,10 @@ Joe's piano is the bridge: the diegetic playing in his apartment carries over th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RVd6CnKLPgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{% note %}}
+Skippable if short on time — Soul covers the flashback bridge.
+{{%/ note %}}
+
 ---
 
 **Flash forward - Arrival**
@@ -103,6 +107,10 @@ Joe's piano is the bridge: the diegetic playing in his apartment carries over th
 **Flash forward - Dune**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOf1Fuhd59M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Skippable if short on time — Arrival covers the flash-forward.
+{{%/ note %}}
 
 ---
 
@@ -168,6 +176,8 @@ In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r4YS55Y1joY?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — the Apocalypse Now slide's notes make the same compound-time point.
+
 Certainly! Let's delve deeper into the specific film examples mentioned:
 
 **1. A Touch of Evil (Directed by Orson Welles, 1958)**
@@ -303,6 +313,8 @@ Both scenes are masterful examples of how sound design can be integral to a film
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0vyVT4HFgM?si=6j5mG3wJEXFU2inc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — one line of commentary carries this; say it instead of playing the clip.
+
 - Continuous, unpatterned sounds, or "drones", induce anxiety, making them apt for thrillers and horror.
 {{%/ note %}}
 
@@ -334,6 +346,8 @@ Both scenes are masterful examples of how sound design can be integral to a film
 
 
 {{% note %}}
+If short on time, play just one of the two clips — either makes the empathetic-sound point.
+
 **Aligning Character and Audience: Sound's Role in Time Perception**
 
 - **Character's Breath as an Indicator**:

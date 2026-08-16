@@ -51,6 +51,9 @@ We can go back to the first chapter and talk about ambience in 3 different catag
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3hBLv-HLEc?si=lFnXXqPLESIt8BED&amp;start=2955" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+{{% note %}}
+Skippable if short on time — the Mirror clip covers the Tarkovsky bed idea.
+{{%/ note %}}
 
 ---
 
@@ -124,6 +127,8 @@ Through expressive sound design, Lynch creates an audio landscape that externali
 [Watch the rain scene on YouTube](https://www.youtube.com/watch?v=3A983z2yItg&t=2955s) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
+Skippable if short on time — Elephant Man already covers details, and this one can't play embedded anyway.
+
 Wong Kar-wai uses the sound of rain as a detailed element, evoking emotions of longing and melancholy. The rain becomes a subtle but significant part of the setting, punctuating moments of silence.
 {{%/ note %}}
 
@@ -172,6 +177,8 @@ Lynch's use of drone sounds in Eraserhead is one of the many ways that he create
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8ZhQPaw4rE?si=NU_lIFCrlXWxy7kY&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — the Alien opening makes the room-tone point more vividly.
+
 The dead air inside the spaceship emphasizes isolation and introspection, making the room tone vital in this film’s creation of atmosphere. The minimal hum of the spaceship serves as a constant reminder of the character's separation from Earth.
 {{%/ note %}}
 
@@ -243,6 +250,8 @@ For example, in the film "Taxi Driver," the sound of the city outside Travis Bic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EttRNOipTxU?si=lf2NpAINCxisdFJw&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — Taxi Driver already covers the world coming in.
+
 As Joel's memories are erased, the sound design emphasizes the disorientation by using collapsing environmental sounds, distorting everyday noises, and blending them with his inner thoughts. This shows the outside world breaking into his inner mindscape.
 {{%/ note %}}
 
@@ -355,6 +364,8 @@ The Zone of Interest contrasts the horrors of the Holocaust with the eerie quiet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZMuLU94HTc?start=4125" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — Zone of Interest and Nope carry the offscreen-atrocity discussion.
+
 The scene mostly focus's on the main character's face 
 
 The opening scene in the movie "Son of Saul" uses soundscape to convey the camp's atrocities in the following ways:
@@ -400,6 +411,7 @@ The sound design in Hunger is one of the many things that makes the film so powe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j9lZRDAoecs?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
+Skippable if short on time — good synthesis slide, but the chapter's argument is complete without it.
 
 * Highly subjective narratives, taking place in extreme environments and employing suitably bold modes of conveying setting.
 * Most films demonstrate a mix of approaches, with the level of extension being varied to suit each moment.

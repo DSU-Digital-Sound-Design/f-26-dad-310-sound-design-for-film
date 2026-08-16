@@ -44,22 +44,19 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Two students share an Earth.fm narrative — 10 minutes
 - [slides] [Character: the aesthetics of Foley](/lectures/week-3/sdff-chapter-2/)
 - [screening] **Screening 1: *WALL-E*** — watch the whole film at home
-- [assignment] [Screening log 1](/assignments/screening-log/) — three timestamped moments
-- [due] [Screening log 1](/assignments/screening-log/) by Wed 9/16
+- [assignment] [Screening log 1](/assignments/screening-log/) — three timestamped moments, due Wed 9/16
 
 ## 9/11
 - [screening] [Foley Grail, chapter 3](/lectures/week-3/foley-grail-chap-3-pt-2/) — clips
 - Watch the robot animation and decide which Foley element each of you takes
-- [assignment] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performance, in teams
-- [due] [Assignment 1](/assignments/assignment-1-foley-design/) performed in class Mon 9/21
+- [assignment] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performance, in teams, performed in class Mon 9/21
   - Find time to rehearse as a group before then
 
 ## 9/14
 - **REAPER refresher and skills check.** A quick 10–15 minute tour of the interface, then straight into the lab.
-- [assignment] [Editing exercise](/assignments/editing-exercise/): five short drills on the supplied files
+- [assignment] [Editing exercise](/assignments/editing-exercise/): five short drills on the supplied files, due Fri 9/25
 - [lab] Start the editing exercise in class. The drills are the skills check: if they feel easy, you're ready. If not, work through the refresher decks below before Friday and come to office hours.
 - Refresher decks, as reference: [Introduction to REAPER](/lectures/week-1/reaper-intro/) and [Starting a new project](/lectures/week-2/this-is-reaper-2/)
-- [due] [Editing exercise](/assignments/editing-exercise/) by Fri 9/25
 
 ## 9/16
 - [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
@@ -84,8 +81,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 9/25
 - [due] [Editing exercise](/assignments/editing-exercise/)
 - [lab] Record someone walking through the building, then replace the footsteps
-- [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation
-- [due] [Assignment 2](/assignments/assignment-2-foley-recording/) by Mon 10/5
+- [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation, due Mon 10/5
 
 ## 9/28
 - [slides] [Spotting, cueing and editing Foley](/lectures/week-5/spotting/)
@@ -94,8 +90,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/)
 - [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
   - Read the note on the assignment page before you choose
-- [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments
-- [due] [Screening log 2](/assignments/screening-log/) by Mon 10/5
+- [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments, due Mon 10/5
 
 ## 10/2
 - [screening] *A Quiet Place* — Foley redesign
@@ -125,8 +120,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [screening] *Blow Out* (1981) — the opening: a sound man in a park at night, hunting wind, owls, and a frog with a shotgun mic. Count the recording decisions he makes; Assignment 3 asks you to make the same ones
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/k2cCRwKvfWw" title="Blow Out (1981) recording scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — name your recordings like a working editor from day one
-- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom
-- [due] [Assignment 3](/assignments/assignment-3-field-recording/) by Wed 10/21
+- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom, due Wed 10/21
 - [lab] First field session — outdoor SFX and ambiences
 
 ## 10/12
@@ -137,8 +131,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
 - [screening] **Screening 3: *A Quiet Place*** — watch the whole film at home
   - You saw the Foley redesign on 10/2. This time listen to how the film uses the whole runtime
-- [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments
-- [due] [Screening log 3](/assignments/screening-log/) by Mon 10/19
+- [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments, due Mon 10/19
 
 ## 10/16
 - [lab] Field recording session — bring your recorder
@@ -155,8 +148,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 10/23
 - [slides] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
-- [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/)
-- [due] [Assignment 4](/assignments/assignment-4-sfx-editing/) by Wed 11/11
+- [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — due Wed 11/11
 - Look at [Soundly](https://getsoundly.com/) and [SoundQ](https://www.prosoundeffects.com/soundq/) for well-edited reference SFX
 
 ## 10/26
@@ -166,12 +158,12 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [slides] [Dialogue editing](/lectures/dialogue-editing/) — room tone, splits, and repair
 - [lab] Fix a scene: build room tone fill and hide a cut between two takes, using the dialogue line you recorded on 9/23
 - Assignment 4 work continues in the 11/4 session
+- **Before Friday:** film a partner reading a line somewhere noisy — hallway, parking lot, the union — and bring the clip to class for the ADR lab
 
 ## 10/30
 - [slides] [ADR: replacing a line to picture](/lectures/adr/)
-- [lab] Film a partner's line somewhere noisy, then replace it in the studio and fit it back to picture
-- [assignment] [Reverb and echo](/assignments/reverb/) — four sends, four spaces
-- [due] [Reverb and echo](/assignments/reverb/) by Fri 11/6
+- [lab] Replace the noisy line you filmed before class: re-record it in the studio and fit it back to picture
+- [assignment] [Reverb and echo](/assignments/reverb/) — four sends, four spaces, due Fri 11/6
 - Free impulse responses at [OpenAir](https://www.openair.hosted.york.ac.uk/)
 
 ## 11/2
@@ -191,8 +183,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 11/11
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14). Wednesday and Friday are independent work days.
 - [due] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — submit on D2L as usual
-- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
-- [due] [Assignment 5](/assignments/assignment-6-sound-synthesis/) by Wed 11/18
+- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital, due Wed 11/18. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
 
 ## 11/13
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14)
@@ -205,10 +196,9 @@ undergraduate work. Everything you make in here is played out loud in class.
 
 ## 11/18
 - [due] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/)
-- [assignment] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/) — one 30-second place, ideally a scene from your final project
-- [due] [Assignment 6](/assignments/assignment-7-ambiences/) by Mon 11/30
+- [assignment] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/) — one 30-second place, ideally a scene from your final project, due Mon 11/30
 - [assignment] [Final Project](/assignments/final-project/) — a five-minute sound design piece
-  - Proposal due Mon 11/23: post links to the clips you'll be designing
+- **Final project proposal** — due Mon 11/23: post links to the clips you'll be designing
 
 ## 11/20
 - [lab] Compare REAPER's time-stretching and pitch-shifting algorithms
@@ -243,4 +233,8 @@ undergraduate work. Everything you make in here is played out loud in class.
   - Overall sound design effectiveness
   - Emotional and narrative alignment
   - Final tweaks before submission
-- [due] [Final Project](/assignments/final-project/) presented at the final exam, Wed 12/16, 1:00–3:00 pm
+- [Final Project](/assignments/final-project/) — presented at the final exam, Wed 12/16, 1:00–3:00 pm
+
+## 12/16
+- [due] [Final Project](/assignments/final-project/) — due today, submitted on D2L
+- Final project presentations — **1:00–3:00 PM**, our scheduled final exam slot
