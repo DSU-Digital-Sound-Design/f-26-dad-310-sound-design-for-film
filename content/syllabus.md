@@ -2,6 +2,9 @@
 title: "Syllabus"
 ---
 
+The full signed syllabus, including university policies, is
+[available as a PDF](/syllabus.pdf).
+
 ## Course
 
 DAD 310 — Sound Design for Film. 3 credits. Fall 2026, Dakota State University.
@@ -110,3 +113,18 @@ interests you, DAD 492 (Topics: AI and Music) spends a whole semester on it.
 ## University policies
 
 University policies (accessibility, academic integrity, freedom in learning, grade appeals, and student support) are in the official syllabus posted on D2L.
+
+---
+
+## The signed syllabus
+
+This page is the readable version. The signed PDF below is the official
+document and carries the university policies in full.
+
+<object data="/syllabus.pdf" type="application/pdf" width="100%" height="760"
+        style="border:1px solid var(--line, #2a2f38); border-radius:6px; background:#fff">
+  <p>Your browser will not display the PDF inline.
+  <a href="/syllabus.pdf">Download the syllabus (PDF)</a>.</p>
+</object>
+
+<p><a href="/syllabus.pdf">Open the syllabus in a new tab</a></p>
