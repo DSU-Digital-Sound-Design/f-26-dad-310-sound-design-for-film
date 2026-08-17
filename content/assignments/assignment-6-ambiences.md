@@ -6,19 +6,8 @@ week: 13
 assigned: "2026-11-18"
 due: "2026-11-30"
 summary: "A 30-second ambience — ideally for a scene from your final project."
-rubric:
-  - key: "Sense of place"
-    weight: "40%"
-    detail: "The 30 seconds reads as one continuous recording of the place in your image — beds and details balance into a believable whole."
-  - key: "Craft"
-    weight: "30%"
-    detail: "Recording, synthesis, editing, and mixing are clean: smooth fades, no seams, no stray artifacts."
-  - key: "Sound map"
-    weight: "15%"
-    detail: "The map accounts for what's in frame and what would be audible just outside it."
-  - key: "Files"
-    weight: "15%"
-    detail: "Named stereo WAV, Reaper project, sound map, and image, zipped and posted to D2L."
+# this assignment carries its own rubric table in the body
+rubric: false
 ---
 
 
@@ -40,3 +29,16 @@ Take the following steps\:
    - Soundmap with details for your chosen location
    - Image that guided your work
 6. Zip this folder and post to D2L.
+
+---
+
+## Grading Rubric (40 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Sense of Place (16 pts)** | The 30 seconds reads as one continuous recording of the place in your image; beds and details balance into a believable whole | Reads as the place, with one element sitting slightly apart | Elements are present but do not cohere into one location | A collage of unrelated sounds | /16 |
+| **Craft (12 pts)** | Recording, synthesis, editing, and mixing are clean: smooth fades, no seams, no stray artifacts | Clean overall with one audible seam | Recurring seams, abrupt entries, or artifacts | Assembled without editing | /12 |
+| **Sound Map (6 pts)** | Accounts for what is in frame and what would be audible just outside it | Covers what is in frame; little beyond it | Partial list of the obvious elements | Missing | /6 |
+| **Files (6 pts)** | Named stereo WAV, Reaper project, sound map, and image, zipped and posted | All present with naming or packaging issues | One item missing | Two or more missing | /6 |
+
+**Total: \_\_\_ / 40**

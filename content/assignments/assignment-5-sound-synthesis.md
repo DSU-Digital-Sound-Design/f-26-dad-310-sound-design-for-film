@@ -6,19 +6,8 @@ week: 12
 assigned: "2026-11-11"
 due: "2026-11-18"
 summary: "Five synthesised foreground sounds for a science-fiction scene."
-rubric:
-  - key: "Sound design"
-    weight: "40%"
-    detail: "Five foreground sounds that convincingly belong to your sci-fi image, each with a distinct sonic identity."
-  - key: "Synthesis craft"
-    weight: "25%"
-    detail: "Deliberate shaping in Vital — oscillators, filters, modulation — whether patches are built from scratch or developed from presets."
-  - key: "Editing"
-    weight: "20%"
-    detail: "Sounds edited and processed per the editing mantra: clean starts and ends, sensible levels, no stray noise."
-  - key: "Sound map & files"
-    weight: "15%"
-    detail: "Sound map lists the implied foreground sounds and marks your five; folder contains the WAVs, Reaper project, map, and image."
+# this assignment carries its own rubric table in the body
+rubric: false
 ---
 
 
@@ -34,4 +23,17 @@ Using any of the synthesis tools we have discussed \(or others with which you ar
 	* 	Reaper project file 
 	* 	Soundmap  
 	* 	Sci-fi image  
-6.	Zip this folder and post it to D2L.  
+6.	Zip this folder and post it to D2L.
+
+---
+
+## Grading Rubric (40 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Sound Design (16 pts)** | Five foreground sounds that belong unmistakably to your sci-fi image, each with its own sonic identity | Five sounds that fit the scene; one or two overlap in character | Fewer than five, or sounds that could belong to any scene | Sounds unrelated to the image | /16 |
+| **Synthesis Craft (10 pts)** | Oscillator, filter, and modulation choices each shape the result in ways you can point to | Deliberate work in two or three of those areas | A preset nudged at one or two controls | Presets used as found | /10 |
+| **Editing (8 pts)** | Clean starts and ends, sensible levels, no stray noise, per the editing mantra | Clean overall with one sound needing another pass | Audible clicks, noise, or inconsistent levels | Unedited | /8 |
+| **Sound Map and Files (6 pts)** | Map lists the implied foreground sounds and marks your five; folder holds the WAVs, Reaper project, map, and image | All files present; the map is thin | Map missing, or files incomplete | Neither map nor complete files | /6 |
+
+**Total: \_\_\_ / 40**

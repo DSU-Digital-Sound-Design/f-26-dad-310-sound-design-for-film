@@ -88,3 +88,18 @@ can anchor a demo reel for jobs or graduate programs.
 - Stems: one rendered file per category (dialogue if used, Foley, effects, ambience, music), which together sum to your full mix
 - Reaper project file
 - One page documentation on the project
+
+---
+
+## Grading Rubric (100 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Foley (22 pts)** | Live-recorded Foley carries the characters' contact with the world; performance and sync read as production sound | Foley present and mostly recorded live, with some library substitution | Largely library effects standing in for Foley, or sync drifting | Little identifiable Foley | /22 |
+| **Ambience (22 pts)** | Every setting is established by its background; indoor and outdoor spaces are distinct and hold across cuts | Ambience establishes place, with one space thinner than the rest | Ambience present but generic, or dropping out across cuts | No ambience beds | /22 |
+| **Sound Effects (18 pts)** | On-screen elements outside dialogue, Foley, and ambience are all covered and sit convincingly | Most elements covered; one or two left silent | Several on-screen sources without sound | Effects sparse or absent | /18 |
+| **Mix and Delivery (18 pts)** | Elements sit in a coherent space; levels hold across playback systems; render is clean and to spec | Balanced with minor level issues; render clean | Elements mask each other, or the render has artifacts | Mix unbalanced or render unusable | /18 |
+| **Spotting and Structure (12 pts)** | Choices are placed where the picture asks for them; the design develops across the piece | Well spotted, with a stretch that stays static | Sound applied evenly regardless of what the picture is doing | No evident spotting | /12 |
+| **Session Delivery (8 pts)** | Consolidated project with all media, tracks named and organized, submitted with the render | Complete with minor organization issues | Media not consolidated, or tracks unnamed | Session incomplete | /8 |
+
+**Total: \_\_\_ / 100**

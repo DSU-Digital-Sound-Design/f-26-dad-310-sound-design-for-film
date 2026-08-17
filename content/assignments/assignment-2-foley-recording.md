@@ -21,17 +21,21 @@ Working in teams of three (or two) from Assignment 1, use Reaper to **record** a
 2. Demonstrate high-quality recordings, precise synchronization, and a well-balanced final mix.
 3. Submit a zipped (compressed) archive of your entire DAW session, including all audio and video files, to D2L by the due date.
 
-# Holistic Rubric: Studio Foley Recording Assignment
-
-| Grade | Description |
-|-------|-------------|
-| A (90-100%) | The Foley work demonstrates exceptional creativity and technical skill. Sounds are of high quality, perfectly synchronized with the animation, and effectively bring the multi-armed robot and rubber duck to life. The mix is well-balanced, with clear distinction between different sound elements. The overall sound design significantly enhances the viewing experience. |
-| B (80-89%) | The Foley work shows good creativity and technical competence. Most sounds are of good quality and well-synchronized. The multi-armed robot and rubber duck are represented effectively, with only minor issues in timing or sound choice. The mix is generally well-balanced, and the sound design noticeably improves the animation. |
-| C (70-79%) | The Foley work demonstrates adequate creativity and technical ability. Sound quality and synchronization are generally acceptable, with some noticeable issues. The multi-armed robot and rubber duck are represented, but some sounds may be generic or lack detail. The mix has some imbalances, but overall supports the animation. |
-| D (60-69%) | The Foley work shows limited creativity or technical skill. There are significant issues with sound quality, synchronization, or sound choice. The multi-armed robot or rubber duck may be poorly represented sonically. The mix has noticeable imbalances that detract from the viewing experience. |
-| F (0-59%) | The Foley work fails to meet basic standards of quality and creativity. Sounds are of poor quality, poorly synchronized, or inappropriate for the animation. The multi-armed robot and rubber duck lack convincing sound representation. The mix is imbalanced and detracts significantly from the animation. |
 
 Total Score: ____ / 100
 
 Additional Comments:
 
+---
+
+## Grading Rubric (45 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Recording Quality (12 pts)** | Clean takes with no clipping, handling noise, or room tone intruding; levels consistent across the session | Generally clean; one or two takes with minor noise or level drift | Noticeable noise, clipping, or inconsistent levels | Recordings unusable without repair | /12 |
+| **Event Coverage (10 pts)** | Every sound-making object and event in the 10 seconds is recorded and placed | All major events covered; one or two small ones missing | Several events without sound | Only the most obvious events covered | /10 |
+| **Synchronization (10 pts)** | Every hit lands on frame; the track reads as production sound | Mostly on frame, drifting on one or two fast events | Noticeably early or late through much of the piece | Timing unrelated to the picture | /10 |
+| **Mix Balance (8 pts)** | Elements sit in a believable relationship; nothing masks anything else, nothing jumps out | Mostly balanced, with one or two elements competing | Some elements buried or overpowering | No balancing attempted | /8 |
+| **Session Delivery (5 pts)** | Zipped session with all audio and video consolidated, tracks named | Complete session with minor naming or packaging issues | Media not consolidated, or tracks unnamed | Session incomplete or will not open | /5 |
+
+**Total: \_\_\_ / 45**

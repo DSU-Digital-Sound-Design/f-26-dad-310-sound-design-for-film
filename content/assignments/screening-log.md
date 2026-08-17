@@ -79,3 +79,16 @@ choose moments that are worth hearing again.
   hear.
 
 This assignment is graded complete or incomplete.
+
+---
+
+## Grading Rubric (15 points each)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Foley Observation (4 pts)** | Names a specific Foley moment and what it does for the scene, with a timestamp | Names a Foley moment with a general account of its effect | Refers to Foley without identifying a moment | No Foley observation | /4 |
+| **Ambience Observation (4 pts)** | Names an ambience that establishes place and explains how it does so, with a timestamp | Names an ambience with a general account of its effect | Mentions background sound without identifying a moment | No ambience observation | /4 |
+| **Design Choice (4 pts)** | Identifies a deliberate choice such as a processed voice, a silence, or a motif, and reads its intent | Identifies a choice with a general reading | Notes something happened without reading it | No third observation | /4 |
+| **Specificity (3 pts)** | Timestamps throughout; claims point at what is audible rather than at the story | Mostly specific, with one claim about plot rather than sound | Largely plot summary | No reference to what is heard | /3 |
+
+**Total: \_\_\_ / 15**

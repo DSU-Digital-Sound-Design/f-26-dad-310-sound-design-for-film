@@ -6,19 +6,8 @@ week: 9
 assigned: "2026-10-23"
 due: "2026-11-11"
 summary: "Clean, trim, and build variations from your field recordings, then finish five production-ready sound effects."
-rubric:
-  - key: "Editing quality"
-    weight: "30%"
-    detail: "Clean cuts and fades with no clicks; unwanted sounds removed; each environment runs exactly one minute."
-  - key: "Variations"
-    weight: "25%"
-    detail: "Five distinct, usable variations of each object/device/event sound — 15 short effects that differ in duration, intensity, or perspective."
-  - key: "Processing & final polish"
-    weight: "25%"
-    detail: "Normalization in the specified ranges; EQ and light compression leave each of the five final sounds production-ready, with no artifacts."
-  - key: "Deliverables & annotation"
-    weight: "20%"
-    detail: "FINAL-SFX folder with all five bounces; edits labeled on separate tracks with comments and unique track/region colors."
+# this assignment carries its own rubric table in the body
+rubric: false
 ---
 
 ### Part 1 - Editing
@@ -62,3 +51,16 @@ Make sure you have the five recordings from Assignment 3 ready. These include re
 2. **Bouncing**: Bounce your five final sound effects (two stereo environments; three mono objects/devices/events) into a FINAL-SFX folder inside your REAPER project folder.
 
 3. **Submission**: Submit the zipped REAPER project folder with all of your edits labeled and notated on separate tracks — comment each track and give each track and region a unique color, the same way we annotated the editing exercise. Include the bounced FINAL-SFX files.
+
+---
+
+## Grading Rubric (40 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Editing Quality (12 pts)** | Clean cuts and fades with no clicks, unwanted sounds removed, each environment running exactly one minute | Clean overall; a click or a slightly off duration | Audible clicks or stray sounds, or durations noticeably off | Edits rough throughout | /12 |
+| **Variations (10 pts)** | Five distinct, usable variations of each object, device, and event sound: 15 effects differing in duration, intensity, or perspective | All 15 present; a few vary only slightly | Fewer than 15, or variations too alike to be separately usable | Little variation attempted | /10 |
+| **Processing and Polish (10 pts)** | Normalized to the specified ranges; EQ and light compression leave all five sounds production-ready with no artifacts | Processed and usable, with one sound needing another pass | Normalization outside range, or processing introducing artifacts | Unprocessed, or artifacts throughout | /10 |
+| **Deliverables and Annotation (8 pts)** | FINAL-SFX folder with all five bounces; edits on separate labeled tracks with comments and unique track and region colors | All bounces present; annotation partial | Bounces missing, or no track annotation | Neither bounces nor annotation | /8 |
+
+**Total: \_\_\_ / 40**

@@ -32,3 +32,16 @@ For this assignment, **you will work in a team of three (or two)** to perform li
 - Prepare your Foley objects in advance: Think carefully about which objects will work best for each sound and rehearse with them.
 - Communicate with your team: Effective teamwork is crucial for a smooth live performance.
 
+---
+
+## Grading Rubric (40 points total)
+
+| Criterion | Exemplary | Proficient | Developing | Emerging | Points |
+| --- | --- | --- | --- | --- | --- |
+| **Sound Source Choice (12 pts)** | Objects chosen from the robot's implied materials and surface; each reads as the thing it stands for | Most objects suit their events; one or two are generic stand-ins | Objects make sound but bear little relation to the materials on screen | Objects chosen at random | /12 |
+| **Event Coverage (10 pts)** | Every sound-making event in the 10 seconds is covered | All major events covered; a small one or two missed | Several events without sound | Only the most obvious events covered | /10 |
+| **Synchronization (10 pts)** | Actions land on frame throughout; the performance reads as the animation's own sound | Mostly on frame, drifting on one or two fast events | Noticeably early or late through much of the take | Timing unrelated to the picture | /10 |
+| **Sense of Life (4 pts)** | Sounds beyond the literal give the robot weight, effort, or intent | One or two touches suggest life beyond mechanics | Strictly literal event-matching | No attempt | /4 |
+| **Team Coordination (4 pts)** | Parts divided so the character is fully covered; handoffs are clean and rehearsed | Division works with a few collisions or gaps | Coverage overlaps or leaves holes; little evident rehearsal | No coordinated plan | /4 |
+
+**Total: \_\_\_ / 40**
