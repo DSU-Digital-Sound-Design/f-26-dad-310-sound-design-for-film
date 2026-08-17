@@ -22,10 +22,6 @@ Working in teams of three (or two) from Assignment 1, use Reaper to **record** a
 3. Submit a zipped (compressed) archive of your entire DAW session, including all audio and video files, to D2L by the due date.
 
 
-Total Score: ____ / 100
-
-Additional Comments:
-
 ---
 
 ## Grading Rubric (45 points total)
