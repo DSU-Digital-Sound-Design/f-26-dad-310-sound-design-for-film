@@ -183,7 +183,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 ## 11/11
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14). Wednesday and Friday are independent work days.
 - [due] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — submit on D2L as usual
-- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/) — five foreground sounds in Vital, due Wed 11/18. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
+- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-5-sound-synthesis/) — five foreground sounds in Vital, due Wed 11/18. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
 
 ## 11/13
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14)
@@ -195,8 +195,8 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [lab] Build your own layered explosion from the raw material
 
 ## 11/18
-- [due] [Assignment 5: Sound Synthesis](/assignments/assignment-6-sound-synthesis/)
-- [assignment] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/) — one 30-second place, ideally a scene from your final project, due Mon 11/30
+- [due] [Assignment 5: Sound Synthesis](/assignments/assignment-5-sound-synthesis/)
+- [assignment] [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/) — one 30-second place, ideally a scene from your final project, due Mon 11/30
 - [assignment] [Final Project](/assignments/final-project/) — a five-minute sound design piece
 - **Final project proposal** — due Mon 11/23: post links to the clips you'll be designing
 
@@ -216,7 +216,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - [off] **No class — Thanksgiving recess** (Nov 25–29)
 
 ## 11/30
-- [due] [Assignment 6: Ambiences](/assignments/assignment-7-ambiences/)
+- [due] [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/)
 - Listen to the ambiences together — where does each one put you, and what gives it away?
 
 ## 12/2
