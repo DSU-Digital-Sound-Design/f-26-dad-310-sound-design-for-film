@@ -2,52 +2,48 @@
 title: "Sound Walk Journal Assignment"
 ---
 
-#### **Objective**  
-To experience and analyze the environment’s soundscape through the perspective of a film sound designer. Students will take notes during the walk and later reflect on how sounds can be used to enhance storytelling in a film.
+We're going to take a walk and listen to it the way a sound designer would.
+You'll take notes as we go, then write a short reflection on how the sounds
+you heard could work in a film: to represent reality, or to carry emotional
+subtext.
 
----
+Bring a notebook and pen. A phone for recording notes or sounds is fine but
+optional.
 
-#### **Step 1: Preparation**  
-- **Location:** We will walk together as a class in a quiet location, such as a park, urban area, or nature trail.
-- **Materials Needed:** A notebook, pen, and (optional) smartphone for recording notes or sounds.
-- **Focus:** You are listening for sounds that could be used in a film soundtrack to represent reality or emotional subtext.
+## During the walk
 
----
+**Walk silently.** We stay quiet as a group so everyone can actually hear the
+place. Pay attention to the layers of sound around you, natural and
+human-made, and notice volume, rhythm, pitch, and texture.
 
-#### **Step 2: During the Walk**  
-**Walk Silently**  
- - Walk as a group, maintaining silence to better focus on listening to the soundscape.
- - Pay attention to the **layers** of sound around you. Focus on both natural and human-made sounds, noting **volume, rhythm, pitch, and texture**.
+**Take notes.** Sort what you hear into three layers:
 
-**Take Notes**  
- - As you walk, take notes on the different sounds you hear.  
- - **Categorize** them into:  
-   - **Background sounds** (ambient noise, distant traffic, birds chirping)  
-   - **Mid-range sounds** (footsteps, rustling leaves, conversations)  
-   - **Foreground sounds** (prominent or sudden sounds like a dog barking or a door slamming).
+- Background: ambient noise, distant traffic, birds
+- Mid-range: footsteps, rustling leaves, conversations
+- Foreground: prominent or sudden sounds, a dog barking, a door slamming
 
-**Emotional Impact**  
-   - As you listen, note the **emotional effect** of each sound. Does a certain sound make you feel calm, anxious, nostalgic, etc.?  
-   - Think about how the sound might be used in a film to create a specific **mood or tone**.
+**Notice how the sounds land.** Does a sound make you feel calm, anxious,
+nostalgic? Where might a film use it to set a mood?
 
----
+## After the walk
 
-#### **Step 3: After the Walk**  
+Clean up your notes so the three layers are clear, and mark the sounds that
+stood out to you.
 
-**Edit Your Notes**  
-   - After the sound walk, take time to edit and organize your notes.  
-   - Make sure your sound categories (background, mid-range, and foreground) are clear.  
-   - Reflect on any sounds that stood out to you and why.
-  
-**Answer Reflection Questions**  
-   - Once your notes are organized, respond to the following reflection questions:
-     - **Which sounds stood out to you the most, and why?**
-     - **How did the overall soundscape make you feel?**
-     - **If you were designing a soundtrack for a film scene based on your walk, which sounds would you highlight, and why?**
-     - **What types of sounds might you eliminate or alter to enhance the emotional or narrative focus of a scene?**
-     - **How could the layering or interaction of sounds help tell a story?**
-  
-**Submission Options**  
-   - You may choose to submit your reflection in one of two formats:
-     - A **written reflection** answering the questions in detail.
-     - A **voice recording reflection** where you verbally discuss your thoughts and answers to the reflection questions.
+Then answer these questions:
+
+1. Which sounds stood out most, and why?
+2. How did the overall soundscape make you feel?
+3. If you were designing a soundtrack for a scene set on this walk, which
+   sounds would you feature, and why?
+4. Which sounds would you cut or change to sharpen the emotional or narrative
+   focus of the scene?
+5. How could layering these sounds, or playing them against each other, help
+   tell a story?
+
+## Turning it in
+
+Either format works:
+
+- A written reflection answering the questions
+- A voice recording where you talk through your answers

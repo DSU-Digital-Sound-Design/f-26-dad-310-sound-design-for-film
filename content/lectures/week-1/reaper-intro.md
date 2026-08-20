@@ -6,7 +6,7 @@ The following tutorial is based on this video: [This is REAPER 6 - Intro (1/15)]
 
 # Intro
 
-One of the most unique features of Reaper compared to other DAWs such as Pro Tools, Logic, or Ableton is that everything is customizable. This includes key commands, menus, toolbars, and mouse behaviors. it has pretty good defaults, so you don't have to worry about customizing everything right away.
+One of the most unique features of Reaper compared to other DAWs such as Pro Tools, Logic, or Ableton is that everything is customizable. This includes key commands, menus, toolbars, and mouse behaviors. It has pretty good defaults, so you don't have to worry about customizing everything right away.
 
 ![](../images/views.png)
 
@@ -28,7 +28,7 @@ Find a few random sounds from freesound.org and import them. Notice how the trac
 
 # Items
 
-I Reaper we refer to audio files as Items or Media Items. These can be copy pasted and moved to taste. We can also trim the beginning and ending of the tracks with our mouse cursor. We can also trim multiple files at once by selecting them all.
+In Reaper we refer to audio files as Items or Media Items. These can be copy pasted and moved to taste. We can also trim the beginning and ending of the tracks with our mouse cursor. We can also trim multiple files at once by selecting them all.
 
 Dragging an item to the right will cause it to start looping.
 
@@ -52,7 +52,7 @@ Now open back up the mixer pane. See that the same controls are available here a
 
 # Tempo
 
-The bpm of the project can be changed from the tempo menu on the bottom right of the screen (the transport). If we want to play back slower while also adjusting pitch we cna do that with the rate knob.
+The bpm of the project can be changed from the tempo menu on the bottom right of the screen (the transport). If we want to play back slower while also adjusting pitch we can do that with the rate knob.
 
 # Track views
 

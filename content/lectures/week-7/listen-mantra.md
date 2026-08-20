@@ -2,44 +2,46 @@
 title: "The Editing Mantra: LISTEN"
 ---
 
-Adapted from Rick Vier's *The Sound Effects Bible*
+Adapted from Ric Viers' *The Sound Effects Bible*. Run every sound effect you
+edit through these six steps, in order.
 
-# The Editing Mantra L-I-S-T-E-N
+- **L** - Listen critically
+- **I** - Identify clicks, pops, and errors
+- **S** - Signal process (EQ and compression)
+- **T** - Trim/crop the file
+- **E** - Examine fade-ins/fade-outs at the zero line
+- **N** - Normalize/name file
 
-- **L** - Listen Critically
-- **I** - Identify Clicks, Pops, and Errors
-- **S** - Signal Process (EQ and Compression)
-- **T** - Trim/Crop the File
-- **E** - Examine Fade-Ins/Fade-Outs at the Zero Line
-- **N** - Normalize/Name File
+## 1. Listen critically
 
----
+Play the file and really listen. Does it sound good? If the recording itself
+is poor, delete it and record again; no amount of editing fixes a bad source.
+If it's good but has problems, the next steps handle them.
 
-## Editing Mantra L-I-S-T-E-N Step-by-Step Guide
+## 2. Identify clicks, pops, and errors
 
-### 1. Listen Critically
-
-Play the audio file and listen carefully. Does it sound good? Are there any noticeable problems, such as clicks, pops, or other errors? If the audio quality is poor, consider deleting it and starting over. If the quality is good but has some errors, proceed to fix them in the next steps.
-
-### 2. Identify Clicks, Pops, and Errors
-
-Listen for clicks, pops, or errors in the audio. Use your editing software to identify and remove these issues. You can manually locate the offending waveforms and delete them, or use a noise reduction tool to clean up the file.
+Find the clicks and pops. You can locate the offending waveforms and delete
+them by hand, or run a noise reduction tool over the file.
 
 > Example: [Editing and Cleaning Up Audio in Reaper](../editing/)
 
-### 3. Signal Process (EQ and Compression)
+## 3. Signal process (EQ and compression)
 
-Apply equalization (EQ) and compression to enhance the sound quality. Use EQ to balance the frequency spectrum and remove unwanted noise. Apply compression to manage the dynamic range and ensure a more consistent sound.
+EQ out unwanted noise and balance the spectrum. Compress if the dynamic range
+needs taming.
 
-### 4. Trim/Crop the File
+## 4. Trim/crop the file
 
-Trim or crop the audio file to remove unwanted silence at the beginning or end. This step also includes cutting out any sections that are unnecessary or do not contribute to the final product.
+Cut the silence off the head and tail, and cut anything that doesn't belong
+in the final effect.
 
-### 5. Examine Fade-Ins/Fade-Outs at the Zero Line
+## 5. Examine fade-ins/fade-outs at the zero line
 
-When adding fade-ins or fade-outs, make sure they begin and end at the zero line. This prevents clicks or pops during playback, ensuring smooth transitions.
+Fades must start and end at the zero line, or you'll get clicks on playback.
 
-### 6. Normalize/Name File
+## 6. Normalize/name file
 
-Normalize peaks to -0.5 dB to keep audio levels consistent across files. Note that ambiences or sound beds do not need to be normalized this high; peak levels between -18 dB and -6 dB are acceptable for these types of sounds. Finally, name the file descriptively, and embed metadata with expressive keywords for easier categorization.
-
+Normalize peaks to -0.5 dB. Exception: ambiences and sound beds shouldn't be
+that hot; peaks between -18 dB and -6 dB are fine there. Then name the file
+descriptively and embed metadata with useful keywords so you can find it
+again.

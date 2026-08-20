@@ -14,9 +14,8 @@ margin = 0.2
 
 {{% note %}}
 
-- Silent films relied on visual cues, like physical actions and facial expressions, to convey the narrative.
-- In "City Lights," Charlie Chaplin’s performance demonstrates this by showing how subtle expressions and posture changes communicate the Tramp's emotions.
-- The scene where the Tramp buys a flower highlights how silent films use visual storytelling to create emotional depth.
+- Silent films carried the whole narrative through the visuals: physical action, faces, posture.
+- Watch how much Chaplin communicates in the flower scene with expression and posture alone. No dialogue, no sound effects, and you know exactly what everyone feels.
 
 {{%/ note %}}
 
@@ -30,9 +29,8 @@ margin = 0.2
 
 {{% note %}}
 
-- Intertitles served as a vital narrative tool in silent films, offering context and dialogue where visual cues were insufficient.
-- "The Birth of a Nation" extensively uses intertitles to explain the historical setting and narrative shifts.
-- These intertitles ensure the audience follows the story, especially during transitions between characters or events.
+- Intertitles filled in what the visuals couldn't: dialogue, context, jumps in time.
+- "The Birth of a Nation" leans on them heavily for historical setting and narrative shifts. Note the trade-off: every intertitle stops the picture dead.
 
 {{%/ note %}}
 
@@ -46,9 +44,8 @@ margin = 0.2
 
 {{% note %}}
 
-- Cinematography and editing were crucial in silent films for setting tone and advancing the plot.
-- "The Cabinet of Dr. Caligari" uses sharp angles and stark lighting to reflect the protagonist's disturbed psyche.
-- The film's visual style tells a story that intertwines plot and atmosphere, demonstrating how these techniques can convey narrative without sound.
+- With no sound, tone had to come from the camera: angles, lighting, set design, cutting.
+- "Caligari" pushes this to the extreme. The warped sets and stark lighting are the protagonist's disturbed mind made visible.
 
 {{%/ note %}}
 
@@ -56,16 +53,14 @@ margin = 0.2
 
 ## Musical Accompaniment
 
-- Enhancing Silent Film Narratives
 - Example: "City Lights" (1931)
 - Use of music to underscore emotional beats
 - Example scene: [Blind girl regains her sight](https://youtu.be/ZJKfmsuvGHg?si=62KCUGiIMLfKXvMV)
 
 {{% note %}}
 
-- Although silent, films like "City Lights" used musical scores to enhance emotional storytelling.
-- Chaplin’s score for "City Lights" aligns with the film’s emotional moments, guiding the audience's responses.
-- The climactic scene where the blind girl regains her sight showcases how music adds depth to the narrative.
+- "Silent" films were rarely silent in the theater; live music carried the emotion.
+- Chaplin wrote the City Lights score himself, and in the recognition scene the music is doing the work dialogue would do in a sound film.
 
 {{%/ note %}}
 
@@ -74,23 +69,15 @@ margin = 0.2
 
 ## The Impact of Sound on Narrative
 
-- Sound’s Role in Film Narrative
 - Example: "Citizen Kane" (1941)
 - Enhanced realism and immersion through sound
 - Example scene: [Kane’s parents sign him away](https://youtu.be/HAHaRDlUrLw?si=brTn7jLJz3bJrPVr)
 
 {{% note %}}
 
-- The introduction of sound in films added layers of realism and emotional depth to narratives.
-- "Citizen Kane" uses ambient sounds like the howling wind to create a more immersive environment.
-- This use of sound makes the world of the film feel tangible, pulling the audience deeper into the story.
+- Once sound arrives, the world of the film becomes tangible. In this scene the howling wind is a character: cold outside, colder decision inside.
 
-Key Elements of the Scene:
-- The Setting: The scene begins with young Charles Kane playing outside in the snow, unaware of the life-changing decision being made inside the house.
-- The Characters: Inside, his mother, Mary Kane, his father, and Mr. Thatcher, a wealthy banker, discuss Charles's future. Mary Kane has decided to send Charles away to live with Mr. Thatcher, who will raise him and manage the fortune Charles is set to inherit from a mine that unexpectedly became very valuable.
-- The Atmosphere: The cold, wintry setting outside contrasts with the emotionally cold decision being made inside. The howling wind heard through the windows enhances the scene's sense of isolation and inevitability.
-- The Decision: Mary Kane is resolute in her decision, believing it will provide Charles with a better life. Mr. Kane, however, is more hesitant, concerned about losing control over his son. Ultimately, Mr. Thatcher is handed legal guardianship of Charles, marking the start of the boy's journey towards wealth and power—but also his eventual loneliness and despair.
-- Cinematic Techniques: The scene uses deep focus cinematography, which allows viewers to see both the conversations inside and young Charles playing outside simultaneously, emphasizing the disconnect between his innocence and the adult world’s decisions.
+Scene context, if students haven't seen the film: young Charles plays in the snow outside while his mother signs him over to Thatcher, the banker who will raise him and manage his inheritance. Deep focus keeps both visible at once, the boy outside and the decision inside, and the wind through the windows holds the two worlds apart.
 
 {{%/ note %}}
 
@@ -98,29 +85,17 @@ Key Elements of the Scene:
 
 ## Complex Dialogue and Character Development
 
-- Dialogue in Sound Films
 - Example: "Citizen Kane" (1941)
 - Development through layered conversations
 - Example: [The "Rosebud" motif](https://youtu.be/fr93wwtiKQM?si=PDSftMVFY7RVLHtT)
 
 {{% note %}}
 
-- Sound films enabled more complex narratives through dialogue and character interaction.
-- In "Citizen Kane," dialogue reveals character depth, as seen in the discussions surrounding the "Rosebud" motif.
-- These conversations add layers to the characters' motivations, enriching the narrative beyond what silent films could achieve.
+- Sound also brought layered dialogue, and with it a new kind of characterization. The whole film hangs on one spoken word.
 
-The "Rosebud" scene in *Citizen Kane* is one of the most iconic moments in film history, marking the culmination of the movie's exploration of Charles Foster Kane's life and legacy.
+Context: "Rosebud" is Kane's dying word, and the reporters spend the film chasing what it meant. The audience finds out in the last shot, when the camera picks the sled out of his discarded belongings as it burns. It's the childhood he lost in the scene we just watched, which is why these two clips pair well in one class.
 
-### Key Elements of the Scene:
-- **Context**: Throughout the film, reporters try to uncover the meaning behind Kane's last word, "Rosebud," believing it to be the key to understanding his life. The word is first mentioned by Kane as he dies alone in his vast mansion, Xanadu.
-- **Final Scene**: At the end of the movie, the camera pans through Kane's massive collection of belongings, which are being sorted and discarded after his death. In a moment of revelation, the camera zooms in on a simple wooden sled being thrown into a furnace.
-- **The Revelation**: As the sled burns, the word "Rosebud" is revealed, carved into the wood. This sled was from Kane’s childhood, symbolizing the innocence and happiness he lost when he was taken away from his family to live a life of wealth and power.
-- **Symbolism**: "Rosebud" represents Kane's longing for the simplicity and warmth of his early years before his life became dominated by ambition, wealth, and the emptiness that followed. The burning of the sled signifies the destruction of the last remnant of his childhood and the ultimate futility of his pursuits.
-- **Cinematic Techniques**: The use of shadows, deep focus, and the ominous music in this scene creates a sense of melancholy and finality, underscoring the tragic nature of Kane’s life.
 
-This scene is a powerful commentary on the nature of success and the loss of innocence, leaving audiences with a haunting reflection on what truly mattered to Charles Foster Kane.
-
-To view this scene, you can search for "Citizen Kane Rosebud scene" on YouTube, which will provide you with the visual and emotional impact that this moment delivers in the film.
 
 {{%/ note %}}
 
@@ -128,16 +103,14 @@ To view this scene, you can search for "Citizen Kane Rosebud scene" on YouTube, 
 
 ## Sound Effects and Atmosphere
 
-- Creating Atmosphere with Sound
 - Example: "Psycho" (1960)
 - Use of sound effects to build tension
 - Example: [The shower scene with screeching violins](https://youtu.be/0WtDmbr9xyY)
 
 {{% note %}}
 
-- Sound effects are powerful tools in building atmosphere and heightening tension in films.
-- In "Psycho," the screeching violins during the shower scene amplify the horror of the moment.
-- This sound design adds a visceral impact that silent films couldn’t replicate, showing sound’s importance in creating a narrative mood.
+- The Psycho strings blur the line between score and sound effect: they function as a scream.
+- Ask the class whether they'd call this music or sound design. The right answer is yes.
 
 {{%/ note %}}
 
@@ -145,15 +118,13 @@ To view this scene, you can search for "Citizen Kane Rosebud scene" on YouTube, 
 
 ## Music as a Narrative Tool
 
-- Music's Role in Film Narratives
 - Example: "Star Wars" (1977)
-- Music enhancing emotional resonance and guiding narrative
+- Recurring themes guiding the narrative
 - Example: [The Imperial March theme](https://youtu.be/pfuZWP4YDW4?si=f0rNRhKrmkWi4aII)
 
 {{% note %}}
 
-- Music became a key narrative tool in sound films, shaping the audience's emotional journey.
-- In "Star Wars," John Williams’ score underscores critical scenes and character moments.
-- The use of recurring themes like the Imperial March helps tie the narrative together, providing musical cues that guide the story.
+- Williams brought the leitmotif back from opera: recurring themes tied to characters.
+- The Imperial March is narration. When it plays, the film is telling you who is in control, whether or not Vader is on screen.
 
 {{%/ note %}}

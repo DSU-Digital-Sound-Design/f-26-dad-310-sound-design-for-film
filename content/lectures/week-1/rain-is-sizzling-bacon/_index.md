@@ -5,9 +5,11 @@ outputs = ["Reveal"]
 margin = 0.2
 +++
 
-<h2 class="r-fit-text">&ldquo;Rain is sizzling bacon.&rdquo;</h2>
+{{< slide class="quote" >}}
 
-### &mdash; Skip Lievsay
+> Rain is sizzling bacon.
+>
+> &mdash; Skip Lievsay, *sound designer*
 
 ---
 
@@ -15,15 +17,15 @@ margin = 0.2
 
 - Sounds in film often aren't literal representations.
 - Audiences are conditioned to expect certain sounds.
-- Lievsay creatively substitutes sounds for emotional effect.
+- Designers substitute sounds for emotional effect.
 - Notable films include *Gravity*, *Goodfellas*, *No Country for Old Men*.
 
 {{% note %}}
 
-- Sounds like a tape deck might be used for sci-fi alien effects due to cultural associations.
-- Viewers expect certain sounds; deviating can break immersion.
-- Examples: rain as frying bacon, cars as lion roars.
-- Lievsay’s work with the Coen Brothers showcases his innovative approach to sound design.
+- A tape deck can play an alien spaceship because we grew up hearing tape-deck-like sounds in sci-fi. The association is the sound.
+- The audience's expectations set the rules; break them and the scene sounds wrong, even if the recording is "accurate."
+- The article's examples: rain built from frying bacon, car engines sweetened with lion roars.
+- Lievsay has cut sound for every Coen Brothers film, which is where most of today's examples come from.
 
 {{%/ note %}}
 
@@ -34,14 +36,13 @@ margin = 0.2
 - Sound design begins early in pre-production.
 - Processes include sound creation, editing, and mixing.
 - Films are divided into dialogue, effects, music, and Foley.
-- Lievsay’s work creates a cohesive soundscape supporting the visuals.
+- One supervisor oversees it all so the soundtrack hangs together.
 
 {{% note %}}
 
-- Coen Brothers start sound design early to ensure integration with the visual narrative.
-- Sound creation involves selecting and developing sounds that fit each scene’s mood.
-- Editing refines these sounds, while mixing ensures they are well-balanced in the final cut.
-- Separating audio into four elements allows precise control over the film’s auditory experience.
+- The Coens bring Lievsay in early, before picture is locked, so sound is designed with the film instead of bolted on after.
+- The pipeline: sound design (choosing and building the sounds), editing (refining them), mixing (balancing everything in the final cut).
+- Everything on the track falls into one of four buckets: dialogue, effects, music, Foley. The whole course is organized around those buckets.
 
 {{%/ note %}}
 
@@ -57,12 +58,9 @@ margin = 0.2
   
 {{% note %}}
 
-- In *No Country for Old Men*, even silent moments are filled with subtle, layered sounds.
-- Elements like engine hisses, distant traffic, and faint breezes add to the realism.
-- Each sound is chosen to enhance the audience's emotional engagement with the scene.
-- This meticulous approach to sound design is essential to the film’s immersive quality.
-  - The scene's soundscape after the crash is deceptively still, layered with sounds like hissing engines, distant barking, and subtle environmental noises that add depth.
-  - Every sound, from the rustling leaves to Bardem’s labored breathing, is carefully chosen to enhance the scene's realism and tension.
+- The moment after the crash sounds like stillness. It isn't: hissing engines, a distant dog, a car a block away, leaves, Bardem's breathing.
+- None of it was picked up by a microphone on set. Every sound was chosen and placed. That 20 seconds is the whole thesis of the article.
+- Worth saying out loud: "silence" in a film is designed just as deliberately as an explosion.
 
 {{%/ note %}}
 
@@ -70,17 +68,16 @@ margin = 0.2
 
 ## The Art of Foley: Recreating Everyday Sounds
 
-- Foley replicates everyday sounds crucial for realism.
-- Footsteps, clothing rustles, and more are meticulously recreated.
-- Lievsay’s adjustments, like adding footsteps, change scene perceptions.
+- Foley: everyday sounds performed live to picture.
+- Footsteps, clothing rustle, props.
+- One added footstep track can change how a scene feels.
 - Foley involves precise timing and matching sound to action.
 
 {{% note %}}
 
-- Foley artists like Marko Costanzo at “the sound castle” create and perform sounds that match the on-screen action.
-- Adding subtle sounds, such as footsteps, can significantly shift the tone of a scene, making it busier or quieter.
-- Foley requires careful observation and timing to sync sounds with the visual elements.
-- The process involves creativity and technical precision, ensuring each sound fits the film’s context.
+- Marko Costanzo performs the sounds live to picture while engineer George Lara directs and records, cue by cue.
+- The Don Cheadle story: a scene felt "too dreamy," so Lievsay gave a passing woman footsteps. One Foley choice changed the tone of the room.
+- This is the article's preview of our Foley unit: performance, timing, and watching the screen like a musician watches a conductor.
 
 
 
@@ -90,17 +87,16 @@ margin = 0.2
 
 ## Lievsay’s Unique Approach and Influence
 
-- Lievsay’s work is characterized by simplicity and precision.
+- Simplicity and precision over "sound by the pound."
 - Collaboration with directors like Scorsese and the Coen Brothers.
 - Uses unique sound effects, like the recurring “mooing car” in Coen Brothers' films.
 - Lievsay’s belief: sound design is more craft than art.
 
 {{% note %}}
 
-- Lievsay avoids “sound by the pound,” focusing on what’s essential and impactful in a scene.
-- His early work with Scorsese includes *The Color of Money* and *Cape Fear*, where he demonstrated innovative sound techniques.
-- The Coen Brothers appreciate Lievsay’s early involvement in sound design, which aligns sound closely with their narrative vision.
-- The recurring sound of a car that mooed like a cow in Manhattan reflects Lievsay’s sense of humor and creativity.
+- "Sound by the pound" is his phrase for the thing he refuses to do: piling on effects because you can.
+- Early Scorsese credits: *The Color of Money*, *Cape Fear*.
+- His running joke: a recording of a Manhattan car that sounds like a cow mooing, hidden in film after film. Listen for it this semester.
 
 {{%/ note %}}
 
@@ -111,14 +107,13 @@ margin = 0.2
 - Sound bypasses higher reasoning, directly impacting emotions.
 - Loud, accurate sounds like gunfire can make the body believe in their reality.
 - Mixing sounds, like gunfire or a cockroach’s footsteps, requires balance and precision.
-- Sound design plays a critical role in shaping the viewer’s emotional response to scenes.
+- The mix decides what the audience feels, moment to moment.
 
 {{% note %}}
 
-- The visceral impact of sound, like gunfire, can make viewers feel as if they are in the scene.
-- Even tiny sound cues, like a cockroach’s steps, are carefully designed to maintain the film's mood.
-- Lievsay’s work on *Miles Ahead* demonstrates the importance of balance in sound mixing, with Don Cheadle preferring a calm working atmosphere.
-- The final tweaks in sound can define a film’s emotional climax, as seen in the final trumpet note in *Miles Ahead*.
+- The article's claim: sound bypasses reasoning and hits the body first. A gunshot at the right level makes you flinch before you think.
+- The same care goes into the smallest cues; a cockroach's footsteps get designed too.
+- On *Miles Ahead*, the mix came down to details as small as the last trumpet note. That's the scale sound editors work at.
 
 {{%/ note %}}
 
