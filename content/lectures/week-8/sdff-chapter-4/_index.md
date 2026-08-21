@@ -12,14 +12,12 @@ slide_number = "c/t"
 
 ## Emotion, Tone, and Working with Music
 
+This deck follows Tim Harrison, *Sound Design for Film*, ch. 4.
+
 {{% note %}}
 
-* Sound design is a key element in creating the mood and tone of a film.
-* It works alongside music, image, and performance to evoke certain emotions in the audience.
-* The sound designer begins by keying into the emotions of the script and then reimagines them through sound.
-* They create a sense of "something in the air" for each scene, and help to shape the emotional thread that leads the audience through the story.
-
-In other words, the sound designer uses sound to create a feeling in the audience that matches the tone of the film. They do this by working closely with the director, cinematographer, and other members of the creative team to ensure that all of the elements of the film are working together to create a cohesive and immersive experience.
+* Harrison's framing for the whole chapter: mood is relational. The same sound lands differently depending on the situation around it, which is why the matrix two slides ahead works.
+* The sound designer starts from the emotions in the script and reimagines them as sound, building the "something in the air" of each scene.
 
 {{%/ note %}}
 
@@ -34,20 +32,9 @@ In other words, the sound designer uses sound to create a feeling in the audienc
   - Non-diegetic - sound outside the world of the film
 
 {{% note %}}
-* The different areas of the soundtrack offer distinct possibilities for generating mood.
-* Emotions can be created through:
-    * **Diegetic sound:** This is sound that has a source within the scene and reaches the ears of the characters. For example, the sound of a car driving by or a character speaking.
-    * **Non-diegetic sound:** This is sound that lies beyond the physics of the story world and has no material cause. For example, music, sound effects that are added in post-production, or a voiceover.
-
-**Examples of non-diegetic sound that can be used to create mood:**
-
-* An impact when a title appears
-* A sound in the protagonist's imagination
-* A ghostly noise to indicate an eerie presence in the room
-
-Non-diegetic sound can be a very effective way to create a particular mood in a film. For example, the use of suspenseful music in a horror film can help to build tension and anticipation. Or, the use of upbeat music in a comedy film can help to create a sense of fun and excitement.
-
-Sound designers use a variety of techniques to create different types of moods in films. They carefully consider the placement of sound effects, the type of music that is used, and the overall soundscape of a scene. By doing so, they can create a truly immersive experience for the audience.
+* Diegetic sound has a source inside the scene and reaches the characters' ears, like a passing car or a spoken line.
+* Non-diegetic sound lies outside the story world and has no material cause: score, a title impact, a sound in the protagonist's imagination, a ghostly noise with no source in the room.
+* Harrison's point is that each layer offers different mood possibilities, and the matrix on the next slide shows why placement matters more than the sound itself.
 {{%/ note %}}
 
 ---
@@ -249,19 +236,11 @@ In conclusion, music and sound design are two essential elements of filmmaking t
     * For background elements — radios, televisions, parties next door — a sound designer may use their own creations or public domain music to create the right mood.
     * Sound designers may also experiment with adding a musical instrument to the environment, such as a busker, wind chimes, or a music box (a common cliché in horror films).
 
-**Summary of the sing-along scene in American Honey:**
+**American Honey, the sing-along:**
 
-* The scene takes place in the back of a van, as the characters drive through the American Midwest.
-* The van is packed with young people from all walks of life, and they are all singing along to the song "American Honey" by Lady Antebellum.
-* The scene is full of energy and excitement. The characters are singing and dancing, and they are all having a great time.
-* The camera moves around the van, capturing the different characters and their expressions of joy.
-* The scene is also visually stunning. The director, Andrea Arnold, uses natural light and beautiful scenery to create a sense of freedom and possibility.
-* The characters are surrounded by endless fields of corn and sunflowers, and the sky is a clear blue.
-* The sing-along scene is more than just a fun musical number. It is also a powerful metaphor for the characters' search for identity and belonging.
-* They are all young people who are trying to find their place in the world, and the sing-along scene is a moment when they all come together and feel a sense of community.
-* The scene is also significant because it reflects the film's themes of youth, freedom, and the American dream.
-* The characters are all chasing their dreams, and the sing-along scene is a moment when they can all let go and be themselves.
-* Overall, the sing-along scene in American Honey is a powerful and moving scene that captures the essence of the film. It is a scene that is full of energy, excitement, and hope.
+* The track is fully diegetic: sung in the van, through bad speakers, with voices out of tune against it. Harrison's context-and-content idea is right here. The song's content is a radio hit, and the context of a shared van and shared singing is what turns it into mood.
+* Ask: what happens to the scene if the same song plays non-diegetically, clean and full-range? That is exactly the Spider-Verse comparison two slides ahead.
+* Worth naming Murch's warning, which Harrison quotes: leaning on music to force emotion is "steroid-like" artificiality. This scene earns its music by keeping it inside the world.
 
 {{%/ note %}}
 

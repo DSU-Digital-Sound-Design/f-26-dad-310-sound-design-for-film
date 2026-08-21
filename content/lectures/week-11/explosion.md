@@ -8,20 +8,21 @@ Create a dramatic explosion soundscape for a key moment in an action film. This 
 
 Our explosion occurs when the protagonist triggers a detonator, igniting a series of charges they had planted around the antagonist's lair. The goal is to create a visceral yet stylized Hollywood explosion that supports the visuals and dramatic arc. 
 
-Begin by gathering raw material - rumbles, punches, fire crackles, roars, hisses, and debris movements. Source these from online libraries like SoundQ, recording your own efforts, and manipulating pitch, speed, and direction. 
+Begin by gathering raw material from libraries like SoundQ and from your own recordings. Real explosions record small and one-dimensional, so designers build them in layers. In *The Sound Effects Bible*, Ric Viers breaks an explosion into four physical layers, which map onto our folder tracks:
 
-Organize layers into folder tracks:
+- **Concussion** (our Punch and Rumble tracks) is the attack and pressure wave. Good sources are firework mortar blasts, shotguns, heavy metal impacts, and snare hits pitched down.
+- **Debris** must match the environment on screen: earth for an outdoor blast, glass and metal and wood for a building. Choose stereo debris recordings, because the left-and-right scatter is where the realism lives.
+- **Trail-off** (our Hiss and Roar tails) should not depend on the room you recorded in. Apply a 5 to 15 second dark reverb to the concussion and pitch the result down. For a swell into the blast, reverse the concussion, reverb it, pitch it down, and tuck it in front of the hit.
+- **Fireball** (our Fire track) can come from torch whooshes processed with a Doppler plugin, or from blowing directly on the mic and pitch-layering the rumble.
 
-- Rumble - deep, sustained, ominous tones
-- Punch - sharp attacks to punctuate key moments 
-- Fire - chaotic crackling and whooshing 
-- Roar - mid-range turbulent rush
-- Hiss - sizzling, pressure releasing
-- Debris - crashing, falling objects
+Two techniques do most of the heavy lifting:
 
-Shape each layer's envelope and automate effects. Align distinct moments like detonation impacts and building collapses. Design the stereo field to match camera perspectives. EQ and compress thoughtfully. 
+- **Pitch layering.** Copy the blast to four tracks: dry, then -3, -6, and -9 semitones. The stack adds instant mass. Keep the dry layer on top, because pitching down dulls the highs that carry the attack.
+- **Sweeteners.** Layer a pitched-down shotgun under the hit and scatter glass on top. Viers's favorite trick for ferocity is an animal growl layered under the concussion.
 
-The overall arc moves from tension to release. Draw the audience into the protagonist's focused act, shocking their senses, then resolve in smoke and ruin. Match the drama and emotions of the scene through imaginative sound design.
+Shape each layer's envelope and automate effects. Align distinct moments like detonation impacts and building collapses, and design the stereo field to match the camera perspectives. The overall arc moves from tension to release: draw the audience into the protagonist's focused act, shock their senses, and resolve in smoke and ruin.
+
+Source: Ric Viers, *The Sound Effects Bible* (Michael Wiese, 2008), the explosion design and layering chapters.
 
 ## Explosion Soundscape Rubric (20 points)
 
@@ -46,4 +47,4 @@ Mixing and Effects (3 points)
 
 Overall Arc and Emotion (2 points)
 - Sequence moves from tension to release 
-- Sounds choices evoke a sense of drama and emotion
+- The design follows the scene's arc: the swell, the impact, the trail-off, and the aftermath are each audible and placed to picture

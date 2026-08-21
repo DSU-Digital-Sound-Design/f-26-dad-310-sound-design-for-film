@@ -35,8 +35,6 @@ But why use metaphor at all?
 - Overly simplistic, spoon-fed narratives tend to bore audiences. Viewers want to be challenged and intellectually engaged.
 - Ambiguity and openness to interpretation make a film richer. By allowing space for the audience's imagination, a movie's meaning can expand in multiple directions. 
 - The audience is an active participant in constructing the film's significance. Meaning is not inherent in the images/sounds alone, but arises through the interaction between the material and the viewer.
-
-Ultimately, you argue that cinema is a collaborative endeavor between the filmmaker's craft and the audience's imagination. The filmmaker sets the stage, but the audience brings it to life by actively engaging with the meanings, symbols and ambiguities woven into the film. It's a compelling perspective on the nature of the cinematic experience. Let me know if I've accurately summarized your key points! I'm happy to discuss this idea further.
 {{%/ note %}}
 
 ---
@@ -223,17 +221,13 @@ Philosophical Themes: The water could symbolize the fluid nature of reality and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b07U7DtAflY?si=i_8DKZ6pyEwsqYKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
-Musical texture use as sound effects to create a brooding but ambiguous tone. 
+The 2049 sound world, in the team's own accounts:
 
-- Sound designer Mark Mangini created many iconic sound effects, like the "spinner" hovercrafts using manipulated bullroarers and subwoofer vibrations.
-- His approach involved using sonic metaphors that matched the visuals, like spinning sounds for the spinners. 
-- Director Denis Villeneuve had sound inform the edit from the start, allowing it to shape the final picture. 
-- Instead of a music-driven score, they used "musical sound effects" to set mood and atmosphere.
-- Editor Joe Walker describes their minimalist approach to music, relying more on sound design. 
-- The sound team experimented to build complex futuristic audio landscapes.
-- Mangini and re-recording mixer Ron Bartlett share insights into the creative sound process.
-- The video emphasizes the vital role of sound design in sci-fi and the need to take risks and constantly educate yourself.
-- Overall, it provides an inside look at how the team designed the dystopian sonic world of Blade Runner 2049.
+- Mark Mangini built the spinner sound from a bullroarer, an instrument you spin over your head, and then processed the whirl with Doppler and modulation plugins for the fly-bys.
+- K's blaster is a field recording of a Barrett .50-cal rifle layered with a Roland TR-909 kick drum and heavily compressed.
+- Villeneuve's brief was to "compose with sound": no off-the-shelf library effects, and pads and textures built to replace score in some scenes. That is this chapter's sound-world idea in practice, a world with its own compositional rules.
+
+Sources: Waves Audio, "Unlocking the Sound Design of Blade Runner 2049" (2018); Gold Derby video interview with Mangini and Theo Green (2018).
 {{%/ note %}}
 
 ---
@@ -245,29 +239,14 @@ Musical texture use as sound effects to create a brooding but ambiguous tone.
 {{% note %}}
 Skippable if short on time — the featurette before this covers the 2049 sound world; play scenes only if the discussion wants them.
 
-Scene: Opening in the City (K's Apartment)
+K's apartment, and how Joi is built:
 
-Description: Early in the film, we see K returning to his apartment after his mission. The soundscape is filled with mechanical hums, drones, and the constant hum of flying vehicles. There’s an overwhelming presence of industrial noise, which dominates the background. The artificial AI companion Joi adds another layer of synthetic sound to the environment.
+- Theo Green anchored Joi physically through the whirring of the ceiling projector motors that track her around K's apartment. Her body is a sound before it is an image.
+- In the rooftop rain scene, Green added "fizzy glitches as the rain goes through her, until it starts landing on her skin."
+- Her voice was cleaned of lip smacks and mouth noise, so she sounds slightly too clean next to the human voices. The symbol is carried by fidelity itself.
+- Ask: which sounds tell you Joi is not real, and when do they stop telling you that?
 
-Sound World: This scene epitomizes the industrial, dehumanized soundscape of the city. The omnipresent mechanical sounds reflect the cold, dystopian environment in which K lives, where human connections are scarce, and technology pervades every aspect of life.
-
-Why it works: The oppressive, mechanical soundscape emphasizes the disconnection from nature and the dominance of technology in K's world. It heightens the theme of isolation in a city where human experiences are mediated through synthetic, manufactured realities.
-{{%/ note %}}
-
----
-
-### Scene: K's Pursuit in the City (Downtown Streets)
-
-
-
-{{% note %}}
-Scene: K's Pursuit in the City (Downtown Streets)
-
-Description: As K navigates the crowded city streets during his investigation, the urban soundscape overwhelms the scene. We hear the roar of flying vehicles, advertisements blaring from holograms, and the constant background noise of crowds. The mechanical sounds of the city create a feeling of claustrophobia and sensory overload.
-
-Sound World: This chaotic soundscape reflects the overwhelming, industrial environment of the dystopian city. The sounds of technology dominate the landscape, reinforcing the theme of human isolation in a city overrun by artificial constructs.
-
-Why it works: The industrial sounds create a stark contrast with the quieter moments later in the film, showcasing the overwhelming nature of urban life in this dystopian future and emphasizing the dehumanizing effects of living in such an environment.
+Source: The Credits (Motion Picture Association), "Love & Other Illusions," interview with Theo Green (Dec 2017). Quote verbatim.
 {{%/ note %}}
 
 ---
@@ -276,11 +255,9 @@ Why it works: The industrial sounds create a stark contrast with the quieter mom
 
 
 {{% note %}}
-Scene: K's Journey to the Ruins of Las Vegas
+The Vegas desert sequence was scored, and then the music was pared back to near silence in the final mix. The emptiness students hear is a subtraction decision, not an absence of design. After the density of the city, the sparse wasteland completes the film's two-world contrast: loud, synthetic, and crowded against quiet, natural, and empty, with K's isolation audible in both.
 
-Description: K ventures into the orange-tinted desert wasteland of the ruins of Las Vegas, seeking Rick Deckard. The soundscape becomes eerie and sparse, with only the wind and distant echoes filling the vast, empty landscape. The desolate environment is quiet and barren, with occasional faint sounds of debris blowing in the wind.
-Sound World: This scene contrasts sharply with the urban sound world, as the sound of wind and the echoing emptiness take the place of the industrial noise. The barren soundscape reflects the isolation and loneliness of the landscape.
-Why it works: The sparse sound design heightens the feeling of desolation and isolation, reflecting K’s own emotional state. The absence of noise is striking after the cacophony of the city, emphasizing the contrast between the artificial, chaotic city and the natural, desolate wasteland.
+Source: the Dolby Institute podcast conversation with the 2049 sound team (via A Sound Effect).
 {{%/ note %}}
 
 ---
@@ -292,14 +269,7 @@ Why it works: The sparse sound design heightens the feeling of desolation and is
 {{% note %}}
 Skippable if short on time — same 2049 thread as the apartment scene.
 
-Scene: K's Confrontation with Deckard (Inside the Abandoned Casino)
-
-Description: Inside the dilapidated casino, the sound world is filled with echoes and distant, muffled sounds. The abandoned space amplifies every footstep, and the occasional sound of broken glass or objects being knocked over echoes through the empty halls. The eerie silence contrasts with the mechanical, industrial sound world of the city.
-Sound World: The quiet, empty space reflects the long-abandoned nature of this once-bustling location. The desolate soundscape enhances the feeling of isolation and decay.
-Why it works: The isolation of the sound design reflects both Deckard’s self-imposed exile and K’s internal struggle. The empty, reverberating sound world contrasts with the densely packed, chaotic city, emphasizing the theme of desolation in this new setting.
-
-**Why These Scenes Work Together:**
-The contrast between the urban dystopia scenes and the desolate wasteland scenes serves to emphasize the film’s core themes of artificiality versus nature, technology’s dehumanizing effects, and the profound isolation that pervades both environments. While the city is loud, chaotic, and synthetic, the wasteland is eerily quiet, vast, and empty, representing two extremes of human experience in a futuristic world. The sound differences not only create a powerful visual and auditory contrast but also underscore the emotional and philosophical journey of the characters.
+Inside the abandoned casino, every footstep and knocked-over object echoes through empty halls. The reverberant space is the opposite of both the dense city and the dead-quiet desert, which makes it a third sound world: a place where sound lingers because nothing absorbs it anymore. Ask what the reverb says about how long Deckard has been alone here.
 {{%/ note %}}
 
 

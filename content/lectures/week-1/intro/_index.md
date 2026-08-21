@@ -5,18 +5,21 @@ outputs = ["Reveal"]
 margin = 0.2
 +++
 
-## Introduction to Sound Design in Film
+## Is film a visual medium?
 
-- Overview of course and objectives
-- Importance of sound in film
-- How sound influences audience perception
-- Activity: Watch a clip without sound
+> My opinion is that film is definitely not a "visual medium."
+>
+> -- Randy Thom, sound designer (The Incredibles, Cast Away)
+
+- We will watch a scene twice, once silent and once with sound.
+- Write down what the scene is "about" each time.
 
 {{% note %}}
 
-- Outline the course structure and what we'll cover this semester.
-- The claim of the day: sound decides how an audience reads a scene. Mood, space, emotion, even what the scene is about.
-- Show a 1-2 minute clip with the sound off. Have students note what they think is happening; come back to their answers after the clips below.
+- Thom's line is deliberately provocative, and students will argue with it. Park the argument until after the silent-clip comparison, then ask the question again.
+- Show a 1-2 minute clip with the sound off. Have students note what they think is happening, and come back to their answers after the clips below.
+- The quote is from Thom's essay "Designing A Movie For Sound" (filmsound.org, 1999), which we read in week 2.
+- Course structure and semester overview move to the closing slide, after the clips have made the argument.
 
 {{%/ note %}}
 
@@ -89,4 +92,17 @@ margin = 0.2
 - The scene plays with almost no dialogue; character, comedy, and menace (EVE's cannon) are all carried by sound.
 - A useful correction to the idea that sound design means "adding effects to reality" — here the sound invents the reality.
 
+{{%/ note %}}
+
+---
+
+## Where this course goes
+
+- We come back to the opening question: is film a visual medium?
+- The semester walks the whole post-production sound chain: Foley, field recording, sound effects editing, ambiences, dialogue, and the final mix.
+- The schedule page lists every week, screening, and assignment.
+
+{{% note %}}
+- Revisit the students' silent-clip notes from the opening and ask what changed with sound on.
+- Walk the schedule briefly and point out the two screenings and the final project.
 {{%/ note %}}

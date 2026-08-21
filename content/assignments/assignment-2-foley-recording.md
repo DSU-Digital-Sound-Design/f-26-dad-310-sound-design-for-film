@@ -16,6 +16,19 @@ This 10-second animation features a robot playing with a rubber duck. Your chall
 
 Working in teams of three (or two) from Assignment 1, use Reaper to **record** and **layer** Foley sound effects for the animation.
 
+## Recording Setup
+
+- Record in the studio at 96 kHz / 24-bit, the same spec as Assignment 3.
+- Use one of the small-diaphragm cardioids from the [recording lesson](/lectures/week-4/recording-foley/), with the AT 4041 as the first choice. Place it about 6 inches above the surface, 1 to 2 feet from the performer, angled at the contact point. This is Ament's close-mic geometry from *The Foley Grail*.
+- Lay out the session the way the [spotting lesson](/lectures/week-5/spotting/) teaches: one track per layer, with the robot's servo movements, the impacts and props, and the surface contact each on their own track, and any continuous movement on a separate pass.
+- Slate each take with the object, the surface, and the action, for example "metal grabber arm, rubber duck squeeze, take 3."
+- Keep peaks below -6 dBFS, and re-record anything that clips.
+
+## Performance Notes
+
+- The robot has weight and rhythm. Watch the animation twice and mark the beats before you record anything.
+- Ament's cueing rule applies on our stage too: leave a breath before each cue and perform through the movement rather than chasing individual frames.
+
 ## Project Requirements
 1. Cover all sound-making objects and events in the 10-second animation.
 2. Demonstrate high-quality recordings, precise synchronization, and a well-balanced final mix.

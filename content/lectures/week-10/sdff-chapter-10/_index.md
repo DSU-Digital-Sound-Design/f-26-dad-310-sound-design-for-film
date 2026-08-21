@@ -11,6 +11,8 @@ outputs = ["Reveal"]
 
 ## Transitions, Rhythm And Time Perception
 
+Sources for this deck: Tim Harrison, *Sound Design for Film*, ch. 10, and Walter Murch, *In the Blink of an Eye*, 2nd ed.
+
 ---
 
 > What is the essence of the director’s work? We could define it as sculpting in time.
@@ -145,13 +147,27 @@ In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together 
 
 ---
 
-### Sound Bridge 1
+### Prelap
 
+- The sound of the next scene arrives before its picture does.
+- Murch calls the effect "fruitful confusion": for a moment you hear the sound metaphorically, and then the cut explains it.
+
+{{% note %}}
+- The M whistle you just heard is the classic case: the killer's sound precedes and outruns his image.
+- Source: Harrison, ch. 10, quoting Murch.
+{{%/ note %}}
 
 ---
 
-### Sound Bridge 2
+### Postlap
 
+- The sound of the last scene lingers over the new picture, often with a long reverb tail.
+- The outgoing emotion overstays into the next scene on purpose.
+
+{{% note %}}
+- An editing tip that saves a lab day: hard ambience cuts land on the first frame of the new scene, and the cut goes at a zero crossing, or you ship an audible click.
+- Source: Harrison, ch. 10.
+{{%/ note %}}
 
 ---
 
@@ -177,8 +193,6 @@ In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together 
 
 {{% note %}}
 Skippable if short on time — the Apocalypse Now slide's notes make the same compound-time point.
-
-Certainly! Let's delve deeper into the specific film examples mentioned:
 
 **1. A Touch of Evil (Directed by Orson Welles, 1958)**
 
@@ -229,6 +243,7 @@ Both film examples adeptly utilize sound to enhance the narrative's impact, show
     * Propel scenes forward.
     * Use everyday rhythmic elements like clocks, heartbeats, or dripping faucets.
     * Align with scene transitions for cohesion.
+* The rate of sounds changes how fast time feels: fast, unpredictable sounds compress a chase, while elongated sounds stretch a dream.
 {{%/ note %}}
 
 ---
@@ -291,19 +306,7 @@ Both scenes are masterful examples of how sound design can be integral to a film
   - How sounds are grouped can indicate intention or coincidence.
   - The rule of threes, similar to story structure and visual composition, resonates strongly in sound. For instance, three dog barks seem more satisfactory than any other number.
 
-{{%/ note %}}
-
----
-
-## Chase scenes
-
-
-{{% note %}}
-
-- **Modulation of Time Perception:**
-  - Altering sound rates impacts how fast or slow time seems to the audience.
-  - Fast-paced sounds heighten urgency in chase scenes, while elongated sounds evoke surrealism in dream sequences.
-  
+This phrasing material is Harrison's (ch. 10), including the observation that real alarms repeat in odd numbers.
 {{%/ note %}}
 
 ---
@@ -370,16 +373,12 @@ If short on time, play just one of the two clips — either makes the empathetic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30QzJKCUekQ?si=fZNDkKG7q9rwv7mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
-**Walter Murch on Blinking**:
-- Walter Murch is a legendary film editor and sound designer who's shared various insights into the craft of film editing.
-- He introduced the notion of the "blink of an eye" as a natural cutting point. Murch believes that in a well-edited film, the cuts between scenes will align with moments when the audience would naturally blink, resulting in a more immersive and less jarring cinematic experience.
-- This concept is somewhat analogous to Chion's theory on breathing. Just as Chion believes that breathing sounds in film can affect an audience's own respiration, Murch thinks that a film's editing rhythm can influence an audience's blinking patterns. When the edit coincides with a character's internal rhythms or the emotional beats of a story, the audience may blink in unison, further drawing them into the story's world.
+**Walter Murch on blinking** (In the Blink of an Eye, 2nd ed.):
+- Murch's claim is physiological: we blink to punctuate thoughts, not just to wet our eyes. A listener blinks at the exact moment they "get" what a speaker is saying.
+- A good cut lands on the audience's blink point. When the editing rhythm matches the story's emotional beats, the whole theater blinks together.
+- This pairs with Chion's breathing idea on the previous slide: both argue that film is a physiological experience, synchronizing bodies with the screen.
 
-Both theorists touch on the idea that film isn't just a visual or auditory experience; it's a deeply physiological one. Sound and editing rhythms can bridge the gap between the screen and the audience, making the cinematic experience more visceral and engaging.
-
-* "Apocalypse Now" (1979): Another collaboration between Coppola and Murch. This film about the Vietnam War has many scenes where the rhythm of the editing aligns with the emotional and psychological state of the characters, allowing for a deeper connection with the audience. For instance, during the famous "Ride of the Valkyries" helicopter attack scene, the cuts are rapid and intense, matching the chaos of the scene, and potentially guiding the audience's blinks to match the rhythm of the action.
-
-It's important to note that while these principles offer a fascinating lens through which to analyze film, not every filmmaker or editor explicitly uses them. However, the concepts introduced by Chion and Murch offer a deeper understanding of how film can be a truly immersive and physiological experience.
+* "Apocalypse Now" (1979): Another collaboration between Coppola and Murch. During the "Ride of the Valkyries" helicopter attack, the cuts are rapid and intense, matching the chaos of the scene and, in Murch's account, guiding the audience's blinks to the rhythm of the action.
 {{%/ note %}}
 
 ---

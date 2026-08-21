@@ -24,20 +24,12 @@ Here are some options:
 Your final submission should integrate all elements of sound design that we've discussed throughout our course. Each sound design must include the following components:
 
 ### Foley
-- **Recording Live Foley**: Endeavor to record as much live foley as you can, capturing the essence of the characters through the sounds of their interactions with the world.
-  - **Types of Foley**:
-    - *Moves/Cloth*: Any sounds associated with the characters' movements or their clothing.
-    - *Footsteps*: The sounds made by characters' movements across various surfaces.
-    - *Specifics/Spots/Props*: Distinctive sounds that objects make in the environment, directly related to the characters' interactions.
-  - Use studio equipment for in-house sounds, and a portable zoom recorder for those that need to be captured outside the studio setting.
+- Record as much live Foley as you can. Cover all three layers you practiced in Assignments 1 and 2: moves, footsteps, and specifics.
+- Use the studio for controlled recordings and the Zoom recorder for anything you need to capture elsewhere.
 
 ### Ambiences
-- **Ambience Tracks**:
-  - *Beds*: These are your continuous sound layers that act as the foundation of your scene.
-  - *Details*: These are momentary sounds that add texture and depth at key moments within the scene.
-- **Indoor/Outdoor**: Fabricate authentic ambiences appropriate to your scene's setting.
-  - *Room Tone*: For indoor scenes, use a room tone to establish the space's auditory environment.
-  - *Outdoor Sounds*: Include earthly, human, and non-human life sounds as we've explored in previous weeks.
+- Build each setting from beds and details, following the [Setting lesson](/lectures/week-6/sdff-chapter-3/) and Assignment 6.
+- Indoor scenes need a room tone, and outdoor scenes need the geophony, biophony, and anthrophony layers from the field recording unit.
 
 ### Miscellaneous Sound Effects (SFX)
 - For all other on-screen elements that do not fall under dialogue, foley, or ambience.
@@ -47,7 +39,7 @@ Your final submission should integrate all elements of sound design that we've d
 - List each track's title, source, and license in your documentation.
 
 ### Final Mix
-The final mixdown is where you balance and blend all the elements to achieve the intended emotional impact. Follow the [final mix lesson](/lectures/final-mix-deliverables/): the finished render should measure **-24 LUFS integrated with true peak under -2 dB** (check it with "Calculate loudness" in REAPER's render dialog).
+Follow the [final mix lesson](/lectures/final-mix-deliverables/): the finished render should measure **-24 LUFS integrated with true peak under -2 dB** (check it with "Calculate loudness" in REAPER's render dialog).
 - **Dialogue**: Start with the dialogue tracks if you're using them. The overall levels should average between -12 dB to -6 dB. Utilize compression to maintain consistency in the dialogue's dynamic range.
 - **Integrating Foley, SFX, and Ambience**: Once the dialogue sits well in the mix, incorporate the foley, followed by other SFX, and finally, the ambiences.
 - **Reverb and Panning**: Use reverb SENDs to unify the sound elements by placing them in the same acoustic space. Employ panning and its automation to match the sounds to the on-screen action spatially.

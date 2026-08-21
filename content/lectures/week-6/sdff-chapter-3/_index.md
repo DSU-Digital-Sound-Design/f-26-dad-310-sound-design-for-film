@@ -74,8 +74,6 @@ Here are some ways the 2011 film version of Wuthering Heights uses ambient sound
 - Farm animals like cows and horses can be heard faintly in the background, highlighting the agricultural setting.
 - Rain and thunderstorms heighten the drama and Gothic tone during climactic scenes.
 - Music fades in and out of ambient sounds rather than starkly beginning/ending, seamlessly blending mood.
-
-Overall, ambient sounds are used thoughtfully in the film to establish a strong sense of place and augment the mood and emotions of each scene. The sounds ground the story in its remote rural setting.
 {{%/ note %}}
 
 ---
@@ -222,15 +220,11 @@ The dead air inside the spaceship emphasizes isolation and introspection, making
 - **Settling** - Creaks and cracks of the building itself. Gives a sense of the physical space.
 
 {{% note %}}
-A sound designer can reflect the inner life of a subject through the sounds of their home in the following ways:
+The design question this list serves: a home's sounds are choices, and every choice tells the audience something about who lives there.
 
-- Objects and technology: The types of objects and technology that a person chooses to fill their home with can reveal a lot about their personality and interests. For example, a person with a lot of musical instruments or books might be creative and introspective, while a person with a lot of sports equipment or video games might be more outgoing and active.
-- Radio and TV: The radio station that a person listens to and the TV shows that they watch can also reveal a lot about their personality and interests. For example, a person who listens to classical music and watches documentaries might be more intellectual and cultured, while a person who listens to pop music and watches reality TV might be more down-to-earth and fun-loving.
-- Ambience: The overall ambience of a home can also reflect the inner life of its subject. For example, a cold and reflective space might suggest that the subject is withdrawn and introverted, while a warmer and more inviting space might suggest that the subject is open and extroverted.
+Exercise for the room: pick a character from your screening film. List five sounds their home makes, and say what each one gives away.
 
-Sound designers can use all of these elements to create a soundscape that reflects the inner life of a subject. For example, they might use harsh, metallic sounds to represent a character who is angry and aggressive, or soft, soothing sounds to represent a character who is calm and peaceful.
-
-**Should the outside world break into the room with the character or not?**
+Then the bigger question, which the next three clips answer differently: **should the outside world break into the room with the character or not?**
 {{%/ note %}}
 
 ---
@@ -370,14 +364,9 @@ The scene mostly focus's on the main character's face
 
 The opening scene in the movie "Son of Saul" uses soundscape to convey the camp's atrocities in the following ways:
 
-* **The scene opens with the sound of screaming.** This immediately sets the tone for the film and gives the viewer a sense of the horror that is to come.
-* **The screaming is accompanied by the sound of barking dogs and gunfire.** This creates a sense of chaos and confusion, and it suggests that the viewer is witnessing something terrible.
-
-The soundscape in the opening scene of "Son of Saul" is incredibly immersive and realistic. It helps to create a sense of immediacy and intimacy for the viewer, and it conveys the atrocities of the concentration camps in a way that is both visceral and emotional.
-
-The use of sound in this scene is particularly effective because it is not over-the-top. The sound of the screaming, the barking dogs, the gunfire, the buzzing flies, and the burning ovens are all sounds that would have been present in a real concentration camp. This makes the scene feel more authentic and believable, and it makes the atrocities of the camp more real for the viewer.
-
-The opening scene of "Son of Saul" is a powerful and disturbing depiction of the Holocaust. The soundscape plays a vital role in conveying the atrocities of the camp, and it helps to create a film that is both unforgettable and emotionally resonant.
+* The scene opens with screaming, joined by barking dogs and gunfire, before the camera shows any of it.
+* The camera stays on Saul's face while the camp stays in the sound: buzzing flies, shouted orders, the ovens. Every sound is one that would have been present, and none of it is exaggerated.
+* Ask: how much of what you "saw" in this scene did you actually hear?
 {{%/ note %}}
 
 ---
@@ -387,21 +376,13 @@ The opening scene of "Son of Saul" is a powerful and disturbing depiction of the
 [Watch the scene on YouTube](https://www.youtube.com/watch?v=oQrX-6NGzl8&t=4125s) (age-restricted, so it can't play embedded here)
 
 {{% note %}}
-Hunger takes a different approach to extension, with a soundscape that barely expands the frame. Telling the story of Bobby Sands’ fatal hunger strike in the Maze Prison in Northern Ireland, designer Paul Davies avoids the typical background of off- screen shouts and cell-door slams, instead focusing on the claustrophobia of the cell itself. This works to bring us into the character’s singular, extremely determined perspective, as we come to terms with the profound price he is willing to pay.
+Hunger takes a different approach to extension, with a soundscape that barely expands the frame. Telling the story of Bobby Sands’ fatal hunger strike in the Maze Prison in Northern Ireland, designer Paul Davies avoids the typical background of off-screen shouts and cell-door slams, instead focusing on the claustrophobia of the cell itself. This works to bring us into the character’s singular, extremely determined perspective, as we come to terms with the profound price he is willing to pay.
 
-The sound design in Steve McQueen's 2008 film Hunger is used to great effect to create a sense of claustrophobia and tension. The film tells the story of Bobby Sands (Michael Fassbender), a member of the Irish Republican Army who went on a hunger strike while imprisoned in Maze Prison in Northern Ireland.
+Three moments to point at:
 
-The film is shot in a very confined space, and the sound design reflects this. The sound of the prison walls is constantly present, and it serves as a reminder of the characters' confinement. The sound of the other prisoners can also be heard, but it is muffled and distant, which creates a sense of isolation.
-
-The film also uses silence to great effect. There are many scenes where there is no dialogue or sound effects, and this silence serves to highlight the characters' loneliness and despair.
-
-Here are some specific examples of how the sound design in Hunger emphasizes the claustrophobia of the prison:
-
-* In the opening scene of the film, the viewer can hear the sound of the prison walls echoing. This creates a sense of confinement and claustrophobia.
-* In the scene where Sands is being force-fed, the viewer can hear the sound of the feeding tube going down his throat. This is a visceral and disturbing sound, and it emphasizes the brutality of the force-feeding process.
-* In the scene where Sands is dying, the viewer can hear the sound of his breathing becoming increasingly labored. This is a heartbreaking sound, and it emphasizes the suffering that Sands is going through.
-
-The sound design in Hunger is one of the many things that makes the film so powerful and disturbing. It helps to create a sense of claustrophobia and tension, and it emphasizes the brutality and inhumanity of the prison system.
+* The opening lets the prison walls echo, so the confinement registers before the story does.
+* During the force-feeding, we hear the tube itself, and the brutality stays physical.
+* As Sands dies, his breathing carries the scene; other prisoners exist only as muffled, distant sound.
 {{%/ note %}}
 
 ---
@@ -418,12 +399,5 @@ Skippable if short on time — good synthesis slide, but the chapter's argument 
 * Michel Chion describes this effect in Rear Window, a film in which the action is entirely viewed from an apartment overlooking a courtyard.
 * Visual approach contrasted by a dynamic use of ambiences.
 * Chion says that ‘Sometimes it lets us hear the big city thrumming outside this courtyard that the film never leaves. At other times the sound track eliminates the larger cityscape entirely, so as to reconcentrate the spectator on the apartment itself...At the very end of the film, the extension becomes extremely narrow, focusing on a single point, like a lone spotlight pursuing a character on a stage.’
-
-**Summary:**
-
-Chion is describing how Hitchcock uses sound in Rear Window to create a sense of both immersion and detachment for the viewer. The sounds of the city outside the apartment can be heard at times, but they are often muted or muffled, which creates a sense of isolation. This is contrasted with the sounds inside the apartment, which are often very clear and detailed. This contrast between the two soundscapes helps to create a sense of claustrophobia and tension, as the viewer feels both trapped in the apartment with Jeff and connected to the world outside.
-
-In the final scene of the film, the sound of the city outside disappears completely, and the viewer is left with the sound of Jeff's breathing and the sound of the rain. This creates a sense of intense focus and suspense, as the viewer knows that Jeff is about to confront the killer.
-
-Chion's description of the sound design in Rear Window is a good example of how sound can be used to create a sense of setting and atmosphere in film. The sound design in Rear Window helps to create a sense of both immersion and detachment for the viewer, and it contributes to the overall suspense and tension of the film.
+* Let the quote do the work: ask students to name the three widths of extension Chion describes, and where their screening film sits on that dial.
 {{%/ note %}}

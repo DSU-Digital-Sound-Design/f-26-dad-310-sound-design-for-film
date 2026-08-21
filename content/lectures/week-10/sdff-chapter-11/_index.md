@@ -10,6 +10,8 @@ outputs = ["Reveal"]
 
 ## Acoustics, Silence And The Frequency Spectrum
 
+This deck follows Tim Harrison, *Sound Design for Film*, ch. 11.
+
 ---
 
 ## Spatial Features
@@ -22,17 +24,14 @@ outputs = ["Reveal"]
 
 ## Acoustic Space
 
-- Acoustic Space refers to how sound exists within and interacts with a physical or perceived environment in film:
-  - *Blade Runner 2049*: Cavernous sounds reflect Wallace's isolation
-  - *Das Boot*: Tight audio enhances submarine claustrophobia
-  - *Inception*: Dream levels differentiated by unique acoustic spaces
+- Reverberation is a dense wash of reflections that decay together. An echo is a discrete repeat you can count. They are different tools.
+- Recording distance is a design choice: a close mic sounds dry and intimate, while a pulled-back mic captures early reflections and gives a sound scale.
+- Citizen Kane, later in this deck, is the worked example: the reverb stays even when the characters speak close, because the distance between them is emotional rather than physical.
 
 {{% note %}}
 
-- *Blade Runner 2049* uses vast, empty acoustics to represent Wallace's isolation and god-like perspective.
-- *Das Boot* uses confined sound design to emphasize submarine life’s claustrophobia.
-- In *Inception*, deep echoic sounds in dream layers create surreal, layered spaces, helping viewers track narrative levels.
-- Each example shows how sound shapes emotional engagement with cinematic spaces.
+- The echo/reverb distinction and the miking-distance point come from Harrison, ch. 11.
+- If students want a quick contrast, play a line of dialogue dry and then through a hall reverb, and ask what changed about the room and about the relationship.
 
 {{%/ note %}}
 
@@ -50,15 +49,14 @@ outputs = ["Reveal"]
 
 ## Frequency Spectrum
 
-- Utilizes frequency ranges to add depth, clarity, and intensity
-- *Interstellar*: Bass evokes space vastness, high tones add suspense
-- *Arrival*: Alien sounds use unconventional frequencies for mystery
-
+- Spectral masking: sounds that occupy the same frequency range obscure each other, and resolving those collisions is much of a re-recording mixer's job.
+- The design use runs the other way: highs carry definition and air, lows carry physical weight, and layering across the spectrum is how a single effect gets big.
+- Come and See, two slides ahead, is the payoff: the mix removes entire bands to put us inside Flyora's damaged hearing.
 
 {{% note %}}
 
-- *Interstellar*'s deep bass conveys physicality and intensity in space, contrasting high tones during tense decisions.
-- *Arrival* uses specific frequency bands to represent alien communication
+- Masking here connects directly to the EQ masking lesson from DAD 222, for students who took it.
+- Source: Harrison, ch. 11.
 
 {{%/ note %}}
 
@@ -87,17 +85,15 @@ outputs = ["Reveal"]
 
 ## Negative Space in Sound Design
 
-- Silence creates anticipation and emotional weight
-- *A Quiet Place*: Silence builds life-threatening suspense
-- *2001: A Space Odyssey*: Silence in space scenes reflects isolation
-- *The Godfather*: Alternates silence and action in baptism scene for moral weight
+- Silence in film is engineered, and it is the product of contrast and preparation.
+- The pre-delay trick: a single frame of true silence before a huge impact makes the impact read louder. Oppenheimer's Trinity scene, later in this deck, is the extreme case, where physics supplies the silence.
+- Susan Sontag, quoted in the chapter: "Silence remains, inescapably, a form of speech."
+- Elizabeth Weis observes that Hitchcock attached silence to ruthlessness and moral paralysis, using it as a negative moral motif.
 
 {{% note %}}
 
-- *A Quiet Place* uses silence to heighten danger, making every sound a survival element.
-- *2001*’s silent space sequences emphasize the existential isolation and the vastness of the void.
-- *The Godfather*’s baptism scene strategically alternates between silence and intense action, enhancing suspense and moral weight.
-- Negative space focuses audience attention, creating a powerful auditory impact.
+- Quick references if students want familiar anchors: A Quiet Place makes silence a survival condition, and 2001 scores the vacuum as isolation. The four clips that follow do the real work.
+- Source: Harrison, ch. 11, including the Sontag and Weis quotations.
 
 {{%/ note %}}
 
@@ -218,29 +214,6 @@ outputs = ["Reveal"]
 {{%/ note %}}
 
 ---
-
-## Resonance in Sound Design
-
-- Enhances specific frequencies, creating psychological depth
-- *Dunkirk*: Bass tones sustain tension and fear in wartime scenes
-- *Sicario*: Low-frequency resonance amplifies suspense in border crossing scene
-- *There Will Be Blood*: Resonant tones emphasize character's ambition and turmoil
-
-{{% note %}}
-
-- *Dunkirk* sustains tension with resonant bass, immersing viewers in war's immediacy.
-- *Sicario*’s low resonance adds weight and tension during the border crossing, increasing viewer unease.
-- *There Will Be Blood* uses resonance to underscore the character’s psychological state and ambition.
-- Resonance in sound amplifies mood and tension, creating an immersive emotional response.
-
-{{%/ note %}}
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2W3KDB0yHYM?si=lMDaZrL7TNLdJNTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 
 ## Case Study: *Sicario* Border Crossing Scene
 
