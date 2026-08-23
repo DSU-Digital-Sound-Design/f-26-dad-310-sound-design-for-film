@@ -3,7 +3,7 @@ title: "Syllabus"
 ---
 
 The full signed syllabus, including university policies, is
-[available as a PDF](/syllabus.pdf).
+[available as a PDF]({{< rel "syllabus.pdf" >}}).
 
 ## Course
 
@@ -121,10 +121,10 @@ University policies (accessibility, academic integrity, freedom in learning, gra
 This page is the readable version. The signed PDF below is the official
 document and carries the university policies in full.
 
-<object data="/syllabus.pdf" type="application/pdf" width="100%" height="760"
+<object data="{{< rel "syllabus.pdf" >}}" type="application/pdf" width="100%" height="760"
         style="border:1px solid var(--line, #2a2f38); border-radius:6px; background:#fff">
   <p>Your browser will not display the PDF inline.
-  <a href="/syllabus.pdf">Download the syllabus (PDF)</a>.</p>
+  <a href="{{< rel "syllabus.pdf" >}}">Download the syllabus (PDF)</a>.</p>
 </object>
 
-<p><a href="/syllabus.pdf">Open the syllabus in a new tab</a></p>
+<p><a href="{{< rel "syllabus.pdf" >}}">Open the syllabus in a new tab</a></p>
