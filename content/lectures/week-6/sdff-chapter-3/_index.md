@@ -9,6 +9,8 @@ outputs = ["Reveal"]
 
 ---
 
+{{< slide class="quote" >}}
+
 > Place can become a character, and have its own voice.
 >
 > -- Randy Thom

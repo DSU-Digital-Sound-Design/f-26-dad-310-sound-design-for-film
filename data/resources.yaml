@@ -105,7 +105,7 @@ groups:
     items:
       - name: DSU Live
         url: "https://www.facebook.com/DSU.Live/"
-        desc: "Student concerts and the student record label."
+        desc: "Student concerts."
       - name: Student Research Initiatives
         url: "https://dsu.edu/research/forms.html"
         desc: "Funding for undergraduate creative and research work."

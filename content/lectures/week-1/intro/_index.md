@@ -5,6 +5,8 @@ outputs = ["Reveal"]
 margin = 0.2
 +++
 
+{{< slide class="quote" >}}
+
 ## Is film a visual medium?
 
 > My opinion is that film is definitely not a "visual medium."

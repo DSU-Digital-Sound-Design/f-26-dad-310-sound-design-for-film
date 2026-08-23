@@ -4,9 +4,9 @@ layout: schedule
 ---
 
 **Opportunities in Digital Sound Design at DSU** — [DSU Live](https://www.facebook.com/DSU.Live/)
-runs student concerts and a record label, and
+runs student concerts, and
 [Student Research Initiatives](https://dsu.edu/research/forms.html) funds
-undergraduate work. Everything you make in here is played out loud in class.
+undergraduate work.
 
 ## 8/24
 - Class introductions
@@ -14,7 +14,7 @@ undergraduate work. Everything you make in here is played out loud in class.
 - Review the [syllabus](/syllabus/) and expectations
 - [slides] [Sound design in film](/lectures/week-1/intro/)
 - [screening] [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) — video essay
-- [reading] Listen: *Rain is sizzling bacon, cars are lions roaring: the art of sound in movies*
+- [listen] *Rain is sizzling bacon, cars are lions roaring: the art of sound in movies* — for Wednesday
 
 ## 8/26
 - [slides] Discuss the podcast — [Rain is sizzling bacon](/lectures/week-1/rain-is-sizzling-bacon/)

@@ -15,6 +15,8 @@ Sources for this deck: Tim Harrison, *Sound Design for Film*, ch. 10, and Walter
 
 ---
 
+{{< slide class="quote" >}}
+
 > What is the essence of the director’s work? We could define it as sculpting in time.
 >
 > -- Andrei Tarkovsky

@@ -5,6 +5,8 @@ outputs = ["Reveal"]
 margin = 0.2
 +++
 
+{{< slide class="quote" >}}
+
 > Still the noise in the mind: that is the first task – then everything else will follow in time.
 >
 > (R. Murray Schafer)

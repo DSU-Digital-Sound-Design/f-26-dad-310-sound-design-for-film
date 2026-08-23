@@ -9,6 +9,8 @@ draft = true
 # show_notes = "separate-page"
 +++
 
+{{< slide class="quote" >}}
+
 > I do not always know what I want, but I do know what I don’t want.
 >
 > (Stanley Kubrick)

@@ -20,9 +20,13 @@ But why use metaphor at all?
 
 ---
 
+{{< slide class="quote long" >}}
+
 > A film only exists when it’s reflected in someone’s heart. That’s why I often sit in a cinema and watch some mindless thing on the screen and see people stare at it just as mindlessly, and I realize: this film does not even exist. It provokes no repercussions, no encounters.
 
 ---
+
+{{< slide class="quote long" >}}
 
 > It’s a waste, not only of time. But if a film leaves the space for the spectator to dream himself or herself into it, to read ‘between the lines,’ to fill it with his or her own experiences and thereby make it come to life, then and only then it exists.
 > 

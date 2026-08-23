@@ -47,6 +47,10 @@ theme = ["t-console-theme", "reveal-hugo"]
       label = "Screenings"
       color = "#6ec1ff"
     [[params.schedule.tags]]
+      id = "listen"
+      label = "Listening"
+      color = "#ff9ed2"
+    [[params.schedule.tags]]
       id = "reading"
       label = "Readings"
       color = "#5fe0b0"
