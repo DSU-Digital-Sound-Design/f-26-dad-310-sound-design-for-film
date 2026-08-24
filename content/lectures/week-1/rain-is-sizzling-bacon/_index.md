@@ -13,12 +13,12 @@ margin = 0.2
 
 ---
 
-## Sound Design Insights from Skip Lievsay
+## Film sound follows expectation, not reality
 
-- Sounds in film often aren't literal representations.
-- Audiences are conditioned to expect certain sounds.
-- Designers substitute sounds for emotional effect.
-- Notable films include *Gravity*, *Goodfellas*, *No Country for Old Men*.
+- A sound can be "wrong" and still feel right.
+- Viewers learn how spaceships, rain, and engines should sound.
+- Designers use substitutions to steer emotion: bacon for rain, lion roars under engines.
+- Skip Lievsay built this approach across *Gravity*, *Goodfellas*, and the Coen brothers' films.
 
 {{% note %}}
 
@@ -31,12 +31,12 @@ margin = 0.2
 
 ---
 
-## The Role of Sound Design in Film Production
+## Sound design starts before the picture is finished
 
-- Sound design begins early in pre-production.
-- Processes include sound creation, editing, and mixing.
-- Films are divided into dialogue, effects, music, and Foley.
-- One supervisor oversees it all so the soundtrack hangs together.
+- The work begins in pre-production, not after picture lock.
+- Designers build sounds; editors shape their timing; mixers balance the final track.
+- Every cue falls into four groups: dialogue, effects, music, or Foley.
+- The sound supervisor makes the four parts sound like one film.
 
 {{% note %}}
 
@@ -48,13 +48,13 @@ margin = 0.2
 
 ---
 
-## Detailed Sound Design Example: *No Country for Old Men*
+## *No Country for Old Men* builds silence from dozens of sounds
 
-- Complex layering of sounds in key scenes.
-- Subtle sounds create atmosphere and emotional impact.
-- Every sound is deliberately chosen, not just recorded.
-- Lievsay’s choices heighten the scene’s tension and realism.
-- [End scene from *No Country for Old Men* on Amazon](https://www.amazon.com/gp/video/detail/0RSHTSPI14PQCPKAMGZP8TA0Q5)
+- After the crash, 20 seconds seem almost still.
+- Engines hiss. Leaves rustle. A distant dog barks. Glass hits pavement.
+- No production microphone captured the moment as we hear it.
+- Lievsay chose and placed every cue to hold the tension.
+- [Watch the final scene](https://www.amazon.com/gp/video/detail/0RSHTSPI14PQCPKAMGZP8TA0Q5)
   
 {{% note %}}
 
@@ -66,12 +66,12 @@ margin = 0.2
 
 ---
 
-## The Art of Foley: Recreating Everyday Sounds
+## One Foley cue can change a scene's meaning
 
-- Foley: everyday sounds performed live to picture.
-- Footsteps, clothing rustle, props.
-- One added footstep track can change how a scene feels.
-- Foley involves precise timing and matching sound to action.
+- Foley artists perform everyday sounds live to picture.
+- Their instruments include shoes, clothing, props, and prepared surfaces.
+- In *Miles Ahead*, one set of footsteps made a dreamy room feel busy.
+- The effect depends on performance, microphone placement, and exact timing.
 
 {{% note %}}
 
@@ -85,12 +85,12 @@ margin = 0.2
 
 ---
 
-## Lievsay’s Unique Approach and Influence
+## Lievsay chooses precision over "sound by the pound"
 
-- Simplicity and precision over "sound by the pound."
-- Collaboration with directors like Scorsese and the Coen Brothers.
-- Uses unique sound effects, like the recurring “mooing car” in Coen Brothers' films.
-- Lievsay’s belief: sound design is more craft than art.
+- Every sound must earn its place.
+- Early collaboration lets sound develop with the film.
+- His recurring joke is a Manhattan car that sounds like a mooing cow.
+- He calls sound design a craft, with restraint as important as invention.
 
 {{% note %}}
 
@@ -102,12 +102,12 @@ margin = 0.2
 
 ---
 
-## The Emotional Power of Sound in Film
+## The mix decides what the audience feels
 
-- Sound bypasses higher reasoning, directly impacting emotions.
-- Loud, accurate sounds like gunfire can make the body believe in their reality.
-- Mixing sounds, like gunfire or a cockroach’s footsteps, requires balance and precision.
-- The mix decides what the audience feels, moment to moment.
+- The body reacts to sound before the mind explains it.
+- A gunshot at the right level can make an audience flinch.
+- Tiny cues matter too, including a cockroach's footsteps and the final trumpet note.
+- The mixer controls attention and emotion from moment to moment.
 
 {{% note %}}
 
@@ -116,4 +116,3 @@ margin = 0.2
 - On *Miles Ahead*, the mix came down to details as small as the last trumpet note. That's the scale sound editors work at.
 
 {{%/ note %}}
-
