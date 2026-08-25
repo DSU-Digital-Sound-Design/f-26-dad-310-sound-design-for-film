@@ -4,7 +4,7 @@ number: "★"
 weight: 11
 week: 13
 assigned: "2026-11-18"
-due: "2026-12-16"
+due: "2026-12-14"
 summary: "A five-minute sound design piece: Foley, ambience, SFX, and final mix."
 rubric: false   # the brief carries its own rubric table
 ---

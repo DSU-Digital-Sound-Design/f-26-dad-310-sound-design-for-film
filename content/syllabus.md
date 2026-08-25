@@ -28,7 +28,7 @@ Office hours are Monday, Wednesday, and Friday, 10:00–10:50 am and
 
 ## Final exam
 
-Wednesday, December 16, 1:00–3:00 pm — you present your final project.
+Monday, December 14, 3:30–5:30 pm — you present your final project.
 
 ## Learning outcomes
 
