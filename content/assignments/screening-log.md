@@ -22,9 +22,9 @@ callback unless you remember the thing it's calling back to.
 
 | Log | Film | Watch before | Pairs with |
 |-----|------|--------------|------------|
-| 1 | *WALL-E* (2008) | Wed 9/16 | the Foley unit |
-| 2 | *The Zone of Interest* (2023) or *Nope* (2022) | Mon 10/5 | Setting: ambience and sense of place |
-| 3 | *A Quiet Place* (2018) | Mon 10/19 | Shape: contrast and motif |
+| 1 | [*WALL-E* (2008)](https://digitalcampus.swankmp.net/dakotastate357892/play/d0c06635d9a40578) | Wed 9/16 | the Foley unit |
+| 2 | [*The Zone of Interest* (2023)](https://digitalcampus.swankmp.net/dakotastate357892/play/8428e2b0434c17ad) or [*Nope* (2022)](https://digitalcampus.swankmp.net/dakotastate357892/play/9a0e40d35ee209ba) | Mon 10/5 | Setting: ambience and sense of place |
+| 3 | [*A Quiet Place* (2018)](https://digitalcampus.swankmp.net/dakotastate357892/play/f979eedcd4984933) | Mon 10/19 | Shape: contrast and motif |
 
 Log 2 gives you a choice. *The Zone of Interest* follows the family of a
 concentration camp commandant living in a house next to the camp. You never see
@@ -35,22 +35,7 @@ tell me which one you picked or why.
 
 If you want more of this, I keep a
 [running list of films with interesting sound design](https://letterboxd.com/tatecarson/list/sound/)
-on Letterboxd. None of it is required. Most of our class clips come from it.
-
-## Finding the films
-
-All four films are in the library's streaming collection, so you don't have to
-rent or buy anything.
-
-1. Open the [library's streaming film collection](https://digitalcampus-swankmp-net.ezproxy.dsu.edu/dakotastate357892).
-2. Sign in with your DSU username and password.
-3. Search the title, open it, press play.
-
-Use that link, not Swank directly. Going to Swank on its own will try to sign
-you up for an instructor account, which you don't need.
-
-All four have captions. If something won't play or you can't sign in, tell me
-right away. Don't wait until the night before the log is due.
+on Letterboxd. 
 
 ## What to turn in
 
