@@ -71,6 +71,43 @@ margin = 0.2
 
 ---
 
+## Synchronized sound arrived as a business decision
+
+- *Don Juan* (1926) used Warner Bros.' Vitaphone discs to play a recorded orchestral score, and left the silent aesthetic intact.
+- *The Jazz Singer* (1927) added Al Jolson talking and ad-libbing, and that changed what audiences expected.
+
+<!-- clip: paste a YouTube embed iframe here, matching the style of the other slides -->
+
+{{% note %}}
+
+- The term "silent film" was coined during the late-1920s transition and applied backward. Before that, the medium was simply "moving pictures," and screenings were noisy: live musicians, lecturers, barkers, and a talking audience.
+- Synchronization was the long-standing goal, not a sudden idea. Edison's Kinetophone (1895) already tried to lock a Kinetoscope to a phonograph.
+- *Don Juan* proved a recorded score could be reproduced identically in every theater. It has no spoken dialogue, so it did not disturb silent film grammar.
+- *The Jazz Singer* did, because Jolson speaks. Once a character can talk, the audience expects everyone to.
+- Fox's competing Movietone system recorded sound optically on the film itself, which made location shooting possible. *In Old Arizona* (1928) was sold on its outdoor ambience: wind, birds, open space.
+
+{{%/ note %}}
+
+---
+
+## Early sound froze the camera
+
+- Recording live to a single track meant cameras went into padded booths and actors stood near hidden microphones.
+- Filmmakers escaped by recording sound separately from the image.
+
+<!-- clip: paste a YouTube embed iframe here, matching the style of the other slides -->
+
+{{% note %}}
+
+- In 1928 and 1929, everything was captured live at once. Cameras were sealed in soundproof booths, nicknamed "iceboxes," to keep motor noise off the track. Omnidirectional mics were hidden in props, so actors had to stay planted.
+- The constraints were absurd in practice. On *Gentlemen of the Press* (1929), a rustling newspaper read like a tornado on the microphone, so the crew wet the paper down.
+- Two escape routes: Rouben Mamoulian used multiple microphones and mixed them live on *Applause* (1929), which let actors move. King Vidor shot much of *Hallelujah!* (1929) silent, with a free camera, and added dialogue and effects afterward.
+- That second approach, postsynchronization, is the important one for this course. It separates the sound from the moment of filming and makes the soundtrack something you build rather than something you catch.
+
+{{%/ note %}}
+
+---
+
 ## Recorded sound made film worlds tangible
 
 - Dialogue, ambience, and offscreen sound expanded the story beyond the frame.
@@ -107,6 +144,24 @@ If students have not seen the film, explain that young Charles plays in the snow
 
 ---
 
+## Sound effects are performed, not collected
+
+- Jack Foley performed effects in sync with picture at Universal, starting with *Show Boat* (1929).
+- Murray Spivack built *King Kong* (1933) out of manipulated recordings rather than real animals.
+
+<!-- clip: paste a YouTube embed iframe here, matching the style of the other slides -->
+
+{{% note %}}
+
+- Foley stood in an isolated room and played footsteps, cloth, and crowd noise live to picture while a 40-piece orchestra worked alongside. The technique still carries his name.
+- The point is not accuracy. Close-miked, performed sound reads as more real than an honest location recording, because it matches the intensity of the shot rather than the physics of the room.
+- Spivack made Kong's low grunt by growling into a megaphone and slowing the tape to half speed, and faked an elevated train by rolling roller skates across a bumpy steel plate.
+- Ask students what this implies about the rest of the semester: nearly every sound they will hear in a finished film was made somewhere other than where it appears to happen.
+
+{{%/ note %}}
+
+---
+
 ## Score can behave like a sound effect
 
 - Music can mimic physical sounds and intensify an action.
@@ -134,5 +189,24 @@ If students have not seen the film, explain that young Charles plays in the snow
 
 - John Williams drew on the operatic leitmotif, a recurring musical idea associated with a character or dramatic force.
 - "The Imperial March" acts as narration. Its return signals the Empire's power whether or not Vader appears onscreen.
+
+{{%/ note %}}
+
+---
+
+## Sound design became a job
+
+- In the 1970s, one person began overseeing a film's whole sonic world.
+- Walter Murch and Ben Burtt treated recording as raw material for construction.
+
+<!-- clip: paste a YouTube embed iframe here, matching the style of the other slides -->
+
+{{% note %}}
+
+- Murch popularized "worldizing": play a clean recording through a speaker in a real space, let it bounce, and re-record it. For *American Graffiti* (1973) he played a fabricated Wolfman Jack broadcast through a car speaker in a backyard and captured it from shifting distances, so the radio moves with the cars.
+- On *THX 1138* (1971) he sent voices over ham radio and re-recorded them to get a degraded, lived-in future.
+- Ben Burtt refused stock libraries on *Star Wars* (1977). The Imperial Walkers are a machine-shop punch press layered with a bicycle chain dropped on concrete.
+- Alan Splet mic'd the insides of heaters and jugs for *Eraserhead* (1977), turning industrial hum into psychological dread.
+- This is the job description for the course. Preview it here and return to each of these names later in the semester.
 
 {{%/ note %}}
