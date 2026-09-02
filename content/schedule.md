@@ -33,13 +33,14 @@ undergraduate work.
 - [slides] [Designing for sound](/lectures/week-2/thom-designing-for-sound/) — notes on the Thom reading
 
 ## 9/2
-- [slides] [Listening: soundscapes, audiences and stories](/lectures/week-2/sdff-chapter-1/)
-- [reading] [World Soundscape Project](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
+- [lab] [Sound walk](/lectures/week-2/sound-walk-journal/) — take the journal with you
+### homework
+- [reading] [World Soundscape Project](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project) — for Friday
   - [Soundscape composition](https://www.sfu.ca/~truax/scomp.html)
+- Bring one idea from the readings that changed how you understand today's walk
 
 ## 9/4
-- Discuss the World Soundscape Project
-- [lab] [Sound walk](/lectures/week-2/sound-walk-journal/) — take the journal with you
+- Discuss the [World Soundscape Project reading and recordings](/lectures/week-2/world-soundscape-project/) and connect them to Wednesday's observations
 ### homework
 - Check out [Earth.fm](https://earth.fm/) before Wednesday
 

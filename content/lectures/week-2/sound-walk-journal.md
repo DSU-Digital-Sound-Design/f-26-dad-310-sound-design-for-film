@@ -22,6 +22,9 @@ human-made, and notice volume, rhythm, pitch, and texture.
 - Mid-range: footsteps, rustling leaves, conversations
 - Foreground: prominent or sudden sounds, a dog barking, a door slamming
 
+Do not worry about finding the right category or term while you are walking.
+Listen first and write down what you actually hear.
+
 **Notice how the sounds land.** Does a sound make you feel calm, anxious,
 nostalgic? Where might a film use it to set a mood?
 
@@ -30,15 +33,23 @@ nostalgic? Where might a film use it to set a mood?
 Clean up your notes so the three layers are clear, and mark the sounds that
 stood out to you.
 
+Then sort several sounds by their source:
+
+- **Geophony:** nonliving natural sounds such as wind, rain, or water
+- **Biophony:** sounds made by nonhuman living things such as birds or insects
+- **Anthropophony:** sounds made by people and human technology
+
 Then answer these questions:
 
-1. Which sounds stood out most, and why?
-2. How did the overall soundscape make you feel?
-3. If you were designing a soundtrack for a scene set on this walk, which
+1. Which categories did you hear? Did one dominate, and did any sound resist
+   easy classification?
+2. Which sounds stood out most, and why?
+3. How did the overall soundscape make you feel?
+4. If you were designing a soundtrack for a scene set on this walk, which
    sounds would you feature, and why?
-4. Which sounds would you cut or change to sharpen the emotional or narrative
+5. Which sounds would you cut or change to sharpen the emotional or narrative
    focus of the scene?
-5. How could layering these sounds, or playing them against each other, help
+6. How could layering these sounds, or playing them against each other, help
    tell a story?
 
 ## Turning it in
