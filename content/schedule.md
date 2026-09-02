@@ -210,6 +210,7 @@ undergraduate work.
 ## 11/16
 - [slides] [Layering and pitch shifting: the explosion](/lectures/week-11/explosion/)
 - [lab] Build your own layered explosion from the raw material
+- [lab] Compare REAPER's time-stretching and pitch-shifting algorithms
 
 ## 11/18
 - [due] [Assignment 5: Sound Synthesis](/assignments/assignment-5-sound-synthesis/)
@@ -219,9 +220,10 @@ undergraduate work.
 - **Final project proposal** — due Mon 11/23: post links to the clips you'll be designing
 
 ## 11/20
-- [lab] Compare REAPER's time-stretching and pitch-shifting algorithms
-- [slides] [Working: Joanna Fang](/lectures/week-3/fang/) — what the job actually looks like
-- [slides] [AI in post](/lectures/ai-in-post/) — discussion: what isolation and generated SFX mean for this work
+- **Guest visit:** director Samantha Aldana and sound designer Devin Lawrence discuss their collaboration on *Shapeless* — 2:00–2:50 p.m. Central on Zoom
+### homework
+- Before class, watch the selected scenes from *Shapeless* — links will be posted here
+- Bring one question about the collaboration between the director and sound designer
 
 ## 11/23
 - [due] Final project proposal — bring the clips
