@@ -70,12 +70,15 @@ undergraduate work.
 ## 9/16
 - [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
   - Ben Burtt built every sound in that film from silence — no production audio at all
-- [slides] [Audio hardware](/lectures/week-4/audio-hardware/) — microphones, levels, converters
-
-## 9/18
+- Meet in Charm Studios
+- [slides] [Audio hardware](/lectures/week-4/audio-hardware/) — a focused walkthrough of microphones, levels and converters
 - [lab] Studio introduction — [Charm Studios documentation](https://sites.google.com/view/charmstudios/studio-documentation)
   - Try a few different microphones
   - Book your studio time for the recording assignments
+
+## 9/18
+- [off] **No class**
+- Use the time to rehearse Assignment 1 with your group before Monday's live performance
 
 ## 9/21
 - [due] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performances
