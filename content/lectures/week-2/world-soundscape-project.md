@@ -91,6 +91,65 @@ observed place and an imagined inner soundscape easy to hear.
   Hildegard Westerkamp. Listen for changes in the density and texture of rain,
   and for the transitions that make each new place audible.
 
+## From soundscape studies to film sound
+
+Acoustic ecology and modern film sound developed at roughly the same time, and
+they share several habits: recording outside the studio, listening closely to
+place, and treating environmental sound as material that can be selected,
+layered, and transformed. That resemblance does not prove that the World
+Soundscape Project shaped every major film sound designer. The clearest direct
+connection runs through Hildegard Westerkamp's compositions and the films of
+director Gus Van Sant and sound designer Leslie Shatz.
+
+In *Elephant* (2003), Van Sant and Shatz used excerpts from Westerkamp's
+[*Beneath the Forest Floor*](https://thelisteningroom1.bandcamp.com/album/beneath-the-forest-floor)
+and [*Türen der Wahrnehmung (Doors of Perception)*](https://www.hildegardwesterkamp.ca/sound/installations/turen/).
+The latter includes source recordings from the World Soundscape Project's
+European research. Forest sounds enter the school setting and loosen the usual
+bond between what we see and what we hear. The soundtrack stops functioning as
+a neutral record of the building and begins to express an unstable, subjective
+experience of it.
+
+Van Sant and Shatz returned to *Doors of Perception* in *Last Days* (2005).
+Location sound, environmental recordings, and composed material often blur
+together in the film. A listener may recognize a sound without being able to
+place its source in the image. This is close to Westerkamp's practice of keeping
+a recording tied to the real world while changing its scale, context, or
+meaning.
+
+### Listen and compare
+
+1. Listen to the [first eleven minutes of *Doors of Perception*](https://www.youtube.com/watch?v=oEWN3P8EZkE).
+   Notice how doors connect recordings that seem to belong to different places.
+   Which sounds could pass unnoticed as ambience if they appeared under an
+   image?
+2. Watch this [six-minute original-mix excerpt from *Elephant*](https://player.vimeo.com/video/169990736),
+   hosted by the Cinémathèque française. It collects the three complete corridor
+   passages in which the film repeats the meeting of John, Elias, and Michelle
+   from different viewpoints. Do not expect a distinct score or a recognizable
+   door motif. Van Sant and Shatz buried *Doors of Perception* beneath the
+   footsteps, dialogue, bell, and camera click. The Cinémathèque analysis
+   identifies dull impacts, a distant flute, a rolling cart, and faint German
+   speech as parts of that underlying layer.
+3. Watch Randolph Jordan's open-access video essay,
+   [*Composing Perception: Hildegard Westerkamp Meets Gus Van Sant*](https://www.alphavillejournal.com/Issue27/HTML/VideoEssayJordan.html).
+   It presents the complete composition alongside sequences from *Elephant*,
+   *Last Days*, and other Van Sant films. The *Last Days* passage follows Blake
+   up the driveway and into the greenhouse. Listen for the whistling, water,
+   bells, and door sounds. Some seem to belong to the scene, while others pull
+   away from the visible setting.
+4. Return to [*Beneath the Forest Floor*](https://thelisteningroom1.bandcamp.com/album/beneath-the-forest-floor).
+   This composition is not heard in clip 2. It appears elsewhere in the full
+   film, including after the shooting begins. What does the peaceful source
+   recording gain or lose when the film gives it a violent context?
+
+For a film sound designer, the useful question is not simply "What does this
+place sound like?" It is "Whose version of this place should the audience hear
+right now?" Soundscape study supplies ways to notice and describe an
+environment. Film sound can then preserve that environment, edit it for
+clarity, or bend it toward a character's attention and the story's emotional
+pressure.
+
 ## Discussion
 
 1. Can a field recording ever be neutral? Consider microphone placement, the
@@ -102,7 +161,9 @@ observed place and an imagined inner soundscape easy to hear.
    soundmark?
 4. Which parts of this work resemble what a film sound designer does when
    building a place for a scene?
-5. Choose one moment from Wednesday's walk. Which sounds would you preserve,
+5. In *Elephant* or *Last Days*, what changes when an environmental recording
+   does not match the place shown on screen in a straightforward way?
+6. Choose one moment from Wednesday's walk. Which sounds would you preserve,
    remove, exaggerate, or transform if the scene were realistic? What would you
    change if the scene followed a character's subjective experience?
 
@@ -113,3 +174,7 @@ observed place and an imagined inner soundscape easy to hear.
 - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html), Barry Truax
 - [World Soundscape Project archive](https://www.sfu.ca/sonic-studio/worldsoundscaperoject/),
   Simon Fraser University
+- ["The Work of Hildegard Westerkamp in the Films of Gus Van Sant"](https://offscreen.com/view/jordan_westerkamp),
+  Randolph Jordan's interview with Westerkamp
+- [*Acoustic Profiles: An Acoustic Ecology of the Cinema*](https://academic.oup.com/book/46661),
+  Randolph Jordan
