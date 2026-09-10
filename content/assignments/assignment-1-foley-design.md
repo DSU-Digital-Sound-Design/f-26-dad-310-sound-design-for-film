@@ -41,6 +41,15 @@ or intent.
 - **Rehearse as a group.** You're graded on the performance, the sync, and the
   teamwork, and all three fall apart without rehearsal.
 
+## Workshops before the performance
+
+- **Monday 9/14:** Bring props to test sound choices, develop the robot's character, and rehearse with your team.
+- **Wednesday 9/16:** Bring your actual performance props to Charm Studios for team rehearsal, instructor coaching, and feedback from another team. Rehearse your revisions before Monday.
+
+Both workshops are ungraded. The assessed live performance is Monday 9/21.
+
+On Monday, each team will perform its prepared version twice and discuss one successful prop choice and one difficult cue. After the assessed performances, we'll try an ungraded character challenge: rehearse and perform a new interpretation in response to a direction. We'll finish by considering how to turn the live design into recorded Foley.
+
 ## Before you perform
 
 - Practice your timing against the animation until your actions land on the

@@ -58,32 +58,40 @@ undergraduate work.
 - [screening] [Foley Grail, chapter 3](/lectures/week-3/foley-grail-chap-3-pt-2/) — clips
 - Watch the robot animation and decide which Foley element each of you takes
 - [assignment] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performance, in teams, performed in class Mon 9/21
-  - Find time to rehearse as a group before then
+  - Bring props for the workshop on Monday 9/14; team rehearsal and paired feedback are Wednesday 9/16 in Charm Studios
 
 ## 9/14
-- **REAPER refresher and skills check.** A quick 10–15 minute tour of the interface, then straight into the lab.
-- [lab] Start the editing exercise in class. The drills are the skills check: if they feel easy, you're ready. If not, work through the refresher decks below before Friday and come to office hours.
-- Refresher decks, as reference: [Introduction to REAPER](/lectures/week-1/reaper-intro/) and [Starting a new project](/lectures/week-2/this-is-reaper-2/)
+- [lab] **Foley workshop: sound choices and character** for [Assignment 1](/assignments/assignment-1-foley-design/). Bring your props. This workshop is ungraded.
+  - Map the robot's actions, divide the cues, and test your props against picture — 10 minutes
+  - Try two different sound sources for one important event. Make the same movement feel heavy, hesitant, curious, or clumsy — 15 minutes
+  - Rehearse the full sequence with your team — 10 minutes
+  - Pair with another team for a rough performance. Identify one convincing moment and one sound or timing problem — 10 minutes
+  - Choose what to change and which props to bring Wednesday — 5 minutes
+- Optional REAPER reference: [Introduction to REAPER](/lectures/week-1/reaper-intro/), [Starting a new project](/lectures/week-2/this-is-reaper-2/), and [Editing practice](/lectures/editing-practice/)
 ### homework
-- [assignment] [Editing exercise](/assignments/editing-exercise/): five short drills on the supplied files, due Fri 9/25
+- Bring your actual performance props to Charm Studios on Wednesday and be ready to run the whole sequence
 
 ## 9/16
 - [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
-  - Ben Burtt built every sound in that film from silence — no production audio at all
-- Meet in Charm Studios
-- [slides] [Audio hardware](/lectures/week-4/audio-hardware/) — a focused walkthrough of microphones, levels and converters
-- [lab] Studio introduction — [Charm Studios documentation](https://sites.google.com/view/charmstudios/studio-documentation)
-  - Try a few different microphones
-  - Book your studio time for the recording assignments
+- Meet in Charm Studios with your props
+- [lab] **Foley team rehearsal and paired feedback** for [Assignment 1](/assignments/assignment-1-foley-design/). This workshop is ungraded; whole-class presentations and assessment are Monday 9/21.
+  - Brief studio orientation: cover any unfamiliar routing, monitoring, levels, and booking procedures. Allow 5 minutes.
+  - Set up your actual props and rehearse against picture while I circulate to help with sound choices, timing, and handoffs. Allow 25 minutes.
+  - Pair with another team. Take turns performing and give each other one specific suggestion about timing, materials, or character. Allow 10 minutes.
+  - Rehearse the suggested changes with your team and identify what still needs practice before Monday. Allow 10 minutes.
+- Reference: [Audio hardware](/lectures/week-4/audio-hardware/) and [Charm Studios documentation](https://sites.google.com/view/charmstudios/studio-documentation)
 
 ## 9/18
 - [off] **No class**
 - Use the time to rehearse Assignment 1 with your group before Monday's live performance
 
 ## 9/21
-- [due] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performances
-  - We can run a rehearsal first if you need one
-- Talk through what worked and what fought you
+- [due] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — assessed live performances and design discussion
+  - Set up props and playback. Allow 5 minutes.
+  - Each team performs its prepared version twice, then explains one successful prop choice and one difficult cue. Classmates respond to the timing, materials, and character they heard. Allow 20 minutes across all teams.
+- [lab] **Change the character:** each team gets a new direction, such as making the robot seem worn out or unusually delicate. Rehearse briefly, then perform the revised version and discuss which choices conveyed the change. This challenge is ungraded. Allow 15 minutes.
+- From live performance to [recorded Foley](/lectures/week-4/recording-foley/): identify which sounds need separate passes, where live balance was difficult, and what recording would let you change. Allow 10 minutes.
+  - If performances and discussion finish early, begin the recording lesson with mic choice and placement. We'll continue with the REAPER session setup on Wednesday.
 
 ## 9/23
 - [slides] [Recording Foley](/lectures/week-4/recording-foley/)
@@ -91,7 +99,6 @@ undergraduate work.
 - [lab] Voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
 
 ## 9/25
-- [due] [Editing exercise](/assignments/editing-exercise/)
 - [lab] Record someone walking through the building, then replace the footsteps
 ### homework
 - [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation, due Mon 10/5

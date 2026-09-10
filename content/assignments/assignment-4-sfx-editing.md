@@ -50,7 +50,7 @@ Make sure you have the five recordings from Assignment 3 ready. These include re
 
 2. **Bouncing**: Bounce your five final sound effects (two stereo environments; three mono objects/devices/events) into a FINAL-SFX folder inside your REAPER project folder.
 
-3. **Submission**: Submit the zipped REAPER project folder with all of your edits labeled and notated on separate tracks — comment each track and give each track and region a unique color, the same way we annotated the editing exercise. Include the bounced FINAL-SFX files.
+3. **Submission**: Submit the zipped REAPER project folder with all of your edits labeled and notated on separate tracks — comment each track and give each track and region a unique color. Include the bounced FINAL-SFX files.
 
 ---
 

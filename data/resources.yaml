@@ -13,6 +13,9 @@ groups:
 
   - group: REAPER
     items:
+      - name: Optional editing practice
+        url: "/lectures/editing-practice/"
+        desc: "Five ungraded editing drills for a refresher. No submission or deadline."
       - name: REAPER
         url: "https://www.reaper.fm/"
         desc: "The DAW for this course. Free 60-day evaluation."

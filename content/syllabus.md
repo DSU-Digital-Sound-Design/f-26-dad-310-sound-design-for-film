@@ -44,7 +44,7 @@ By the end of the course you will be able to:
 The [schedule](/schedule/) has the day-by-day plan. In broad strokes:
 
 - **Weeks 1–2** — Sound design in film; listening, soundscapes, and the sound walk
-- **Weeks 3–5** — Foley: aesthetics, live performance (Assignment 1), and studio recording (Assignment 2); REAPER review with the editing exercise
+- **Weeks 3–5** — Foley: aesthetics, live performance (Assignment 1), and studio recording (Assignment 2); Foley workshops and rehearsals, with optional REAPER review
 - **Weeks 6–8** — Setting and mood; field recording with the Zoom recorders (Assignment 3)
 - **Weeks 9–11** — Editing and processing sound effects (Assignment 4); reverb, space, and time
 - **Week 12** — Sound synthesis for science fiction (Assignment 5)
