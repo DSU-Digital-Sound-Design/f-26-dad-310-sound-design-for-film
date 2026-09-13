@@ -25,7 +25,8 @@ Answering those questions will point you to the right objects to perform with.
 
 **How is the work divided?** Organize your team however you like. One
 workable split: each person owns the sounds of a different part of the robot,
-so together you cover the whole character.
+so together you cover the whole character. During the workshops, rotate those
+parts so everyone tries a different set of cues.
 
 **What makes it alive?** "Animation" literally means bringing to life. Some of
 your sounds should go past the mechanical events and suggest weight, effort,
@@ -40,11 +41,36 @@ or intent.
 - **Any object is fair game.** The stranger the better, if it works.
 - **Rehearse as a group.** You're graded on the performance, the sync, and the
   teamwork, and all three fall apart without rehearsal.
+- **Explore at least two versions.** In each workshop, rehearse two complete
+  versions with different props and changed performance roles. Compare the
+  sounds before deciding what to keep.
 
 ## Workshops before the performance
 
-- **Monday 9/14:** Bring props to test sound choices, develop the robot's character, and rehearse with your team.
-- **Wednesday 9/16:** Bring your actual performance props to Charm Studios for team rehearsal, instructor coaching, and feedback from another team. Rehearse your revisions before Monday.
+- **Monday 9/14:** Bring a range of props so your team can build and compare two versions of the whole animation.
+- **Wednesday 9/16:** Bring props for both versions, plus any new alternatives, to Charm Studios. Repeat the two-version practice with instructor coaching and feedback from another team, then choose and rehearse your final combination.
+
+In each workshop:
+
+1. **Build version A.** Map the robot's actions, assign the cues, and rehearse
+   the full 10-second sequence several times against picture.
+2. **Build version B.** Replace the props or materials for at least two cues.
+   Try a different sound quality, such as a hollow impact instead of a sharp
+   click, and listen for how it changes the robot's weight or character.
+   Rotate performance roles so every student performs a different set of
+   cues. In a pair, swap parts; in a trio, pass each person's part to the next
+   person. Rehearse the whole sequence several times with the new setup.
+3. **Compare both versions.** Perform A and B for another team. Ask which
+   sounds fit the picture and what each version suggests about the robot.
+   Identify one useful discovery from changing props and one from changing
+   roles. Keep brief notes on your cue list so you can remember the choices.
+4. **Revise and run again.** Use the feedback to test another change. Your
+   final design can combine choices from both versions. Choose the final
+   roles after everyone has tried different parts.
+
+Both versions must cover the full animation. Give each version enough
+rehearsal to judge its sounds fairly, even if the new props or roles feel
+awkward at first.
 
 Both workshops are ungraded. The assessed live performance is Monday 9/21.
 

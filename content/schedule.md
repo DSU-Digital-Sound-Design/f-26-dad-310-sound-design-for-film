@@ -58,27 +58,26 @@ undergraduate work.
 - [screening] [Foley Grail, chapter 3](/lectures/week-3/foley-grail-chap-3-pt-2/) — clips
 - Watch the robot animation and decide which Foley element each of you takes
 - [assignment] [Assignment 1: Foley Design](/assignments/assignment-1-foley-design/) — live performance, in teams, performed in class Mon 9/21
-  - Bring props for the workshop on Monday 9/14; team rehearsal and paired feedback are Wednesday 9/16 in Charm Studios
+  - Bring a range of props for two versions with role changes on Monday 9/14; continue comparing versions and exchanging feedback Wednesday 9/16 in Charm Studios
 
 ## 9/14
 - [lab] **Foley workshop: sound choices and character** for [Assignment 1](/assignments/assignment-1-foley-design/). Bring your props. This workshop is ungraded.
-  - Map the robot's actions, divide the cues, and test your props against picture — 10 minutes
-  - Try two different sound sources for one important event. Make the same movement feel heavy, hesitant, curious, or clumsy — 15 minutes
-  - Rehearse the full sequence with your team — 10 minutes
-  - Pair with another team for a rough performance. Identify one convincing moment and one sound or timing problem — 10 minutes
-  - Choose what to change and which props to bring Wednesday — 5 minutes
+  - Map the robot's actions and divide the cues. Allow 5 minutes.
+  - Build version A. Test props and rehearse the full sequence several times against picture. Allow 10 minutes.
+  - Build version B. Change props or materials for at least two cues and rotate parts so everyone performs a different set of cues. Explore how the new sounds change the robot's weight or character, then rehearse the full sequence several times. Allow 15 minutes.
+  - Pair with another team and perform both versions. Compare the sounds, timing, and character. Note one discovery from changing props and one from changing roles. Allow 10 minutes.
+  - Test a change based on feedback and run the sequence again. Keep notes on both versions and decide which additional props to bring Wednesday. Allow 10 minutes.
 - Optional REAPER reference: [Introduction to REAPER](/lectures/week-1/reaper-intro/), [Starting a new project](/lectures/week-2/this-is-reaper-2/), and [Editing practice](/lectures/editing-practice/)
 ### homework
-- Bring your actual performance props to Charm Studios on Wednesday and be ready to run the whole sequence
+- Bring props for both versions, plus any new alternatives, on Wednesday. Bring your cue notes and be ready to rehearse both versions with different role assignments.
 
 ## 9/16
 - [due] [Screening log 1](/assignments/screening-log/) — *WALL-E*
-- Meet in Charm Studios with your props
 - [lab] **Foley team rehearsal and paired feedback** for [Assignment 1](/assignments/assignment-1-foley-design/). This workshop is ungraded; whole-class presentations and assessment are Monday 9/21.
-  - Brief studio orientation: cover any unfamiliar routing, monitoring, levels, and booking procedures. Allow 5 minutes.
-  - Set up your actual props and rehearse against picture while I circulate to help with sound choices, timing, and handoffs. Allow 25 minutes.
-  - Pair with another team. Take turns performing and give each other one specific suggestion about timing, materials, or character. Allow 10 minutes.
-  - Rehearse the suggested changes with your team and identify what still needs practice before Monday. Allow 10 minutes.
+  - Set up and rehearse version A several times against picture. Use Monday's notes to improve the sounds and timing while I circulate to coach. Allow 10 minutes.
+  - Rehearse version B several times, using different props or materials for at least two cues and rotating parts so everyone performs a different set of cues. Test new alternatives and work through the handoffs. Allow 15 minutes.
+  - Pair with another team and perform both versions. Compare timing, materials, and character, and discuss what the prop and role changes helped you discover. Allow 10 minutes.
+  - Choose the strongest sounds from either version, assign final roles, and rehearse the combined design. Note what still needs practice before Monday. Allow 10 minutes.
 - Reference: [Audio hardware](/lectures/week-4/audio-hardware/) and [Charm Studios documentation](https://sites.google.com/view/charmstudios/studio-documentation)
 
 ## 9/18
