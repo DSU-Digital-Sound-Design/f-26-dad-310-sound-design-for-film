@@ -54,7 +54,7 @@ from DAD 222 cover the exposure limits.
 
 ## Recording Format 
 
-- Record at 96kHz/24bit for the best quality. See [this page](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf#page=47) for instructions on changing the format. 
+- Record at 96kHz/24bit for the best quality. See [this page](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf#page=47) for instructions on changing the format. If your recorder will not go to 96k, use the highest rate it offers at 24-bit, and note the format in your submission.
 ## Slate Recordings
 
 Before each take, slate the recording by stating:
@@ -83,6 +83,6 @@ Name each of the five files in the UCS pattern from the [library organization le
 | **Ambience Details (12 pts)** | One to two minutes each of a large, medium, and small source, each tightly focused on its subject | All three present; one drifts or picks up unwanted background | One category missing, or takes too brief to use | Two or more categories missing | /12 |
 | **Recording Quality (10 pts)** | No clipping, handling noise, or wind; levels leave headroom throughout | Clean overall with one or two flawed takes | Recurring noise, wind, or levels too hot or too quiet to use | Recordings unusable | /10 |
 | **Take Variety (8 pts)** | Takes vary in duration, timing, force, perspective, and speed as the brief asks | Variation on three or four of the five dimensions | Variation on one or two; most takes are near-identical | One approach repeated | /8 |
-| **Format and Slating (8 pts)** | 96 kHz / 24-bit throughout, every take slated with name, location, and specific details | Correct format; slates present but thin on detail | Wrong format, or slates missing on several takes | No slates, or format unusable | /8 |
+| **Format and Slating (8 pts)** | 96 kHz / 24-bit throughout, or the recorder's highest rate at 24-bit with the format noted; every take slated with name, location, and specific details | Correct format; slates present but thin on detail | Wrong format, or slates missing on several takes | No slates, or format unusable | /8 |
 
 **Total: \_\_\_ / 50**
