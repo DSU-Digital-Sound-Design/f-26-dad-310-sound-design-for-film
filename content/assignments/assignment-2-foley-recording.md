@@ -14,7 +14,7 @@ Download the [REAPER starter project]({{< rel "downloads/dad310-foley-starter.zi
 
 This 11.2-second animation features a robot playing with a rubber duck. Your challenge is to create believable mechanical sounds that match the robot's movements while conveying personality and rhythm.
 
-Working in teams of three (or two) from Assignment 1, use Reaper to **record** and **layer** Foley sound effects for the animation.
+Working in your teams from Assignment 1, use REAPER to **record** and **layer** Foley sound effects for the robot animation outside class. Arrange studio time with your team. Our in-class A Quiet Place spotting and recording sessions demonstrate the workflow you will use for this project.
 
 ## Spotting and project setup
 
@@ -26,7 +26,7 @@ Follow the [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-c
 - Keep cue notes on **CUE MAP**, separate from the recording tracks. Each cue needs an ID, object/action, material, destination track, exact sync time, and performance direction.
 - Keep one count-in on **CUE BEEPS**. The starter beeps at 7, 8, and 9 seconds for a practice entrance at 10. Move the three-second item to start three seconds before the actual cue you are recording; enter on the silent fourth beat.
 
-The September 23 spotting session and rehearsal are ungraded preparation. Use them to choose your props, plan recording passes, and check that a teammate can follow your cues. The starter's practice cue must be replaced with your team's spotting plan.
+After the in-class A Quiet Place demonstration, prepare your team's robot cue map outside class. Choose props, plan recording passes, and check that a teammate can follow your cues. Replace the starter's practice cue with your team's spotting plan before recording.
 
 ## Recording Setup
 

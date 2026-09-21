@@ -2,11 +2,13 @@
 title: "Spotting Foley in REAPER"
 ---
 
-Prepare a session that another person can record from. On September 23, finish the cue map and rehearse one entrance. On September 25, record into the prepared session. On September 30, edit and layer the recordings for [Assignment 2](/assignments/assignment-2-foley-recording/).
+On **September 23**, use this guide during our [shared A Quiet Place spotting session](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting). The instructor operates REAPER while the class identifies cues, plans recording passes, and rehearses a three-beep entrance. No individual computer setup is needed.
 
-[Download the REAPER starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}). Extract the whole folder before opening `DAD310-Foley-Starter.RPP`. Keep its `Media` folder beside the project. The download includes the robot video, a three-beep audio file, named tracks, and a practice cue. No extensions or third-party plug-ins are required.
+On **September 25**, we'll demonstrate recording in that same project. On **October 2**, students will perform Foley for the spotted cues in the studio.
 
-The *A Quiet Place* activity is a [shared session on the studio computer](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting). The instructor prepares one project; students help spot cues, perform sounds, and evaluate takes. No individual computer setup is needed for that activity.
+The detailed settings, track names, and examples below use the robot animation for [Assignment 2](/assignments/assignment-2-foley-recording/). Complete your team's robot spotting, recording, and editing outside class. On **September 30**, we'll demonstrate editing and layering with takes from the A Quiet Place recording demo. For A Quiet Place, use the clip's own frame rate and duration and name tracks for its characters, surfaces, and props.
+
+[Download the robot REAPER starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}). Extract the whole folder before opening `DAD310-Foley-Starter.RPP`. Keep its `Media` folder beside the project. It includes the robot video, three beeps, named tracks, and a practice cue.
 
 ## Prepare the cues
 
@@ -82,9 +84,9 @@ Listen on headphones. The starter sends CUE BEEPS through the master for simple 
 
 A count-in prepares the entrance; it does not set the rhythm of every subsequent step. Follow the picture after the entrance. These three beeps are also different from a **2-pop**, which is a single synchronization reference.
 
-### Before you leave on September 23
+### Robot project: ready to record
 
-Save your team's project with named recording tracks, labeled cues covering the animation, and exact sync markers. Have a partner perform one entrance using your count-in. Check that the video and beeps still load after reopening the project. This preparation is ungraded and will be used in Friday's recording session.
+Save your team's project with named recording tracks, labeled cues covering the animation, and exact sync markers. Have a partner perform one entrance using your count-in. Check that the video and beeps still load after reopening the project. Complete this preparation before recording your robot Foley for Assignment 2.
 
 ## Record into the cues
 

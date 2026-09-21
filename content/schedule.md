@@ -95,20 +95,21 @@ undergraduate work.
 ## 9/23
 - [slides] [Spotting, cueing and editing Foley](/lectures/week-5/spotting/)
 - [lab] [Spot *A Quiet Place* together](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting) using the [downloadable movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) in one REAPER project on the studio computer. The instructor operates REAPER while students identify cues, choose props, and plan separate recording passes. Build a labeled cue map with exact sync markers and named recording tracks.
+  - Follow [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/) for the practical steps. Its robot settings and examples are the reference for Assignment 2.
   - Rehearse one entrance with three beeps, performing on the silent fourth beat. Save this shared project for the recording demo on Friday and the class Foley recording session on 10/2. No individual computer setup or submission is required.
 
 ## 9/25
 - [slides] [Recording Foley](/lectures/week-4/recording-foley/): mic choice, placement, and performance
 - Live demo: reopen Wednesday's shared *A Quiet Place* project and check mono inputs, headphone cue routing, and levels. Rehearse a spotted cue with the beeps, then record the lead-in, performance, and tail on separate layer tracks. Reference pages: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/).
 ### homework
-- [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation, due Mon 10/5
-  - Use the [robot starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}) and [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues) to apply the class workflow to your robot animation.
+- [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the robot animation with your team outside class, due Mon 10/5
+  - Use the [robot starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}) and [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues) to apply the class workflow to your robot animation. Arrange studio time with your team outside class.
 
 ## 9/28
 - [lab] Record someone walking through the building, spot the footstep cues, then record replacement footsteps and sync them to the picture.
 
 ## 9/30
-- [lab] [Edit and layer the recorded Foley](/lectures/week-5/reaper-spotting/#edit-and-layer-the-recordings): choose takes, refine synchronization, and balance the robot's movement and prop layers for Assignment 2.
+- [lab] Demonstrate [editing and layering Foley](/lectures/week-5/reaper-spotting/#edit-and-layer-the-recordings) using the shared A Quiet Place takes recorded on 9/25. Compare takes, refine synchronization, and balance layers. Apply these steps to your robot project outside class; use the A Quiet Place clip's actual picture range for this demo.
 - [lab] If time allows, voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
 - [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
   - Read the note on the assignment page before you choose
@@ -119,7 +120,7 @@ undergraduate work.
 - [screening] Revisit the [*A Quiet Place* movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) we spotted on 9/23. Watch it below or download a copy using the link.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="A Quiet Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [lab] [Record Foley for the scene together](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting) using the shared studio project and cue map from 9/23. The instructor operates REAPER; students prepare props, rehearse with the three beeps, perform, and compare takes. No individual computer setup or submission is required.
-- [lab] Studio time for Assignment 2
+- Questions about Assignment 2 before Monday's deadline. Complete the robot recording and editing with your team outside class.
 
 ## 10/5
 - [due] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/)

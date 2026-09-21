@@ -102,14 +102,14 @@ Cue sheets used to be handwritten in vertical columns; the same layout now lives
 ## Set up the session
 
 - 48 kHz / 24-bit WAV; Time timebase.
-- 30 fps; show a timecode ruler.
-- Lock picture at 00:00:10:00; silence its audio.
+- Match the video frame rate; show a timecode ruler.
+- Lock picture at 10 seconds; silence its audio.
 - Save the project and media in one folder.
 
 {{% note %}}
-Download and extract the starter from the REAPER spotting lab. Use Save project as with Copy all media into project directory enabled for the team's working copy. New recordings go in the relative Media folder. The supplied video is 11.2 seconds long and ends at 00:00:21:06.
+Demonstrate in the shared A Quiet Place project on the studio computer. The instructor prepares the video and project settings before class. Match the frame rate to the imported clip and set the end marker to its actual end.
 
-Review the tracks: VIDEO, CUE BEEPS, CUE MAP, SERVO MOVEMENT, SURFACE CONTACT, IMPACTS AND PROPS, CONTINUOUS MOVEMENT. VIDEO has master send disabled; no tracks are armed. Select the microphone's mono hardware input at the recording station. The full lab gives the project-setting locations and recording procedure.
+Review VIDEO, CUE BEEPS, CUE MAP, and the footstep, prop, and cloth recording tracks. Keep cue notes separate from recorded audio. Students help build the cue map; they do not need their own REAPER projects for this activity. The robot starter and its 30 fps settings are for Assignment 2.
 {{%/ note %}}
 
 ---
@@ -133,17 +133,17 @@ Sources: [Solange Schwalbe on Foley cueing](https://www.production-expert.com/pr
 
 ---
 
-## Prepare for Friday
+## Spot A Quiet Place together
 
-- Choose props that express the robot's character.
+- Identify actions and choose props for the scene.
 - Label each cue and mark its exact sync point.
 - Plan separate recording passes by material.
-- Have a partner rehearse one beep-cued entrance.
+- Rehearse one entrance with the three beeps.
 
 {{% note %}}
-Use the [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues). Each cue note needs an ID, object/action, material, destination track, sync time, and performance direction. Compare what would be performed versus sourced from a library in professional work; Assignment 2 uses students' own recorded Foley.
+Use the [REAPER spotting guide](/lectures/week-5/reaper-spotting/) alongside the [shared studio activity](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting). The instructor operates REAPER while students identify and describe cues. Each cue note needs an ID, object/action, material, destination track, sync time, and performance direction.
 
-The human footstep and background-character layout applies in later scenes. Do not invent clothing or background sounds for the robot just to fill tracks. Keep sustained movement together and allow decay after impacts. Cue notes stay on CUE MAP while audio is recorded on the named layer tracks.
+Keep sustained movement together and allow decay after impacts. Cue notes stay on CUE MAP while audio is recorded on the named layer tracks.
 
-End September 23 with a saved, reopened project and one successful rehearsal. This preparation is ungraded. Friday covers mic setup, routing, recording, and comparing takes; September 30 covers editing and mixing. Save a version with alternate takes before cropping to the active take.
+End September 23 with a saved shared cue map and one successful rehearsal. September 25 demonstrates recording in this project; October 2 is the class Foley recording session. September 30 demonstrates editing with A Quiet Place takes from the recording demo. Students complete their robot spotting, recording, and editing outside class for Assignment 2.
 {{%/ note %}}
