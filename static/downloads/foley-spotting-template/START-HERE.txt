@@ -1,0 +1,57 @@
+DAD 310 | Reusable Foley spotting template
+
+This package contains the REAPER project and its three-beep audio file.
+It does not contain a movie clip or a completed cue map.
+
+USE IT FOR A QUIET PLACE
+1. Extract the entire folder. Open Foley-Spotting-Template.RPP.
+2. Immediately use File > Save project as to save a working copy named
+   A-Quiet-Place-Spotting in its own folder. Enable Create subdirectory
+   for project and Copy all media into project directory.
+3. Select the VIDEO track and place the edit cursor at 10 seconds.
+   Import your local movie clip with Insert > Media file. Set its exact
+   position to 10 seconds in Item properties, then lock the item.
+   VIDEO has its master send off, so the original audio is not heard.
+4. Check the video source properties and set File > Project settings >
+   Video > Frame rate to match that file. The template's 30 fps is only
+   a placeholder. Keep 48 kHz / 24-bit WAV and the Time timebase.
+5. Add a PICTURE END marker at the end of your imported clip. Set the
+   render time selection from picture start to that end. The robot's
+   previous end marker and render selection have been removed.
+6. Rename and duplicate FOOTSTEPS tracks per character and surface.
+   Add background cues only when the scene needs them. Group prop
+   recording passes by material. Keep cloth on its own pass.
+7. Put empty cue items and instructions on CUE MAP. Add exact sync
+   markers. Include the destination recording track in each cue note.
+8. Play from 6 seconds: hear beeps at 7, 8, 9 and enter on the silent
+   fourth beat at 10. For a different cue at T, position the three-second
+   beep item at T minus 3 seconds. Keep its length and rate unchanged.
+9. Use headphones; keep speakers off during microphone recording.
+   The beeps use the master output for practice. With a dedicated studio
+   headphone output, route them there and disable their master send.
+10. Verify your microphone's mono input, arm only its recording track,
+    and use normal recording. Record the lead-in and decay. Mute CUE
+    BEEPS before mixing or rendering. Never record on CUE MAP.
+
+SAVE IT IN REAPER'S PROJECT TEMPLATES MENU
+Keep this extracted package in a permanent location, including Media.
+Open the clean template before importing a movie or adding scene cues.
+Choose File > Project templates > Save project as template and name it
+DAD 310 - Foley Spotting. REAPER uses an RPP file for project templates.
+Then start a new project from File > Project templates > DAD 310 - Foley
+Spotting and verify the beep media loads. Keep the source Media folder;
+saving a project template does not embed the WAV inside the RPP.
+Use Save project as with Copy all media enabled for each new class scene.
+If the saved menu template asks for the beep file, locate three-beeps.wav
+in the permanent package's Media folder and resave the template.
+
+If you prefer not to install a menu template, open this package and Save
+project as for each scene. It produces the same reusable starting setup.
+
+SETTINGS RETAINED
+48 kHz enabled; 24-bit WAV recordings to Media; Time timebase;
+timecode ruler; normal recording; Repeat and musical metronome off;
+all tracks unarmed; microphone input 1 is a placeholder to verify locally.
+
+The existing YouTube embed in the course is a viewing reference. REAPER
+needs a local video file to scrub, mark, and record in sync with picture.

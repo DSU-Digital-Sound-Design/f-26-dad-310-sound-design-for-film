@@ -90,31 +90,35 @@ undergraduate work.
   - Each team performs its prepared version twice, then explains one successful prop choice and one difficult cue. Classmates respond to the timing, materials, and character they heard. Allow 20 minutes across all teams.
 - [lab] **Change the character:** each team gets a new direction, such as making the robot seem worn out or unusually delicate. Rehearse briefly, then perform the revised version and discuss which choices conveyed the change. This challenge is ungraded. Allow 15 minutes.
 - From live performance to [recorded Foley](/lectures/week-4/recording-foley/): identify which sounds need separate passes, where live balance was difficult, and what recording would let you change. Allow 10 minutes.
-  - If performances and discussion finish early, begin the recording lesson with mic choice and placement. We'll continue with the REAPER session setup on Wednesday.
+  - If performances and discussion finish early, preview the *A Quiet Place* clip and identify sounds we'll need to record. We'll build its cue map together in REAPER on Wednesday.
 
 ## 9/23
-- [slides] [Recording Foley](/lectures/week-4/recording-foley/)
-- Live demo: setting up a Foley session in REAPER (inputs, record arm, takes). Reference decks if you need them: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/)
-- [lab] Voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
+- [slides] [Spotting, cueing and editing Foley](/lectures/week-5/spotting/)
+- [lab] [Spot *A Quiet Place* together](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting) using the [downloadable movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) in one REAPER project on the studio computer. The instructor operates REAPER while students identify cues, choose props, and plan separate recording passes. Build a labeled cue map with exact sync markers and named recording tracks.
+  - Rehearse one entrance with three beeps, performing on the silent fourth beat. Save this shared project for the recording demo on Friday and the class Foley recording session on 10/2. No individual computer setup or submission is required.
 
 ## 9/25
-- [lab] Record someone walking through the building, then replace the footsteps
+- [slides] [Recording Foley](/lectures/week-4/recording-foley/): mic choice, placement, and performance
+- Live demo: reopen Wednesday's shared *A Quiet Place* project and check mono inputs, headphone cue routing, and levels. Rehearse a spotted cue with the beeps, then record the lead-in, performance, and tail on separate layer tracks. Reference pages: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/).
 ### homework
 - [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the same animation, due Mon 10/5
+  - Use the [robot starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}) and [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues) to apply the class workflow to your robot animation.
 
 ## 9/28
-- [slides] [Spotting, cueing and editing Foley](/lectures/week-5/spotting/)
+- [lab] Record someone walking through the building, spot the footstep cues, then record replacement footsteps and sync them to the picture.
 
 ## 9/30
-- [slides] [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/)
+- [lab] [Edit and layer the recorded Foley](/lectures/week-5/reaper-spotting/#edit-and-layer-the-recordings): choose takes, refine synchronization, and balance the robot's movement and prop layers for Assignment 2.
+- [lab] If time allows, voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
 - [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
   - Read the note on the assignment page before you choose
 ### homework
 - [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments, due Mon 10/5
 
 ## 10/2
-- [screening] *A Quiet Place* — Foley redesign
+- [screening] Revisit the [*A Quiet Place* movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) we spotted on 9/23. Watch it below or download a copy using the link.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="A Quiet Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [lab] [Record Foley for the scene together](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting) using the shared studio project and cue map from 9/23. The instructor operates REAPER; students prepare props, rehearse with the three beeps, perform, and compare takes. No individual computer setup or submission is required.
 - [lab] Studio time for Assignment 2
 
 ## 10/5
@@ -151,7 +155,7 @@ undergraduate work.
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
 - [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
 - [screening] **Screening 3: *A Quiet Place*** — watch the whole film at home
-  - You saw the Foley redesign on 10/2. This time listen to how the film uses the whole runtime
+  - We spotted this film's class clip on 9/23 and recorded Foley for it on 10/2. This time listen to how the film uses the whole runtime
 ### homework
 - [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments, due Mon 10/19
 

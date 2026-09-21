@@ -1,0 +1,55 @@
+DAD 310 | Foley spotting and recording starter
+
+Extract this entire folder. Open DAD310-Foley-Starter.RPP in REAPER.
+Keep Media beside the project. Use Save project as to create your team's
+working folder, with Copy all media into project directory enabled.
+
+PROJECT SETTINGS
+48,000 Hz enabled; new recordings WAV, 24-bit PCM; media path Media.
+Time timebase; 30 fps; Hours:Minutes:Seconds:Frames ruler.
+Robot video: 1920 x 1080, 30 fps, 11.2 seconds.
+Video starts at 00:00:10:00 and ends at 00:00:21:06.
+Its item is locked and its track's master send is disabled.
+
+COUNT-IN
+Start playback from the PLAY FROM HERE marker at 6 seconds.
+Beeps occur at 7, 8, and 9 seconds. Enter on the silent fourth beat at 10.
+This is a practice entrance, not a completed cue for an identified action.
+The one three-second audio item contains all three beeps. Its right edge
+and snap offset mark the silent fourth beat. To cue an action at T,
+set the item's position to T minus 3 seconds in Item properties.
+Keep its length and playback rate unchanged. Start playback at least
+one second before the first beep. Use one active count-in at a time.
+One-second spacing is our classroom convention, not a universal standard.
+
+TRACKS
+VIDEO - LOCKED / AUDIO OFF: picture reference only.
+CUE BEEPS - MUTE BEFORE MIX: plays through master for headphone practice.
+CUE MAP - NOTES ONLY: replace the practice item with your own spotted cues.
+SERVO MOVEMENT, SURFACE CONTACT, IMPACTS AND PROPS, CONTINUOUS MOVEMENT:
+record your own performances on these layer tracks.
+
+RECORDING
+No tracks are armed. Select your audio device and the microphone's mono
+hardware input at the recording station. The starter uses input 1 as a
+placeholder on the four recording tracks; verify the physical connection.
+Use headphones and switch off speakers. On a separate studio cue output,
+route beeps there and disable their master send. Do not use loopback input.
+Keep cue tracks unarmed. Test for beep spill. Use Record mode: normal,
+with Repeat and the musical metronome off. Record the lead-in, slate,
+performance, and tail. Do not confuse playback start with the sync point.
+Typical levels around -18 to -12 dBFS, with peaks below -6 dBFS.
+
+EDIT / DELIVERY
+Save a new version before choosing takes. Mute CUE BEEPS before mixing
+or rendering. Keep original video audio off. Trim slates and unwanted
+noise, sync the performances, and balance the layers. The picture range
+is 10.0 to 21.2 seconds. Submit the whole project folder zipped, including
+all recorded audio and video. Assignment 2 is due October 5, 2026.
+
+The beep WAV is an original 48 kHz / 24-bit mono file: three short 1 kHz
+tones, one second apart, with peaks at -18 dBFS and short click-free ramps.
+No extensions, scripts, or third-party plug-ins are required.
+
+Full lab:
+https://dsu-digital-sound-design.github.io/f-26-dad-310-sound-design-for-film/lectures/week-5/reaper-spotting/

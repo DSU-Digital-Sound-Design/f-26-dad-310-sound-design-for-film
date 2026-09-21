@@ -16,9 +16,9 @@ Now you can record by clicking the record button on the transport. You can play 
 
 The default is to monitor the input. You can turn it off and still record if you don't want to hear it play back as you're recording. Usually it's good to just leave this on.
 
-The other mode is useful for punching in, or re-recording a specific part of an item. This can be done by clicking "cmd+r" at the punch-in and punch-out places. Reaper will then create takes, so that you still have your previous take. You can choose which take you like then crop to active take once you deicide which take you want to keep.
+Recording mode is separate from input monitoring. For the Foley lab, use **Record mode: normal** from the transport Record button's right-click menu. Start before the cue beeps and stop after the sound decays. Keep alternate recordings, compare them against picture, and save a new project version before cropping to an active take or removing alternatives.
 
-One useful thing could be to autoselect your punch in and punch of points. You can do this using "Record mode: time selection auto punch". Create a time selection then hit the record button. Reaper will only record in your time selections.
+For a later punch-in exercise, choose **Record mode: time selection auto-punch**. Make a time selection that includes preparation before the action and decay afterward, then begin playback before that selection. The resulting recorded item covers the selected range; do not confuse its start with the exact sync point of an impact.
 
 Finally you can choose "Record mode: auto-punch selected items". Now you can make multiple selections of items and re-record the ones that re selected. To make different selections you need to slipt the item first. Do this with "s" to split at cursor.
 

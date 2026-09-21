@@ -46,22 +46,26 @@ Cue sheets used to be handwritten in vertical columns; the same layout now lives
 
 ## Cue with a breath
 
-- Do not cue on the first frame of movement. Leave a breath before the action so the artist can anticipate it, because Foley is a performance.
-- When the picture cross-cuts between two characters, keep each character's cue running through the cuts. Chopping the cue at every cut kills the rhythm of the walk.
+- Play the lead-in so the artist can anticipate the action.
+- Mark the exact sync point separately from recording boundaries.
+- Keep continuous movement together across picture cuts.
 
 {{% note %}}
-- Both rules come from Ament, ch. 5, and both exist for the same reason: the artist performs a scene, not a list of timestamps.
+- Ament's lead-in and continuous-performance principles come from ch. 5: the artist performs a scene, not a list of timestamps.
 - This is also why Foley cueing is looser than ADR cueing, which must hit lip-sync exactly.
+- In our REAPER lab, an empty cue-map item includes preparation and decay, while a named marker identifies the exact contact or action to synchronize. A three-beep count-in lands its silent fourth beat at that marker. Normal recording begins before the count-in and continues after the action. Do not shift the intended sync point earlier just to create a lead-in.
 {{%/ note %}}
 
 ---
 
 ## Two stories worth knowing
 
-- Jerry Trent was hired to Foley Mikhail Baryshnikov's dancing in *The Turning Point* (1977). The film's choreographer doubted a Foley artist could match the steps. Trent's answer: "I don't have to do the same steps, they just have to sound like the steps. I can do most of this sitting down."
-- For *The Godfather Part II*, Walter Murch and mixer Mark Berger skipped the Foley stage entirely. They calibrated a metronome to the film's frames per footstep, set it to flash instead of click, and walked real marble stairs in San Francisco in sync with the silent light.
+- *The Turning Point*: Jerry Trent recreated Baryshnikov's dance sounds, even while sitting down.
+- *The Godfather Part II*: Murch and Berger walked real marble stairs, keeping time with a flashing metronome.
 
 {{% note %}}
+- Jerry Trent was hired to Foley Mikhail Baryshnikov's dancing in *The Turning Point* (1977). The film's choreographer doubted a Foley artist could match the steps. Trent's answer: "I don't have to do the same steps, they just have to sound like the steps. I can do most of this sitting down."
+- For *The Godfather Part II*, Walter Murch and mixer Mark Berger skipped the Foley stage entirely. They calibrated a metronome to the film's frames per footstep, set it to flash instead of click, and walked real marble stairs in San Francisco in sync with the silent light.
 - The Trent story teaches the foundational Foley truth: the job is the sonic illusion, not literal reenactment.
 - The Murch story teaches the opposite lesson: sometimes the illusion requires the real place, real marble, and real architectural reflections. Both stories are in Ament, ch. 1 and 8.
 {{%/ note %}}
@@ -70,13 +74,76 @@ Cue sheets used to be handwritten in vertical columns; the same layout now lives
 
 ## Cuing process
 
-1. Watch each scene several times before writing anything.
-2. Cue the main characters first, one per track, adding tracks when a walk crosses different surfaces.
-3. Cue background characters with direction tags rather than names.
-4. Cue props last, grouped by food group so the mixer works in sweeps.
+<style>
+/* Reserve space for the wide monospace numerals inside the slide edge. */
+.reveal #cuing-process ~ ol {
+  margin-left: 0;
+  padding-left: 2em;
+  box-sizing: border-box;
+}
+</style>
+
+1. Watch the scene several times before cueing.
+2. Main characters first: one track per character and surface.
+3. Background characters next: label their direction.
+4. Props last: group similar materials together.
 
 {{% note %}}
+- Add tracks when a character's walk crosses different surfaces.
+- Identify background characters with descriptive direction tags rather than names.
+- Group props by Ament's "food groups" so the mixer can record similar textures in sweeps without resetting the microphone for every cue.
 - Precision with conciseness: if multiple men carry children in a scene, "man carrying child" fails and the cue must say which man.
 - The end goal is a road map that lets the artist, the mixer, and the editor work the stage day without stopping to ask questions.
 - Source: Ament, ch. 5.
+{{%/ note %}}
+
+---
+
+## Set up the session
+
+- 48 kHz / 24-bit WAV; Time timebase.
+- 30 fps; show a timecode ruler.
+- Lock picture at 00:00:10:00; silence its audio.
+- Save the project and media in one folder.
+
+{{% note %}}
+Download and extract the starter from the REAPER spotting lab. Use Save project as with Copy all media into project directory enabled for the team's working copy. New recordings go in the relative Media folder. The supplied video is 11.2 seconds long and ends at 00:00:21:06.
+
+Review the tracks: VIDEO, CUE BEEPS, CUE MAP, SERVO MOVEMENT, SURFACE CONTACT, IMPACTS AND PROPS, CONTINUOUS MOVEMENT. VIDEO has master send disabled; no tracks are armed. Select the microphone's mono hardware input at the recording station. The full lab gives the project-setting locations and recording procedure.
+{{%/ note %}}
+
+---
+
+## Three beeps, then perform
+
+- Hear three evenly spaced beeps.
+- Enter on the silent fourth beat.
+- Our practice: beeps at 7, 8, 9 seconds; enter at 10.
+- Use headphones; mute beeps before mixing.
+
+{{% note %}}
+Use one-second spacing as our classroom convention. Start playback at 6 seconds. The three-second audio item contains all three beeps; its right edge and snap offset mark the silent fourth beat. For a cue at T, position the item at T minus 3 seconds without changing its length or rate. Keep one count-in active at a time. First rehearse an entrance, then apply it to a spotted action. The starter's practice item is not a finished cue map.
+
+Stage methods can use different intervals or visual streamers. The count-in prepares the entrance; the performer follows picture after it. A 2-pop is a separate synchronization reference, not this three-beep count-in.
+
+The starter routes beeps through the master for headphone practice. At a studio with a separate headphone output, route beeps there and turn off their master send. Keep speakers off during microphone recording, check headphone spill, and record the microphone input rather than loopback.
+
+Sources: [Solange Schwalbe on Foley cueing](https://www.production-expert.com/production-expert-1/mastering-foley-insights-from-solange-schwalbe); [one-second ADR count-in example](https://www.crashsymphony.com.au/adr-studio-sydney/).
+{{%/ note %}}
+
+---
+
+## Prepare for Friday
+
+- Choose props that express the robot's character.
+- Label each cue and mark its exact sync point.
+- Plan separate recording passes by material.
+- Have a partner rehearse one beep-cued entrance.
+
+{{% note %}}
+Use the [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues). Each cue note needs an ID, object/action, material, destination track, sync time, and performance direction. Compare what would be performed versus sourced from a library in professional work; Assignment 2 uses students' own recorded Foley.
+
+The human footstep and background-character layout applies in later scenes. Do not invent clothing or background sounds for the robot just to fill tracks. Keep sustained movement together and allow decay after impacts. Cue notes stay on CUE MAP while audio is recorded on the named layer tracks.
+
+End September 23 with a saved, reopened project and one successful rehearsal. This preparation is ungraded. Friday covers mic setup, routing, recording, and comparing takes; September 30 covers editing and mixing. Save a version with alternate takes before cropping to the active take.
 {{%/ note %}}
