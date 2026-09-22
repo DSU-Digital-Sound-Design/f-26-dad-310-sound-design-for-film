@@ -29,44 +29,30 @@ Two cautions:
 
 The beginner tells are over-articulated heel-toe walking, which sounds like "ta-da, ta-da," and flat-footed walking, which sounds like "plop, plop, plop." Watch the character's weight and pace before you perform, and walk the character rather than the shoe.
 
-## September 25: recording demo
+## Prepare to record
 
-Reopen the shared *A Quiet Place* project spotted on September 23. Choose one prepared cue and demonstrate microphone placement, input gain, headphone routing, and recording with a lead-in and tail. Follow the [REAPER recording procedure](/lectures/week-5/reaper-spotting/#record-into-the-cues), then compare two takes with picture.
+Open the shared *A Quiet Place* project prepared in the [spotting lesson](/lectures/week-5/reaper-spotting/). Its empty cue items are already arranged on specific Foley pass tracks inside category folders. Add or use a companion `REC` track directly below the selected `CUES` track. Keep both inside the same folder.
 
-Students will use this workflow to spot, record, and edit the robot outside class for [Assignment 2](/assignments/assignment-2-foley-recording/). We'll return to the shared project for class Foley recording on October 2.
+## Record into the cues
 
-## A Quiet Place: in-class spotting
+Work from a cue prepared during the spotting session. Assign roles for operating REAPER, performing, preparing props, and listening for timing or unwanted noise.
 
-We'll spot and record this scene together in **one REAPER project on the studio computer**. The instructor operates the session while students identify cues, choose and perform props, and compare takes. Students do not need to download a project or set up REAPER on their own computers for this activity.
+1. Choose an empty cue item on its Foley pass track. Move the count-in until the beep item's right edge snaps to the cue item's left edge. Rehearse with picture.
+2. Keep speakers off and listen on headphones. Route CUE BEEPS to a separate headphone output when available; otherwise use the master for headphone playback. Check for beep spill and avoid loopback inputs. Select the microphone's **mono hardware input** and arm only the companion `REC` track. Use direct monitoring or REAPER input monitoring as appropriate; avoid hearing both with a delay. Keep the `CUES` and CUE BEEPS tracks unarmed.
+3. Perform the loudest part while setting the interface gain. Aim around -18 to -12 dBFS for typical levels, with peaks below -6 dBFS. Record a test and check it for clipping, room noise, and beep spill.
+4. Turn off Repeat and the musical metronome. Right-click the transport Record button and choose **Record mode: normal**. Start recording before the count-in, slate the object, surface, action, and take number, then perform on the silent fourth beat. Leave a tail after the action before stopping. Start earlier if you need more time for the slate.
+5. Record another take and compare. Leave the empty cue items intact above the recorded takes. Keep alternate recordings until you have made your choices.
 
-### Before September 23: instructor setup
+Normal recording keeps the lead-in and tail in the recorded item. Once you understand this workflow, try time-selection auto-punch with boundaries that include those handles. The recording boundary, the cue's sync point, and the playback start are separate decisions. Do not punch exactly at an impact and lose its approach.
 
-[Download A Quiet Place: first 10 minutes]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) · MKV, 26 MB. Use this clip in our shared REAPER project.
+Save the project with alternate takes for the [editing and layering lesson](/lectures/week-5/editing-foley/).
 
-Use the [Foley starter template]({{< rel "downloads/foley-spotting-template.zip" >}}) to create a single working project. Installing it in REAPER's template menu is optional.
+## Class recording session
 
-1. Extract the folder and open `Foley-Spotting-Template.RPP` on the studio computer. Save it as `A-Quiet-Place-Spotting` in its own folder, with **Copy all media into project directory** enabled.
-2. Import the downloaded movie clip onto VIDEO at **10 seconds**, then lock the video item. Its track's master send is already off.
-3. Match **Project settings > Video > Frame rate** to the clip's source properties. The template's 30 fps is a placeholder. Keep 48 kHz / 24-bit WAV and the Time timebase.
-4. Add a picture-end marker and set the picture-length render selection. Prepare footstep, prop, and cloth tracks, and check the microphone input, headphone cue routing, and levels. Leave the cue map for the class to build together.
+Continue recording the prepared *A Quiet Place* cues in the same studio project. Rotate through operating REAPER, performing, preparing props, and listening. Use the recording procedure above, compare takes, and adjust the prop, performance, or microphone placement before another pass. Mute the beeps when listening to the assembled scene.
 
-### September 23: spot and rehearse
-
-1. Watch the scene and identify the actions that need sound. Describe the character's weight and movement, then suggest props and materials.
-2. Build the cue map on the studio screen as students call out actions. The instructor labels each cue with its material, recording track, performance direction, and exact sync marker. Keep continuous movement together across picture cuts.
-3. Choose a cue and move the three-second beep item to start three seconds before its sync point. A student rehearses the entrance on the silent fourth beat while watching picture.
-Save the cue map and rehearsed entrance for the September 25 demo and October 2 recording session.
-
-### October 2: perform and record
-
-1. Reopen the saved project and review the spotted cues.
-2. Record the lead-in, performance, and tail using the [recording procedure](/lectures/week-5/reaper-spotting/#record-into-the-cues). Rotate students through performing, preparing props, and listening for timing and unwanted noise while the instructor runs REAPER.
-3. Compare takes as a class. Decide whether to change the prop, performance, mic placement, or timing, then record another pass. Mute the beeps when listening to the assembled scene.
-
-This is a shared, ungraded studio exercise with no separate student project submission.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is an ungraded class exercise with no separate submission. Complete the robot spotting, recording, and editing with your team **outside class** for [Assignment 2](/assignments/assignment-2-foley-recording/).
 
 ---
 
-Source: Vanessa Theme Ament, *The Foley Grail*, 3rd ed. (Routledge, 2021), ch. 6 on the stage and miking, ch. 7 on the mixer's perspective, and ch. 8 on footsteps.
+Source: Vanessa Theme Ament, *The Foley Grail*, 3rd ed., chapters 6, 7, and 8.

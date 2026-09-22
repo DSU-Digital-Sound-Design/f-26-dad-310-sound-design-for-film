@@ -4,8 +4,8 @@
     |No video is included. Import your clip at 10 seconds, match its actual frame rate, and lock its position.
     |48 kHz / 24-bit WAV; Time timebase. 30 fps is only a placeholder until you import picture.
     |Play from 6 seconds. Three beeps at 7, 8, 9; silent fourth beat at 10.
-    |Move the beep item to cue time minus 3 seconds. Headphones only during microphone recording.
-    |Keep CUE MAP separate from audio. Duplicate footstep tracks per character and surface as needed.
+    |Snap the beep item's right edge to the active cue item's left edge. Headphones only during recording.
+    |Use category folders with specifically named cue tracks inside. Add a matching REC track below each CUES track.
     |Set a new picture-end marker and render time selection for each clip. Mute beeps before mixing.
     |No tracks armed; select your microphone's mono hardware input at the recording station.
   >
@@ -180,32 +180,8 @@
       >
     >
   >
-  <TRACK {AE05922A-81D4-4992-950F-0A51A5123C8B}
-    NAME "CUE MAP - NOTES ONLY"
-    PEAKCOL 29474010
-    BEAT 0
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 0
-    REC 0 -1 0 0 0 0 0 0
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {AE05922A-81D4-4992-950F-0A51A5123C8B}
-    PERF 0
-    MIDIOUT -1 -1
-    MAINSEND 0 0
-  >
   <TRACK {36F8D06B-6B67-4D06-A61F-23041D560D0E}
-    NAME "FOOTSTEPS - CHARACTER / SURFACE"
+    NAME "FOOTSTEPS"
     PEAKCOL 27965798
     BEAT 0
     AUTOMODE 0
@@ -213,7 +189,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
@@ -228,6 +204,30 @@
     MIDIOUT -1 -1
     MAINSEND 1 0
   >
+  <TRACK {2C6311B0-E7B1-4EC8-8F17-02DE0EDC7781}
+    NAME "CHARACTER - FOOTWEAR - SURFACE - CUES"
+    PEAKCOL 27965798
+    BEAT 0
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 -1 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2C6311B0-E7B1-4EC8-8F17-02DE0EDC7781}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
   <TRACK {321A80A0-D06B-414E-9D89-E59575B26CE8}
     NAME "BACKGROUND FOOTSTEPS"
     PEAKCOL 23058788
@@ -237,7 +237,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
@@ -252,8 +252,32 @@
     MIDIOUT -1 -1
     MAINSEND 1 0
   >
+  <TRACK {59C436C5-33BF-4B13-AF40-3FD0CA245343}
+    NAME "DESCRIPTION - DIRECTION - FOOTWEAR - SURFACE - CUES"
+    PEAKCOL 23058788
+    BEAT 0
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 -1 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {59C436C5-33BF-4B13-AF40-3FD0CA245343}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
   <TRACK {6241A7BF-CF31-405C-A55A-69CC9F362D41}
-    NAME "PROPS - MATERIAL / ACTION"
+    NAME "PROPS"
     PEAKCOL 21343204
     BEAT 0
     AUTOMODE 0
@@ -261,7 +285,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
@@ -276,8 +300,32 @@
     MIDIOUT -1 -1
     MAINSEND 1 0
   >
+  <TRACK {D040EA34-3EAE-48D3-8D47-65205453941F}
+    NAME "MATERIAL - OBJECT OR ACTION - CUES"
+    PEAKCOL 21343204
+    BEAT 0
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 -1 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D040EA34-3EAE-48D3-8D47-65205453941F}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
   <TRACK {4E387FB6-EC6A-4BE0-8C23-B2B957314570}
-    NAME "CLOTH MOVEMENT"
+    NAME "CLOTH"
     PEAKCOL 30494863
     BEAT 0
     AUTOMODE 0
@@ -285,7 +333,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
@@ -296,6 +344,30 @@
     NCHAN 2
     FX 1
     TRACKID {4E387FB6-EC6A-4BE0-8C23-B2B957314570}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
+  <TRACK {C36D10E4-E00E-49DC-98FD-54A15E5C9A13}
+    NAME "CHARACTER - GARMENT - CUES"
+    PEAKCOL 30494863
+    BEAT 0
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 -1 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C36D10E4-E00E-49DC-98FD-54A15E5C9A13}
     PERF 0
     MIDIOUT -1 -1
     MAINSEND 1 0

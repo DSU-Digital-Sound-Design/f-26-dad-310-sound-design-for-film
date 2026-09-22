@@ -18,30 +18,33 @@ Working in your teams from Assignment 1, use REAPER to **record** and **layer** 
 
 ## Spotting and project setup
 
-Follow the [REAPER spotting lab](/lectures/week-5/reaper-spotting/#prepare-the-cues). Save a working copy in your team's own folder, copying all media into it. Use these project settings:
+Follow the [REAPER spotting lab](/lectures/week-5/reaper-spotting/). Save a working copy in your team's own folder, copying all media into it. Use these project settings:
 
 - **48 kHz / 24-bit WAV**, with new recordings saved in the relative `Media` folder.
 - **Time** timebase and **30 fps**, matching the supplied video. Display the ruler in Hours:Minutes:Seconds:Frames.
 - Picture starts at **00:00:10:00** and ends at **00:00:21:06**. Keep the video item's position locked and its track's master send off.
-- Keep cue notes on **CUE MAP**, separate from the recording tracks. Each cue needs an ID, object/action, material, destination track, exact sync time, and performance direction.
-- Keep one count-in on **CUE BEEPS**. The starter beeps at 7, 8, and 9 seconds for a practice entrance at 10. Move the three-second item to start three seconds before the actual cue you are recording; enter on the silent fourth beat.
+- Organize the session with category folders such as **ROBOT MOVEMENT**, **SURFACE CONTACT**, and **PROPS**. Inside each folder, create a specifically named `CUES` track for each pass.
+- Put each empty cue item on its pass track. Its left edge marks the exact sync frame, and its right edge extends through the action or sound decay. Add a short item note only when the action or performance is not clear from the track name and picture. Do not add a project marker for every cue.
+- Keep one count-in on **CUE BEEPS**. The starter beeps at 7, 8, and 9 seconds for a practice entrance at 10. For each recording pass, snap the beep item's right edge to the active cue item's left edge; enter on the silent fourth beat.
 
-After the in-class A Quiet Place demonstration, prepare your team's robot cue map outside class. Choose props, plan recording passes, and check that a teammate can follow your cues. Replace the starter's practice cue with your team's spotting plan before recording.
+After the in-class A Quiet Place demonstration, prepare your team's robot cues outside class. Choose props, plan recording passes, and check that a teammate can follow the cues from the track layout. Before recording, duplicate each `CUES` track directly below it, change the duplicate's suffix to `REC`, and keep both inside the same folder.
 
 ## Recording Setup
 
 - Record in the studio at 48 kHz / 24-bit. Select the microphone's mono hardware input and arm only the recording track you need.
 - Use one of the small-diaphragm cardioids from the [recording lesson](/lectures/week-4/recording-foley/), with the AT 4041 as the first choice. Place it about 6 inches above the surface, 1 to 2 feet from the performer, angled at the contact point. This is Ament's close-mic geometry from *The Foley Grail*.
-- Lay out the session the way the [spotting lesson](/lectures/week-5/spotting/) teaches: one track per layer, with the robot's servo movements, the impacts and props, and the surface contact each on their own track, and any continuous movement on a separate pass.
+- Lay out the session the way the [spotting lesson](/lectures/week-5/spotting/) teaches. Use general category folders and specifically named tracks for each recording pass. Keep servo movements, impacts and props, surface contact, and continuous movement separate.
 - Slate each take with the object, the surface, and the action, for example "metal grabber arm, rubber duck squeeze, take 3."
 - Keep peaks below -6 dBFS, and re-record anything that clips.
-- Use headphones for the count-in, with speakers off. At a studio with a separate headphone output, send the beeps there and disable their master send. Check for spill into the microphone; keep the cue tracks unarmed.
-- Use normal recording with Repeat and the musical metronome off. Start before the beeps, allow time for the slate, and keep a tail after the performance. Follow the lab's distinction between playback start, recording boundaries, and the sync point.
+- Use headphones for the count-in, with speakers off. At a studio with a separate headphone output, send the beeps there and disable their master send. Check for spill into the microphone. Keep the cue tracks unarmed and arm only the companion recording track.
+- Use normal recording with Repeat and the musical metronome off. Start before the beeps, allow time for the slate, and keep a tail after the performance. Follow the [recording procedure](/lectures/week-4/recording-foley/#record-into-the-cues).
 
 ## Performance Notes
 
 - The robot has weight and rhythm. Watch the animation twice and mark the beats before you record anything.
 - Ament's cueing rule applies on our stage too: leave a breath before each cue and perform through the movement rather than chasing individual frames.
+
+Use the [editing and layering guide](/lectures/week-5/editing-foley/) when assembling your takes.
 
 ## Project Requirements
 1. Cover all sound-making objects and events in the supplied animation with your own recorded Foley.

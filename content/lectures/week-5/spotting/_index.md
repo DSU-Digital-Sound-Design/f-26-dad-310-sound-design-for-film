@@ -1,11 +1,11 @@
 +++
-title = "Spotting, Cueing, and Editing Foley"
+title = "Spotting and Cueing Foley"
 outputs = ["Reveal"]
 [reveal_hugo]
 # show_notes = "separate-page"
 +++
 
-## Spotting, Cueing, and Editing Foley
+## Spotting and Cueing Foley
 
 This lesson follows Vanessa Theme Ament, *The Foley Grail*, 3rd ed., ch. 4 and 5.
 
@@ -47,13 +47,13 @@ Cue sheets used to be handwritten in vertical columns; the same layout now lives
 ## Cue with a breath
 
 - Play the lead-in so the artist can anticipate the action.
-- Mark the exact sync point separately from recording boundaries.
+- Place the cue item's left edge at the exact sync point.
 - Keep continuous movement together across picture cuts.
 
 {{% note %}}
 - Ament's lead-in and continuous-performance principles come from ch. 5: the artist performs a scene, not a list of timestamps.
 - This is also why Foley cueing is looser than ADR cueing, which must hit lip-sync exactly.
-- In our REAPER lab, an empty cue-map item includes preparation and decay, while a named marker identifies the exact contact or action to synchronize. A three-beep count-in lands its silent fourth beat at that marker. Normal recording begins before the count-in and continues after the action. Do not shift the intended sync point earlier just to create a lead-in.
+- In our REAPER lab, an empty cue item begins at the exact contact or action and extends through the movement or decay. Move the three-beep item until its right edge meets the cue item's left edge. Normal recording begins before the count-in and continues after the action. Project markers remain available for picture start, picture end, and other global references.
 {{%/ note %}}
 
 ---
@@ -109,7 +109,7 @@ Cue sheets used to be handwritten in vertical columns; the same layout now lives
 {{% note %}}
 Demonstrate in the shared A Quiet Place project on the studio computer. The instructor prepares the video and project settings before class. Match the frame rate to the imported clip and set the end marker to its actual end.
 
-Review VIDEO, CUE BEEPS, CUE MAP, and the footstep, prop, and cloth recording tracks. Keep cue notes separate from recorded audio. Students help build the cue map; they do not need their own REAPER projects for this activity. The robot starter and its 30 fps settings are for Assignment 2.
+Review VIDEO, CUE BEEPS, and the FOOTSTEPS, BACKGROUND FOOTSTEPS, PROPS, and CLOTH folders. Following Ament's session layout, put each empty cue item on a specifically named `CUES` track inside its category folder. Before recording, duplicate it below as a matching `REC` track so the notes remain visible. The robot starter and its 30 fps settings are for Assignment 2.
 {{%/ note %}}
 
 ---
@@ -122,7 +122,7 @@ Review VIDEO, CUE BEEPS, CUE MAP, and the footstep, prop, and cloth recording tr
 - Use headphones; mute beeps before mixing.
 
 {{% note %}}
-Use one-second spacing as our classroom convention. Start playback at 6 seconds. The three-second audio item contains all three beeps; its right edge and snap offset mark the silent fourth beat. For a cue at T, position the item at T minus 3 seconds without changing its length or rate. Keep one count-in active at a time. First rehearse an entrance, then apply it to a spotted action. The starter's practice item is not a finished cue map.
+Use one-second spacing as our classroom convention. Start playback at 6 seconds. The three-second audio item contains all three beeps; its right edge marks the silent fourth beat. For each recording pass, snap that edge to the active cue item's left edge without changing the beep item's length or rate. Keep one count-in active at a time. First rehearse an entrance, then apply it to a spotted action. The starter does not contain a finished cue layout.
 
 Stage methods can use different intervals or visual streamers. The count-in prepares the entrance; the performer follows picture after it. A 2-pop is a separate synchronization reference, not this three-beep count-in.
 
@@ -136,14 +136,14 @@ Sources: [Solange Schwalbe on Foley cueing](https://www.production-expert.com/pr
 ## Spot A Quiet Place together
 
 - Identify actions and choose props for the scene.
-- Label each cue and mark its exact sync point.
+- Label each cue and place its left edge at the exact sync point.
 - Plan separate recording passes by material.
 - Rehearse one entrance with the three beeps.
 
 {{% note %}}
-Use the [REAPER spotting guide](/lectures/week-5/reaper-spotting/) alongside the [shared studio activity](/lectures/week-4/recording-foley/#a-quiet-place-in-class-spotting). The instructor operates REAPER while students identify and describe cues. Each cue note needs an ID, object/action, material, destination track, sync time, and performance direction.
+Use the [REAPER spotting guide](/lectures/week-5/reaper-spotting/) for the shared studio activity. The instructor operates REAPER while students identify and describe cues. Assign every cue to its Foley pass track. Add a short item note only when the action or performance is not clear from the track name and picture.
 
-Keep sustained movement together and allow decay after impacts. Cue notes stay on CUE MAP while audio is recorded on the named layer tracks.
+Keep sustained movement together and allow decay after impacts. Before recording, keep the empty cue items on their `CUES` tracks and add matching `REC` tracks directly below them in the same folders.
 
-End September 23 with a saved shared cue map and one successful rehearsal. September 25 demonstrates recording in this project; October 2 is the class Foley recording session. September 30 demonstrates editing with A Quiet Place takes from the recording demo. Students complete their robot spotting, recording, and editing outside class for Assignment 2.
+End September 23 with saved cue tracks and one successful rehearsal. September 25 demonstrates recording in this project; October 2 is the class Foley recording session. September 30 demonstrates editing with A Quiet Place takes from the recording demo. Students complete their robot spotting, recording, and editing outside class for Assignment 2.
 {{%/ note %}}

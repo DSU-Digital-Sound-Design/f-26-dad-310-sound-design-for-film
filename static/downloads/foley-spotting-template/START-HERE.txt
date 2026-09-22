@@ -1,7 +1,7 @@
 DAD 310 | Reusable Foley spotting template
 
 This package contains the REAPER project and its three-beep audio file.
-It does not contain a movie clip or a completed cue map.
+It does not contain a movie clip or completed cue items.
 
 USE IT FOR A QUIET PLACE
 1. Extract the entire folder. Open Foley-Spotting-Template.RPP.
@@ -18,20 +18,26 @@ USE IT FOR A QUIET PLACE
 5. Add a PICTURE END marker at the end of your imported clip. Set the
    render time selection from picture start to that end. The robot's
    previous end marker and render selection have been removed.
-6. Rename and duplicate FOOTSTEPS tracks per character and surface.
-   Add background cues only when the scene needs them. Group prop
-   recording passes by material. Keep cloth on its own pass.
-7. Put empty cue items and instructions on CUE MAP. Add exact sync
-   markers. Include the destination recording track in each cue note.
+6. Keep FOOTSTEPS, BACKGROUND FOOTSTEPS, PROPS, and CLOTH as category
+   folders. Rename and duplicate the tracks inside them for each pass:
+   character-footwear-surface, visible description-direction-surface,
+   material-object/action, or character-garment.
+7. Put each empty cue item on its specifically named pass track, never
+   on the folder track. Put its left edge at the exact sync frame and
+   extend its right edge through the action or decay. Do not add a
+   project marker per cue.
 8. Play from 6 seconds: hear beeps at 7, 8, 9 and enter on the silent
-   fourth beat at 10. For a different cue at T, position the three-second
-   beep item at T minus 3 seconds. Keep its length and rate unchanged.
+   fourth beat at 10. For each recording pass, snap the beep item's
+   right edge to the active cue item's left edge. Keep the beep item's
+   length and rate unchanged.
 9. Use headphones; keep speakers off during microphone recording.
    The beeps use the master output for practice. With a dedicated studio
    headphone output, route them there and disable their master send.
-10. Verify your microphone's mono input, arm only its recording track,
-    and use normal recording. Record the lead-in and decay. Mute CUE
-    BEEPS before mixing or rendering. Never record on CUE MAP.
+10. Before recording, duplicate each CUES track directly below it and
+    change the duplicate's suffix to REC. Keep both inside the category
+    folder. Leave the empty cue items visible, arm only the REC track,
+    and use normal recording.
+    Record the lead-in and decay. Mute CUE BEEPS before mixing or rendering.
 
 SAVE IT IN REAPER'S PROJECT TEMPLATES MENU
 Keep this extracted package in a permanent location, including Media.

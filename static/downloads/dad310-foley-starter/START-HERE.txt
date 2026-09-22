@@ -16,18 +16,21 @@ Start playback from the PLAY FROM HERE marker at 6 seconds.
 Beeps occur at 7, 8, and 9 seconds. Enter on the silent fourth beat at 10.
 This is a practice entrance, not a completed cue for an identified action.
 The one three-second audio item contains all three beeps. Its right edge
-and snap offset mark the silent fourth beat. To cue an action at T,
-set the item's position to T minus 3 seconds in Item properties.
-Keep its length and playback rate unchanged. Start playback at least
-one second before the first beep. Use one active count-in at a time.
+marks the silent fourth beat. Put each empty cue item's left edge at its
+exact sync frame and extend its right edge through the action or decay.
+For each recording pass, snap the beep item's right edge to the active
+cue item's left edge. Keep the beep item's length and playback rate
+unchanged. Start playback at least one second before
+the first beep. Use one active count-in at a time.
 One-second spacing is our classroom convention, not a universal standard.
 
 TRACKS
 VIDEO - LOCKED / AUDIO OFF: picture reference only.
 CUE BEEPS - MUTE BEFORE MIX: plays through master for headphone practice.
-CUE MAP - NOTES ONLY: replace the practice item with your own spotted cues.
-SERVO MOVEMENT, SURFACE CONTACT, IMPACTS AND PROPS, CONTINUOUS MOVEMENT:
-record your own performances on these layer tracks.
+ROBOT MOVEMENT, SURFACE CONTACT, PROPS, CONTINUOUS MOVEMENT: category
+folders. Rename and duplicate the CUES tracks inside them for specific
+body parts, surfaces, materials, objects, and actions. Put empty cue items
+on these specific tracks, never on the folder tracks.
 
 RECORDING
 No tracks are armed. Select your audio device and the microphone's mono
@@ -35,9 +38,12 @@ hardware input at the recording station. The starter uses input 1 as a
 placeholder on the four recording tracks; verify the physical connection.
 Use headphones and switch off speakers. On a separate studio cue output,
 route beeps there and disable their master send. Do not use loopback input.
-Keep cue tracks unarmed. Test for beep spill. Use Record mode: normal,
-with Repeat and the musical metronome off. Record the lead-in, slate,
-performance, and tail. Do not confuse playback start with the sync point.
+Before recording, duplicate each CUES track directly below it, change the
+duplicate's suffix to REC, and keep both inside the category folder. Keep
+CUES tracks unarmed and arm only the REC track. Test for beep spill. Use
+Record mode: normal, with Repeat and the musical metronome off. Record the
+lead-in, slate, performance, and tail. Do not confuse playback start with
+the sync point.
 Typical levels around -18 to -12 dBFS, with peaks below -6 dBFS.
 
 EDIT / DELIVERY
