@@ -35,23 +35,17 @@ Open the shared *A Quiet Place* project prepared in the [spotting lesson](/lectu
 
 ## Record into the cues
 
-Work from a cue prepared during the spotting session. Assign roles for operating REAPER, performing, preparing props, and listening for timing or unwanted noise.
-
 1. Choose an empty cue item on its Foley pass track. Move the count-in until the beep item's right edge snaps to the cue item's left edge. Rehearse with picture.
-2. Keep speakers off and listen on headphones. Route CUE BEEPS to a separate headphone output when available; otherwise use the master for headphone playback. Check for beep spill and avoid loopback inputs. Select the microphone's **mono hardware input** and arm only the companion `REC` track. Use direct monitoring or REAPER input monitoring as appropriate; avoid hearing both with a delay. Keep the `CUES` and CUE BEEPS tracks unarmed.
+2. Select the microphone's **mono hardware input** and arm only the companion `REC` track. Check that the microphone does not pick up the cue beeps. Keep the `CUES` and CUE BEEPS tracks unarmed.
 3. Perform the loudest part while setting the interface gain. Aim around -18 to -12 dBFS for typical levels, with peaks below -6 dBFS. Record a test and check it for clipping, room noise, and beep spill.
-4. Turn off Repeat and the musical metronome. Right-click the transport Record button and choose **Record mode: normal**. Start recording before the count-in, slate the object, surface, action, and take number, then perform on the silent fourth beat. Leave a tail after the action before stopping. Start earlier if you need more time for the slate.
-5. Record another take and compare. Leave the empty cue items intact above the recorded takes. Keep alternate recordings until you have made your choices.
+4. Turn off the musical metronome. Right-click the transport Record button and choose **Record mode: normal**. Start recording before the count-in, then perform on the silent fourth beat. Leave a little room after the action before stopping. You may leave Repeat on to record several takes in a row.
+5. Compare your takes and adjust the prop, performance, or microphone placement before recording again. Leave the empty cue items intact above the recordings. Keep your alternate takes until you have made your choices, and mute the beeps when you listen to the scene.
 
-Normal recording keeps the lead-in and tail in the recorded item. Once you understand this workflow, try time-selection auto-punch with boundaries that include those handles. The recording boundary, the cue's sync point, and the playback start are separate decisions. Do not punch exactly at an impact and lose its approach.
+Record a little before and after each cue so you have room to edit.
 
 Save the project with alternate takes for the [editing and layering lesson](/lectures/week-5/editing-foley/).
 
-## Class recording session
-
-Continue recording the prepared *A Quiet Place* cues in the same studio project. Rotate through operating REAPER, performing, preparing props, and listening. Use the recording procedure above, compare takes, and adjust the prop, performance, or microphone placement before another pass. Mute the beeps when listening to the assembled scene.
-
-This is an ungraded class exercise with no separate submission. Complete the robot spotting, recording, and editing with your team **outside class** for [Assignment 2](/assignments/assignment-2-foley-recording/).
+There is nothing to turn in today. Finish the robot scene with your team outside class for [Assignment 2](/assignments/assignment-2-foley-recording/).
 
 ---
 
