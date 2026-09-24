@@ -3,7 +3,7 @@ title: "Field Recording"
 number: "03"
 weight: 3
 week: 7
-assigned: "2026-10-09"
+assigned: "2026-09-30"
 due: "2026-10-21"
 summary: "Five Zoom recordings: two ambience beds, three ambience details."
 rubric: false   # the brief carries its own rubric table

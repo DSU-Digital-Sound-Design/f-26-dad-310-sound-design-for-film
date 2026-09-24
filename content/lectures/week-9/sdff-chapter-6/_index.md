@@ -191,6 +191,6 @@ Beginning scene - contrast between metal set and the quiet of the RV
 - Screening 3 discussion. This is the one they watched all the way through.
 - Opening scene - contrast between the pharmacy silence and the first sound that gets someone killed
 - The implant whine is planted early, recurs, and resolves the film. Ask them to trace it
-- They watched the Foley redesign of this on 10/2. Now they have the whole runtime to compare against
+- They recorded Foley for a short section on 9/25 and edited it on 9/28. Now they have the whole runtime to compare against
 - Worth putting next to the Sound of Metal clip: both cut between a full soundfield and a character's damaged hearing, but one does it to isolate a man and the other to hide a family
 {{%/ note %}}

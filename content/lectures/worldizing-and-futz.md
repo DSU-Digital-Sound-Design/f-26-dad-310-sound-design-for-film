@@ -91,7 +91,7 @@ instead of rendering it into the files. This leaves the settings adjustable for
 the final mix.
 
 {{< drill label="Lab: one line, three worlds" >}}
-Use the clean dialogue line you recorded on 9/23 and a portable speaker.
+Use the clean dialogue line you recorded on 10/28 and a portable speaker.
 
 1. Futz it: bandpass the line to roughly 500 Hz to 3 kHz in ReaEQ on the track,
    add light distortion, and compare it with the clean take.

@@ -96,63 +96,54 @@ undergraduate work.
 - [slides] [Spotting and cueing Foley](/lectures/week-5/spotting/)
 - [lab] [Spot *A Quiet Place* together](/lectures/week-5/reaper-spotting/) using the [downloadable movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) in one REAPER project on the studio computer. The instructor operates REAPER while students identify cues, choose props, and plan separate recording passes. Put each cue on its assigned Foley pass track with its left edge at the exact sync point.
   - Practical guide: [Spotting Foley in REAPER](/lectures/week-5/reaper-spotting/).
-  - Rehearse one entrance with three beeps, performing on the silent fourth beat. Save this shared project for the recording demo on Friday and the class Foley recording session on 10/2. No individual computer setup or submission is required.
+  - Rehearse one entrance with three beeps, performing on the silent fourth beat. Save this shared project for the recording demo on Friday and editing session on Monday 9/28. No individual computer setup or submission is required.
 
 ## 9/25
 - [slides] [Recording Foley](/lectures/week-4/recording-foley/): mic choice, placement, and performance
-- Live demo: reopen Wednesday's shared *A Quiet Place* project and check mono inputs, headphone cue routing, and levels. Rehearse a spotted cue with the beeps, then record the lead-in, performance, and tail on separate layer tracks. Reference pages: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/).
+- Live demo: capture a small, usable set of cues for Monday's editing lesson. Reopen Wednesday's shared *A Quiet Place* project and check mono inputs, headphone cue routing, and levels. Rehearse a spotted cue with the beeps, then record the lead-in, performance, and tail on separate layer tracks. Reference pages: [Recording in REAPER](/lectures/week-3/reaper-recording/) and [the tracks](/lectures/week-3/reaper-tracks/).
 ### homework
 - [assignment] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/) — record and layer the robot animation with your team outside class, due Mon 10/5
   - Use the [robot starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}) and [REAPER spotting lab](/lectures/week-5/reaper-spotting/) to apply the class workflow to your robot animation. Arrange studio time with your team outside class.
 
 ## 9/28
-- [lab] Continue [recording Foley for *A Quiet Place*](/lectures/week-4/recording-foley/) together in the shared studio project.
-  - Listen to Friday's takes with picture and choose the next prepared cues. Allow 5 minutes.
-  - Choose props, check levels, and rehearse the entrances with three beeps. Allow 10 minutes.
-  - Record separate passes, compare takes, and try changes to the performance or materials. Keep alternate takes. Allow 25 minutes.
-  - Mute the beeps, watch the recorded section, note missing or difficult cues, and save the project for Wednesday's editing session. Allow 10 minutes.
+- [lab] [Editing and layering Foley](/lectures/week-5/editing-foley/) — work through Friday's *A Quiet Place* takes together in the shared studio project. Compare performances, refine synchronization, and balance layers. Use a short recorded section; record a replacement only if needed to demonstrate the editing process.
+- Apply this workflow to your robot project outside class for Assignment 2, due Mon 10/5.
 
 ## 9/30
-- [lab] Demonstrate [editing and layering Foley](/lectures/week-5/editing-foley/) using the shared A Quiet Place takes recorded on 9/25 and 9/28. Compare takes, refine synchronization, and balance layers. Apply these steps to your robot project outside class; use the A Quiet Place clip's actual picture range for this demo.
-- [lab] If time allows, voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
+- [slides] [Setting: ambience, immersion and sense of place](/lectures/week-6/sdff-chapter-3/) — hear how beds and details establish a place before recording your own.
+- Preview [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/): two ambience beds and three ambience details. Begin choosing locations and sources; we'll practice with the recorders Friday.
 - [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
   - Read the note on the assignment page before you choose
 ### homework
 - [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments, due Mon 10/5
+- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom, due Wed 10/21
 
 ## 10/2
-- [screening] Watch our current Foley work against the [*A Quiet Place* movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}). Identify any missing cues, performances to re-record, or timing adjustments still needed.
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="A Quiet Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [lab] Finish the shared *A Quiet Place* session on the studio computer: [record remaining cues or replacement takes](/lectures/week-4/recording-foley/), then [refine synchronization and balance the layers](/lectures/week-5/editing-foley/) using Wednesday's editing process.
-- [lab] **If we have finished *A Quiet Place*:** [Footstep replacement](/lectures/week-6/footstep-replacement/) — students film one short walking clip, then we spot it and replace its footsteps together on the studio computer. Use the 50-minute lab if the scene is already finished at the start of class; if we finish partway through, begin with filming and spotting and save our progress.
+- **Zoom recorder demonstration and supervised recording practice**
+  - Compare the onboard X/Y microphones for ambience beds with the external shotgun microphone for focused details.
+  - Set the recording format, monitor on headphones, set levels with headroom, slate a take, and transfer the files to a computer.
+  - Record a short practice bed and detail, then listen back for handling noise, wind, and clipping.
+  - Reference: [Zoom H4n Pro manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
 - Questions about Assignment 2 before Monday's deadline. Complete the robot recording and editing with your team outside class.
 
 ## 10/5
 - [due] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/)
 - [due] [Screening log 2](/assignments/screening-log/) — *The Zone of Interest* or *Nope*
-- [slides] [Setting: ambience, immersion and sense of place](/lectures/week-6/sdff-chapter-3/)
-  - Both films build a place you never see. Compare the camp next door with what waits in the valley
+- Discuss how the films create offscreen places through sound. Allow 10 minutes.
+- [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — apply the naming pattern to a practice recording from Friday. Allow 25 minutes for the lesson and practice.
+- Confirm your Assignment 3 locations, sources, and equipment-sharing plan. Check out a recorder and fill out the form on the wall before I leave. Allow 15 minutes.
 - **Trojan Days** run Oct 5–10, including the Day of Service — check the campus calendar for events you want to be at
 
 ## 10/7
-- **Demo the Zoom recorders**
-  - Recording, limiting, bit rate and sample rate, getting files onto the computer
-  - [Zoom H4n Pro manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
-- [lab] Group gain-staging exercises, based on [How to Set Gain Levels For Field Recording](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/)
-  - Listen to your surroundings on headphones and find the noise
-  - Raise the gain until you hear noise, then back it off until it disappears
-  - Quiet ambiences — forest, room tone: between −50 and −20 dB
-  - Loud ambiences — traffic, construction: around −12 dB, so a sudden loud event doesn't ruin the take
-  - Sound effects: between −6 and −3 dB
-- Check out a recorder from me and fill out the form on the wall
+- **No class meeting — I'm out of town. Independent field recording day.**
+- [lab] Record the large- and small-space ambience beds for [Assignment 3](/assignments/assignment-3-field-recording/), following the equipment-sharing plan arranged Monday. Monitor, slate, and listen back before leaving each location.
 
 ## 10/9
-- [screening] *Blow Out* (1981) — the opening: a sound man in a park at night, hunting wind, owls, and a frog with a shotgun mic. Count the recording decisions he makes; Assignment 3 asks you to make the same ones
+- **No class meeting — I'm out of town. Independent field recording day.**
+- [screening] Watch the *Blow Out* (1981) recording scene. Identify decisions about source, microphone position, and listening that you can apply to your own recordings.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/k2cCRwKvfWw" title="Blow Out (1981) recording scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — name your recordings like a working editor from day one
-- [lab] First field session — outdoor SFX and ambiences
-### homework
-- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom, due Wed 10/21
+- [lab] Record the three ambience details for [Assignment 3](/assignments/assignment-3-field-recording/). Back up your files and apply UCS names while the sources and takes are fresh in your memory.
+- Bring your recordings and recorder on 10/16 for listening, troubleshooting, and additional recording. Assignment 3 remains due Wed 10/21.
 
 ## 10/12
 - [off] **No class — Native American Day**
@@ -161,13 +152,12 @@ undergraduate work.
 - [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
 - [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
 - [screening] **Screening 3: *A Quiet Place*** — watch the whole film at home
-  - We spotted this film's class clip on 9/23 and recorded Foley for it on 10/2. This time listen to how the film uses the whole runtime
+  - We spotted this film's class clip on 9/23 and recorded Foley for it on 9/25 and edited it on 9/28. This time listen to how the film uses the whole runtime
 ### homework
 - [assignment] [Screening log 3](/assignments/screening-log/) — three timestamped moments, due Mon 10/19
 
 ## 10/16
-- [lab] Field recording session — bring your recorder
-- Listen back to the first takes and talk about what to fix
+- [lab] Field recording follow-up — bring your recorder and your independent-session recordings. Listen back, troubleshoot, and capture additional or replacement takes.
 
 ## 10/19
 - [due] [Screening log 3](/assignments/screening-log/) — *A Quiet Place*
@@ -188,8 +178,9 @@ undergraduate work.
 - [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/)
 
 ## 10/28
-- [slides] [Dialogue editing](/lectures/dialogue-editing/) — room tone, splits, and repair
-- [lab] Fix a scene: build room tone fill and hide a cut between two takes, using the dialogue line you recorded on 9/23
+- [lab] Capture dialogue for today and the later worldizing lab: record one short line clean and again "in a space," plus 30 seconds of room tone for each. Save both takes and room tones. Allow 15 minutes.
+- [slides] [Dialogue editing](/lectures/dialogue-editing/) — room tone, splits, and repair. Allow 15 minutes.
+- [lab] Fix a scene: use today's recordings to build room tone fill and hide a cut between two takes. Allow 20 minutes.
 - Assignment 4 work continues in the 11/4 session
 ### homework
 - **Before Friday:** film a partner reading a line somewhere noisy — hallway, parking lot, the union — and bring the clip to class for the ADR lab
@@ -210,7 +201,7 @@ undergraduate work.
 
 ## 11/6
 - [due] [Reverb and echo](/assignments/reverb/)
-- [lab] [One line, three worlds](/lectures/worldizing-and-futz/): futz your 9/23 line, worldize it through a speaker in a real space, and compare both against a reverb plugin
+- [lab] [One line, three worlds](/lectures/worldizing-and-futz/): futz your 10/28 line, worldize it through a speaker in a real space, and compare both against a reverb plugin
 
 ## 11/9
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/)

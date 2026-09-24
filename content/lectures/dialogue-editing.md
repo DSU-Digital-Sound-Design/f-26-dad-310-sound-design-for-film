@@ -131,7 +131,7 @@ and muted safety track, and make it easy to retrieve if the director changes the
 decision during the mix.
 
 {{< drill label="In-class lab: fix a scene" >}}
-Work with the dialogue line you recorded on 9/23, the clean take and the one
+Work with the dialogue line you recorded on 10/28, the clean take and the one
 recorded in a space, plus a room tone file from the [Setting
 deck](/lectures/week-6/sdff-chapter-3/).
 

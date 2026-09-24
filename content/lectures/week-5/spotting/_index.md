@@ -145,5 +145,5 @@ Use the [REAPER spotting guide](/lectures/week-5/reaper-spotting/) for the share
 
 Keep sustained movement together and allow decay after impacts. Before recording, keep the empty cue items on their `CUES` tracks and add matching `REC` tracks directly below them in the same folders.
 
-End September 23 with saved cue tracks and one successful rehearsal. September 25 demonstrates recording in this project; October 2 is the class Foley recording session. September 30 demonstrates editing with A Quiet Place takes from the recording demo. Students complete their robot spotting, recording, and editing outside class for Assignment 2.
+End September 23 with saved cue tracks and one successful rehearsal. September 25 demonstrates recording a short section in this project. September 28 demonstrates editing with A Quiet Place takes from that recording demo. Students complete their robot spotting, recording, and editing outside class for Assignment 2.
 {{%/ note %}}
