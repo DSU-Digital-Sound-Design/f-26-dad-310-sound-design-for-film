@@ -106,10 +106,14 @@ undergraduate work.
   - Use the [robot starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}) and [REAPER spotting lab](/lectures/week-5/reaper-spotting/) to apply the class workflow to your robot animation. Arrange studio time with your team outside class.
 
 ## 9/28
-- [lab] Record someone walking through the building, spot the footstep cues, then record replacement footsteps and sync them to the picture.
+- [lab] Continue [recording Foley for *A Quiet Place*](/lectures/week-4/recording-foley/) together in the shared studio project.
+  - Listen to Friday's takes with picture and choose the next prepared cues. Allow 5 minutes.
+  - Choose props, check levels, and rehearse the entrances with three beeps. Allow 10 minutes.
+  - Record separate passes, compare takes, and try changes to the performance or materials. Keep alternate takes. Allow 25 minutes.
+  - Mute the beeps, watch the recorded section, note missing or difficult cues, and save the project for Wednesday's editing session. Allow 10 minutes.
 
 ## 9/30
-- [lab] Demonstrate [editing and layering Foley](/lectures/week-5/editing-foley/) using the shared A Quiet Place takes recorded on 9/25. Compare takes, refine synchronization, and balance layers. Apply these steps to your robot project outside class; use the A Quiet Place clip's actual picture range for this demo.
+- [lab] Demonstrate [editing and layering Foley](/lectures/week-5/editing-foley/) using the shared A Quiet Place takes recorded on 9/25 and 9/28. Compare takes, refine synchronization, and balance layers. Apply these steps to your robot project outside class; use the A Quiet Place clip's actual picture range for this demo.
 - [lab] If time allows, voice capture: record one line of dialogue clean, then record it again "in a space." Record 30 seconds of room tone with each one and keep it. We'll come back to all of this in [dialogue editing](/lectures/dialogue-editing/) and again when we get to reverb.
 - [screening] **Screening 2: *The Zone of Interest*, or *Nope* if you prefer** — watch the whole film at home
   - Read the note on the assignment page before you choose
@@ -117,9 +121,10 @@ undergraduate work.
 - [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments, due Mon 10/5
 
 ## 10/2
-- [screening] Revisit the [*A Quiet Place* movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}) we spotted on 9/23. Watch it below or download a copy using the link.
+- [screening] Watch our current Foley work against the [*A Quiet Place* movie clip]({{< rel "downloads/a-quiet-place-first-10-minutes.mkv" >}}). Identify any missing cues, performances to re-record, or timing adjustments still needed.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="A Quiet Place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [lab] [Record Foley for the scene together](/lectures/week-4/recording-foley/#class-recording-session) using the cue tracks prepared on 9/23. The instructor operates REAPER; students prepare props, rehearse with the three beeps, perform, and compare takes. No individual computer setup or submission is required.
+- [lab] Finish the shared *A Quiet Place* session on the studio computer: [record remaining cues or replacement takes](/lectures/week-4/recording-foley/), then [refine synchronization and balance the layers](/lectures/week-5/editing-foley/) using Wednesday's editing process.
+- [lab] **If we have finished *A Quiet Place*:** [Footstep replacement](/lectures/week-6/footstep-replacement/) — students film one short walking clip, then we spot it and replace its footsteps together on the studio computer. Use the 50-minute lab if the scene is already finished at the start of class; if we finish partway through, begin with filming and spotting and save our progress.
 - Questions about Assignment 2 before Monday's deadline. Complete the robot recording and editing with your team outside class.
 
 ## 10/5
