@@ -14,7 +14,17 @@ Download the [REAPER starter project]({{< rel "downloads/dad310-foley-starter.zi
 
 This 11.2-second animation features a robot playing with a rubber duck. Your challenge is to create believable mechanical sounds that match the robot's movements while conveying personality and rhythm.
 
-Working in your teams from Assignment 1, use REAPER to **record** and **layer** Foley sound effects for the robot animation outside class. Arrange studio time with your team. Our in-class A Quiet Place spotting and recording sessions demonstrate the workflow you will use for this project.
+Working in your teams from Assignment 1, use REAPER to **record** Foley sound effects for the robot animation outside class. Arrange studio time with your team. After recording, each student will **edit, layer, and mix their own complete session** using the shared recordings. Our in-class A Quiet Place spotting and recording sessions demonstrate the workflow you will use for this project.
+
+## Group recording and individual editing
+
+Rotate performer and recording engineer roles so everyone gains experience with both. Each student must perform several cues and engineer several cues for another teammate, handling microphone placement, input selection, recording levels, and take capture.
+
+Keep a brief recording log identifying the performer and recording engineer for each pass. Before leaving the studio, make sure every team member has a copy of the recording session and all recordings.
+
+After recording, each student must save their own copy of the complete REAPER session with all media and edit it to cover the entire animation. Use the shared recordings, but make your own decisions about take selection, synchronization, trimming, fades, layering, and mix balance. You may discuss approaches and offer feedback, but each student must do their own editing.
+
+Submit your own zipped REAPER project with all required media and the group's recording log. Your individual session will be graded using the assignment rubric.
 
 ## Spotting and project setup
 
@@ -50,7 +60,7 @@ Use the [editing and layering guide](/lectures/week-5/editing-foley/) when assem
 1. Cover all sound-making objects and events in the supplied animation with your own recorded Foley.
 2. Demonstrate high-quality recordings, precise synchronization, and a well-balanced final mix.
 3. Save a version with alternate takes before cropping or removing them. Remove slates from the edited performance and mute CUE BEEPS before mixing or making a review render. Keep the original video's audio out of the mix.
-4. Submit a zipped (compressed) archive of your entire DAW session, including all audio and video files, to D2L by **Monday, October 5**. Reopen the project from its folder first to check for missing media. An optional review render should cover only the picture range, 10.0 to 21.2 seconds, at 48 kHz / 24-bit WAV.
+4. Each student must submit a zipped (compressed) archive of their own complete, individually edited DAW session, including all audio and video files and the group's recording log, to D2L by **Monday, October 5**. Reopen your project from its folder first to check for missing media. An optional review render should cover only the picture range, 10.0 to 21.2 seconds, at 48 kHz / 24-bit WAV.
 
 
 ---

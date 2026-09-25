@@ -4,17 +4,11 @@ title: "Recording Foley"
 
 ## Mic choice
 
-We record Foley with a condenser microphone in a cardioid pattern. Try both a large diaphragm and a small diaphragm on your source and keep whichever serves it better.
+Start with one of these microphones for Foley. Record a short test with your prop and choose the one that captures the sound most clearly.
 
-Our small-diaphragm options:
-
-- AT 4041
-- Slate Digital ML2
-- ST31 FET
-- Carvin CM90e
-- MXL 990
-
-The industry workhorse on professional stages is a shotgun, most often the Sennheiser MKH 416, chosen for its midrange punch and its rejection of off-axis sound. Our cardioids play the same role at our scale: focus on the prop, reject the room.
+- **[Austrian Audio CC8 pair](https://austrian.audio/product/cc8/)**. A good starting choice for footsteps, scrapes, and detailed prop work. Use one microphone for our mono Foley workflow.
+- **[RØDE NTG5](https://rode.com/en-us/products/ntg5)**. A strong option for quiet Foley because of its low self-noise. Aim this directional shotgun at the action and keep the performance within its pickup area.
+- **[Audio-Technica AT4041](https://www.audio-technica.com.hk/index.php?cid=31&lang=eng&op=productdetails&pid=151&sid=54)**. A good choice for footsteps, impacts, and other clear attacks. Try the CC8 or NTG5 first for very quiet rustles.
 
 ## Placement
 
@@ -45,7 +39,7 @@ Record a little before and after each cue so you have room to edit.
 
 Save the project with alternate takes for the [editing and layering lesson](/lectures/week-5/editing-foley/).
 
-There is nothing to turn in today. Finish the robot scene with your team outside class for [Assignment 2](/assignments/assignment-2-foley-recording/).
+There is nothing to turn in today. Record the robot scene with your team outside class, then edit and mix your own complete session for [Assignment 2](/assignments/assignment-2-foley-recording/).
 
 ---
 
