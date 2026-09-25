@@ -12,6 +12,8 @@ rubric: false   # the brief carries its own rubric table
 ## Overview
 Download the [REAPER starter project]({{< rel "downloads/dad310-foley-starter.zip" >}}), including the video, named tracks, and three cue beeps. Extract the whole folder before opening the project. The [video is also available separately](../HardSurface_robot_animation-346689615.mp4).
 
+If you are using a Windows PC and REAPER says it cannot import the video, install [VLC for 64-bit Windows](https://www.videolan.org/vlc/download-windows.html), restart REAPER, and try again. REAPER can use VLC to read the video file.
+
 This 11.2-second animation features a robot playing with a rubber duck. Your challenge is to create believable mechanical sounds that match the robot's movements while conveying personality and rhythm.
 
 Working in your teams from Assignment 1, use REAPER to **record** Foley sound effects for the robot animation outside class. Arrange studio time with your team. After recording, each student will **edit, layer, and mix their own complete session** using the shared recordings. Our in-class A Quiet Place spotting and recording sessions demonstrate the workflow you will use for this project.
