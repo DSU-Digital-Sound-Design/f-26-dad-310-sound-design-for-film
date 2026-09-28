@@ -7,6 +7,8 @@ outputs = ["Reveal"]
 
 ## Setting: Ambience, Immersion And Sense Of Place
 
+<style>.reveal h2::before, .reveal h3::before { content: none !important; }</style>
+
 ---
 
 {{< slide class="quote" >}}
@@ -25,8 +27,10 @@ Sound is a major part of this setting of place in a film.
 
 ## Ambience
 
-- **Beds** - continuous layers of sound, providing a foundation for the rest of the sounds within a scene
-- **Details** - can be used as fleeting elements to punctuate the soundscape at particular moments.
+- **Bed:** the continuous sound that holds a place together. Room tone is an indoor example.
+- **Detail:** a distinct sound that draws attention to something in that place.
+
+Today: identify both in a scene, judge what they tell us, then sketch an ambience for your own setting.
 
 {{% note %}}
 These layers of sounds we usually ignore but would miss if they were gone.
@@ -39,6 +43,340 @@ We can go back to the first chapter and talk about ambience in 3 different catag
   - Sounds of humanity (for example, clanging industry, babbling voices, beeping machines). - **anthrophony**
 
 {{%/ note %}}
+
+---
+
+### Beds - Mirror (1975)
+
+**Listen for:** When does the wind move from background to event? What changes in the scene?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNmENdfEkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The wind crossing the field is a bed that acts. It arrives on cue, moves through the grass toward the camera, and carries the scene's emotion the way an effect would.
+- Ask: is this a bed or a sound effect? The honest answer is both. A bed does not have to be passive, which is worth remembering when you build your own ambiences for Assignment 6.
+- Tarkovsky treats weather as a performer. *Stalker* offers another example in the optional listening section.
+{{%/ note %}}
+
+---
+
+### Details - The Elephant Man
+
+**Listen for:** Which sounds punctuate the scene, and how do they shape Merrick's experience?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sF19L00KbAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+This technique is seen at work in The Elephant Man’s iconic train-station scene, in which the protagonist’s escalating situation is underscored by the sounds of off-screen trains that increase in tempo and intensity, creating a dramatic emotional trajectory.
+
+- Diegetic train sounds - The rumbling, hissing, and screeching of the trains coming and going create an oppressive, overwhelming ambience. The loud trains emphasize the horror John Merrick feels.
+- John's labored breathing - We hear every pained wheeze and gasp through John's distorted mouth, amplifying his respiratory distress.
+- John's muffled cries - As he is knocked down and trapped by the crowd, John's whimpers are muted, conveying his helplessness.
+- Rumbling crowd noise - The indistinct roar of the mob heightens the chaotic, nightmarish tone. Individual voices are drowned out. 
+- Music crescendo - The score builds in intensity as John struggles, then cuts out abruptly when he is rescued, providing dramatic relief.
+
+Through expressive sound design, Lynch creates an audio landscape that externalizes John's internal panic and disorientation in the scene effectively. The sounds are essential in generating sympathy for him.
+{{%/ note %}}
+
+---
+
+## Room tones
+
+Room tone is what remains indoors when no one acts.
+
+**Compare:** Which frequency or rhythm tells you where you are?
+
+- Bathroom <audio src="room-tone/room tone bathroom windy vent.flac" controls></audio>
+- Hallway <audio src="room-tone/room tone hallway heavy ventilation and electrical machinery.flac" controls></audio>
+
+{{% note %}}
+- **Room Tone Coloration with EQ:**
+  - Adjust EQ to change the room tone's character.
+  - Higher frequencies can create a cooler and clinical effect.
+  - Cutting extreme highs and lows reduces hiss and rumble.
+- **Pitch Shifting for Character:**
+  - Duplicate a single frequency tone layer for pitch shifting.
+  - Pitch shift adds emotional character.
+- **Emotional Associations with Pitch Shifts:**
+  - Major third (four semitones) or perfect fifth (seven semitones) for positivity.
+  - Minor third (three semitones) for sadness.
+  - Diminished fifth (six semitones) or single semitone for dissonance (useful in horror).
+{{%/ note %}}
+
+---
+
+### Room tone changes with space
+
+**Compare:** Which space feels larger? What sound tells you?
+
+- Large library <audio src="room-tone/room tone large room library.flac" controls></audio>
+- Stairway <audio src="room-tone/room tone stairway 1.flac" controls></audio>
+
+{{% note %}}
+Ask students what each tone would add to a scene before naming the room. They can compare the sound with the 30 seconds of tone recorded in the studio lab.
+{{%/ note %}}
+
+---
+
+## Alien (1979)
+
+**Listen for:** Which layers make the Nostromo feel occupied before anyone speaks?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl2p3pM0NKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Isolated Nostromo room tone, recreated](https://www.youtube.com/watch?v=U4p1mZnKkhc)
+
+{{% note %}}
+- The opening of Alien: the Nostromo wakes up before the crew does. Almost no dialogue for three minutes, just the ship's layered tone. Low engine, mid ventilation, high electronics.
+- The ship has a personality before any character speaks. Ask: what kind of place is this, and which layers told you?
+- The link below the clip is a recreated ambience bed, useful for hearing the tone in isolation. Compare it with the 30 seconds of room tone you recorded in the studio lab. What does our classroom's tone say about it?
+- For a less realistic room tone, describe how *Eraserhead* uses sustained drones to make domestic spaces uneasy.
+{{%/ note %}}
+
+---
+
+### Sound-map practice
+
+Map the empty Nostromo's ambience from the *Alien* clip.
+
+- **Room-tone bed:** which continuous layers do you hear?
+- Three **details** that make it specific
+- One **offscreen sound** from another part of the ship
+- One sound you would **leave out** if you remixed it
+
+What does one sound reveal about the ship? Tell a partner.
+
+{{% note %}}
+The room-tone bed is already in the clip. Ask students to identify its continuous layers, then propose details, an offscreen sound, and an omission. A bed can contain several layers; room tone is the indoor version of this continuous background. Have students explain one choice to a partner. This rehearses the sound-map thinking they will use in the later ambience assignment.
+{{%/ note %}}
+
+---
+
+### Setting and character
+
+**Design question:** Which sounds reveal who lives in a place, even when that person is offscreen?
+
+Listen for what the room lets in, and what it shuts out.
+
+{{% note %}}
+Use the next activity before showing Taxi Driver and The Shining. Ask students to compare their choices with the films' choices.
+{{%/ note %}}
+
+---
+
+### Design a character's home
+
+Choose a character you know well, or invent one for this exercise.
+
+1. Name **five sounds** their home makes. What does each reveal?
+2. Name **two sounds you would leave out**. Why?
+3. Should the outside world enter the room? Choose one sound that answers.
+
+Share one choice with a partner and defend it.
+
+{{% note %}}
+Give students a few minutes to decide before discussion. Possible sources: appliances, plumbing, ventilation, household activity, media, footsteps, voices, doors, nearby traffic, pets, and the building itself. The aim is a deliberate selection, not a complete inventory.
+{{%/ note %}}
+
+---
+
+## World coming in: Taxi Driver (1976)
+
+**Listen for:** How does the city enter the cab? What does that do to our sense of Travis?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvtFcK8BaY8?si=XipUJ9r-tV7IxcyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+For example, in the film "Taxi Driver," the sound of the city outside Travis Bickle's cab reflects his inner turmoil. The noise and chaos of the city represent the violence and alienation that he feels.
+{{%/ note %}}
+
+---
+
+## World kept out 
+
+**Listen for:** Which sounds stay close to Jack? What can we no longer hear beyond the room?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRTGVvQosWk?si=IevYggNDBd-Di-3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+In other cases, it might make sense to keep the outside world out of the room with the character. This could be done to create a sense of isolation and claustrophobia, or to show how the character is shutting out the outside world.
+
+* Jack Torrance is in the Overlook Hotel's Gold Room, typing on his typewriter.
+* He is completely focused on his work and oblivious to the world around him.
+* The sound of the typewriter is all that can be heard.
+* The camera pulls back to reveal the rest of the Gold Room, which is large, empty, and silent.
+* The camera pans across the room, showing the empty chairs and tables.
+* The camera returns to Jack's face, who is still completely focused on his work.
+* The sound of the typewriter fades out, and the scene ends in silence.
+
+This scene is effective because it creates a sense of isolation and claustrophobia. The viewer feels trapped in the Gold Room with Jack, and they are just as unaware of the outside world as he is. The silence is also very effective, as it highlights the tension and suspense of the scene. The scene also reflects Jack's inner state of mind, as he is completely obsessed with his work and has shut out the rest of the world.
+{{%/ note %}}
+
+---
+
+### Soundmarks
+
+A soundmark identifies a place to someone who knows it.
+
+**Think of home:** What sound would locate your hometown without an image? Who would recognize it?
+
+- [100 Soundscapes of Japan](https://en.wikipedia.org/wiki/100_Soundscapes_of_Japan)
+- [Museum of Endangered Sounds](http://savethesounds.info/)
+- [Soundmark](https://www.sfu.ca/sonic-studio-webdav/handbook/Soundmark.html)
+
+{{% note %}}
+In 1996, the Japanese government designated 100 Soundscapes of Japan to protect valued acoustic environments. Invite two or three local examples before the Spirited Away clip.
+{{%/ note %}}
+
+---
+
+### Sense of Place: Spirited Away (2001)
+
+**Listen for:** Which three sounds identify the bathhouse without showing it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5szC4XgR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- The bathhouse is a place built out of soundmarks: creaking wooden architecture, sliding doors, water everywhere, and the crowd walla of the spirits.
+- Because it's animation, none of this ambience came for free — every layer of the place was chosen and built. Ghibli's approach favors a few precise details over dense beds.
+- Ask: what three sounds tell you where you are in this scene?
+{{%/ note %}}
+
+---
+
+### Setting as Character
+
+**Listen for:** How does the rain change the space around K and Joi?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uU0uSAi26-I?si=P030jEW9Pc76T5C9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+In this *Blade Runner 2049* scene, ask students what the rain masks and what it brings forward. Compare its weight and density with the restrained rain in *My Neighbor Totoro* on the next slide.
+{{%/ note %}}
+
+---
+
+### My Neighbor Totoro (1988)
+
+**Compare with the previous clip:** What does rain do here? Which small details change its mood?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPOgiR5aUWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+- Rain again — but doing the opposite job from Blade Runner. Here the night rain at the bus stop is gentle and specific: drips, drops on the umbrella, the wet road.
+- The scene plays with no dialogue; the rain ambience and its small details carry the mood entirely.
+- The Cat Bus arrival breaks the quiet — the contrast only lands because the ambience before it was so restrained.
+{{%/ note %}}
+
+---
+
+### How far does the soundtrack reach?
+
+- **Near:** sounds inside the visible space.
+- **Beyond the frame:** sources we infer nearby.
+- **Far away:** a larger world the camera never shows.
+
+**Recall the clips:** How far beyond the cab or the hotel room can you hear?
+
+{{% note %}}
+Use the Taxi Driver and The Shining clips students have just heard to compare how far each soundtrack reaches. The soundtrack can widen or narrow the space we imagine, even when the image stays in one location.
+{{%/ note %}}
+
+---
+
+### Compare what each scene lets us hear
+
+Use the clips from *Taxi Driver* and *The Shining*.
+
+1. Which sound places us beyond the visible space?
+2. When does the soundtrack keep us close to a character?
+3. What changes if you remove one of those sounds?
+
+Point to a moment you heard in class.
+
+{{% note %}}
+Students can answer from one clip, then compare answers across the two. Require a named sound and a moment, not just a mood word.
+{{%/ note %}}
+
+---
+
+### Exit response: design a place
+
+Imagine a different place, real or invented. Write:
+
+- The **bed** and one **detail** you would use
+- An **offscreen cue** and what it tells the audience
+- One **sound you would omit** and why
+
+How will the four choices make this place recognizable?
+
+{{% note %}}
+Collect responses or invite two students to share. Use answers to see whether students can transfer listening analysis into a sound-design decision. The later ambience assignment asks for a 30-second ambience and a sound map.
+{{%/ note %}}
+
+---
+
+### After the October 5 screening
+
+Return to these questions **after** watching *The Zone of Interest* or *Nope*.
+
+How does each film make an offscreen place or threat audible? Which sounds tell you how near it is?
+
+{{% note %}}
+This is a follow-up for Screening 2, due October 5. Do not use it as a discussion that assumes students have already seen either film during the earlier setting lesson.
+{{%/ note %}}
+
+---
+
+### The Zone of Interest (2023)
+
+**Listen for:** What lies beyond the wall? Name the sounds that establish its distance.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6L7IBO0k3g?si=y4dCLc0Fy_QOYOv8&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{% note %}}
+Scenes in the garden combine ordinary domestic and nature sounds with sounds from the camp on the other side of the wall. Ask which cues are audible at this moment and how their level or distance affects what students imagine beyond the frame.
+
+**After Screening 2:** Ask students what the camp sounds like across the film and which sounds locate it beyond the wall. Require specific moments as evidence.
+{{%/ note %}}
+
+---
+
+### Offscreen sound: Nope (2022)
+
+For students who watched *Nope*:
+
+- What do you hear before the creature appears?
+- What does the electrical dropout tell you?
+- How does the valley sound when the threat is far away?
+
+**Compare:** What does sound let us locate in *Nope* and *The Zone of Interest* without showing it?
+
+{{% note %}}
+Invite students who watched each film to answer the same question. In Nope, the creature is heard before it is seen; the electrical dropout warns that it is close. Wind, insects, and distance establish the valley. The Gordy scene is another example of violence carried largely by sound while the camera stays elsewhere.
+{{%/ note %}}
+
+---
+
+### Compare two offscreen worlds
+
+*The Zone of Interest* and *Nope* keep something important outside the frame.
+
+1. Which sounds tell you it is there?
+2. How near does it seem?
+3. What would change if those sounds disappeared?
+
+Use one specific moment from your October 5 screening.
+
+{{% note %}}
+Students can answer from their screening film, then compare with a classmate who watched the other film. Require a sound, not just a mood word, as evidence.
+{{%/ note %}}
+
+---
+
+### Further listening (optional)
+
+The following clips offer other ways to hear beds, room tone, and offscreen space. Use them for comparison, independent study, or a longer class meeting.
 
 ---
 
@@ -59,39 +397,6 @@ Skippable if short on time — the Mirror clip covers the Tarkovsky bed idea.
 
 ---
 
-### Beds - Wuthering Heights (2011)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mop7madxCbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-In the 2011 version of Wuthering Heights, **the natural elements are used in place of a score**, giving the film a bleak but evocatively evolving tone. As director Andrea Arnold recalled, ‘When I was up on the moors I felt the wind was like music.’
-
-Here are some ways the 2011 film version of Wuthering Heights uses ambient sounds:
-
-- Wind is used frequently throughout the film to evoke the gloomy, windswept Yorkshire moors where the story is set. Howling wind establishes mood and atmosphere.
-- Nature sounds like birds chirping, bees buzzing, and running water help bring the rural setting to life. These quiet sounds are juxtaposed with the blustery wind.
-- Creaking doors, cracked windows, and floors accentuate the eerie vibe of the old farmhouses.
-- Footsteps on wooden floors and gravel paths help mark character movements and transitions between scenes.
-- The crackling fireplace signifies the warmth of domestic spaces contrasted with the cold moors.
-- Farm animals like cows and horses can be heard faintly in the background, highlighting the agricultural setting.
-- Rain and thunderstorms heighten the drama and Gothic tone during climactic scenes.
-- Music fades in and out of ambient sounds rather than starkly beginning/ending, seamlessly blending mood.
-{{%/ note %}}
-
----
-
-### Beds - Mirror (1975)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNmENdfEkTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-- The wind crossing the field is a bed that acts. It arrives on cue, moves through the grass toward the camera, and carries the scene's emotion the way an effect would.
-- Ask: is this a bed or a sound effect? The honest answer is both. A bed does not have to be passive, which is worth remembering when you build your own ambiences for Assignment 6.
-- Same director as the Stalker bed you just heard. Tarkovsky treats weather as a performer.
-{{%/ note %}}
-
----
-
 ### Beds - Uncle Boonmee Who Can Recall His Past Lives (2010)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXXKS73iTzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -100,24 +405,6 @@ Here are some ways the 2011 film version of Wuthering Heights uses ambient sound
 - Jungle night insects as a bed so dense it becomes the film's presence. The dinner scene is effectively scored by biophony.
 - Watch what the sound does when the ghost appears: nothing. No sting, no drop. The bed refuses to react, and that refusal is what makes the scene uncanny.
 - Restraint as a design choice. The ambience holding steady tells the audience this world accepts the supernatural.
-{{%/ note %}}
-
----
-
-### Details - The Elephant Man
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sF19L00KbAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-This technique is seen at work in The Elephant Man’s iconic train-station scene, in which the protagonist’s escalating situation is underscored by the sounds of off-screen trains that increase in tempo and intensity, creating a dramatic emotional trajectory.
-
-- Diegetic train sounds - The rumbling, hissing, and screeching of the trains coming and going create an oppressive, overwhelming ambience. The loud trains emphasize the horror John Merrick feels.
-- John's labored breathing - We hear every pained wheeze and gasp through John's distorted mouth, amplifying his respiratory distress.
-- John's muffled cries - As he is knocked down and trapped by the crowd, John's whimpers are muted, conveying his helplessness.
-- Rumbling crowd noise - The indistinct roar of the mob heightens the chaotic, nightmarish tone. Individual voices are drowned out. 
-- Music crescendo - The score builds in intensity as John struggles, then cuts out abruptly when he is rescued, providing dramatic relief.
-
-Through expressive sound design, Lynch creates an audio landscape that externalizes John's internal panic and disorientation in the scene effectively. The sounds are essential in generating sympathy for him.
 {{%/ note %}}
 
 ---
@@ -134,44 +421,6 @@ Wong Kar-wai uses the sound of rain as a detailed element, evoking emotions of l
 
 ---
 
-## Room Tones
-
-> the ‘dead air’ of an indoor space, the sound that remains when there is no action.
-
-- Bathroom - <audio src="room-tone/room tone bathroom windy vent.flac" controls>
-- Hallway - <audio src="room-tone/room tone hallway heavy ventilation and electrical machinery.flac" controls>
-- Large library - <audio src="room-tone/room tone large room library.flac" controls>
-- Stairway - <audio src="room-tone/room tone stairway 1.flac" controls>
-
-{{% note %}}
-- **Room Tone Coloration with EQ:**
-  - Adjust EQ to change the room tone's character.
-  - Higher frequencies can create a cooler and clinical effect.
-  - Cutting extreme highs and lows reduces hiss and rumble.
-- **Pitch Shifting for Character:**
-  - Duplicate a single frequency tone layer for pitch shifting.
-  - Pitch shift adds emotional character.
-- **Emotional Associations with Pitch Shifts:**
-  - Major third (four semitones) or perfect fifth (seven semitones) for positivity.
-  - Minor third (three semitones) for sadness.
-  - Diminished fifth (six semitones) or single semitone for dissonance (useful in horror).
-{{%/ note %}}
-
----
-
-### Eraserhead
-
-
-{{% note %}}
-We can also create tones using sustained music notes, pitched up or down to blend with the other layers. If our chosen sound works with the image and has the right atmosphere for the scene, we need not worry about motivating it in terms of a source within the room. In fact, many films make no attempt at realism within the room tones. **This is the case with many horror and science-fiction films, or in the crackling and rumbling domestic spaces of Eraserhead, for example.**
-
-In Eraserhead, Lynch uses drone sounds to create a sense of unease and dread throughout the film. The constant presence of the drone sounds creates a feeling of tension and anxiety in the viewer. This is heightened by the fact that the drone sounds are often associated with negative images, such as the factory, the baby, and Henry's nightmare.
-
-Lynch's use of drone sounds in Eraserhead is one of the many ways that he creates a sense of unease and dread in the film. The drone sounds are unsettling and disorienting, and they contribute to the overall atmosphere of the film.
-{{%/ note %}}
-
----
-
 ## Solaris (1972)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8ZhQPaw4rE?si=NU_lIFCrlXWxy7kY&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -184,63 +433,6 @@ The dead air inside the spaceship emphasizes isolation and introspection, making
 
 ---
 
-## Alien (1979)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl2p3pM0NKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- [Isolated Nostromo room tone, recreated](https://www.youtube.com/watch?v=U4p1mZnKkhc)
-
-{{% note %}}
-- The opening of Alien: the Nostromo wakes up before the crew does. Almost no dialogue for three minutes, just the ship's layered tone. Low engine, mid ventilation, high electronics.
-- The ship has a personality before any character speaks. Ask: what kind of place is this, and which layers told you?
-- The link below the clip is a recreated ambience bed, useful for hearing the tone in isolation. Compare it with the 30 seconds of room tone you recorded in the studio lab. What does our classroom's tone say about it?
-{{%/ note %}}
-
----
-
-### Setting and Character
-
----
-
-### Domestic Spaces 
-- **Appliances** - Humming of refrigerators, washing machines, microwaves, etc. Creates an ambient drone.
-- **Plumbing** - Dripping taps, rumbling pipes, running water. 
-- **Ventilation** - Whir of fans and air conditioning units. A constant background presence. 
-- **Household  activities** - Sounds of cooking, cleaning, doing dishes, shuffling papers. Reflects daily routines.
-
----
-
-- **Media devices** - TV, radios, computers, phones. Ties spaces to entertainment and information.
-- **Footsteps** - Creaks, shuffles, pacing. Shows lives unfolding.
-- **Voices** - Conversations, singing, laughter. Humanizes the home environment.
-- **Doors/Cupboards** - Opening, closing, knocking. Punctuates actions and new scenes.  
-- **Outside world** - Traffic, sirens, school bells, lawnmowers. Links interior to neighborhood. 
-
----
-
-- **Pets** - Barking, meowing, scurrying. Adds life and personality.
-- **Settling** - Creaks and cracks of the building itself. Gives a sense of the physical space.
-
-{{% note %}}
-The design question this list serves: a home's sounds are choices, and every choice tells the audience something about who lives there.
-
-Exercise for the room: pick a character from your screening film. List five sounds their home makes, and say what each one gives away.
-
-Then the bigger question, which the next three clips answer differently: **should the outside world break into the room with the character or not?**
-{{%/ note %}}
-
----
-
-## World coming in: Taxi Driver (1976)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LvtFcK8BaY8?si=XipUJ9r-tV7IxcyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-For example, in the film "Taxi Driver," the sound of the city outside Travis Bickle's cab reflects his inner turmoil. The noise and chaos of the city represent the violence and alienation that he feels.
-{{%/ note %}}
-
----
-
 ## World Coming In: Eternal Sunshine of the Spotless Mind (2004)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EttRNOipTxU?si=lf2NpAINCxisdFJw&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -249,108 +441,6 @@ For example, in the film "Taxi Driver," the sound of the city outside Travis Bic
 Skippable if short on time — Taxi Driver already covers the world coming in.
 
 As Joel's memories are erased, the sound design emphasizes the disorientation by using collapsing environmental sounds, distorting everyday noises, and blending them with his inner thoughts. This shows the outside world breaking into his inner mindscape.
-{{%/ note %}}
-
----
-
-## World kept out 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRTGVvQosWk?si=IevYggNDBd-Di-3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-In other cases, it might make sense to keep the outside world out of the room with the character. This could be done to create a sense of isolation and claustrophobia, or to show how the character is shutting out the outside world.
-
-* Jack Torrance is in the Overlook Hotel's Gold Room, typing on his typewriter.
-* He is completely focused on his work and oblivious to the world around him.
-* The sound of the typewriter is all that can be heard.
-* The camera pulls back to reveal the rest of the Gold Room, which is large, empty, and silent.
-* The camera pans across the room, showing the empty chairs and tables.
-* The camera returns to Jack's face, who is still completely focused on his work.
-* The sound of the typewriter fades out, and the scene ends in silence.
-
-This scene is effective because it creates a sense of isolation and claustrophobia. The viewer feels trapped in the Gold Room with Jack, and they are just as unaware of the outside world as he is. The silence is also very effective, as it highlights the tension and suspense of the scene. The scene also reflects Jack's inner state of mind, as he is completely obsessed with his work and has shut out the rest of the world.
-{{%/ note %}}
-
-
----
-
-### Sense of Place
-
-- [100 Soundscapes of Japan](https://en.wikipedia.org/wiki/100_Soundscapes_of_Japan)
-- [Museum of Endangered Sounds](http://savethesounds.info/)
-- [Soundmark](https://www.sfu.ca/sonic-studio-webdav/handbook/Soundmark.html)
-
-{{% note %}}
-In 1996, the Japanese government designated ‘100 Soundscapes of Japan’, in an effort to protect certain well-loved acoustic environments against the threat of noise pollution. The chosen sounds, such as the ship whistles at Yokohama Port, insects singing in Oshikiri and the squeaking sand of Kotogahama Beach, bring a unique character to their location, just as the chimes of Big Ben serve as a shorthand for London.
-
-> What would some soundmarks from where you're from be?
-
-{{%/ note %}}
-
----
-
-### Sense of Place: Spirited Away (2001)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5szC4XgR1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-- The bathhouse is a place built out of soundmarks: creaking wooden architecture, sliding doors, water everywhere, and the crowd walla of the spirits.
-- Because it's animation, none of this ambience came for free — every layer of the place was chosen and built. Ghibli's approach favors a few precise details over dense beds.
-- Ask: what three sounds tell you where you are in this scene?
-{{%/ note %}}
-
----
-
-
-### Setting as Character
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uU0uSAi26-I?si=P030jEW9Pc76T5C9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-One of the most iconic sounds in Blade Runner is the sound of the rain. The rain is constant and relentless, and it creates a sense of gloom and despair. The sound of the rain is also used to create a sense of isolation, as it drowns out all other sounds.
-{{%/ note %}}
-
----
-
-### My Neighbor Totoro (1988)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPOgiR5aUWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-- Rain again — but doing the opposite job from Blade Runner. Here the night rain at the bus stop is gentle and specific: drips, drops on the umbrella, the wet road.
-- The scene plays with no dialogue; the rain ambience and its small details carry the mood entirely.
-- The Cat Bus arrival breaks the quiet — the contrast only lands because the ambience before it was so restrained.
-{{%/ note %}}
-
----
-
-### Sense of Scale
-
----
-
-
-### The Zone of Interest (2023)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z6L7IBO0k3g?si=y4dCLc0Fy_QOYOv8&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-{{% note %}}
-Scenes in the garden have sounds of the camp on the other side of the wall. Scenes in nature have pleasant sounds of birds and wind.
-
-The Zone of Interest contrasts the horrors of the Holocaust with the eerie quiet of domestic life inside the Commandant's home. The almost complete absence of external sound (e.g., the camps' noises) creates an unsettling separation from the atrocities happening nearby.
-
-**Screening 2 discussion.** They have now heard the whole runtime, not just this scene. Ask what the camp sounds like, and how they know it is there. The place is never shown, so every answer has to be a sound.
-{{%/ note %}}
-
----
-
-### Nope (2022)
-
-{{% note %}}
-- For the students who took the alternate screening. Ask them the same question, then put the two answers side by side.
-- The creature is heard long before it is seen. The electrical dropout is the warning that it is close, so silence becomes the danger signal rather than the relief.
-- The valley is built from wind, crickets, and distance. Listen for how far away things sound.
-- The Gordy scene is the sharpest link to Zone of Interest: violence carried almost entirely by sound while the camera stays somewhere else.
-- Both films put the thing that matters offscreen and let the soundtrack place it.
 {{%/ note %}}
 
 ---
@@ -385,21 +475,4 @@ Three moments to point at:
 * The opening lets the prison walls echo, so the confinement registers before the story does.
 * During the force-feeding, we hear the tube itself, and the brutality stays physical.
 * As Sands dies, his breathing carries the scene; other prisoners exist only as muffled, distant sound.
-{{%/ note %}}
-
----
-
-### Rear Window
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j9lZRDAoecs?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — good synthesis slide, but the chapter's argument is complete without it.
-
-* Highly subjective narratives, taking place in extreme environments and employing suitably bold modes of conveying setting.
-* Most films demonstrate a mix of approaches, with the level of extension being varied to suit each moment.
-* Michel Chion describes this effect in Rear Window, a film in which the action is entirely viewed from an apartment overlooking a courtyard.
-* Visual approach contrasted by a dynamic use of ambiences.
-* Chion says that ‘Sometimes it lets us hear the big city thrumming outside this courtyard that the film never leaves. At other times the sound track eliminates the larger cityscape entirely, so as to reconcentrate the spectator on the apartment itself...At the very end of the film, the extension becomes extremely narrow, focusing on a single point, like a lone spotlight pursuing a character on a stage.’
-* Let the quote do the work: ask students to name the three widths of extension Chion describes, and where their screening film sits on that dial.
 {{%/ note %}}
