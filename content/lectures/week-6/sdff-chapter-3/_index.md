@@ -144,10 +144,10 @@ Map the empty Nostromo's ambience from the *Alien* clip.
 - One **offscreen sound** from another part of the ship
 - One sound you would **leave out** if you remixed it
 
-What does one sound reveal about the ship? Tell a partner.
+What does one sound reveal about the ship?
 
 {{% note %}}
-The room-tone bed is already in the clip. Ask students to identify its continuous layers, then propose details, an offscreen sound, and an omission. A bed can contain several layers; room tone is the indoor version of this continuous background. Have students explain one choice to a partner. This rehearses the sound-map thinking they will use in the later ambience assignment.
+The room-tone bed is already in the clip. Ask students to identify its continuous layers, then propose details, an offscreen sound, and an omission. A bed can contain several layers; room tone is the indoor version of this continuous background. Invite students to explain a choice to the class. This rehearses the sound-map thinking they will use in the later ambience assignment.
 {{%/ note %}}
 
 ---
@@ -172,7 +172,7 @@ Choose a character you know well, or invent one for this exercise.
 2. Name **two sounds you would leave out**. Why?
 3. Should the outside world enter the room? Choose one sound that answers.
 
-Share one choice with a partner and defend it.
+Which choice would you defend, and why?
 
 {{% note %}}
 Give students a few minutes to decide before discussion. Possible sources: appliances, plumbing, ventilation, household activity, media, footsteps, voices, doors, nearby traffic, pets, and the building itself. The aim is a deliberate selection, not a complete inventory.
@@ -251,20 +251,23 @@ In 1996, the Japanese government designated 100 Soundscapes of Japan to protect 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uU0uSAi26-I?si=P030jEW9Pc76T5C9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
-In this *Blade Runner 2049* scene, ask students what the rain masks and what it brings forward. Compare its weight and density with the restrained rain in *My Neighbor Totoro* on the next slide.
+- **Scene setup:** K is a police officer in a future Los Angeles. Joi is his holographic companion, normally confined to a projector in his apartment. He has just given her a portable projector, called an emanator, so she can accompany him outside. This rooftop visit is her first encounter with rain; no wider plot knowledge is needed.
+- **What happens:** Joi steps into the downpour. At first, drops pass through or briefly disrupt her image; then her projection begins to show rain on her skin and hair. K watches her response, turning a bleak rooftop into an intimate space.
+- **Listen for:** The dense wash of rain establishes the exposed city around them, while the small electronic glitches distinguish Joi from a physical person. Ask what the rain masks, which sounds remain close to K and Joi, and how the setting changes the mood of their interaction.
+- **Next slide:** Compare this sustained downpour with the single, isolated drop in *My Neighbor Totoro*. The [sound designer describes the brief glitches as Joi's image adjusts to the rain](https://www.motionpictures.org/2017/12/love-other-illusions-how-blade-runner-2049s-sound-designer-played-with-our-heart-strings/).
 {{%/ note %}}
 
 ---
 
 ### My Neighbor Totoro (1988)
 
-**Compare with the previous clip:** What does rain do here? Which small details change its mood?
+**Compare with the previous clip:** What does one isolated raindrop do here that a continuous downpour could not?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vPOgiR5aUWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-- Rain again — but doing the opposite job from Blade Runner. Here the night rain at the bus stop is gentle and specific: drips, drops on the umbrella, the wet road.
-- The scene plays with no dialogue; the rain ambience and its small details carry the mood entirely.
+- Unlike the sustained rain in *Blade Runner 2049*, this scene draws attention to a single drop at the bus stop. Ask students what they notice just before and after it lands.
+- The scene plays with no dialogue; that one sound stands out against the quieter ambience.
 - The Cat Bus arrival breaks the quiet — the contrast only lands because the ambience before it was so restrained.
 {{%/ note %}}
 
@@ -296,22 +299,6 @@ Point to a moment you heard in class.
 
 {{% note %}}
 Students can answer from one clip, then compare answers across the two. Require a named sound and a moment, not just a mood word.
-{{%/ note %}}
-
----
-
-### Exit response: design a place
-
-Imagine a different place, real or invented. Write:
-
-- The **bed** and one **detail** you would use
-- An **offscreen cue** and what it tells the audience
-- One **sound you would omit** and why
-
-How will the four choices make this place recognizable?
-
-{{% note %}}
-Collect responses or invite two students to share. Use answers to see whether students can transfer listening analysis into a sound-design decision. The later ambience assignment asks for a 30-second ambience and a sound map.
 {{%/ note %}}
 
 ---
