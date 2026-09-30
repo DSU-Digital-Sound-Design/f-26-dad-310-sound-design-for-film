@@ -119,11 +119,10 @@ undergraduate work.
 - [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom, due Wed 10/21
 
 ## 10/2
-- **Zoom recorder demonstration and supervised recording practice**
+- [lab] [Zoom H4n field recording guide](/lectures/week-6/h4n-field-recorder/) — demonstration and supervised recording practice
   - Compare the onboard X/Y microphones for ambience beds with the external shotgun microphone for focused details.
   - Set the recording format, monitor on headphones, set levels with headroom, slate a take, and transfer the files to a computer.
   - Record a short practice bed and detail, then listen back for handling noise, wind, and clipping.
-  - Reference: [Zoom H4n Pro manual](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
 - Questions about Assignment 2 before Monday's deadline. Complete the robot recording and editing with your team outside class.
 
 ## 10/5

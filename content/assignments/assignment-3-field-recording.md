@@ -12,6 +12,8 @@ rubric: false   # the brief carries its own rubric table
 
 Using the Zoom H4n recorder, collect five **sources**: two ambience beds and three ambience details. Keep your original, unedited takes; you will use them in [Assignment 4](/assignments/assignment-4-sfx-editing/).
 
+For setup, recording, and file transfer, use the [Zoom H4n field recording quick guide](/lectures/week-6/h4n-field-recorder/) from our October 2 class.
+
 On October 5, confirm your locations, sources, and equipment-sharing plan in class; check out a recorder before I leave town. There is **no class meeting on October 7 or 9**. Use those independent field-recording days to capture the two ambience beds (October 7) and three details (October 9). Bring your recordings and recorder on October 16 so we can listen, troubleshoot, and record additional or replacement takes. See the [course schedule](/schedule/) for the daily plan.
 
 ## Ambience Beds
