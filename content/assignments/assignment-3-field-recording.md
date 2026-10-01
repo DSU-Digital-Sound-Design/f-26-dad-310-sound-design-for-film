@@ -74,7 +74,7 @@ Example slates:
 
 Create **one REAPER project with five named source tracks**, one for each bed and detail category. Place all unedited takes for a source on its track; you may use multiple audio files on the same track. Keep the spoken slates in the recordings so you can identify the takes later.
 
-Name each original WAV file in the UCS pattern from the [library organization lesson](/lectures/ucs-library-organization/): `CatID_FXName_CreatorID_SourceID`. Look up the CatID on the [official list](https://universalcategorysystem.com/), use your initials as CreatorID, and use `DAD310` as SourceID. Give separate takes distinct names within FXName (for example, `DoorKnockTake01`).
+Keep the original WAV filenames and spoken slates. Use clear source-track names and a recording log to identify each file and take. You will apply UCS names to the finished edits and exports in [Assignment 4](/assignments/assignment-4-sfx-editing/).
 
 Include a short recording log with each source's location, what you recorded, and the recording format if your recorder could not use 96 kHz / 24-bit. For the detail connected to a bed, add the one-sentence place observation requested above.
 

@@ -41,7 +41,10 @@ Fades must start and end at the zero line, or you'll get clicks on playback.
 
 ## 6. Normalize/name file
 
-Normalize peaks to -0.5 dB. Exception: ambiences and sound beds shouldn't be
-that hot; peaks between -18 dB and -6 dB are fine there. Then name the file
-descriptively and embed metadata with useful keywords so you can find it
-again.
+After editing and processing, normalize individual sound effects to a peak of
+-0.5 dBFS. For ambiences and sound beds, choose a peak target between -18 and
+-6 dBFS. These are peak levels, not average loudness targets. Check the final
+export: processing applied after item normalization can change its peaks. Name
+the finished take using the [UCS workflow](/lectures/ucs-library-organization/).
+Embedded descriptions and keywords are another way to make a library searchable;
+they are separate from filenames and are optional for Assignment 4.

@@ -116,7 +116,7 @@ undergraduate work.
   - Read the note on the assignment page before you choose
 ### homework
 - [assignment] [Screening log 2](/assignments/screening-log/) — three timestamped moments, due Mon 10/5
-- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five recordings on the Zoom, due Wed 10/21
+- [assignment] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/) — five sources recorded on the Zoom, due Wed 10/21
 
 ## 10/2
 - [lab] [Zoom H4n field recording guide](/lectures/week-6/h4n-field-recorder/) — demonstration and supervised recording practice
@@ -129,7 +129,7 @@ undergraduate work.
 - [due] [Assignment 2: Foley Recording](/assignments/assignment-2-foley-recording/)
 - [due] [Screening log 2](/assignments/screening-log/) — *The Zone of Interest* or *Nope*
 - Discuss how the films create offscreen places through sound. Allow 10 minutes.
-- [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — apply the naming pattern to a practice recording from Friday. Allow 25 minutes for the lesson and practice.
+- [slides] [Naming sounds: UCS and library organization](/lectures/ucs-library-organization/) — introduce UCS categories with UCS Finder using a practice recording from Friday. Full naming and export practice comes with Assignment 4. Allow 25 minutes for the introduction and category lookup.
 - Confirm your Assignment 3 locations, sources, and equipment-sharing plan. Check out a recorder and fill out the form on the wall before I leave. Allow 15 minutes.
 - **Trojan Days** run Oct 5–10, including the Day of Service — check the campus calendar for events you want to be at
 
@@ -141,7 +141,7 @@ undergraduate work.
 - **No class meeting — I'm out of town. Independent field recording day.**
 - [screening] Watch the *Blow Out* (1981) recording scene. Identify decisions about source, microphone position, and listening that you can apply to your own recordings.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/k2cCRwKvfWw" title="Blow Out (1981) recording scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [lab] Record the three ambience details for [Assignment 3](/assignments/assignment-3-field-recording/). Back up your files and apply UCS names while the sources and takes are fresh in your memory.
+- [lab] Record the three ambience details for [Assignment 3](/assignments/assignment-3-field-recording/). Back up the original files and update your recording log while the sources and takes are fresh in your memory.
 - Bring your recordings and recorder on 10/16 for listening, troubleshooting, and additional recording. Assignment 3 remains due Wed 10/21.
 
 ## 10/12
@@ -169,6 +169,7 @@ undergraduate work.
 
 ## 10/23
 - [slides] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
+- [lab] [UCS naming and export workflow](/lectures/ucs-library-organization/) — name finished takes and export them using `$item` for Assignment 4.
 - Look at [Soundly](https://getsoundly.com/) and [SoundQ](https://www.prosoundeffects.com/soundq/) for well-edited reference SFX
 ### homework
 - [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — due Wed 11/11
