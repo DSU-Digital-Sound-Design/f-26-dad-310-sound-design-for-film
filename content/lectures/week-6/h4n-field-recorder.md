@@ -32,11 +32,11 @@ Use this guide during our October 2 demonstration and when you make recordings f
 
 1. Stop recording. Connect the NTG5 to **INPUT 1** with an XLR cable before turning on phantom power. Aim the microphone at the source and keep the cable from striking the mic or stand.
 2. Set **MENU > INPUT > PHANTOM > +48V**. The NTG5 requires 48 V phantom power. Press **1** and confirm the external input is selected. If you hear nothing, check the cable, phantom setting, input selection, and headphones before raising gain.
-3. For this single-mic take in STEREO mode, set **MENU > INPUT > MONO MIX > ON**. The recorder will save a mono file rather than a file with the source in only one side. Turn **MONO MIX** back **OFF** before recording another X/Y ambience bed.
+3. Leave the recorder in **STEREO** mode, but use only the NTG5 connected to **INPUT 1**. STEREO is the recorder's mode name; one NTG5 captures a mono signal. Set **MENU > INPUT > MONO MIX > ON** to record that signal in both the left and right channels of the WAV file, so you hear it in both ears. This is called **dual mono**. With MONO MIX off, INPUT 1 would appear only on the left. Turn **MONO MIX** back **OFF** before recording another X/Y ambience bed.
 4. Have the performer make the loudest planned sound. Press **REC** once, set **REC LEVEL** with headroom, and listen for background noise. Change mic distance or angle if that helps more than changing gain.
 5. Press **REC** again, check the counter, slate the source and action, and record several variations. Press **STOP**. Play at least one take back through headphones and check for clipping, wind, handling noise, and unwanted background sound.
 
-Turn phantom power off before disconnecting the NTG5. Keep the original, unedited WAV files for Assignment 3.
+When you finish, stop recording and lower the headphone volume. Turn phantom power off before disconnecting the NTG5 to help prevent a loud pop in your headphones. This is a recommended handling precaution. Keep the original, unedited WAV files for Assignment 3.
 
 ## Copy and check your recordings
 
