@@ -148,8 +148,8 @@ undergraduate work.
 - [off] **No class — Native American Day**
 
 ## 10/14
-- [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/)
-- [slides] [Working with music](/lectures/working-with-music/) — temp tracks, cutting a cue, licensing
+- [slides] [Mood: emotion, tone, and working with music](/lectures/week-8/sdff-chapter-4/) — about 40 minutes; selected YouTube examples and a scene-design exercise. Extra clips and viewing references are in the appendix
+- [reading] [Working with music](/lectures/working-with-music/) — about 10 minutes on temp tracks, a cue-editing demonstration, and recording music sources and licenses
 - [screening] **Screening 3: *A Quiet Place*** — watch the whole film at home
   - We spotted this film's class clip on 9/23 and recorded Foley for it on 9/25 and edited it on 9/28. This time listen to how the film uses the whole runtime
 ### homework

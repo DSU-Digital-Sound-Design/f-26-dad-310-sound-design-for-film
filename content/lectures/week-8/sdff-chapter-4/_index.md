@@ -2,416 +2,405 @@
 title = "Mood: Emotion, Tone, and Working with Music"
 outputs = ["Reveal"]
 [reveal_hugo]
+custom_css = "mood-slides.css"
 slide_number = "c/t"
 # show_notes = "separate-page"
 +++
 
 # Mood
 
----
+Emotion, tone, and working with music
 
-## Emotion, Tone, and Working with Music
-
-This deck follows Tim Harrison, *Sound Design for Film*, ch. 4.
+Tim Harrison, *Sound Design for Film*, chapter 4.
 
 {{% note %}}
-
-* Harrison's framing for the whole chapter: mood is relational. The same sound lands differently depending on the situation around it, which is why the matrix two slides ahead works.
-* The sound designer starts from the emotions in the script and reimagines them as sound, building the "something in the air" of each scene.
-
+Main lesson: approximately 40 minutes. The appendix is optional and outside that time. Use excerpts, not full videos; cue the relevant passage before class. The playback limits below are teaching targets, not verified clip timestamps.
 {{%/ note %}}
 
 ---
 
-## Layers of mood
+## How sound creates mood
 
-- Character
-  - voice or foley
-- Soundscapes or ambience
-  - Diegetic - sound of the world of the film
-  - Non-diegetic - sound outside the world of the film
+- How context changes a sound’s emotional effect
+- Whether sound belongs to the story world
+- When music, effects, or silence should lead
 
 {{% note %}}
-* Diegetic sound has a source inside the scene and reaches the characters' ears, like a passing car or a spoken line.
-* Non-diegetic sound lies outside the story world and has no material cause: score, a title impact, a sound in the protagonist's imagination, a ghostly noise with no source in the room.
-* Harrison's point is that each layer offers different mood possibilities, and the matrix on the next slide shows why placement matters more than the sound itself.
+Opening slides through the context table: 5 minutes total. Recall the A Quiet Place clip students designed sound for or the robot animation they recorded Foley for. Ask them to describe its mood and identify one sound choice that contributes to it. Return to that familiar scene at the end.
 {{%/ note %}}
 
 ---
 
-| Context | Sound | Effect on mood |
+## Sound layers and the story world
+
+**Layers:** dialogue and voice, Foley, effects, ambience, music.
+
+**Diegetic:** sound belongs to the story world. Its source may be onscreen or offscreen.
+
+**Non-diegetic:** sound is presented outside the story world, such as conventional underscore.
+
+{{% note %}}
+These are two different ways to describe a sound. Music can be diegetic or non-diegetic; an unseen source does not automatically make sound non-diegetic. Character subjectivity can complicate the distinction, so do not classify every imagined sound as conventional underscore. Definitions: https://filmglossary.ccnmtl.columbia.edu/term/diegetic-sound/ and https://filmglossary.ccnmtl.columbia.edu/term/non-diegetic-sound/.
+{{%/ note %}}
+
+---
+
+## Context changes meaning
+
+| Context | Sound | Question |
 |---|---|---|
-| Sociable | Distant children playing | Adds to lively, positive feeling |
-| Isolated | Distant children playing | Increases loneliness, sense of absence |
-| Mickey Mouse | Upbeat whistling | Enhances a cheerful, innocent feel |
-| Serial killer | Upbeat whistling | Suggests threat, sinister intent |
+| Gathering | Children playing | How might this sound shape the mood? |
+| Isolation | Children playing | How might the same sound feel different here? |
+| Cheerful character | Whistling | How might the whistling support the scene’s tone? |
+| Threatening character | Whistling | How might the whistling change our sense of threat? |
+
+What might we feel, and why? Use the context to explain your answer.
 
 {{% note %}}
+This table illustrates Harrison's idea that mood comes from the relationship between a sound and its context. The rows are hypothetical examples, not clips students need to recognize. The sound does not carry a fixed emotional meaning on its own.
 
-* Sound can be used to create mood in a film by playing on three different spaces:
-    * The world: the physical space of the film
-    * The mind: the thoughts and feelings of the characters
-    * Beyond: the world beyond the film, such as the audience's own experiences and emotions
-* Relationships in time also work to modulate mood. The same sound can land differently depending on the situation. For example, the sound of rain on a window can be soothing or menacing depending on the context.
-* Any sound that is introduced can emotionally support or oppose the context:
-    * **Context:** The existing mood or atmosphere of the film
-    * **Sound:** The sound that is introduced
-    * **Effect on mood:** How the sound affects the mood of the film
-* **Examples:**
-    * **Context:** Sociable
-    * **Sound:** Distant children playing
-    * **Effect on mood:** Adds to lively, positive feeling
-    * **Context:** Isolated
-    * **Sound:** Distant children playing
-    * **Effect on mood:** Increases loneliness, sense of absence
-    * **Context:** Mickey Mouse
-    * **Sound:** Upbeat whistling
-    * **Effect on mood:** Enhances a cheerful, innocent feel
-    * **Context:** Serial killer
-    * **Sound:** Upbeat whistling
-    * **Effect on mood:** Suggests threat, sinister intent
+Ask students to propose an emotional effect for each row and explain how the situation gives the sound that meaning. Let them answer before offering the interpretations below. Compare the two children-playing examples, then the two whistling examples. After discussing the contrast, introduce counterpoint as sound or music contrasting with the scene's apparent emotional tone.
 
-In the first two examples, the sound echoes the context, increasing a particular feeling directly. In the last two examples, the sound plays against the context, highlighting the existing emotion through counterpoint.
+**What counts as context?** What we see, what we already know about the character and situation, whose perspective we share, and what happened just before the sound. The physical setting matters, but context also includes the story and the audience's expectations. Ask: "What do we know about this scene that changes how we hear the sound?"
 
-Sound designers can use this knowledge to create complex and nuanced soundscapes that help to tell the story and evoke emotions in the audience.
+- **Gathering + children playing:** Imagine people socializing in a park or courtyard. Distant play supports the sense of a busy, inhabited place. It can make the gathering feel sociable.
+- **Isolation + the same children playing:** Now imagine a person sitting alone, separated from that activity. The sound reminds us of company they cannot or do not join. It may emphasize loneliness even though the recording itself has not changed. It could also sound comforting; the image and story help determine the reading.
+- **Cheerful character + whistling:** A relaxed character whistles while walking home. Their behavior and the tune agree, reinforcing the apparent mood.
+- **Threatening character + the same whistling:** We already know this character poses a danger. Their casual, cheerful behavior clashes with that knowledge and may make the threat more unsettling. This is the counterpoint example. Whistling is not inherently sinister, and counterpoint is not simply any sound in a negative scene.
 
+Distinguish **reinforcement** from **counterpoint**: reinforcement supports the scene's apparent tone; counterpoint introduces a contrasting tone. The isolation example demonstrates changed meaning through context without necessarily being counterpoint. Ask students to justify a reading rather than memorize the table as a rule.
+
+Connect this to the familiar A Quiet Place clip: once students know that making noise can attract danger, an ordinary footstep or object impact can create tension. The story supplies that significance; the same sound in an everyday setting might barely register.
+
+Finish by asking: "Could you change a scene's mood without changing the sound recording? What would need to change around it?" Keep this within the opening five-minute block; use one pair of examples in detail if time is tight.
 {{%/ note %}}
 
 ---
 
-## Terminal Sud
+## Dramatic irony and suspense
 
-[Tubi](https://tubitv.com/movies/606673?tracking=justwatch-feed) - 14:11 - 15:30
-
-{{% note %}}
-**Summary of the movie in bullet points:**
-
-* The movie is set in an unnamed African country on the brink of civil war.
-* Dr. Kalé is a dedicated physician who runs a clinic in the capital city. He tirelessly treats patients of all backgrounds and political affiliations as tensions rise.
-* When riots break out in the streets, rebel soldiers force Dr. Kalé to come treat their wounded leader in a remote village.
-* Though treated kindly at first, he soon becomes a hostage and target as government forces approach.
-* Trapped in the village and hunted by both sides, Dr. Kalé must rely on his medical skills and human compassion to survive.
-* He forges an unlikely connection with the rebel leader's daughter.
-* Ultimately Dr. Kalé risks his life to save others amidst the chaos of war.
-
-Heard in a clearly negative context, as in Terminal Sud’s death threat scene, the water striking the window takes on a more menacing quality, growing heavy as the mood darkens.
-
-{{%/ note %}}
-
-
----
-
-## Sound and script
-
-### Two Days, One Night
-
-- [Tubi](https://tubitv.com/movies/684124/two-days-one-night?start=true)
-  - Power tools - 20:17 - 24:40
-  - Birds in a park - 42:50 - 44:40
-
-{{% note %}}
-Here are summary bullet points for how sound design can establish mood in film, using the examples from Two Days, One Night:
-
-- Audible mood can be written into the script, leading the audience in a specific direction emotionally. 
-- **In Two Days, One Night**, a screeching tile cutting sound builds tension as Sandra approaches a colleague's house to ask a favor.
-- The sound mirrors Sandra's inner conflict and gets louder as she draws nearer, reaching an intense level.
-- **Counterpoint is used in a later scene**, with birdsong contrasting Sandra's lack of freedom.
-- Sound design often happens in post-production, not during screenwriting.
-- Directors may want to transform a scene emotionally via sound, but packed scripts can limit options.
-- Constant dialogue/visuals leave little room for meaningful sound design influence.
-- Non-verbal sound comes into focus when the audience can't get the full story from words/images.
-- Space must be allowed in scenes where sound mood is particularly important. 
-- Ideal situation: visuals and sounds are ambiguous separately but evoke meaning in combination.
-{{%/ note %}}
-
----
-
-
-
-## Dramatic Irony and Suspense
+What does the soundtrack let the audience know that the characters may not know?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rW23RsUTb2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-**Irony in sound design:**
-
-* Counterpoint and deliberate anticlimax are both forms of irony, working contrary to what is expected.
-* Dramatic irony is when the audience is allowed to know more than the characters about what is unfolding. This creates a particular form of tension, as the audience waits for the character to realize what is happening.
-* Non-diegetic sounds play a particularly important role in dramatic irony. For example, the iconic score of Jaws warns the audience of the hidden antagonist's approach, whilst those within the film remain oblivious.
-
-**Suspense:**
-
-* By controlling if, when and how unseen information is delivered through sound, it is possible to create suspense.
-* This suspension of information, creating excitement or anxiety, is a key element of mood.
+5–11 minutes: allow up to 90 seconds of playback, then discussion. Define dramatic irony as the audience knowing more than a character. Suspense can also arise by withholding information. Ask for one audible detail and explain how removing or delaying it would change anticipation. Use the Jaws score example from Harrison to connect the idea to music; do not treat all suspense as dramatic irony.
 {{%/ note %}}
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iNiJ8VpNOgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Let music and effects share the scene
+
+- Choose which sound should lead at each moment
+- Avoid competing rhythms when a sound effect needs attention
+- Leave room in the frequency spectrum for important sounds
+- Discuss those choices with the composer early
 
 {{% note %}}
-Skippable if short on time — the previous clip already makes the irony/suspense point.
+11–15 minutes: practical collaboration. Harrison discusses Skip Lievsay and Carter Burwell. Translate that example into decisions students can make: pause a cue for an impact, reduce dense music under dialogue, or avoid two competing pulses. Do not imply every sound must occupy a permanently separate frequency band.
 {{%/ note %}}
 
 ---
 
-## The Man Who Knew Too Much
+## Source music and score
 
-- [Plex](https://watch.plex.tv/movie/the-man-who-knew-too-much-1934) - 54:00 - 58:55
+**Source music:** music that belongs to the story world, such as a radio or a performance.
+
+**Score:** music used as underscore, usually outside the story world.
+
+Two questions: **Where does the music belong?** **How does it shape the mood?**
 
 {{% note %}}
+15–20 minutes for this slide and American Honey. Allow up to 90 seconds for that clip. Source music and score describe narrative roles, not whether a track was pre-existing or composed for the film.
 
+Introduce the sequence: "American Honey shows music the characters hear. Star Trek moves from that kind of source music into score within one sequence. Spider-Verse then shows how underscore shares attention with effects. Finally, Aftersun returns to context: how does the same music feel against different images?"
 
-**Examples:**
-
-* Alfred Hitchcock often allowed his characters to know more than the audience, an aspect of his reputation as the master of suspense. He used sound to create this effect during the concert hall finale of The Man Who Knew Too Much, in which the orchestra drowns out the lead characters' on-screen plotting. The audience's innate curiosity to know what is happening brings a sense of urgency, propelling the scene forward.
-* Likewise, if a character becomes aware of something off screen, the director might choose to delay, or withhold the revelation of the source, to keep an audience guessing.
-
-In conclusion, sound design can be used to create irony and suspense in a film. By controlling what the audience hears, sound designers can create a sense of tension and anticipation, keeping the audience guessing about what is going to happen next.
+Keep the two questions separate. Diegetic/non-diegetic describes the music's relationship to the story world. Reinforcement/counterpoint describes its emotional relationship to the scene. Either source music or underscore can support or contrast with a scene's mood.
 {{%/ note %}}
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpOdAHwRnXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## American Honey: music in the scene
 
-{{% note %}}
-Synopsis: Bob and Charlotte share a deep but fleeting connection in Tokyo, leaving a lingering sense of intimacy and mystery as they whisper a final goodbye, their words inaudible to the audience.
-
-**The whisper in the taxi scene:**
-
-* **Intimacy and mystery:** The whisper adds a touch of intimacy and mystery to the scene. We don't know what Bob said, but it was clearly meaningful. This whisper speaks to the private bond the two formed that we can sense but not fully access as the audience.
-* **Fleeting nature of the encounter:** The unheard words echo the fleeting nature of their encounter. We only glimpse a small part of their relationship. The whisper suggests there were more moments out of frame that remain unseen.
-* **Distance:** Sonically, the muted whisper over the soundtrack reinforces the sense of distance now separating them. We strain to hear Bob's final words to Charlotte but cannot. Their connection is already fading into memory.
-* **Quietly devastating ending:** Overall the whispered goodbye creates a quietly devastating ending. The sound design choice reflects the bittersweet emotion and lyrical tone of the scene perfectly.
-
-The whisper in the taxi scene is a powerful example of how sound can be used to create emotion and meaning in a film. The sound designer's choice to have Bob whisper to Charlotte, and to make his words inaudible to the audience, creates a sense of intimacy, mystery, and distance. It also reinforces the fleeting nature of their encounter and the bittersweet emotion of their goodbye.
-{{%/ note %}}
-
----
-
-
-## Working with music
-
-
-* Music and sound design are two key elements of filmmaking that work together to create mood.
-* One notable example of a successful collaboration between composer and sound designer is the pairing of Skip Lievsay and Carter Burwell.
-* Central to their process is early discussion of where a particular sound effect or music cue should be present, and which area of the frequency spectrum it will occupy.
-
-
-{{% note %}}
-**Music and sound design:**
-
-* Alongside sound design, music is a key maker of mood, often able to express itself more freely when it comes to the image.
-* On smaller productions, a single person may be responsible for both areas, but usually musical selections and creations are handled by a separate department.
-* Within this team, a composer writes new pieces, known as music cues, whilst a music supervisor deals with commercial tracks. A music editor works to fit both to the picture.
-* Ideally, the departments collaborate closely from pre-production onwards, with ideas and drafts being shared along the way.
-* Composition and sound design are effectively painting in the same frame, but the boundary can become especially blurred if the ideas step beyond the naturalistic world of the action.
-
-**Collaboration between composer and sound designer:**
-
-* One notable example of a successful collaboration between composer and sound designer is the pairing of Skip Lievsay and Carter Burwell, who often work on productions for the Coen Brothers.
-* Central to their process is early discussion of where a particular sound effect or music cue should be present, and which area of the frequency spectrum – low, mid or high – it will occupy.
-* Elements at similar pitches can clash, and so by first splitting up the frequency spectrum scene-to-scene, sound and music can dovetail more elegantly.
-* Conversations can also be had about rhythm. If the plan is to use distinctive patterns of percussive sound effects in a scene, it would usually be wise to avoid beat-driven music at the same time, and vice versa.
-* An early sense of the score’s musical keys can also prove a helpful resource for designers, enabling the re-pitching of sound elements to suit.
-
-In conclusion, music and sound design are two essential elements of filmmaking that can work together to create a powerful and immersive experience for the audience. By collaborating closely from pre-production onwards, composers and sound designers can create a soundscape that is both cohesive and emotionally resonant.
-{{%/ note %}}
-
----
-
-## Pre-existing tracks
+**Inside the story world:** how do hearing and singing together shape the mood?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l4q6XiQthfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-* **Scenes with music:**
-    * If characters need to respond to music directly, the music may be played back during filming.
-    * If the director wants to use the live recordings, it is best to film the scene in one take or with multiple cameras to avoid continuity problems.
-    * More often, pre-recorded music is added in the early stages of post-production.
-    * The chosen music may be changed after filming, as each track's usage must be approved by the record label and songwriter.
-* **Diegetic music:**
-    * The sound department may also offer suggestions for diegetic music, also known as source music.
-    * A character's personality can be enhanced by musically styling their phone ring tone, doorbell, or alarm clock.
-    * For background elements — radios, televisions, parties next door — a sound designer may use their own creations or public domain music to create the right mood.
-    * Sound designers may also experiment with adding a musical instrument to the environment, such as a busker, wind chimes, or a music box (a common cliché in horror films).
+Play a short excerpt of the van sing-along. Establish the evidence first: the characters hear the playback and sing along. That makes the song diegetic; the presence of singing alone is not the definition.
 
-**American Honey, the sing-along:**
+Ask what their participation contributes: does the music create company, belonging, or another feeling? Have students point to voices, behavior, and the playback sound. Then ask how the scene might feel if the song were clean underscore and the characters did not respond to it.
 
-* The track is fully diegetic: sung in the van, through bad speakers, with voices out of tune against it. Harrison's context-and-content idea is right here. The song's content is a radio hit, and the context of a shared van and shared singing is what turns it into mood.
-* Ask: what happens to the scene if the same song plays non-diegetically, clean and full-range? That is exactly the Spider-Verse comparison two slides ahead.
-* Worth naming Murch's warning, which Harrison quotes: leaning on music to force emotion is "steroid-like" artificiality. This scene earns its music by keeping it inside the world.
-
+Transition: "Here the characters hear and participate in the music. Star Trek starts with another performance inside the story world, then carries its melody into score. Listen for when that relationship changes."
 {{%/ note %}}
 
 ---
 
-## Into the Spider-Verse - What's Up Danger
+## Star Trek II: source music becomes score
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O3Ax50dwO_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-- "What's Up Danger" was written for the film, but it functions like a needle drop: a pop track stepping into the role of score at the emotional peak.
-- Listen to the handoff between song and sound design in the leap: the track drops away for the glass shatter and the rising wind, then surges back — the mix passes the scene back and forth between music and SFX.
-- Note the inverted image and how sound sells it: the "fall" upward is scored as a rise.
-- Compare with American Honey: there the track sits inside the scene (diegetic, sung along to); here it hovers over it. Same tool, opposite relationship to the film world.
-{{%/ note %}}
-
----
-
-## Chungking Express - California Dreamin'
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n6acks-wQ1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-- One licensed song, played diegetically from Faye's boombox, roughly a dozen times across the film. This clip is one instance; in the film the repetition is the device.
-- The recording never changes. What changes is everything around it: who plays it, how loud, who is listening. Meaning drifts from annoyance to longing without touching the track.
-- A pre-existing song used the way a sound motif is used. Worth recalling when we get to motif in the Shape chapter.
-{{%/ note %}}
-
----
-
-## Donnie Darko - Head Over Heels
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qsyfGwlf_l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — American Honey, Spider-Verse, and Chungking Express carry the needle-drop thread.
-
-- A whole school introduced inside one needle drop. The steadicam, the speed ramps, and every character entrance are cut to the song's phrasing.
-- The track is doing structural work, not just energy work. Remove it and the scene's grammar collapses.
-- Ask: what did you learn about six characters without one line of dialogue?
-{{%/ note %}}
-
----
-
-## Aftersun - Under Pressure
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xAL9kuqc-kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — same thread as the previous needle drops.
-
-- Where the last two clips used a song to build a scene, this one uses a song to break one. The rave strobe cuts the track in and out with the light, so the needle drop is edited the way memory works: incomplete, looping, interrupted by silence.
-- Mood here is not the song's mood. Under Pressure is euphoric; the scene is grief. The gap between what the music says and what the scene means is the design.
-- Ask: what are the silences doing inside a scene whose whole point is a song?
-{{%/ note %}}
-
----
-
-## Portrait of a Lady on Fire - the bonfire chant
-
-[Watch the bonfire scene on YouTube](https://www.youtube.com/watch?v=AIU9Q-9OzA0) (embedding is disabled for this one, so it opens on YouTube)
-
-{{% note %}}
-Skippable if short on time — it opens on YouTube anyway; mention it as homework listening instead.
-
-- The opposite budget: a nearly scoreless film where the only music is performed inside the story, so the one a cappella piece detonates.
-- Eighty minutes of waves, fires, and footsteps make the chant land like a physical event. Economy as a music strategy.
-- Ask afterward: did the chant feel diegetic, scored, or ritual? It is staged as all three at once.
-{{%/ note %}}
-
----
-
-## Worldizing
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z2OoxzYqgNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — worldizing gets its own full lesson on 11/2 (Worldizing and futz).
-
-* **Placing music in scenes:**
-    * Once the music selections have been made, the clean recordings can be placed within their scenes by applying reverb and EQ, simulating the acoustics of a diegetic space.
-    * A more interesting approach is to use a process called worldizing, pioneered by Walter Murch on American Graffiti.
-    * For this technique, the music is played over a speaker into a physical space and the results are recorded.
-    * This is usually done with a mono speaker and a stereo microphone, experimenting with placement to achieve the desired result.
-    * Different set-ups can be captured to give a variety of options, and the effect can later be softened by mixing some of the clean signal back in.
-* **Emulating sound-colouring devices:**
-    * In order to emulate a sound-colouring device — a phone, television or car radio, for example — we can use a similar real-world machine for the playback.
-
-**Example:**
-
-* To create the sound of a song playing on a car radio, we could play the music through a car radio speaker and record the results with a microphone.
-
-**Benefits of worldizing:**
-
-* Worldizing can create a more realistic and immersive sound experience.
-* It can also be used to create unique and interesting sound effects.
-
-Overall, worldizing is a powerful tool that can be used to enhance the sound design of a film or other media project.
-{{%/ note %}}
-
----
-
-## Diegetic Switching
+**Inside → outside:** where do diegetic bagpipes become non-diegetic orchestral score?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_8nY_LQL3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-* A diegetic switch is a device where source music transitions into score, or vice versa, in a wink to the audience that acknowledges the artifice of cinema.
-* This can be done by cutting or crossfading between clean and worldized recordings, or by employing different versions of the music itself.
-* A diegetic switch can bring a playful tone to a scene.
-* An example of a diegetic switch is in Star Trek II, where Scottie plays Amazing Grace on his bagpipes at Spock's funeral, and then an orchestra picks up the melody as the coffin shoots out of the USS Enterprise.
-* The audience readily accepts the melody's ascent through the layers of cinematic reality, rather than assuming that there is a spacecraft just out of frame that contains an entire symphonic ensemble.
+20–25 minutes: allow up to 60 seconds around the transition. Recall American Honey: Scotty's bagpipes also begin as a performance within the story world. Then the orchestral underscore continues the melody outside that world. This clip demonstrates the change within one sequence.
 
-In other words, a diegetic switch is a way to remind the audience that they are watching a movie, and that the music they are hearing is not necessarily coming from the world of the film itself. This can be done for a variety of reasons, such as to create a humorous or playful effect, or to highlight the emotional impact of a scene.
+Ask students to identify the change and support it with what they hear and see. The continuing melody links the funeral performance to the wider emotional perspective of the score. Define a source-to-score transition as a change in narrative role; increased loudness or emotional importance alone does not establish it.
+
+Transition: "We've heard source music become score. Next, Spider-Verse starts with music functioning as underscore. Listen for how it makes room for effects and then takes the lead again."
 {{%/ note %}}
 
 ---
 
-## Moonlight - the diner jukebox
+## Spider-Verse: music as underscore
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Kc0KPKx3XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Outside the story world:** how do music and effects take turns shaping the leap?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3Ax50dwO_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-- Same device as the Star Trek bagpipes, played straight instead of playful. Kevin walks to the jukebox and Hello Stranger starts fully diegetic, source on screen.
-- Then the camera abandons the source and the song swallows the scene, functioning as score without ever changing what it is.
-- Ask students to raise a hand at the moment the song stops being "in the room." There is no single right answer, and that is the point: diegetic is a relationship, not a property of the sound.
+25–29 minutes: allow up to 90 seconds around the leap. Connect to the orchestral end of Star Trek: music functions as underscore here, rather than playback the characters share as in American Honey. Ask what evidence supports that reading.
+
+Listen for the relationship between the song, glass, and wind. Ask students to identify an audible handoff and explain how it directs attention. Connect this to the collaboration slide: music and effects do not need to dominate at the same time.
+
+Transition: "We've asked where the music belongs and which sound leads. Now return to our context table: does the music reinforce the scene's emotional tone, or complicate it? Aftersun lets us ask that different question."
 {{%/ note %}}
 
 ---
 
-## Beau Travail - setup
+## Aftersun: music and emotional context
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oSh2XRRI-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+How does the same continuous song feel different as the picture cuts between the vacation dance and the dark club?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAL9kuqc-kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-Skippable if short on time (with the ending clip that follows) — Moonlight already lands the diegetic-line argument.
+29–35 minutes: allow up to 90 seconds of playback and discussion. Introduce the relationship in about 30 seconds before showing the clip. This example returns to the context table; it is not another straightforward source-versus-score comparison.
 
-- Context first, since almost nobody has seen this film. Galoup is a French Foreign Legion sergeant. The film is his life of drill and repetition: bodies moving in unison, almost no dialogue, total control.
-- Play about a minute of this training scene. That restraint is the setup for the next slide.
+**Context to give students:** "Sophie is eleven, on holiday in Turkey with her young father, Calum. They have a loving, playful relationship, but he is struggling privately with depression that she cannot fully understand. The film is framed by Sophie looking back about twenty years later, trying to understand her father beyond the person she knew as a child."
+
+**Who is in the dark club?** The woman is adult Sophie, not the eleven-year-old Sophie from the holiday. The club images bring her adult perspective into contact with her memory of Calum. Explain this as a reading of the film's subjective imagery, rather than a second literal holiday event: she is reaching toward a father she remembers but cannot fully recover or understand. The film leaves aspects of his fate unstated; do not turn the sequence into a definitive explanation of what happened to him.
+
+**Why the relationship matters to the music:** The vacation dance shows affection and shared pleasure. Cutting to adult Sophie and Calum in the dark club gives that moment the weight of later longing and grief. The continuous song links the child's experience of closeness with the adult's effort to understand it. Ask: "How does knowing that the woman is his grown-up daughter change the way you hear this music?"
+
+Sources for the relationship and memory framing: [Charlotte Wells' note on Aftersun](https://a24films.com/notes/2022/10/a-note-from-charlotte-wells) and the [BFI interview with Paul Mescal and Frankie Corio](https://www.bfi.org.uk/interviews/paul-mescal-frankie-corio-aftersun). For the adult Sophie/rave interpretation, see [OCR's film-studies discussion of the Under Pressure sequence](https://www.ocr.org.uk/blog/approaching-the-new-set-film-aftersun-for-a-level-film-studies/).
+
+The song continues while the picture cuts between the father and daughter dancing on vacation and the dark club imagery. The contrast is in the visual settings and their relationship to the music, not interruptions or silence in the song.
+
+Ask students to describe how the song feels against each setting. What changes when we move from the shared vacation moment to the dark club? What does the continuous music connect across those cuts? Return to the context table: the same music can take on different significance as the images and our understanding of the relationship change.
+
+Students may hear warmth, tension, longing, or conflicting feelings. Ask them to support their interpretation with a specific image and musical detail. Discuss reinforcement or counterpoint if their evidence supports it; do not assume the song is simply cheerful or require one reading. This example also shows how continuous music can connect contrasting images.
+
+Before the final exercise, recap: "American Honey shows shared source music; Star Trek carries source music into score; Spider-Verse lets underscore and effects take turns; Aftersun changes the images around continuous music to change its emotional significance." Remind students that the story-world question and the emotional question are separate. Students will now propose both where sound belongs and how it should shape the mood of a familiar scene.
 {{%/ note %}}
 
 ---
 
-## Beau Travail - the ending
+## Propose music for the robot animation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tbrcxTkOPF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. Choose a mood and describe music that could create it
+2. Would it be source music or non-diegetic score? Explain
+3. Choose where music enters, ends, or makes room for Foley
+
+Explain your proposal to a partner using a specific moment.
+
+**If time allows:** place the music against the animation and listen together. Does it create the intended mood and leave room for Foley?
 
 {{% note %}}
-Skippable if short on time — pairs with the setup slide before it.
+35–40 minutes: 2 minutes to plan, 2 minutes to compare with a partner, 1 minute for one or two responses. Use the robot animation students recorded Foley for. They can name a possible track or describe instrumentation, rhythm, texture, and energy; they do not need to find or license a recording for this discussion. Ask what their music would make us think or feel about the robot, and which Foley moments should remain clear. If they propose source music, ask what in the story would produce it. For score, ask why the audience should hear music the robot does not.
 
-- After two near-silent hours of that discipline, the film ends here: alone in an empty disco with Rhythm of the Night.
-- The music is technically diegetic, a real speaker in a real room, but the scene functions as pure interior monologue. Ask: which side of the line is this on? Let the room disagree; the argument is the lesson.
-- Mirror image of the Moonlight clip: there a diegetic song drifted into score, here the score-like release stays stubbornly in the room.
+Start with the proposal. If time remains, students can place a candidate track in their robot animation session and play a short passage for the class. Compare with and without music: what changes about our impression of the robot, and can we still hear the important Foley? A quick placement is enough; a polished cue edit is not required. Keep this extension optional so the article still gets time.
+
+Contrast it with the restraint in the A Quiet Place clip they worked on, where foregrounding small sounds and silence was central to their design task. Do not suggest that A Quiet Place as a whole has no score.
+
+End the main lesson here. Then open /lectures/working-with-music/ for approximately 10 minutes on temp tracks, one phrase-based cue edit, and keeping source/license records. Their robot music proposals provide a starting point for discussing candidate temp tracks. Assign the full cue-cutting exercise for independent practice.
 {{%/ note %}}
 
 ---
 
-## Acousmatic Sound
+# Appendix
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/718O6L2fWqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Optional viewing
 
-{{% note %}}
-**Non-diegetic sound:**
+Choose a clip that interests you. Read its context, watch, then answer the listening question with one specific sound or moment.
 
-* Acousmatic sounds are sound effects that have no apparent source within the scene.
-* They are often used in genres that deal with supernatural forces or the workings of the mind, to communicate unseen events or create ambiguous moods.
-* The rumble also falls under this heading, as it is not tied to the image and instead determines its own shape in response to the narrative beats of a scene.
-* Overlaid sounds in classic cartoons use a similar device, but for comedic effect.
-* The boundary between sound design and music can become particularly blurred in the non-diegetic space.
-* This can create a delicate political situation with the composer, but it also provides fertile ground for magical transformations.
-* One example is the scene in Stalker's first foray into 'The Zone', where the sound of a railroad cart becomes increasingly melodic in feel, transporting the audience into dream-like territory.
+These examples extend the lesson. Some reveal film endings.
+
+---
 
 
-{{%/ note %}}
+{{< slide class="extra-viewing" >}}
+
+
+## Suspense: controlling information
+
+The soundtrack can reveal a danger before a character recognizes it, or leave its source uncertain.
+
+**Listen for:** What do you know from sound alone? Identify one moment when sound reveals or withholds information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNiJ8VpNOgw" title="Suspense: controlling information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=iNiJ8VpNOgw)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Lost in Translation: the goodbye
+
+Bob and Charlotte share a final goodbye after forming a close connection in Tokyo. We see him whisper to her, but cannot clearly hear his words.
+
+**Listen for:** What do the surrounding sounds and music let you feel without knowing what he says?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dp9_HT8s-Ck" title="Lost in Translation: the goodbye" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=dp9_HT8s-Ck)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Chungking Express: a repeated song
+
+Faye plays California Dreamin' in the snack bar. The film returns to the song repeatedly, giving it different meanings as her relationships change.
+
+**Listen for:** In this excerpt, what does the song suggest about her mood or attention? How might a later repetition change its meaning?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6acks-wQ1w" title="Chungking Express: a repeated song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=n6acks-wQ1w)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Donnie Darko: editing to music
+
+Head Over Heels accompanies a sequence introducing the school and its characters. Musical phrasing helps organize what we see.
+
+**Listen for:** Choose one character entrance or picture edit. How does its timing relate to the song? Compare with the Working with Music article.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qsyfGwlf_l0" title="Donnie Darko: editing to music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=qsyfGwlf_l0)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Moonlight: music from the jukebox
+
+Kevin selects a song on the diner jukebox during his reunion with Chiron. Its source is established within the scene.
+
+**Listen for:** How does this source music shape the encounter? Does it feel emotionally like underscore even though the characters can hear it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Kc0KPKx3XM" title="Moonlight: music from the jukebox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=4Kc0KPKx3XM)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Beau Travail: disciplined movement
+
+The film follows French Foreign Legion soldiers. Watch the repeated, controlled movements here before viewing the ending on the next slide.
+
+**Listen for:** How do rhythm, bodily movement, and sound create a sense of discipline? Keep one detail in mind for the comparison.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oSh2XRRI-E" title="Beau Travail: disciplined movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=7oSh2XRRI-E)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Beau Travail: release through dance
+
+The ending places Galoup alone in a disco, dancing to Rhythm of the Night. Compare his movement with the previous excerpt.
+
+**Listen for:** How does the music change your impression of him? What evidence suggests an inner emotional release? Its narrative status is open to interpretation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbrcxTkOPF4" title="Beau Travail: release through dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=tbrcxTkOPF4)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## American Graffiti: music in a space
+
+Worldizing means playing a recording into a physical space and recording the result. This film scene illustrates the effect of placing music in an environment, rather than demonstrating the recording procedure.
+
+**Listen for:** How does the music sound situated among the cars, voices, and street sounds? What might change if it sounded clean and close?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2OoxzYqgNY" title="American Graffiti: music in a space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=z2OoxzYqgNY)
+
+---
+
+
+{{< slide class="extra-viewing" >}}
+
+
+## Stalker: sound becomes musical
+
+During the journey into the Zone, listen for mechanical rhythm and musical texture. Acousmatic sound is heard without seeing its source; it can still belong to the story world.
+
+**Listen for:** Where does environmental sound begin to feel like music? Does seeing a source settle that question?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/718O6L2fWqY" title="Stalker: sound becomes musical" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=718O6L2fWqY)
+
+---
+
+
+## Portrait of a Lady on Fire: shared singing
+
+At a bonfire gathering, women sing together. The performance belongs to the story world; its impact also depends on the film's otherwise sparse use of music.
+
+**Listen for:** How do the voices create a shared mood? What does the scene gain from showing the people making the music?
+
+[Watch on YouTube](https://www.youtube.com/watch?v=AIU9Q-9OzA0). This clip opens on YouTube because embedding is disabled.
+
+---
+
+
+## Extra viewing: ambience and context
+
+**Terminal Sud:** [Tubi, 14:11–15:30](https://tubitv.com/movies/606673?tracking=justwatch-feed). Rain against a window accompanies a threatening situation. How does the scene make ordinary rain feel ominous?
+
+**Two Days, One Night:** [Tubi](https://tubitv.com/movies/684124/two-days-one-night?start=true). Sandra is asking colleagues to help save her job. Compare the power tools at **20:17–24:40** with birds in the park at **42:50–44:40**. How does each sound relate to her emotional situation?
+
+Use these passages as optional references. Playback may include ads or depend on regional availability.
+
+---
+
+
+## Extra viewing: music masks speech
+
+**The Man Who Knew Too Much (1934):** [Plex, 54:00–58:55](https://watch.plex.tv/movie/the-man-who-knew-too-much-1934).
+
+During the concert-hall sequence, music can prevent the audience from understanding speech. This controls access to information as well as the scene's mood.
+
+**Listen for:** When do you want to hear the characters more clearly? How does the orchestral sound affect that tension?
+
+Optional reference. Playback may include ads or depend on regional availability.
