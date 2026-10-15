@@ -1,0 +1,24 @@
+/* Shape deck: spacing in Reveal's 960 by 700 logical slide canvas. */
+.reveal { font-size: 34px; }
+.reveal .slides section { line-height: 1.3; box-sizing: border-box; }
+.reveal h2 { font-size: 1.2em; margin-bottom: .45em; }
+.reveal p { margin: .45em 0; }
+.reveal ul li, .reveal ol li { margin: .3em 0; }
+.reveal ol { margin-left: 0; padding-left: 1.8em; }
+.reveal table { width: 100%; margin: .5em 0; font-size: .76em; }
+.reveal table th, .reveal table td { padding: .35em .5em; }
+.reveal section.watch > p { font-size: .82em; }
+.reveal section.watch iframe { width: 560px; height: 315px; margin: .4em auto; }
+.reveal section.ran-comparison iframe { width: 480px; height: 270px; }
+.reveal section.watch > p:last-of-type { font-size: .7em; }
+.reveal .clip-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin: .5em 0; }
+.reveal .clip-pair > div { min-width: 0; }
+.reveal .clip-pair h3 { font-size: .78em; min-height: 2.3em; margin: 0 0 .25em; }
+.reveal .clip-pair h3::before { content: none; }
+.reveal section.watch-pair .clip-pair iframe { width: 432px; height: 243px; max-width: 100%; margin: .25em 0; }
+.reveal .clip-pair a { font-size: .65em; }
+.reveal section.watch-pair > p:last-of-type { font-size: .82em; }
+.reveal section.map-reference img { max-height: 390px; max-width: 90%; object-fit: contain; }
+.reveal section.map-reference > p:last-of-type { font-size: .85em; }
+.reveal section.story-reference img { max-height: 430px; object-fit: contain; }
+.reveal section.story-reference > p:last-of-type { font-size: .75em; }

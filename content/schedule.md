@@ -162,7 +162,8 @@ undergraduate work.
 ## 10/19
 - [due] [Screening log 3](/assignments/screening-log/) — *A Quiet Place*
 - [slides] [Shape: sound maps, contrast and motif](/lectures/week-9/sdff-chapter-6/)
-  - The film closes this deck — we'll come back to the implant motif at the end
+  - Use your *A Quiet Place* screening log to explain how the feedback prepares the ending, then compare recurring sounds and changes in treatment in *Spider-Verse* and *Ran*
+  - Plan how a sound develops across three connected scenes from a film or episode you know well. Extra examples and mapping references are in the appendix
 
 ## 10/21
 - [due] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/)
