@@ -15,7 +15,7 @@ Tim Harrison, *Sound Design for Film*, chapter 6
 {{% note %}}
 Plan for one 50-minute meeting. Main lesson ends at the exit reflection; everything after the Appendix divider is optional. Keep visible slides student-facing and use these notes for facilitation.
 
-Timing: goals and concepts 0–5 minutes; A Quiet Place worked example and discussion 5–13; motif and Prowler comparison 13–26; contrast and Ran 26–38; design practice and peer feedback 38–48; exit reflection 48–50. Allow the full embedded Prowler pair, approximately 4:18 and 4:11. For Ran, use selected passages from the effects-led YouTube clip and the seven-minute music-led Film Secession excerpt as described in its notes. These are clip durations, not timestamps in the feature films. Each viewing includes spoilers; Ran depicts battle violence.
+Timing: goals and concepts 0–5 minutes; short example and A Quiet Place discussion 5–13; motif and Prowler comparison 13–26; contrast and Ran 26–38; design practice and peer feedback 38–48; exit reflection 48–50. Allow the full embedded Prowler pair, approximately 4:18 and 4:11. For Ran, use selected passages from the effects-led YouTube clip and the seven-minute music-led Film Secession excerpt as described in its notes. These are clip durations, not timestamps in the feature films. Each viewing includes spoilers; Ran depicts battle violence.
 {{%/ note %}}
 
 ---
@@ -29,7 +29,7 @@ Timing: goals and concepts 0–5 minutes; A Quiet Place worked example and discu
 Use a specific sound and moment as evidence.
 
 {{% note %}}
-0–2 minutes including the title. Frame the distinction from Mood: today students will explain how an earlier sound prepares a later event, or how changing the treatment organizes a sequence. Outline the sequence: one familiar-film worked example, two clip comparisons with different purposes, then students' own plans.
+0–2 minutes including the title. Frame the distinction from Mood: today students will explain how an earlier sound prepares a later event, or how changing the treatment organizes a sequence. Outline the sequence: a short invented example and a familiar-film discussion, two clip comparisons with different purposes, then students' own plans.
 {{%/ note %}}
 
 ---
@@ -43,14 +43,48 @@ Use a specific sound and moment as evidence.
 **Foreshadowing:** an earlier detail prepares us for a later event.
 
 {{% note %}}
-2–5 minutes. Introduce these terms briefly; the worked A Quiet Place example gives motif and foreshadowing a concrete relationship. These devices can overlap. A motif may foreshadow something, but repetition alone does not guarantee foreshadowing. Contrast can involve density, texture, perspective, or the balance of music and effects as well as loudness. A routine repeating footstep is not automatically a narrative motif; students should explain the association it builds.
+2–5 minutes. Introduce these terms briefly; the next example connects recurrence with foreshadowing. These devices can overlap. A motif may foreshadow something, but repetition alone does not guarantee foreshadowing. Contrast can involve density, texture, perspective, or the balance of music and effects as well as loudness. A routine repeating footstep is not automatically a narrative motif; students should explain the association it builds.
 {{%/ note %}}
 
 ---
 
-## A Quiet Place: feedback develops
+## An earlier sound prepares a later event
 
-Regan, the family's deaf daughter, uses a device her father has worked on. Its feedback becomes a story clue.
+Imagine a machine that must keep running.
+
+1. A faint rattle interrupts its steady rhythm
+2. The rattle returns more often as the machine struggles
+3. The rattle stops, then the machine fails
+
+The earlier pattern makes the sudden absence meaningful.
+
+{{% note %}}
+5–6 minutes. This is an invented example, not a scene from a particular film. Keep the same identifiable rattle across the three moments. Its increasing recurrence establishes a problem, and its abrupt absence becomes a warning before the failure. The payoff depends on what we heard earlier. This demonstrates development across time rather than a sound simply taking on a different mood in another context. Keep it brief and move to students' own observations from A Quiet Place.
+{{%/ note %}}
+
+---
+
+## A Quiet Place: trace a sound
+
+Choose a sound whose role develops across the film.
+
+- Where is it introduced?
+- What do we learn when it returns?
+- What later event does it prepare us to understand?
+
+Compare with a partner. Support your reading with specific scenes.
+
+{{% note %}}
+### Run the discussion, 6–13 minutes
+
+- Give pairs three minutes to choose a sound and trace its development. Use the completed screening and students' logs; no replay is planned.
+- Take responses for four minutes. Ask for specific scenes and what each return adds to our understanding.
+- Let students choose before naming the feedback example. Accept other sounds supported by evidence; there is no single required answer.
+- Pair anyone who has not completed the film with someone who has.
+
+### Possible answer: Regan's device feedback
+
+Regan is the family's deaf daughter. The device her father has worked on progresses from apparent problem to clue to deliberate action.
 
 | Story moment | Sound | What we learn |
 |---|---|---|
@@ -58,18 +92,33 @@ Regan, the family's deaf daughter, uses a device her father has worked on. Its f
 | Creature encounter in the cornfield | Feedback distresses both | The sound affects the creature |
 | Basement confrontation | Regan amplifies the feedback | She can use it against the creature |
 
-If the cornfield encounter were cut, would the ending feel earned? Explain what we would lose.
+Each return adds information and prepares the payoff. Distinguish what the audience can infer from what Regan understands at each point.
 
-{{% note %}}
-5–13 minutes. This is the single A Quiet Place discussion in the lesson. Introduce Regan as the family's deaf daughter before using her name alone. Allow about three minutes to explain the worked timeline, two minutes for pairs to consider the missing-scene question, and three minutes for responses. The teaching interpretation is a progression from apparent problem to clue to deliberate action. Each return adds information and prepares the payoff. This extends Mood's context examples by showing how earlier sound events make a later action understandable.
+Accuracy reminder: the feedback is distinct from the low hum and total silence used for Regan's subjective listening perspective. The creature-disabling effect is fictional, not a normal property of an implant.
 
-In the early device test, Regan experiences uncomfortable interference. In the cornfield, the feedback causes distress in both Regan and the creature. In the basement, she deliberately amplifies it, making the creature vulnerable. Distinguish the feedback from the low hum and total silence used for Regan's subjective listening perspective. Do not imply that the implant normally produces this fictional creature-disabling effect in real life.
+### Optional follow-up
 
-Use students' completed screening and their logs to check evidence in the table. Then focus the discussion on one counterfactual: remove the cornfield encounter. What evidence linking feedback to the creature's vulnerability would the audience lose? Explain that recurrence establishes a motif, while planting information needed for the ending provides foreshadowing. Distinguish what the audience can infer from what Regan understands at each point. Accept other interpretations if supported by a specific moment. This is discussion of their completed screening, with no planned replay or second mapping task. Pair anyone who has not completed the film with someone who has.
+If students identify the feedback, ask: "If the cornfield encounter were cut, would the ending feel earned? What evidence would we lose?"
 
-Sources: Erik Aadahl and Ethan Van der Ryn describe the device test in https://www.motionpictures.org/2019/02/oscar-watch-a-quiet-places-sound-designers-on-2/; their account of the cornfield feedback and sonic perspectives is at https://www.asoundeffect.com/a-quiet-place-sound/; the discovery that feedback makes the creatures vulnerable is discussed in https://www.comingsoon.net/horror/features/1176529-a-quiet-place-ii-sound-designers-discuss-using-sound-to-scare-the-bejesus-out-of-audiences.
+Use this to deepen a response, not as another required task.
 
-Distinguish this timeline map from the sound inventories in Assignments 5 and 6. An inventory asks what sources are needed; a timeline map asks when they matter and how they develop. A simple table is sufficient. Loudness curves are optional.
+### Close with the Shape connection
+
+Earlier sound events make a later action understandable. Recurrence establishes a motif; information planted for a later payoff provides foreshadowing.
+
+If useful, connect to Assignments 5 and 6: an inventory asks what sounds are needed; a timeline asks when they matter and how they develop. A simple table is enough.
+
+### Optional production context
+
+- **Sound rules, pressbook p. 3:** Krasinski listed everyday noises as "safe sounds" and "unsafe sounds." After the feedback example emerges, connect it to the learned rule: sound attracts danger, but this particular sound becomes a defense. This reversal is our analysis, not the pressbook's account of these specific scenes.
+- **Bridge to Ran, pressbook p. 14:** Krasinski avoided a continuous score and worked with Marco Beltrami on how much music to use and when. Choosing when music enters or gives way also shapes a sequence. Save this connection for the Ran discussion if time is short.
+
+### Sources for preparation
+
+- *A Quiet Place*, English pressbook, pp. 3 and 14: production context above.
+- [Erik Aadahl and Ethan Van der Ryn on the device test](https://www.motionpictures.org/2019/02/oscar-watch-a-quiet-places-sound-designers-on-2/).
+- [Cornfield feedback and sonic perspectives](https://www.asoundeffect.com/a-quiet-place-sound/).
+- [Feedback and the creatures' vulnerability](https://www.comingsoon.net/horror/features/1176529-a-quiet-place-ii-sound-designers-discuss-using-sound-to-scare-the-bejesus-out-of-audiences).
 {{%/ note %}}
 
 ---
