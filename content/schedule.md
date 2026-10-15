@@ -157,6 +157,7 @@ undergraduate work.
 
 ## 10/16
 - [lab] Field recording follow-up — bring your recorder and your independent-session recordings. Listen back, troubleshoot, and capture additional or replacement takes.
+  - Another option: continue recording Foley for *A Quiet Place* in our shared REAPER project.
   - If time allows or recordings are limited: watch and discuss unseen clips from the [Mood appendix](/lectures/week-8/sdff-chapter-4/#/12).
 
 ## 10/19
