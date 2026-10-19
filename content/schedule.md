@@ -168,11 +168,12 @@ undergraduate work.
 
 ## 10/21
 - [due] [Assignment 3: Field Recording](/assignments/assignment-3-field-recording/)
-- [slides] [The editing mantra: L-I-S-T-E-N](/lectures/week-7/listen-mantra/)
+- [lab] Listen to some of your favorite field recordings from Assignment 3. Play a short excerpt and tell us what you like about it; we'll listen for the source's character and one possible editing decision.
+- [reading] Then work through [The editing mantra: L-I-S-T-E-N](/lectures/week-7/listen-mantra/) and try the checklist on a copy of one recording.
 
 ## 10/23
-- [slides] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
-- [lab] [UCS naming and export workflow](/lectures/ucs-library-organization/) — name finished takes and export them using `$item` for Assignment 4.
+- [lab] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
+- Reminder for Assignment 4: use the [UCS naming and export workflow](/lectures/ucs-library-organization/) covered earlier to name finished takes and export them using `$item`.
 - Look at [Soundly](https://getsoundly.com/) and [SoundQ](https://www.prosoundeffects.com/soundq/) for well-edited reference SFX
 ### homework
 - [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — due Wed 11/11
