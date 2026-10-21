@@ -172,9 +172,10 @@ undergraduate work.
 - [reading] Then work through [The editing mantra: L-I-S-T-E-N](/lectures/week-7/listen-mantra/) and try the checklist on a copy of one recording.
 
 ## 10/23
-- [lab] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/)
-- Reminder for Assignment 4: use the [UCS naming and export workflow](/lectures/ucs-library-organization/) covered earlier to name finished takes and export them using `$item`.
-- Look at [Soundly](https://getsoundly.com/) and [SoundQ](https://www.prosoundeffects.com/soundq/) for well-edited reference SFX
+- Bring headphones and your Assignment 3 recordings, including one short detail to edit
+- [lab] [Editing and cleaning up audio in REAPER](/lectures/week-7/editing/) — apply LISTEN with markers, click repair, ReaEQ/ReaFIR, trimming, fades, and one checked export using the earlier UCS workflow
+- [lab] Apply the workflow to your own take and compare with a partner. Save one export and a brief editing decision note for Assignment 4
+- If time permits, compare a reference SFX in [Soundly](https://getsoundly.com/) or [SoundQ](https://www.prosoundeffects.com/soundq/)
 ### homework
 - [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — due Wed 11/11
 
