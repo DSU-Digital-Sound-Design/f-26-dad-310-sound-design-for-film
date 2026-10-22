@@ -1,349 +1,406 @@
 +++
-title = "Symbol: Sound Worlds And Metaphors"
+title = "Symbol: Sound Worlds and Metaphors"
 outputs = ["Reveal"]
 [reveal_hugo]
+custom_css = "symbol-slides.css"
 slide_number = "c/t"
-# show_notes = "separate-page"
 +++
+
 
 # Symbol
 
----
+Sound worlds and metaphors
 
-## Sound Worlds And Metaphors
+Tim Harrison, *Sound Design for Film*, chapter 5
 
 {{% note %}}
-We'll now go deeper into what sounds mean, how they can either deliver information directly or indirectly. Sound can refer directly, or metaphorically using one thing to refer to another.
+One 50-minute class. The main lesson ends at the closing reflection; the appendix is optional. Suggested pacing: opening and concepts 8 minutes; Blue Velvet 7; Parasite 9; interpretation and Club Silencio 10; individual design 10; whole-class responses and reflection 6. Use short excerpts, not complete clips. These are facilitation estimates, not verified video timestamps. Cue the excerpts before class. The examples contain spoilers and unsettling imagery.
 
-But why use metaphor at all?
+Keep the task individual. Invite each student to explain a choice to the whole class; do not require partners. The plan is practice, not a new graded submission.
 {{%/ note %}}
 
 ---
 
-{{< slide class="quote long" >}}
+## What you should be able to do
 
-> A film only exists when it’s reflected in someone’s heart. That’s why I often sit in a cinema and watch some mindless thing on the screen and see people stare at it just as mindlessly, and I realize: this film does not even exist. It provokes no repercussions, no encounters.
+- Describe a sound world's consistent qualities
+- Distinguish an audible detail from an interpretation
+- Plan sound choices that suggest a place or idea
+
+Support your interpretation with a specific sound and moment.
 
 ---
 
-{{< slide class="quote long" >}}
+## Map, world, mood, meaning
 
-> It’s a waste, not only of time. But if a film leaves the space for the spectator to dream himself or herself into it, to read ‘between the lines,’ to fill it with his or her own experiences and thereby make it come to life, then and only then it exists.
-> 
-> --Wim Wenders
+**Sound map:** the plan of what we hear, where, and when.
+
+**Sound world:** the palette and treatment that make a place or perspective recognizable.
+
+**Mood:** the emotional effect of those choices in context.
+
+**Symbol:** what those sounds might suggest beyond their literal sources.
+
+These overlap. Today, explain how a sound choice supports an interpretation.
 
 {{% note %}}
-
-
-- Films are interactive experiences between the audiovisual material and the audience. Movies are not static objects, but come alive when viewed. 
-- Overly simplistic, spoon-fed narratives tend to bore audiences. Viewers want to be challenged and intellectually engaged.
-- Ambiguity and openness to interpretation make a film richer. By allowing space for the audience's imagination, a movie's meaning can expand in multiple directions. 
-- The audience is an active participant in constructing the film's significance. Meaning is not inherent in the images/sounds alone, but arises through the interaction between the material and the viewer.
+Recall Shape: a map can also show how sounds develop across a sequence. A map is a planning tool, not a less sophisticated version of a sound world. A sound world describes the coherent design choices the plan organizes; mood describes an effect; a symbolic reading interprets their relationship to the scene. These are different questions about the same soundtrack, not four separate layers or a required production order.
 {{%/ note %}}
 
 ---
 
-- Sound worlds can be
-  - the domain of a **character, group, time or place** (wealthy elite, future, hell);
-  - a **story theme** (social structure, technology, religion);
-  - a side of a **narrative conflict** (rich vs poor, reality vs fantasy, life
-    vs death).
-- Created with aesthetic qualities of sound
-  - pitch (low, high), rhythm (regular, irregular), timbre (bassy, bright), style (realist, hyperrealist, surrealist).
+## One hospital, four questions
+
+**Map:** ventilation throughout; footsteps approach; a monitor beeps.
+
+**World:** close, dry machinery; distant human voices.
+
+**Mood:** the patient may feel isolated.
+
+**Possible meaning:** the institution seems to value machines over people.
+
+What in the image or action would support that reading? What might change it?
 
 {{% note %}}
-The previous example created a **sound world**. 
-
-The concept of a "sound world" in film sound design refers to creating distinct auditory environments and aesthetics to represent different aspects of the story, characters, settings, themes, etc. Some key points:
-
-- A sound world is a collection of signature sounds and auditory elements that immerse the audience in a specific mood, time period, location, or perspective.
-- Sound worlds establish a sense of place, time, culture, or viewpoint through intentional choices in sound palette and design.
-- They allow sound designers to stylize and shape the audience's emotional experience through audio, complementing the visuals.
-- Effective sound worlds have cohesive internal logic and consistency even as they contrast with other worlds in the film.
-- For example, a sci-fi film may have one sound world for the pristine spaceship interior and another grittier, industrial world for the city slums. 
-- Or, a historical drama could differentiate between the elegant sound world of the aristocracy and the lively, chaotic world of the streets.
-- Sound worlds help tell the story, communicate characters' inner states, and allow the audience to inhabit the fictional reality more fully through immersive audio.
-
+This is an invented example. Isolation is a possible emotional effect, not an inevitable one. A hospital scene might make the same machinery feel reassuring because someone is receiving care. The image, action, perspective, and sound treatment support or challenge an interpretation. Ask students to identify which claims describe audible details and which interpret them. Sound does not have one fixed symbolic meaning.
 {{%/ note %}}
 
 ---
 
-## Qualities of sound
+## Give a world consistent sound rules
 
----
+A **sound world** is a coherent palette of sounds and treatments associated with a place, character, group, or perspective.
 
-| Quality | Values |  
-|-|-|
-| Acoustic | dry, wet, clear, resonant |
-| Artificiality | organic, synthetic |
-| Asynchrony | synchronous, asynchronous, connected, disconnected |
-| Density | silent, spare, dense |
-| Depth | shallow, deep |
-| Energy | static, lively, low, high |
-| Envelope | slow decay, soft attack, hard attack, lingering release |
+Choose a few qualities you can describe and reproduce:
 
----
+| Quality | Possible choices |
+|---|---|
+| Density | spare or crowded |
+| Timbre | dull, bright, rough, smooth |
+| Rhythm | regular or irregular |
+| Perspective | close or distant |
 
-| Quality | Values |
-|-|-|
-| Extension | smaller, larger, tighter, wider, flatter, deeper | 
-| Harmoniousness | dissonant, harmonious, minor, major |
-| Immersion | faraway, observational, immersive |
-| Length | short, long |
-| Level/volume | low, high, soft, loud |
-| Musicality | noisy, tonal, broadband, narrowband |
-
----
-
-| Quality | Values |
-|-|-|
-| Narrative style | realist, hyperreal, surreal |
-| Narrative tone | light, dark, comedic | 
-| Pace | slow, fast |
-| Perspective | far, close, observational, subjective |
-| Pitch | low, high |
-| Rhythm | regular, irregular, threes |
-
-
----
-| Quality | Values |
-|-|-|
-| Technological feel | analogue, digital |
-| Timbre | dull, bright, cold, warm |
-| Transition | smooth, sharp, soft, hard |
-| Width | narrow, wide |
-
-
----
+What do these choices suggest in this scene?
 
 {{% note %}}
-
-- Their films like Eraserhead and The Elephant Man contain a high degree of ambiguity, leaving much open to interpretation. 
-- Repeating industrial images/sounds form symbolic threads, often interpreted as representing dreams and the unconscious mind.
-- The machine noises can be heard as metaphors for brain mechanics, with pitch manipulation giving a surreal, otherworldly feel. 
-- This transports viewers to places defying straightforward meaning. 
-- Cinematic symbols are used to explore mysterious territories where truth cannot be expressed literally.
-
-In short, Lynch/Splet use metaphorical sounds and images as ambiguous, open-ended symbols to suggest the unconscious and evoke a dreamlike atmosphere of multiple meanings. Their films explore the limits of literal meaning through cinematic metaphor.
+These are starting points, not fixed opposites or a complete taxonomy. A palette can change with perspective and story events. A world does not have to sound uniform, and contrast does not require a final reconciliation. Students can use other qualities from the reference sheet.
 {{%/ note %}}
 
 ---
 
-## Lynch - Blue Velvet 
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwuzI8Y0uW0?si=fmGgaPgpPZVHTdt-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Blue Velvet: familiar and strange
 
-{{% note %}}
-- Diegetic sounds are amplified and highlighted, yet often signify nothing. Dialogue is muted, creating "sonic discomfort". In Blue Velvet, mundane acts like lighting cigarettes are amplified to uncomfortable volumes.
-  - Here we hear the sprinkler very loud 
+The opening moves from an orderly suburban surface toward a disturbing discovery.
 
-{{%/ note %}}
+**Listen for:** Which everyday sound becomes unusually prominent? How does its treatment change your reading of the place?
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/TwuzI8Y0uW0" title="Blue Velvet: familiar and strange" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
----
-
-### Mulholland Drive (2001) - Scene: Club Silencio
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBUe-A2RkM?si=b-9OG2YXzmy1PoYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Open on YouTube](https://www.youtube.com/watch?v=TwuzI8Y0uW0)
 
 {{% note %}}
-Description: In one of the most famous scenes, Betty and Rita visit Club Silencio. A magician on stage announces that "there is no band" and that everything is an illusion. As the performer sings "Llorando," the audience hears a powerful, emotionally charged voice, but the singer is merely lip-syncing to a recording. The music continues even after the singer collapses, highlighting the disconnection between sound and what’s visually presented.
-
-Ambiguity and Uncertainty: The soundscape creates an eerie, surreal atmosphere. The disjunction between what you hear and what you see represents the collapse of reality, a key theme in the film. The artificiality of the sound hints at the illusory nature of everything the audience has seen so far.
-
-Philosophical Themes: The sound design here suggests that perception is unreliable and that the boundaries between reality, memory, and dreams are fluid. The audience is left questioning what is real and what is imagined, with sound amplifying this uncertainty.
-
+Use a short passage of the opening. First collect descriptions of level, texture, density, and perspective, then interpretations. Ask students to name the sound, connect its treatment to an image or action, and explain what that relationship might suggest. Accept more than one reading when supported by audible evidence. Avoid asserting that heightened diegetic sounds signify nothing. Ask whether the reading comes from the sound alone or its relationship to the image.
 {{%/ note %}}
 
 ---
 
-### Scene: The Cowboy's Appearance
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fd5HEJdcBwM?si=MVVspG--obh3Ojm_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Parasite: one storm, different worlds
+
+The Kims' home floods. The sequence also cuts to people trapped in a separate bunker beneath the Park house.
+
+**Listen for:** Which water sounds become most prominent? How do they make the family's exposure audible?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/A1Fuae_OS1A" title="Parasite: one storm, different worlds" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=A1Fuae_OS1A)
 
 {{% note %}}
-Skippable if short on time — Club Silencio already makes the Lynch ambiguity point.
+The return home follows the Kims' descent from the Park house. Cuts to Moon-gwang and Geun-sae show the separate bunker beneath that mansion, not people in the Kims' apartment. Moon-gwang is the injured former housekeeper; Geun-sae is her husband, who had been hiding there.
 
-Description: In this scene, when Diane meets the Cowboy in a dark room, the sound is unsettlingly quiet, with only minimal ambient noise. The Cowboy’s calm, deliberate speech is unnerving in its simplicity, and the absence of background music or noise adds to the tension.
+Sound supervisor Ralph Tae-Young Choi connects the changing water textures, water entering windows, and toilet backflow to the family's class position. Unequal protection from the same storm is supported by his account; rain has no universal symbolic meaning. Do not assume the rain simply gets louder throughout.
 
-Ambiguity and Uncertainty: The stark, minimalist soundscape increases the ambiguity of the Cowboy's role in the story. His voice, clear and distinct, contrasts with the eerie silence, making his words feel more like cryptic messages than direct communication. The sound here heightens the sense of foreboding and mystery.
-
-Philosophical Themes: This scene reflects the film's exploration of fate and control. The Cowboy's words seem to carry hidden meaning, and the lack of sound around him creates an otherworldly presence, amplifying the feeling that something beyond human comprehension is at play.
+Sources: [Choi interview, rain and water](https://www.asoundeffect.com/parasite-sound/); [screenplay, scenes 103–107](https://www.screenwriter.ch/demandit/files/M_BFNO38KLSZ567NYSJ29/dms/File/Parasite.pdf). The script corroborates locations and cross-cutting, not every final-mix detail.
 {{%/ note %}}
 
 ---
 
-## Twin Peaks 
+## The same storm, unequal shelter
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yFMaEIHIrGw?si=YYKT8OSW5oZxLXw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The Parks retain a protected home. The Kims lose theirs to rainwater and sewage.
+
+Choi, the sound supervisor, connects the water sounds to this class difference.
+
+**Discuss:** Which audible detail makes that difference concrete, rather than simply making the scene feel frightening?
 
 {{% note %}}
-Skippable if short on time — a third Lynch example; mention it verbally.
-
-- Extra-diegetic music by Angelo Badalamenti evokes nostalgia yet unease. In Twin Peaks, Badalamenti's synthesizer chords float ambiguously as extra-diegetic or "in the air" diegetic sounds. Musical cues undermine traditional rules of film scoring.
+Return to the distinction between mood and symbolic meaning. Fear or despair describes an emotional effect; unequal exposure to water connects that effect to the film's social structure. The interview supports this class reading. Let students identify their own audible evidence rather than prescribing one correct response.
 {{%/ note %}}
 
 ---
 
-### Stalker (1979) - Scene: Entering the Zone
+{{< slide class="watch" >}}
 
+## Club Silencio: sound and source
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgLqipD4E6M?si=1rGeq4LTBqfe28pE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+In Mulholland Drive, Betty and Rita attend a performance that calls attention to recorded sound and the illusion of a live source.
 
+**Listen for:** When does what you hear stop matching what you see? Does that change the emotional force of the voice?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/hoBUe-A2RkM" title="Club Silencio: sound and source" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=hoBUe-A2RkM)
 
 {{% note %}}
-Scene: Entering the Zone
-Description: As the characters enter the mysterious Zone, the soundscape shifts dramatically. The outside world is filled with industrial, mechanical noises and ambient background sound, but inside the Zone, these sounds fade, replaced by strange, almost unidentifiable noises—whispers, distant echoes, and subtle mechanical hums.
-
-Ambiguity and Uncertainty: The silence and minimalistic sounds in the Zone evoke a sense of ambiguity. It’s unclear whether the sounds are real, imagined, or symbolic, and the environment itself feels alive, as if responding to the characters. This soundscape creates an atmosphere of tension, with uncertainty about the nature of the Zone itself.
-
-Philosophical Themes: The Zone is often interpreted as a metaphor for human consciousness or desire. The ambiguous sound design reflects the uncertainty of the Zone’s power and its connection to the characters’ inner worlds, encouraging the audience to interpret its meaning through sound as much as through visuals.
+Choose the passage where the voice continues after the performer collapses. Explain the setup without resolving the whole film. Ask students to distinguish the audible separation from their interpretation of illusion, memory, or loss. This extends Mood's diegetic/non-diegetic distinction: identifying source status alone does not explain the scene's meaning.
 {{%/ note %}}
 
 ---
 
-### Scene: The Room and the Sound of Water
+## Design one place, two sound worlds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VPBuFheox7Q?si=irkmzdOhoaFssbyL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Work individually. Choose a familiar location, such as a hallway, kitchen, or bus stop.
+
+Imagine it first as **a refuge**, then as **a place where the character feels watched**.
+
+Keep the location the same. Plan three sound choices for each version. Change at least two qualities from our vocabulary.
+
+Keep your existing source recordings intact.
 
 {{% note %}}
-Skippable if short on time — the Zone entry clip carries the Stalker argument.
-
-Scene: The Room and the Sound of Water
-Description: In the final act, as the Stalker, Writer, and Professor approach the Room (where desires are supposedly granted), the sound of flowing water becomes more prominent. The consistent, ambient hum of water contrasts with the near silence around it. The sounds are subdued, yet they dominate the scene.
-
-Ambiguity and Uncertainty: The flowing water, which could symbolize life or consciousness, adds a layer of uncertainty to the scene. Its constant presence is calming yet unnerving, as the significance of the Room and the consequences of entering it remain unknown. The water sound does not offer answers but deepens the mystery.
-
-Philosophical Themes: The water could symbolize the fluid nature of reality and human desires, as well as the uncertainty that surrounds the Room’s power. The sound creates an atmosphere of contemplation, leaving the audience to ponder the Room's true nature and the philosophical implications of desire and fulfillment.
+Allow about ten minutes. This is a written plan, not six finished sounds or an extra submission. Students may draw on Assignment 3 recordings, but must not replace their clean Assignment 4 library exports with a transformed version. If useful, demonstrate one possible REAPER treatment on a separate copy after students make their plans. No new software procedure is required today.
 {{%/ note %}}
 
 ---
 
-## Blade Runner 2049
+## Make the choices specific
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b07U7DtAflY?si=i_8DKZ6pyEwsqYKi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+For each version, write:
+
+- **Source:** What makes the sound?
+- **Treatment:** What would you select, edit, or change?
+- **Meaning:** What might the audience infer, and why?
+
+Do not rely on louder meaning scarier. Consider rhythm, distance, timbre, and what is absent.
+
+---
+
+## Explain one choice to the class
+
+Describe the same source in your two versions.
+
+What changed? What might that change suggest?
+
+As we listen to each plan, suggest another possible reading or one detail that would make the intention clearer.
 
 {{% note %}}
-The 2049 sound world, in the team's own accounts:
-
-- Mark Mangini built the spinner sound from a bullroarer, an instrument you spin over your head, and then processed the whirl with Doppler and modulation plugins for the fly-bys.
-- K's blaster is a field recording of a Barrett .50-cal rifle layered with a Roland TR-909 kick drum and heavily compressed.
-- Villeneuve's brief was to "compose with sound": no off-the-shelf library effects, and pads and textures built to replace score in some scenes. That is this chapter's sound-world idea in practice, a world with its own compositional rules.
-
-Sources: Waves Audio, "Unlocking the Sound Design of Blade Runner 2049" (2018); Gold Derby video interview with Mangini and Theo Green (2018).
+Invite brief contributions from each student. Ask for source and treatment before interpretation. Keep discussion collective rather than assigning partners. There is no single approved solution.
 {{%/ note %}}
 
 ---
 
-### Scene: Opening in the City (K's Apartment)
+## Carry the idea into your next work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e9kJ5rpTZE8?si=LAwnM6b68NldvXJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
+**Assignment 4:** prepare clean, useful source sounds. Preserve their character.
+
+**Dialogue and worldizing:** consider how voice, room tone, and perspective make a space believable.
+
+**Ambiences and final project:** choose a coherent palette that supports the scene's story.
+
+Before you leave: name one sound choice, its possible meaning, and the context that supports it.
+
 {{% note %}}
-Skippable if short on time — the featurette before this covers the 2049 sound world; play scenes only if the discussion wants them.
-
-K's apartment, and how Joi is built:
-
-- Theo Green anchored Joi physically through the whirring of the ceiling projector motors that track her around K's apartment. Her body is a sound before it is an image.
-- In the rooftop rain scene, Green added "fizzy glitches as the rain goes through her, until it starts landing on her skin."
-- Her voice was cleaned of lip smacks and mouth noise, so she sounds slightly too clean next to the human voices. The symbol is carried by fidelity itself.
-- Ask: which sounds tell you Joi is not real, and when do they stop telling you that?
-
-Source: The Credits (Motion Picture Association), "Love & Other Illusions," interview with Theo Green (Dec 2017). Quote verbatim.
+Dialogue recording and editing follow on October 28, ADR on October 30, and space/worldizing on November 2 and 6. Do not imply Assignment 6 is assigned today. The ambience assignment is introduced November 18. Symbolic treatment is a later creative use of clean recordings, not a new requirement for Assignment 4.
 {{%/ note %}}
 
 ---
 
-### Scene: K's Journey to the Ruins of Las Vegas
+# Appendix
 
+Optional examples and reference
 
-{{% note %}}
-The Vegas desert sequence was scored, and then the music was pared back to near silence in the final mix. The emptiness students hear is a subtraction decision, not an absence of design. After the density of the city, the sparse wasteland completes the film's two-world contrast: loud, synthetic, and crowded against quiet, natural, and empty, with K's isolation audible in both.
-
-Source: the Dolby Institute podcast conversation with the 2049 sound team (via A Sound Effect).
-{{%/ note %}}
+Choose a clip, read its context, and answer its listening question using one audible moment. Some examples reveal plot events.
 
 ---
 
-### Scene: K's Confrontation with Deckard (Inside the Abandoned Casino)
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A2uiFOuDq_s?si=A8xW1TdAot0LU2h7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Mulholland Drive: the Cowboy
 
-{{% note %}}
-Skippable if short on time — same 2049 thread as the apartment scene.
+A quiet conversation places attention on the Cowboy's voice and the surrounding space.
 
-Inside the abandoned casino, every footstep and knocked-over object echoes through empty halls. The reverberant space is the opposite of both the dense city and the dead-quiet desert, which makes it a third sound world: a place where sound lingers because nothing absorbs it anymore. Ask what the reverb says about how long Deckard has been alone here.
-{{%/ note %}}
+**Listen for:** What can you actually hear around the speech? How does the balance shape your impression of the encounter?
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Fd5HEJdcBwM" title="Mulholland Drive: the Cowboy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
-## Sound Worlds - Parasite
-
-- [Hulu](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4)
-  - poor families home - start - 6:00
-  - Rich people's home - 12:36 - onwards
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A1Fuae_OS1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Context for the clip: the Kims have just fled the Park house during the storm, and this is their walk home, downhill the whole way. The flood is the film's two sound worlds colliding in one continuous descent. The same rain that is a pleasant patter uphill becomes a roar downhill.
-
-The clip runs about seven minutes; the descent and the arrival at the flooded street carry the point, so a two or three minute stretch is enough in class. Track the rain itself: one source, two worlds. And note where the score enters relative to the water.
-
-Background on the two sound worlds, from sound designer Ralph Tae-Young Choi:
-
-- The poor family's home is subjected to aggressive outside noises - dogs, cars, neighbors. This represents their lack of barriers from the external world.
-- In the wealthy home, only gentle natural sounds like birdsong enter. Lavish reverb gives interior sounds a sense of openness and scale.
-- Doors and gates were emphasized in the sound design. Their sounds represent the division between haves and have-nots.
-- The contrasting use of invasive versus expansive sounds provides auditory metaphors for inequality and the boundaries between rich and poor.
-{{%/ note %}}
+[Open on YouTube](https://www.youtube.com/watch?v=Fd5HEJdcBwM)
 
 ---
 
-## Sound Worlds - Sinners
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JwhlDEx9RDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Twin Peaks: the opening titles
 
-{{% note %}}
-- The juke joint montage: one continuous blues performance whose sound world expands to swallow other eras. Ancestors and descendants enter the room while the song never stops.
-- The montage seams are hidden inside the unbroken music, so the metaphor (music as ancestral time machine) is carried entirely by the mix.
-- Ask: what changes sonically as each era enters? Instrumentation, room acoustics, processing. List them while the song holds steady underneath.
-{{%/ note %}}
+Music accompanies images introducing the town and its industry.
 
----
+**Listen for:** Which qualities suggest familiarity, unease, or both? How do sound and image contribute differently?
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/yFMaEIHIrGw" title="Twin Peaks: the opening titles" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Sound World Interaction - Force Majeure
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tNIGKqoK2SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Here is a bullet point summary of the key points:
-
-- Sound worlds in a story must provide tension but ultimately be reconcilable. They can't be too similar or too
-- Parasite fuses its contrasting social worlds within the same space, providing an inventive resolution.
-- Force Majeure uses contrasting sounds of the resort interior (soft, predictable) and exterior storms (bassy, angular) to depict conflicting worlds. 
-- A striking intercutting scene has the family innocently brushing teeth, interspersed with shots of an explosive snowstorm. 
-- This audible contrast builds dramatic irony and a sense of two worlds about to collide that only the audience understands.
-- Overall, the film uses contrasting sound worlds to reveal the brittle foundations beneath the family's facade of perfection.
-- The aesthetic collisions create tension and lead to pivotal revelations.
-
-{{%/ note %}}
+[Open on YouTube](https://www.youtube.com/watch?v=yFMaEIHIrGw)
 
 ---
 
-## Force Majeure -  Nature
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ooXF9VDouN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Stalker: entering the Zone
 
-{{% note %}}
-Skippable if short on time (with the Resort clip that follows) — the intercutting clip already shows both worlds.
-{{%/ note %}}
+A journey carries the characters from one environment into another.
+
+**Listen for:** Where do mechanical rhythm, environmental sound, and musical texture seem to overlap?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/dgLqipD4E6M" title="Stalker: entering the Zone" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=dgLqipD4E6M)
 
 ---
 
-## Force Majeure - Resort
+{{< slide class="watch" >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_ii_OkB96E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Stalker: rain and interior space
+
+Listen to the rain in this excerpt without assuming a single symbolic meaning.
+
+**Listen for:** What establishes distance and enclosure? Which interpretation can you support with those details?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/VPBuFheox7Q" title="Stalker: rain and interior space" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=VPBuFheox7Q)
+
+---
+
+{{< slide class="watch" >}}
+
+## Blade Runner 2049: building a palette
+
+The filmmakers discuss how they constructed the film's sound.
+
+**Listen for:** Identify one source or treatment that helps establish the world. How could that choice guide other sounds?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/b07U7DtAflY" title="Blade Runner 2049: building a palette" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=b07U7DtAflY)
+
+---
+
+{{< slide class="watch" >}}
+
+## Blade Runner 2049: K's apartment
+
+K interacts with Joi, a projected companion, in his apartment.
+
+**Listen for:** Which sounds locate her in the room? Which make her presence seem different from a physical body?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/e9kJ5rpTZE8" title="Blade Runner 2049: K's apartment" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=e9kJ5rpTZE8)
+
+---
+
+{{< slide class="watch" >}}
+
+## Blade Runner 2049: the abandoned casino
+
+K and Deckard meet in a largely deserted entertainment space.
+
+**Listen for:** How do audible space, lingering music, and silence suggest the place's past and present?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/A2uiFOuDq_s" title="Blade Runner 2049: the abandoned casino" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=A2uiFOuDq_s)
+
+---
+
+{{< slide class="watch" >}}
+
+## Sinners: music across generations
+
+A musical performance brings figures from different eras into one sequence.
+
+**Listen for:** What changes in instrumentation or texture while the performance continues? What connection does that suggest?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/JwhlDEx9RDM" title="Sinners: music across generations" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=JwhlDEx9RDM)
+
+---
+
+{{< slide class="watch" >}}
+
+## Force Majeure: music and social tension
+
+Watch the exchange between resort guests in this excerpt.
+
+**Listen for:** How does the relationship between music, speech, and pauses affect your reading of the encounter?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/tNIGKqoK2SA" title="Force Majeure: music and social tension" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=tNIGKqoK2SA)
+
+---
+
+{{< slide class="watch" >}}
+
+## Force Majeure: the avalanche
+
+A family watches what initially appears to be a controlled avalanche from a resort terrace.
+
+**Listen for:** When does the sound stop feeling safely distant? What changes in the balance of voices and the avalanche?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ooXF9VDouN4" title="Force Majeure: the avalanche" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=ooXF9VDouN4)
+
+---
+
+{{< slide class="watch" >}}
+
+## Force Majeure: disputing the event
+
+After the avalanche, characters disagree about what happened.
+
+**Listen for:** How do speech, pauses, and surrounding sounds shape whose account you attend to?
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/4_ii_OkB96E" title="Force Majeure: disputing the event" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Open on YouTube](https://www.youtube.com/watch?v=4_ii_OkB96E)
+
+---
+
+## More qualities to try
+
+| Quality | Possible choices |
+|---|---|
+| Acoustics | dry, reverberant, clear, resonant |
+| Envelope | hard or soft attack; short or lingering decay |
+| Pitch | low or high; stable or changing |
+| Width | narrow or wide |
+| Relationship to picture | synchronized or detached |
+| Style | realist, exaggerated, surreal |
+
+[Full qualities-of-sound reference](qualities-of-sound.pdf)
+
+Choose qualities that help explain a particular sound. These are descriptive prompts, not a recipe for meaning.
+
+---
+
+## Production references
+
+[Mark Mangini on building Blade Runner 2049's sound world](https://blog.prosoundeffects.com/building-sonic-worlds-mark-mangini-on-the-dynamic-immersive-sound-of-blade-runner-2049)
+
+[Theo Green on voice and illusion in Blade Runner 2049](https://www.motionpictures.org/2018/03/love-other-illusions-how-blade-runner-2049s-oscar-nominated-sound-designer-played-with-our-heart-strings-2-2/)
+
+Compare the filmmakers' accounts with what you hear. Distinguish a documented production choice from your own interpretation.

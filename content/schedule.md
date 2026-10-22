@@ -180,7 +180,7 @@ undergraduate work.
 - [assignment] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — due Wed 11/11
 
 ## 10/26
-- [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/)
+- [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/) — compare Blue Velvet, Parasite, and Club Silencio, then individually plan two sound worlds for one location. Extra examples and vocabulary are in the appendix
 
 ## 10/28
 - [lab] Capture dialogue for today and the later worldizing lab: record one short line clean and again "in a space," plus 30 seconds of room tone for each. Save both takes and room tones. Allow 15 minutes.
