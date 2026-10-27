@@ -183,12 +183,13 @@ undergraduate work.
 - [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/) — compare Blue Velvet, Parasite, and Club Silencio, then individually plan two sound worlds for one location. Extra examples and vocabulary are in the appendix
 
 ## 10/28
-- [lab] Capture dialogue for today and the later worldizing lab: record one short line clean and again "in a space," plus 30 seconds of room tone for each. Save both takes and room tones. Allow 15 minutes.
-- [slides] [Dialogue editing](/lectures/dialogue-editing/) — room tone, splits, and repair. Allow 15 minutes.
-- [lab] Fix a scene: use today's recordings to build room tone fill and hide a cut between two takes. Allow 20 minutes.
+- Bring a portable Zoom recorder and headphones, using the equipment-sharing arrangements from the field-recording labs
+- [lab] Use the Zoom to record the [dialogue practice passage](/lectures/dialogue-editing/#1-record-the-practice-passage) twice in the same quiet location with consistent microphone placement, plus 30 seconds of matching room tone. Save both complete takes and tone; keep a clean take for worldizing on 11/6. Allow 15 minutes.
+- [lab] [Audio-only dialogue continuity](/lectures/dialogue-editing/) — follow the written instructions to compare performances, mark preferred words and phrases, organize the REAPER session, and select matching room tone. This revisits comping from the Audio Production I satirical PSA. Allow about 12 minutes; no prepared demonstration.
+- [lab] Build a dialogue comp from at least three selected passages across both takes, including one word or phrase replacement within a line. Preserve delivery, breaths, and background continuity; add fill only where needed. Compare the original base take and comp with a partner, save the project with its originals, and write a two-sentence editing note. Allow about 23 minutes including the exit check; no separate graded submission. Picture synchronization begins in Friday's ADR lab.
 - Assignment 4 work continues in the 11/4 session
 ### homework
-- **Before Friday:** film a partner reading a line somewhere noisy — hallway, parking lot, the union — and bring the clip to class for the ADR lab
+- **Before Friday:** film a partner reading one sentence from today's passage somewhere noisy — hallway, parking lot, the union — and capture 30 seconds of room tone there. Bring the video and tone Friday for the ADR lab
 
 ## 10/30
 - [slides] [ADR: replacing a line to picture](/lectures/adr/)
