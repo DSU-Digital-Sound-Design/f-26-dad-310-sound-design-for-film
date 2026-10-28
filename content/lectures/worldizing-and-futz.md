@@ -44,6 +44,20 @@ will use for your own worldized line.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PE6UdMGfjHQ" title="La Haine (1995) DJ scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Alvin Lucier: I am sitting in a room
+
+Lucier records his voice, plays the recording into a room, and records that
+playback. He repeats the process with each new recording. The room's resonant
+frequencies become more prominent, and the words become less intelligible.
+
+Compare the opening speech with a later iteration. What does the room add or
+change as the process repeats?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAxHlLK3Oyk" title="Alvin Lucier: I am sitting in a room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This uses the playback-and-recording process of worldizing repeatedly. In our
+lab, one pass through a real space is enough to compare with the clean source.
+
 ## Futz
 
 Futzing uses filtering and distortion to make a signal sound as if it comes from

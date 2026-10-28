@@ -60,7 +60,7 @@ recording session rather than relying on processing later.
 
 ## Fitting the line
 
-In the edit, top and tail the buy take. Align it using the same techniques used
+Trim the selected take, leaving a little audio before and after the line for fades and timing adjustments. Align it using the same techniques used
 for alternate takes in the [dialogue editing
 lesson](/lectures/dialogue-editing/): work in blocks of three or four words,
 anchor on hard consonants, and place internal edits within sibilants. Do not cut
@@ -81,39 +81,11 @@ Two practices carry over from the dialogue lesson:
 
 ## Cueing tools in REAPER
 
-The streamer began as a literal line drawn on the film print, wiping across the
-screen as the reel played toward the cue. Today software draws the same moving
-line over the video. Two affordable options are
-[Viper](https://www.vennaudio.com/our-new-plugin-viper/) (about £42, with a free
-trial), which wipes a cue line across the video, and
-[Rythmoband](https://www.extremraym.com/en/downloads/reascripts-pack-rythmoband/)
-(€30 for students), which adds dubbing-style scrolling text to REAPER. Neither is
-required for this lab. You can use click items for the beeps and REAPER's video
-window for the picture.
+Professional cueing tools include [Viper](https://www.vennaudio.com/our-new-plugin-viper/), which provides a visual cue line, and [Rythmoband](https://www.extremraym.com/en/downloads/reascripts-pack-rythmoband/), which provides scrolling dialogue text in REAPER. For this class, use **DAD 310 ADR Cue**, the tool I built for our lab, described below.
 
 ## DAD 310 ADR Cue
 
-[DAD 310 ADR Cue on GitHub](https://github.com/tatecarson/reaper-adr-cue)
-includes the download, setup instructions, and source code. Use it to prepare,
-rehearse, and record one line to picture in REAPER. The manual beep workflow
-below is also available.
-
-Download the complete ZIP from the repository's Releases page and extract it
-into a permanent folder. In REAPER, choose **Actions > Show action list > New
-action > Load ReaScript**, select `DAD310_ADR_Cue.lua`, and click **Run/close**.
-Keep the script, `adr_core.lua`, and `adr-beep.wav` together. No additional
-REAPER extensions are required.
-
-Select the spoken line's time range and click **New line**, using `|` between
-phrases. Move the resulting phrase items to match the original delivery.
-**Rehearse** plays the guide; **Perform** and **Record** silence it at the
-entrance after three beeps. Speak when each phrase reaches the fixed green line.
-The amber strip is only the count-in. The display sits beside the video.
-
-Choose your microphone input and arm only `ADR RECORD` before clicking
-**Record in the cue window**. Audition and comp performances in REAPER's fixed
-item lanes. The **Help ?** button covers setup and troubleshooting. Test the
-count-in and guide silencing on your recording setup before the session.
+Use [DAD 310 ADR Cue](https://github.com/tatecarson/reaper-adr-cue) to prepare, rehearse, and record your line to picture in REAPER. Follow the GitHub instructions for download, installation, and use. The manual beep workflow below is an alternative.
 
 {{< drill label="Lab: replace a line to picture" >}}
 Work in pairs. You need a phone, the studio, and one line of dialogue.

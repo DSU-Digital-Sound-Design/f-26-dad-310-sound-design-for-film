@@ -183,11 +183,8 @@ undergraduate work.
 - [slides] [Symbol: sound worlds and metaphors](/lectures/week-8/sdff-chapter-5/) — compare Blue Velvet, Parasite, and Club Silencio, then individually plan two sound worlds for one location. Extra examples and vocabulary are in the appendix
 
 ## 10/28
-- Bring a portable Zoom recorder and headphones, using the equipment-sharing arrangements from the field-recording labs
-- [lab] Use the Zoom to record the [dialogue practice passage](/lectures/dialogue-editing/#1-record-the-practice-passage) twice in the same quiet location with consistent microphone placement, plus 30 seconds of matching room tone. Save both complete takes and tone; keep a clean take for worldizing on 11/6. Allow 15 minutes.
-- [lab] [Audio-only dialogue continuity](/lectures/dialogue-editing/) — follow the written instructions to compare performances, mark preferred words and phrases, organize the REAPER session, and select matching room tone. This revisits comping from the Audio Production I satirical PSA. Allow about 12 minutes; no prepared demonstration.
-- [lab] Build a dialogue comp from at least three selected passages across both takes, including one word or phrase replacement within a line. Preserve delivery, breaths, and background continuity; add fill only where needed. Compare the original base take and comp with a partner, save the project with its originals, and write a two-sentence editing note. Allow about 23 minutes including the exit check; no separate graded submission. Picture synchronization begins in Friday's ADR lab.
-- Assignment 4 work continues in the 11/4 session
+- [lab] [Dialogue recording and comping](/lectures/dialogue-editing/)
+
 ### homework
 - **Before Friday:** film a partner reading one sentence from today's passage somewhere noisy — hallway, parking lot, the union — and capture 30 seconds of room tone there. Bring the video and tone Friday for the ADR lab
 
@@ -195,19 +192,16 @@ undergraduate work.
 - [slides] [ADR: replacing a line to picture](/lectures/adr/)
 - [lab] Replace the noisy line you filmed before class: re-record it in the studio and fit it back to picture
 - Free impulse responses at [OpenAir](https://www.openair.hosted.york.ac.uk/)
-### homework
-- [assignment] [Reverb and echo](/assignments/reverb/) — four sends, four spaces, due Fri 11/6
 
 ## 11/2
 - [slides] [Space: acoustics, silence and the frequency spectrum](/lectures/week-10/sdff-chapter-11/)
-- [slides] [Worldizing and futz](/lectures/worldizing-and-futz/) — real spaces, phone voices, and perspective cuts
 
 ## 11/4
-- [lab] SFX processing work session — bring your edited sounds and start the final-production pass
+- [slides] [Worldizing and futz](/lectures/worldizing-and-futz/)
+- [lab] [One line, three worlds](/lectures/worldizing-and-futz/)
 
 ## 11/6
-- [due] [Reverb and echo](/assignments/reverb/)
-- [lab] [One line, three worlds](/lectures/worldizing-and-futz/): futz your 10/28 line, worldize it through a speaker in a real space, and compare both against a reverb plugin
+- [lab] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — work session and final checks before the 11/11 deadline
 
 ## 11/9
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/)

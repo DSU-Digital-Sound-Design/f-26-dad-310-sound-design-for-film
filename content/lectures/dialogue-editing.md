@@ -85,7 +85,7 @@ Keep the script's words and order.
 1. Play the comp for another pair without showing edit locations. Ask whether the words are clear, the delivery and pauses feel natural, and the background stays continuous.
 2. Compare with the original base take: mute `DIALOGUE_A`, `DIALOGUE_B`, and `FILL`, then unmute only the corresponding ORIGINAL track. Afterward, mute that ORIGINAL track and restore the comp playback.
 3. Revise any specific problem the comparison reveals. Replay the whole scene, then save and check that the project reopens with all media.
-4. Point out your three selections, including the replacement within a line. Write **two sentences** explaining one performance choice and one continuity adjustment. Keep a clean full take for the November 6 [worldizing lab](/lectures/worldizing-and-futz/).
+4. Point out your three selections, including the replacement within a line. Write **two sentences** explaining one performance choice and one continuity adjustment. Keep a clean full take for the November 4 [worldizing lab](/lectures/worldizing-and-futz/).
 
 If your recording or file transfer fails, ask another pair to share its takes and matching room tone. Credit the recording pair in your notes.
 
