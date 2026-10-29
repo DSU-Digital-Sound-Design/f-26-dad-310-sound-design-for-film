@@ -185,12 +185,9 @@ undergraduate work.
 ## 10/28
 - [lab] [Dialogue recording and comping](/lectures/dialogue-editing/)
 
-### homework
-- **Before Friday:** film a partner reading one sentence from today's passage somewhere noisy — hallway, parking lot, the union — and capture 30 seconds of room tone there. Bring the video and tone Friday for the ADR lab
-
 ## 10/30
 - [slides] [ADR: replacing a line to picture](/lectures/adr/)
-- [lab] Replace the noisy line you filmed before class: re-record it in the studio and fit it back to picture
+- [lab] [Group ADR session](/lectures/adr/) — install ADR Cue, then take turns replacing the practiced *Night of the Living Dead* dialogue on the studio computer
 - Free impulse responses at [OpenAir](https://www.openair.hosted.york.ac.uk/)
 
 ## 11/2
