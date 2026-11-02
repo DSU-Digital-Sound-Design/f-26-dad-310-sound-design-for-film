@@ -195,7 +195,7 @@ undergraduate work.
 
 ## 11/4
 - [slides] [Worldizing and futz](/lectures/worldizing-and-futz/)
-- [lab] [One line, three worlds](/lectures/worldizing-and-futz/)
+- [lab] [One voice, different devices and spaces](/lectures/worldizing-and-futz/#lab-one-voice-different-devices-and-spaces) — record in the booth, compare playback devices and rooms, and listen to repeated re-recordings
 - Look ahead: we'll watch selected scenes from *Shapeless* together Friday to prepare for our guest visit on Monday 11/9.
 
 ## 11/6

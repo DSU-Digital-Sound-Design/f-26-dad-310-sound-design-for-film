@@ -56,7 +56,8 @@ change as the process repeats?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAxHlLK3Oyk" title="Alvin Lucier: I am sitting in a room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This uses the playback-and-recording process of worldizing repeatedly. In our
-lab, one pass through a real space is enough to compare with the clean source.
+lab, compare a first re-recording with later generations to hear how the device
+and room change the sound each time.
 
 ## Futz
 
@@ -86,10 +87,11 @@ call:
 - Character B live
 - Character B phone
 
-Run continuous room tone for each location beneath the call so the background
-does not disappear when a speaker pauses. The live and phone versions are
-phase-coherent splits of the same recording, so use the equal gain crossfade
-described in the [dialogue editing
+Keep each location's audible background continuous across the call. Preserve
+useful background already in the dialogue and add matching room tone where
+needed, without unnecessarily doubling it. Start with an equal gain crossfade
+for aligned copies of the same line, then listen for dips, swells, or tonal
+changes as processing changes their relationship. See the [dialogue editing
 lesson](/lectures/dialogue-editing/).
 
 The processing can also change with the story. In *The Deep End*, a blackmailer's
@@ -104,20 +106,98 @@ available. On your projects, build the split first and apply the futz as track F
 instead of rendering it into the files. This leaves the settings adjustable for
 the final mix.
 
-{{< drill label="Lab: one line, three worlds" >}}
-Use one sentence from the clean dialogue passage you recorded on 10/28 and a portable speaker. Keep the original clean take unchanged; make the contrasting-space recording during this lab.
+## Lab: one voice, different devices and spaces
 
-1. Futz it: bandpass the line to roughly 500 Hz to 3 kHz in ReaEQ on the track,
-   add light distortion, and compare it with the clean take.
-2. Worldize it: play the clean line through the speaker in a stairwell,
-   bathroom, or hallway. Re-record it with a Zoom recorder from at least ten
-   feet away. Move the recorder during one take.
-3. Compare the worldized take against a reverb plugin preset on the same line.
-   Note the differences between the two versions.
-4. Build a minimal phone split: your clean line on one track, the futzed
-   version on another, with a continuous bed of room tone underneath. Cut
-   between them at an imaginary picture cut with a 2 to 3 frame fade.
-{{< /drill >}}
+**Goal:** make one recorded voice suggest a different playback device or space,
+then explain the audible clues behind that impression.
+
+Work together on a shared booth recording, then compare devices and locations
+in small groups. This is in-class practice with no separate graded submission.
+Save the recordings and your REAPER session for later sound-design work.
+
+### 1. Record the source · 5 minutes
+
+Record a short spoken passage in the audio booth. Include a few pauses so we
+can hear the room and the decay after the words. Listen back for clear speech
+without clipping, then keep this original file unchanged.
+
+Transfer the same original file to a phone and a computer or another available
+playback device.
+
+### 2. Compare playback devices · 10 minutes
+
+Predict which device will sound thinner, brighter, or less clear. Play the
+original through the phone speaker and re-record it with the booth microphone.
+Then repeat with a computer speaker or another student device in the booth.
+
+Keep the booth microphone, recording settings, speaker-to-microphone distance,
+and playback level as consistent as practical. Check levels before each take
+and avoid clipping. Label each file with the playback device and room.
+
+### 3. Re-record the re-recording · 10 minutes
+
+Stay in the booth and use the same speaker and booth microphone setup from the
+device comparison. Play that setup's first re-recording through the speaker
+and record the playback. Use the new recording as the source for the next
+pass, repeating two or three times as time allows.
+
+Label the files `Generation_1`, `Generation_2`, and so on, including the device
+and room in the names. For this experiment, each generation uses the previous
+recording. For the device and room comparisons, each take uses the original.
+
+Predict what will accumulate, then listen for changes in speech clarity,
+brightness, noise, and reverberation. Compare the original, first pass, and last
+pass in REAPER at similar listening loudness.
+
+### 4. Change the room · 10 minutes
+
+Next, use a Zoom recorder to take the experiment into other spaces. First
+re-record the **original booth file** through one playback device in the booth
+with the Zoom. Take that same device and Zoom to a classroom, hallway, or
+stairwell and repeat. Keep the speaker-to-microphone distance and recording
+settings roughly the same for these Zoom takes so we can compare the rooms.
+
+Listen before recording and avoid capturing other groups. If equipment or time
+is limited, make one shared recording in each space for the class to compare.
+
+### 5. Compare and choose · 15 minutes
+
+Play selected comparisons for the class. Each group should identify:
+
+- One audible difference and the device, room, or repeated pass that may explain it.
+- A film situation where one version would work, such as a voice from another
+  room or a small radio, and the audible clue that makes it convincing.
+
+Finish with a short instructor demonstration: use ReaEQ on the original to make
+a phone-like bandpass, starting around 500 Hz to 3 kHz. Compare this with the
+physical phone-speaker recording. What does filtering reproduce, and what else
+do you hear in the re-recording?
+
+Keep the phone-split example above as a later editing extension. When adding
+room tone, aim for continuous audible background; preserve useful background
+already in the recording and fill gaps where needed, following the
+[dialogue editing lesson](/lectures/dialogue-editing/).
+
+## Free tools for a software comparison
+
+These tools simulate aspects of playback devices and spaces. Use them on a copy
+of the original booth recording, then compare with the physical re-recordings
+at similar listening loudness. Installation is optional; an instructor demo is
+enough for this lab.
+
+- **[Soundly Place it](https://getsoundly.com/tools/):** a free speaker and space
+  simulation plugin with 40 acoustic environments based on recorded impulse
+  responses. This is the closest match to our experiment. Choose a speaker and
+  space, then describe what sounds similar to or different from the real recording.
+- **[Voxengo Boogex](https://www.voxengo.com/product/boogex/):** a free guitar amp,
+  speaker-cabinet simulator, and impulse-response loader. Turn off the amp stage
+  to use it as a convolution processor. It is an additional option for exploring
+  speaker coloration; the result depends on the impulse response you load.
+
+An impulse response captures how a system responds to a brief excitation.
+Convolution applies that response to another sound. Our repeated recording
+experiment also lets us hear noise and other changes accumulating across passes.
+
 
 ## Reference
 
