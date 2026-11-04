@@ -199,14 +199,15 @@ undergraduate work.
 - Look ahead: we'll watch selected scenes from *Shapeless* together Friday to prepare for our guest visit on Monday 11/9.
 
 ## 11/6
-- [screening] **Prepare for Monday's guest visit:** watch two or three selected scenes from *Shapeless* together in class, focusing on the grocery store, dry cleaners, or doctor's office. Listen for how sound puts us in Ivy's point of view and how dialogue, ambience, music, and designed sounds work together. Allow 20 minutes for excerpts and discussion; no full-film viewing is required.
+- [screening] **Prepare for Monday's guest visit:** use the [Shapeless watching guide](/lectures/shapeless-watching-guide/) for scene timestamps and listening questions. We'll watch a short opening sequence to meet Ivy and her band, followed by all six selected scenes, from the instructor's purchased copy. Listen for how sound puts us in Ivy's point of view and how dialogue, ambience, music, and designed sounds work together. Allow 30 minutes for context, excerpts, and discussion; no full-film viewing or purchase is required.
 - Write one question for director Samantha Aldana and sound designer Devin Lawrence, grounded in a specific sound or moment from the scenes. Allow 5 minutes.
-- [lab] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — work session and final checks before the 11/11 deadline. Allow 25 minutes; continue any remaining work outside class.
+- [lab] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — work session and final checks before the 11/11 deadline. Allow 15 minutes; continue any remaining work outside class.
 ### homework
 - Bring your scene notes and question to Monday's guest visit.
 
 ## 11/9
 - **Guest visit:** director Samantha Aldana and sound designer Devin Lawrence discuss their collaboration on *Shapeless* — 2:00–2:50 p.m. Central on Zoom. Moved from 11/20.
+- Our earlier collaboration: [Si](https://www.samanthaaldana.com/si), a short film written and directed by Samantha, with sound design by Devin and original music by Tate Carson.
 - Discuss the scenes we watched on Friday, the director–sound designer collaboration, and how individual sound elements build into the finished soundtrack. Stems and production sessions may be demonstrated if available.
 - Bring your scene notes and one question for the guests. The Zoom link will be shared before the visit.
 
