@@ -13,6 +13,9 @@ groups:
 
   - group: REAPER
     items:
+      - name: DAD 310 Foley Cue (experimental)
+        url: "https://github.com/tatecarson/reaper-foley-cue"
+        desc: "Cue and record Foley from labeled empty items, with optional text over video. Has not been fully tested yet; try it on a copy of your project."
       - name: Optional editing practice
         url: "/lectures/editing-practice/"
         desc: "Five ungraded editing drills for a refresher. No submission or deadline."

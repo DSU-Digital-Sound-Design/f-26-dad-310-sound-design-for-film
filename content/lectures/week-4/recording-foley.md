@@ -27,6 +27,16 @@ The beginner tells are over-articulated heel-toe walking, which sounds like "ta-
 
 Open the shared *A Quiet Place* project prepared in the [spotting lesson](/lectures/week-5/reaper-spotting/). Its empty cue items are already arranged on specific Foley pass tracks inside category folders. Add or use a companion `REC` track directly below the selected `CUES` track. Keep both inside the same folder.
 
+## Optional Foley Cue tool
+
+[DAD 310 Foley Cue](https://github.com/tatecarson/reaper-foley-cue) reads the action descriptions and timing from your labeled empty items. It can browse cues by track, create or assign a companion `REC` track, rehearse and record with a three-beep count-in, and display the action text over the video.
+
+**This tool has not been fully tested yet.** It is an experimental prerelease. Automated tests and limited macOS playback checks have passed, but microphone recording, physical mouse operation, picture sync, hardware latency, and Windows still need hands-on testing. Try it on a copy of your project. The manual workflow below remains available.
+
+[Download Foley Cue v0.1.0](https://github.com/tatecarson/reaper-foley-cue/releases/download/v0.1.0/dad310-foley-cue-v0.1.0.zip) and follow the [installation and usage instructions](https://github.com/tatecarson/reaper-foley-cue#install).
+
+Keep the empty cue items on their `CUES` tracks and add an action description to each item's notes. In the tool, select a cue, create or assign its `REC` track, then choose the microphone input and arm only that recording track. Leave four seconds before the cue for the count-in. Mute the template's separate CUE BEEPS track when using the tool's beeps. Turn on **Video overlay** to show the action and countdown on the picture. The tool stops one second after the action and clears the overlay.
+
 ## Record into the cues
 
 1. Choose an empty cue item on its Foley pass track. Move the count-in until the beep item's right edge snaps to the cue item's left edge. Rehearse with picture.

@@ -76,6 +76,12 @@ Use one count-in at a time. Start playback at least one second before the first 
 
 Listen on headphones. Mute CUE BEEPS before mixing or rendering. A three-beep count-in is different from a **2-pop**, which is a single synchronization reference.
 
+## Optional Foley Cue tool
+
+[DAD 310 Foley Cue](https://github.com/tatecarson/reaper-foley-cue) can read these empty items, browse one pass track at a time, handle the count-in, and show the action description over the video. Add a short action description to every cue item's notes if you use the tool; it skips empty items without notes.
+
+**This tool has not been fully tested yet.** It is an optional experimental prerelease. Try it on a copy of your project and keep the manual workflow available. See [Recording Foley]({{< rel "lectures/week-4/recording-foley/#optional-foley-cue-tool" >}}) for the download, setup, and testing limits.
+
 ## Ready to record
 
 Before recording, duplicate each cue track directly below itself. Change the duplicate's suffix from `CUES` to `REC`.
