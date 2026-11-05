@@ -199,6 +199,7 @@ undergraduate work.
 - Look ahead: we'll watch selected scenes from *Shapeless* together Friday to prepare for our guest visit on Monday 11/9.
 
 ## 11/6
+- Optional tool: [DAD 310 Foley Cue](https://github.com/tatecarson/reaper-foley-cue) reads labeled empty cue items and supports recording with action text over the video. **It has not been fully tested yet.** See the [download and setup instructions](/lectures/week-4/recording-foley/#optional-foley-cue-tool), and try it on a copy of your project.
 - [screening] **Prepare for Monday's guest visit:** use the [Shapeless watching guide](/lectures/shapeless-watching-guide/) for scene timestamps and listening questions. We'll watch a short opening sequence to meet Ivy and her band, followed by all six selected scenes, from the instructor's purchased copy. Listen for how sound puts us in Ivy's point of view and how dialogue, ambience, music, and designed sounds work together. Allow 30 minutes for context, excerpts, and discussion; no full-film viewing or purchase is required.
 - Write one question for director Samantha Aldana and sound designer Devin Lawrence, grounded in a specific sound or moment from the scenes. Allow 5 minutes.
 - [lab] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — work session and final checks before the 11/11 deadline. Allow 15 minutes; continue any remaining work outside class.
