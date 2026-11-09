@@ -45,31 +45,40 @@ and align its start with the beginning of your 30-second work area. This file
 has no audio track. Leave the characters' speech and movements silent today;
 we are designing the environment around them.
 
-### Four-track layout
+### Layered ambience layout
 
 | Track | Contents |
 | --- | --- |
 | `VIDEO` | Silent cemetery clip |
-| `BED` | Continuous wind or foliage |
+| `WIND BED` | Steady, low-level wind that holds the space together |
+| `LEAVES` | A separate foliage layer that adds texture and gentle variation |
 | `DISTANT ROAD` | Traffic beyond the cemetery |
 | `BG SPECIFICS` | Occasional bird calls or rustles |
 
-These four tracks are enough for the demo. Add another audio track only if
-specifics overlap or need separate processing.
+This gives us five tracks including video. Wind and leaves form the layered
+bed, traffic establishes the wider location, and specifics add occasional
+events. Choose recordings with different roles rather than stacking similar
+full ambiences.
 
 ### 1. Establish the bed
 
-In REAPER, mark a 30-second time selection. Put a suitable wind or foliage recording on a
-track named `BED`. Choose a stable passage, trim unwanted events, and add short
-boundary fades. If joining sections, overlap and crossfade them; listen for a
-dip, bump, or conspicuous repeated sound.
+In REAPER, mark a 30-second time selection. Start with a stable wind recording
+on `WIND BED`, then add a separate foliage recording on `LEAVES`. Choose a
+foliage layer that contributes texture without duplicating strong leaf sounds
+already in the wind recording. Trim unwanted events and add short boundary
+fades. If joining sections, overlap and crossfade them; listen for a dip, bump,
+or conspicuous repeated sound.
+
+Audition each layer alone, then together. Ask what the leaves add. Mute them
+and bring them back at a lower level. Keep the combination only if it sounds
+like one environment; remove a layer if it merely makes the bed louder or busier.
 
 Room tone is the location's quiet background, often used to fill gaps in
 production dialogue. Designed ambience establishes the broader environment.
 They can share material, but adding an ambience does not automatically repair
 an abrupt change in a dialogue recording.
 
-Play the bed, mute it briefly, then restore it. What disappears when it stops?
+Mute both bed layers briefly, then restore them. What disappears when they stop?
 
 ### 2. Extend the world outside the frame
 
