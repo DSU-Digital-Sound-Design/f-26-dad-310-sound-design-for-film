@@ -21,9 +21,10 @@ when possible, with a still frame as your reference. Otherwise, agree on another
 location and image with me. Keep the layers editable so you can revise and
 extend the ambience under the full scene later.
 
-**Due Monday, November 30, via D2L by class.** Our workshop is November 16;
-bring headphones and useful sounds from Assignments 3–4. We confirm final-project
-footage November 23. No new recording trip over Thanksgiving recess is required.
+**Due Monday, November 30, via D2L by class.** Our
+[instructor demonstration](/lectures/ambience-workshop/) is November 16;
+watch and discuss the choices, then begin your own session outside class.
+We confirm final-project footage November 23. No new recording trip over Thanksgiving recess is required.
 
 ## Build the environment
 

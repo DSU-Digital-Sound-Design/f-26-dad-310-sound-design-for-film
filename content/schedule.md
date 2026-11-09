@@ -227,11 +227,12 @@ undergraduate work.
 - **Assignment 5 is dropped; no synthesis assignment is due Wednesday**
 - [assignment] Introduce the [Final Project](/assignments/final-project/) and [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/), due Monday 11/30
 - Discuss a few footage options and identify a likely setting for your final project
-- [lab] **[Ambience workshop](/assignments/assignment-6-ambiences/)**: build an example together, then begin your own setting
-  - Write a listening intention and sketch a sound map; assemble a bed, selective details, and an offscreen source
-  - Exchange listening feedback with a partner, revise one element, and compare before and after
+- [lab] **[Instructor ambience demo: build a place](/lectures/ambience-workshop/)**: watch the cemetery background take shape in REAPER; no individual setup or follow-along work is required
+  - Audition Freesound candidates through SoundQ and discuss which fit the scene; compare the continuous bed with intermittent background specifics
+  - Predict how placement and perspective affect the scene, then compare a change in mood
+  - Identify one approach to try in your own Assignment 6 session outside class
 ### homework
-- Continue developing your setting and gather footage links for the proposal
+- Begin your Assignment 6 ambience outside class and gather footage links for the proposal
 - Bring headphones and your work-in-progress ambience Wednesday; supplied material will be available for the foreground-effects workshop
 - **Final project proposal** — due Monday 11/23: post footage links and an initial spotting plan
 
