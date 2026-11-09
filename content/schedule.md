@@ -214,34 +214,45 @@ undergraduate work.
 
 ## 11/11
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14). Wednesday and Friday are independent work days.
-- [due] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — submit on D2L as usual
-### homework
-- [assignment] [Assignment 5: Sound Synthesis](/assignments/assignment-5-sound-synthesis/) — five foreground sounds in Vital, due Wed 11/18. Read the assignment page on your own and post questions in D2L; I'll answer from the road.
+- [due] [Assignment 4: SFX Editing and Processing](/assignments/assignment-4-sfx-editing/) — finish your edits, check the exports and collected media, and submit on D2L as usual
+- **Assignment 5: Sound Synthesis has been dropped.** There is no synthesis submission due November 18 and it will not count toward your grade. Assignment 6 keeps its original number
 
 ## 11/13
 - **No class meeting — I'm at [ATMI](https://atmimusic.com/) in Grand Rapids, MI** (Nov 11–14)
-- [lab] Independent Vital work session — build your sound map, then start synthesising
-- [slides] [Sci-fi sound design: Tron](/lectures/week-11/tron/) — work through the deck on your own; we'll pick up the thread Monday
+- [lab] Explore footage options for the [final project](/assignments/final-project/). Bring one or two candidate clips or links Monday, with a few notes about the settings, recording needs, and likely challenges. Bring headphones and useful recordings or edited sounds from Assignments 3–4 for the ambience workshop
+- Listen for how a continuous background and a few offscreen details could establish one candidate setting. Identify recordings from Assignments 3–4 that might be useful
+- This is preparation for Monday's discussion, not a separate graded submission. No Vital work, new recording trip, or studio access is required
 
 ## 11/16
-- [slides] [Layering and pitch shifting: the explosion](/lectures/week-11/explosion/)
-- [lab] Build your own layered explosion from the raw material
-- [lab] Compare REAPER's time-stretching and pitch-shifting algorithms
+- **Assignment 5 is dropped; no synthesis assignment is due Wednesday**
+- [assignment] Introduce the [Final Project](/assignments/final-project/) and [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/), due Monday 11/30
+- Discuss a few footage options and identify a likely setting for your final project
+- [lab] **[Ambience workshop](/assignments/assignment-6-ambiences/)**: build an example together, then begin your own setting
+  - Write a listening intention and sketch a sound map; assemble a bed, selective details, and an offscreen source
+  - Exchange listening feedback with a partner, revise one element, and compare before and after
+### homework
+- Continue developing your setting and gather footage links for the proposal
+- Bring headphones and your work-in-progress ambience Wednesday; supplied material will be available for the foreground-effects workshop
+- **Final project proposal** — due Monday 11/23: post footage links and an initial spotting plan
 
 ## 11/18
-- [due] [Assignment 5: Sound Synthesis](/assignments/assignment-5-sound-synthesis/)
-- [assignment] [Final Project](/assignments/final-project/) — a five-minute sound design piece
-### homework
-- [assignment] [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/) — one 30-second place, ideally a scene from your final project, due Mon 11/30
-- **Final project proposal** — due Mon 11/23: post links to the clips you'll be designing
+- [slides] [Layering and pitch shifting: the explosion](/lectures/week-11/explosion/)
+- [lab] **Foreground-effects workshop:** build a layered explosion from supplied material, listening for impact, body, texture, and decay
+  - Compare pitch-shifting and time-stretching choices in REAPER where they help the effect
+  - Compare the effect dry with the same event placed in an environment; adjust perspective so it belongs in the space
+  - You may try another layered foreground effect if an explosion does not suit your footage. This is practice, not a new graded assignment or a requirement to add an explosion to Assignment 6
 
 ## 11/20
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/) — moved from 11/9 to make room for the guest visit
-- Apply ideas about rhythm, transitions, and sound perspective to your final project proposal, due Monday 11/23.
+- Apply the lesson to ambience across a picture cut. Keep the environment continuous while making an intentional change in perspective
+- Discuss footage choices and prepare Monday's proposal and initial spotting plan
 
 ## 11/23
-- [due] Final project proposal — bring the clips
-- [screening] Watch everyone's proposed footage and talk through the challenges
+- [due] **Final project proposal** — post the footage links and a short initial spotting plan to D2L by class
+  - Identify settings, major Foley and effects cues, what you intend to record, and what you can use from your own recordings or credited libraries
+- [screening] Watch proposed footage, confirm scope, and discuss recording priorities
+- Use [Spotting in REAPER](/lectures/week-9/spotting-assignment/) as a reference; begin spotting now so you can start production before December
+- Confirm the setting for Assignment 6. Continue with existing sources; Thanksgiving recess does not require a new recording trip
 
 ## 11/25
 - [off] **No class — Thanksgiving recess** (Nov 25–29)
@@ -251,11 +262,13 @@ undergraduate work.
 
 ## 11/30
 - [due] [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/)
-- Listen to the ambiences together — where does each one put you, and what gives it away?
+- Listen to the ambiences together: where does each one put you, and how do the bed, details, and offscreen source establish it?
+- Identify one revision to carry into the final soundtrack; keep the ambience layers editable
 
 ## 12/2
-- **In-class spotting session.** Each of you presents your project setup in REAPER and walks through your spotting plan — what you intend to record, and what you'll pull from libraries or Freesound.
-- [slides] [Spotting in REAPER](/lectures/week-9/spotting-assignment/)
+- [lab] **Working-session and recording-progress check.** Bring the REAPER session, spotted cues, and recordings gathered so far
+  - Play a work-in-progress passage, check synchronization and organization, and identify missing recordings or layers
+  - Continue production and troubleshoot with the instructor. Refer back to [Spotting in REAPER](/lectures/week-9/spotting-assignment/) as needed
 
 ## 12/4
 - [slides] [The final mix and deliverables](/lectures/final-mix-deliverables/) — dialogue leads, loudness specs, stems

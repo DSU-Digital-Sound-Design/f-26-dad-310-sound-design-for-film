@@ -47,9 +47,11 @@ The [schedule](/schedule/) has the day-by-day plan. In broad strokes:
 - **Weeks 3–5** — Foley: aesthetics, live performance (Assignment 1), and studio recording (Assignment 2); Foley workshops and rehearsals, with optional REAPER review
 - **Weeks 6–8** — Setting and mood; field recording with the Zoom recorders (Assignment 3)
 - **Weeks 9–11** — Editing and processing sound effects (Assignment 4); reverb, space, and time
-- **Week 12** — Sound synthesis for science fiction (Assignment 5)
-- **Weeks 13–15** — Ambiences (Assignment 6); final project proposals and spotting
+- **Weeks 12–15** — Layering, ambience building (Assignment 6), transitions, and final project proposals, spotting, and production
 - **Week 16 and finals** — Full-draft presentations; final project presented at the exam
+
+**Assignment 5: Sound Synthesis has been dropped and will not count toward
+your grade.** Assignment 6 keeps its original number and is due November 30.
 
 Three at-home screenings run alongside: *WALL-E*, *The Zone of Interest*
 (or *Nope*), and *A Quiet Place*, each with a
@@ -58,7 +60,7 @@ Three at-home screenings run alongside: *WALL-E*, *The Zone of Interest*
 ## Materials
 
 No required textbook. Studio-quality headphones are required and available to
-rent if you need a pair. We work in REAPER, with Vital for synthesis and SoundQ
+rent if you need a pair. We work in REAPER, with optional Vital synthesis and SoundQ
 and Freesound for library material.
 
 ## Grading
@@ -77,7 +79,8 @@ Attendance and participation 30% · Assignments 50% · Final project 20%.
   - The sound walk journal
   - The Earth.fm narrative share
   - Gain-staging and field-recording lab work
-  - Independent work-day deliverables during the ATMI conference week
+  - Preparation for the post-conference footage discussion; the independent
+    planning on November 13 has no separate graded submission
   - The in-class spotting presentation and the full-draft feedback session
   - Spoken feedback during critique and listening sessions — one specific
     observation and one concrete suggestion when a classmate's work is played

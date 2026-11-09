@@ -3,87 +3,77 @@ title: "Final Project"
 number: "★"
 weight: 11
 week: 13
-assigned: "2026-11-18"
+assigned: "2026-11-16"
 due: "2026-12-14"
 summary: "A five-minute sound design piece: Foley, ambience, SFX, and final mix."
 rubric: false   # the brief carries its own rubric table
 ---
 
-### Final Project Overview
+## Your task
 
-Your final project will be to craft a comprehensive five-minute sound design piece. This project serves as an opportunity to apply your skills and creativity to produce a professional-grade soundtrack. You may choose one of the following two options for your sound design:
+Create a **five-minute sound design** for an animated or live-action short,
+or for three contrasting scenes from a feature film totaling five minutes.
 
-1. **Original Short**: Create a sound design for an animated or live action short film.  
-2. **Feature Film Scenes**: Select three contrasting scenes from a feature film to design your sound design. 
+Possible footage includes [SterilleFlower](https://www.dropbox.com/s/7jjbrnjupup99y0/SterilleFlower_MOS_1080p_ProRes422_23-976fps.mov?dl=0),
+the [Blender Open Movies](https://studio.blender.org/films/), or a short you find
+on [Vimeo](https://vimeo.com/categories). Check the source's permissions before
+using it in a public portfolio.
 
-Here are some options: 
-- [SterilleFlower\_MOS\_1080p\_ProRes422\_23-976fps.mov](https://www.dropbox.com/s/7jjbrnjupup99y0/SterilleFlower_MOS_1080p_ProRes422_23-976fps.mov?dl=0)
-- The [Blender Open Movies](https://studio.blender.org/films/) — *Big Buck Bunny*, *Sintel*, *Spring*, *Charge*, and more. These animated shorts are Creative Commons and free to download in high quality, which makes them ideal for a complete sound redesign.
-- Also find some great shorts on [Vimeo](https://vimeo.com/categories)
+## Proposal and checkpoints
 
-Your final submission should integrate all elements of sound design that we've discussed throughout our course. Each sound design must include the following components:
+Post footage links and a short initial spotting plan to D2L **by class on
+November 23**. Identify the settings, major Foley and effects cues, planned
+recordings, and available personal or library sources. We will confirm the
+scope in class; no finished audio is required with the proposal.
 
-### Foley
-- Record as much live Foley as you can. Cover all three layers you practiced in Assignments 1 and 2: moves, footsteps, and specifics.
-- Use the studio for controlled recordings and the Zoom recorder for anything you need to capture elsewhere.
+- **November 30:** [Assignment 6: Ambiences](/assignments/assignment-6-ambiences/).
+  Use a setting from this project when possible, then revise it after feedback.
+- **December 2:** bring your working REAPER session and recording progress.
+- **December 7:** present a complete draft for feedback.
+- **December 14:** submit to D2L and present at the **3:30–5:30 PM** final exam.
 
-### Ambiences
-- Build each setting from beds and details, following the [Setting lesson](/lectures/week-6/sdff-chapter-3/) and Assignment 6.
-- Indoor scenes need a room tone, and outdoor scenes need the geophony, biophony, and anthrophony layers from the field recording unit.
+## Build the soundtrack
 
-### Miscellaneous Sound Effects (SFX)
-- For all other on-screen elements that do not fall under dialogue, foley, or ambience.
+- **Foley:** record as much as you can, covering moves, footsteps, and specifics
+  from Assignments 1–2. Use the studio for controlled recording and a Zoom
+  recorder elsewhere.
+- **Ambiences:** establish each setting with beds and details, following the
+  [Setting lesson](/lectures/week-6/sdff-chapter-3/). Include room tone indoors
+  and the field-recording unit's geophony, biophony, and anthrophony layers outdoors.
+- **Sound effects:** cover other on-screen elements outside dialogue, Foley,
+  and ambience.
+- **Music, if used:** use original or properly licensed tracks and document
+  their titles, sources, and licenses. See [Working with music](/lectures/working-with-music/).
 
-### Music (optional)
-- If your piece uses music, it must be original or properly licensed — see the [working with music lesson](/lectures/working-with-music/) for cleared sources.
-- List each track's title, source, and license in your documentation.
+## Mix
 
-### Final Mix
-Follow the [final mix lesson](/lectures/final-mix-deliverables/): the finished render should measure **-24 LUFS integrated with true peak under -2 dB** (check it with "Calculate loudness" in REAPER's render dialog).
-- **Dialogue**: Start with the dialogue tracks if you're using them. The overall levels should average between -12 dB to -6 dB. Utilize compression to maintain consistency in the dialogue's dynamic range.
-- **Integrating Foley, SFX, and Ambience**: Once the dialogue sits well in the mix, incorporate the foley, followed by other SFX, and finally, the ambiences.
-- **Reverb and Panning**: Use reverb SENDs to unify the sound elements by placing them in the same acoustic space. Employ panning and its automation to match the sounds to the on-screen action spatially.
-- **Impulse Responses**: To assist in creating realistic acoustic environments, utilize additional impulse responses available [here](https://www.voxengo.com/impulses/).
+Follow the [final mix lesson](/lectures/final-mix-deliverables/).
 
-## Documentation 
+1. If using dialogue, establish it first, averaging between **-12 and -6 dB**;
+   use compression to control its dynamic range.
+2. Balance Foley, other effects, and ambiences around it.
+3. Use reverb sends to place elements in a shared acoustic space, and panning
+   or automation to follow on-screen action. Additional impulse responses are
+   available from [Voxengo](https://www.voxengo.com/impulses/).
+4. Check the finished render with **Calculate loudness** in REAPER's render
+   dialog: **-24 LUFS integrated, with true peak under -2 dB**.
 
-#### Introduction to the Project
+## Submit
 
-- **Project Overview**:
-  - A brief description of the project, including the type of film (animated short, feature film, etc.) and the chosen scenes.
-- **Intent and Objectives**:
-  - A clear statement of what you aimed to achieve with your sound design. This can include the mood, atmosphere, and style you intended to convey.
+- **Rendered video** with the finished mix meeting the specifications above.
+- **Stems:** one file per used category: dialogue, Foley, effects, ambience,
+  and music. Together they should sum to the full mix.
+- **Consolidated REAPER project with all media**, using named, organized tracks.
+- **One page of documentation:** identify the film and scenes, intended mood
+  and style, key design and mixing decisions, what worked, one improvement you
+  would make, and a technical challenge you addressed. Include music credits
+  and licenses if applicable.
 
-#### Reflection
+Use clear filenames and keep a complete copy somewhere you can access after
+graduation. The finished film sound design can sit alongside your DAD 222 track
+and DAD 422 immersive piece in your portfolio.
 
-- **Critical Listening and Evaluation**:
-  - Reflection on the final mix, evaluating what worked well and what could be improved.
-  - Insight into the creative choices made and how they align with the initial objectives.
-- **Mixing Process**:
-  - A walkthrough of the mixing process, explaining how different elements were balanced.
-  - Details on the use of compression, EQ, reverb, and other effects to achieve a cohesive sound.
-- **Technical Challenges**:
-  - A section dedicated to any technical challenges encountered during the mixing process, including how they were overcome.
-
-
-## Your portfolio
-
-The final projects in DAD 222, DAD 310, and DAD 422 can become a three-part
-portfolio: a produced track, a film sound design, and an immersive piece. This
-is the second one. Make a clean render, use clear filenames, and keep the full
-project in storage you can access after graduation. Together, the three pieces
-can anchor a demo reel for jobs or graduate programs.
-
-## Deliverables
-
-- Rendered video, measuring -24 LUFS integrated with true peak under -2 dB
-- Stems: one rendered file per category (dialogue if used, Foley, effects, ambience, music), which together sum to your full mix
-- Reaper project file
-- One page documentation on the project
-
----
-
-## Grading Rubric (100 points total)
+## Grading rubric: 100 points
 
 | Criterion | Exemplary | Proficient | Developing | Emerging | Points |
 | --- | --- | --- | --- | --- | --- |

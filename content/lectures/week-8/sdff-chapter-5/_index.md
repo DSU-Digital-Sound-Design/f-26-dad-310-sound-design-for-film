@@ -213,7 +213,7 @@ Invite brief contributions from each student. Ask for source and treatment befor
 Before you leave: name one sound choice, its possible meaning, and the context that supports it.
 
 {{% note %}}
-Dialogue recording and editing follow on October 28, ADR on October 30, and space/worldizing on November 2 and 6. Do not imply Assignment 6 is assigned today. The ambience assignment is introduced November 18. Symbolic treatment is a later creative use of clean recordings, not a new requirement for Assignment 4.
+Dialogue recording and editing follow on October 28, ADR on October 30, and space/worldizing on November 2 and 6. Do not imply Assignment 6 is assigned today. The ambience assignment is introduced November 16 with a guided workshop that day. Symbolic treatment is a later creative use of clean recordings, not a new requirement for Assignment 4.
 {{%/ note %}}
 
 ---

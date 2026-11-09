@@ -3,42 +3,85 @@ title: "Ambiences"
 number: "06"
 weight: 6
 week: 13
-assigned: "2026-11-18"
+assigned: "2026-11-16"
 due: "2026-11-30"
-summary: "A 30-second ambience — ideally for a scene from your final project."
-# this assignment carries its own rubric table in the body
+summary: "Build a 30-second environment from a bed and selected details, preferably for your final-project footage. Due November 30."
 rubric: false
 ---
 
+## Your task
 
-Sound designers are frequently called on to create the sound of real and imaginary places where the events of a story or game take place. Real-world sites can be straightforward: visit the location, record, edit, process as needed, and add to your production. This is not always the case, however. Often the recording of an actual place does not sound right, given how the location is portrayed after editing a scene together. Imaginary locations (“fantastic,” “futuristic,” and so on) that do not exist are a blank canvas. Elements of these worlds can be rooted in our conception of reality. Still, the actual sound is ultimately determined by the collective vision and work of directors, designers, and those who create the sound. This assignment presents these challenges to you.
+Build **one 30-second stereo ambience** for a real or imagined place. Establish
+a continuous environment with an ambience bed and selected details, including
+**at least one meaningful offscreen source**. Make the sounds feel as though
+they belong to the same place and support the scene's mood and perspective.
 
-Using the recording, editing, and synthesis techniques we have discussed, create one 30-second ambience\: one of a real-world location OR one of an imaginary place.
+Use a setting from your proposed [final project](/assignments/final-project/)
+when possible, with a still frame as your reference. Otherwise, agree on another
+location and image with me. Keep the layers editable so you can revise and
+extend the ambience under the full scene later.
 
-**Since your final project proposal is due before this assignment, the best choice is usually the setting of one of your final project scenes** — the ambience you build here can become an ambience bed in your final mix, so the work counts twice. If your film doesn't suit that, a real or imagined place of your own is still fine.
+**Due Monday, November 30, via D2L by class.** Our workshop is November 16;
+bring headphones and useful sounds from Assignments 3–4. We confirm final-project
+footage November 23. No new recording trip over Thanksgiving recess is required.
 
-Take the following steps\:
+## Build the environment
 
-1. Find an image that provides a visual reference for the location you have in mind.
-2. Make a sound map that lists all possible elements that would create the sound of this place. Based on your image, what’s needed to create the sound of this place? Consider what you see, but also consider those elements that you suspect would be nearby and audible within the frame of your chosen image.
-3. Record \(and if helpful, synthesize\) the elements you need to develop the sound of the location.
-4. Use the [L-I-S-T-E-N editing mantra](/lectures/week-7/listen-mantra/) to prepare your recordings. Follow the techniques presented in class to mix the environment and put everything together in REAPER. Your final session should sound like a continuous recording of the place depicted in your chosen image.
-5. Put the following items into a folder\:
-   - REAPER project
-   - Final, 30-second stereo WAV or AIFF file. Name it based on the environment you intended to create, such as ancient-mars.wav or downtown-street-corner.aif.
-   - Soundmap with details for your chosen location
-   - Image that guided your work
-6. Zip this folder and post to D2L.
+1. **Choose the place and listening perspective.** What is the setting, time,
+   and mood? State the listener's position in one sentence in your sound map,
+   such as: "We are inside an empty diner at night,
+   hearing traffic through the windows while a refrigerator hums nearby."
+   Use this intention to decide what should feel nearby or distant.
+2. **Make a short sound map.** Identify the continuous bed, selected details,
+   and at least one source outside the frame. Explain what the offscreen sound
+   tells us about the larger environment. Include only elements that serve the
+   place. Examples include distant traffic, activity in an adjoining room, or
+   an animal beyond the frame. Keep these in the background; layer count itself
+   does not earn credit.
+3. **Choose your sources.** You may reuse your own recordings and edited sounds
+   from Assignments 3 and 4, make new recordings where needed, or use credited
+   library material. Record each source and its creator or library in the sound
+   map, with a link and license information for downloaded sounds. Synthesis is
+   optional. A finished library ambience with minimal changes is not sufficient;
+   demonstrate your own selection, editing, layering, and balancing.
+4. **Edit and layer in REAPER.** Use the
+   [LISTEN editing mantra](/lectures/week-7/listen-mantra/) to prepare your
+   sources. Build a bed that stays continuous, then place details selectively.
+   Use level, panning, EQ, and reverb where helpful to establish perspective.
+   Make joins unobtrusive. Seamless looping is optional, and short fades at the
+   file's beginning and end are fine.
+5. **Listen, compare, and revise.** Play an early version to a partner without
+   showing the image. Ask what feels nearby or distant and what suggests the
+   setting or mood. Then share your reference and intention: does the sound
+   support the intended setting, mood, and listening position? Your partner does
+   not have to guess the exact location. Change one element based on the
+   discussion and compare before and after. No extra report is required. Check
+   the export for unwanted gaps, clicks, or cut-off sounds.
 
----
+This is an environment-building exercise. You do not need to finish the scene's
+Foley, dialogue, music, or foreground action effects for this submission.
 
-## Grading Rubric (40 points total)
+## Submit
+
+Zip one folder containing:
+
+- **One 30-second stereo WAV**, 48 kHz / 24-bit, named for the environment.
+- **The REAPER session with all audio media**, so it opens with the layers intact.
+- **Your reference frame or image.** If using final-project footage, identify
+  the film and scene or timestamp.
+- **Your sound map and source list** from steps 1–3. A short table or annotated
+  image is enough; no separate essay is required.
+
+On November 30 we will listen and identify one improvement for your final
+soundtrack.
+
+## Grading rubric: 40 points
 
 | Criterion | Exemplary | Proficient | Developing | Emerging | Points |
 | --- | --- | --- | --- | --- | --- |
-| **Sense of Place (16 pts)** | The 30 seconds reads as one continuous recording of the place in your image; beds and details balance into a believable whole | Reads as the place, with one element sitting slightly apart | Elements are present but do not cohere into one location | A collage of unrelated sounds | /16 |
-| **Craft (12 pts)** | Recording, synthesis, editing, and mixing are clean: smooth fades, no seams, no stray artifacts | Clean overall with one audible seam | Recurring seams, abrupt entries, or artifacts | Assembled without editing | /12 |
-| **Sound Map (6 pts)** | Accounts for what is in frame and what would be audible just outside it | Covers what is in frame; little beyond it | Partial list of the obvious elements | Missing | /6 |
-| **Files (6 pts)** | Named stereo WAV, Reaper project, sound map, and image, zipped and posted | All present with naming or packaging issues | One item missing | Two or more missing | /6 |
+| **Sense of place and perspective** | Your selection and layering of a bed and details form a coherent environment that supports the intended setting, mood, and listening position; an offscreen source meaningfully extends the place | The place is clear, with a bed, details, and an offscreen source; one choice needs refinement | The setting or perspective is unclear, or an essential component is missing | Sounds do not establish a coherent environment | /16 |
+| **Editing and mix craft** | Continuous bed, smooth joins and fades, controlled detail levels, and no distracting artifacts | Mostly smooth and balanced, with one seam or level issue | Repeated gaps, abrupt entries, artifacts, or competing layers | Little evidence of editing or balancing | /12 |
+| **Sound map and source choices** | Concise map states the listening intention and explains the bed, details, offscreen source, and perspective; source credits are complete | Required choices and sources identified, with a minor omission | Map or source information is incomplete, or choices are unexplained | Map and source information absent | /6 |
+| **Files and session** | Correctly named 30-second stereo WAV, complete editable session and media, reference, and map/source list | All items present with a minor format or organization issue | A required item is missing or session media is incomplete | Multiple items missing or files unusable | /6 |
 
-**Total: \_\_\_ / 40**
+**Total: ___ / 40**
