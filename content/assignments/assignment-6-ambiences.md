@@ -5,21 +5,39 @@ weight: 6
 week: 13
 assigned: "2026-11-16"
 due: "2026-11-30"
-summary: "Build a 30-second environment from a bed and selected details, preferably for your final-project footage. Due November 30."
+summary: "Build a 30-second environment to picture from a bed and selected details, preferably on your final-project footage. Due November 30."
 rubric: false
 ---
 
 ## Your task
 
-Build **one 30-second stereo ambience** for a real or imagined place. Establish
+Build **one 30-second stereo ambience to a video clip**. Establish
 a continuous environment with an ambience bed and selected details, including
 **at least one meaningful offscreen source**. Make the sounds feel as though
 they belong to the same place and support the scene's mood and perspective.
 
-Use a setting from your proposed [final project](/assignments/final-project/)
-when possible, with a still frame as your reference. Otherwise, agree on another
-location and image with me. Keep the layers editable so you can revise and
-extend the ambience under the full scene later.
+Work to picture, the way we did with the *Night of the Living Dead* cemetery
+in the [demonstration](/lectures/ambience-workshop/). Watching the shot tells
+you where the listener is, what lies beyond the frame, and where a detail can
+land.
+
+## Find a clip
+
+Choose about 30 seconds that stays in one place. A cut within that place is
+fine. Look for a setting where the environment matters and the scene isn't
+dominated by dialogue.
+
+- **Your final-project footage** is the best choice, so the ambience carries
+  straight into your [final project](/assignments/final-project/).
+- **Otherwise, use a public domain film from [archive.org](https://archive.org/).**
+  The [Feature Films](https://archive.org/details/feature_films) and
+  [Prelinger Archives](https://archive.org/details/prelinger) collections are
+  good places to start. Check the item's license on its page, then download the
+  MP4. Pick a different scene from the cemetery clip we used in class.
+
+Import the video into REAPER on a track named `VIDEO`, mute or delete its
+original audio, and trim it to your 30 seconds. Keep the layers editable so you
+can revise and extend the ambience under the full scene later.
 
 **Due Monday, November 30, via D2L by class.** Our
 [instructor demonstration](/lectures/ambience-workshop/) is November 16;
@@ -60,8 +78,9 @@ Zip one folder containing:
 
 - **One 30-second stereo WAV**, 48 kHz / 24-bit, named for the environment.
 - **The REAPER session with all audio media**, so it opens with the layers intact.
-- **Your reference frame or image.** If using final-project footage, identify
-  the film and scene or timestamp.
+- **Your clip's source:** the film's title, its archive.org link (or which
+  final-project footage you used), and the start and end timestamps. Include
+  the trimmed video in the session's media if it is small enough to upload.
 - **Your source list** from step 3. A short table is enough.
 
 On November 30 we will listen and identify one improvement for your final
@@ -73,6 +92,6 @@ soundtrack.
 | --- | --- | --- | --- | --- | --- |
 | **Sense of place and perspective** | Your selection and layering of a bed and details form a coherent environment that supports the intended setting, mood, and listening position; an offscreen source meaningfully extends the place | The place is clear, with a bed, details, and an offscreen source; one choice needs refinement | The setting or perspective is unclear, or an essential component is missing | Sounds do not establish a coherent environment | /20 |
 | **Editing and mix craft** | Continuous bed, smooth joins and fades, controlled detail levels, and no distracting artifacts | Mostly smooth and balanced, with one seam or level issue | Repeated gaps, abrupt entries, artifacts, or competing layers | Little evidence of editing or balancing | /14 |
-| **Files, session, and sources** | Correctly named 30-second stereo WAV, complete editable session and media, reference, and a source list with complete credits | All items present with a minor format, organization, or credit issue | A required item is missing, session media is incomplete, or credits are incomplete | Multiple items missing or files unusable | /6 |
+| **Files, session, and sources** | Correctly named 30-second stereo WAV, complete editable session and media, clip source and timestamps, and a source list with complete credits | All items present with a minor format, organization, or credit issue | A required item is missing, session media is incomplete, or credits are incomplete | Multiple items missing or files unusable | /6 |
 
 **Total: ___ / 40**
