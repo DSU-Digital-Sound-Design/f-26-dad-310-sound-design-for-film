@@ -19,6 +19,14 @@ the [Blender Open Movies](https://studio.blender.org/films/), or a short you fin
 on [Vimeo](https://vimeo.com/categories). Check the source's permissions before
 using it in a public portfolio.
 
+You can also use scenes from ***Shapeless***, the feature we discussed with
+director Samantha Aldana and sound designer Devin Lawrence. Devin has allowed
+this class to use excerpts for the final project. Selected scenes will be posted
+on D2L with the film's dialogue stem, so you design and mix everything around
+the existing dialogue. These files are for class use only. Don't post them or
+your finished version publicly, including in an online portfolio, unless you
+first get permission from the filmmakers.
+
 ## Proposal and checkpoints
 
 Post footage links and a short initial spotting plan to D2L **by class on

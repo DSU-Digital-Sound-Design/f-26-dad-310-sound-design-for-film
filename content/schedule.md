@@ -272,8 +272,9 @@ undergraduate work.
   - Continue production and troubleshoot with the instructor. Refer back to [Spotting in REAPER](/lectures/week-9/spotting-assignment/) as needed
 
 ## 12/4
-- [slides] [The final mix and deliverables](/lectures/final-mix-deliverables/) — dialogue leads, loudness specs, stems
-- [lab] Work session — finish your Foley and ambiences, start the final mix. Measure your loudness and set up your stem folders while you're at it.
+- [screening] **Inside a feature mix: *Shapeless*.** Devin Lawrence shared the film's delivery stems: dialogue, background, effects, music, score, songs, and vocals. We'll solo and mute them in three scenes to hear how a mix splits into stems, what an M&E keeps for foreign-language versions, and how sung vocals stay in English. About 30 minutes; shown in class only.
+- [slides] [The final mix and deliverables](/lectures/final-mix-deliverables/): loudness spec and stems
+- [lab] Group your tracks into category folders and take one loudness reading. Render your full set of stems before Monday's draft presentations.
 
 ## 12/7
 - Last meeting — course evaluations
