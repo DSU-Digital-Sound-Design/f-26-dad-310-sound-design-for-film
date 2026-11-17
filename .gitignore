@@ -2,3 +2,9 @@ public/
 resources/_gen/
 .hugo_build.lock
 .DS_Store
+
+# REAPER artifacts
+Backups/
+peaks/
+*.rpp-bak
+*.reapeaks
