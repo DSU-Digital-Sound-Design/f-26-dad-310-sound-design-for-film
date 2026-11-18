@@ -245,7 +245,7 @@ undergraduate work.
 
 ## 11/20
 - [slides] [Time: transitions, rhythm and time perception](/lectures/week-10/sdff-chapter-10/) — moved from 11/9 to make room for the guest visit
-- Apply the lesson to ambience across a picture cut. Keep the environment continuous while making an intentional change in perspective
+- [demo] Compare two versions of the same picture cut. Listen for how a continuous ambience bed holds the place together as the listening perspective shifts
 - Discuss footage choices and prepare Monday's proposal and initial spotting plan
 
 ## 11/23

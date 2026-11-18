@@ -11,7 +11,15 @@ outputs = ["Reveal"]
 
 ## Transitions, Rhythm And Time Perception
 
-Sources for this deck: Tim Harrison, *Sound Design for Film*, ch. 10, and Walter Murch, *In the Blink of an Eye*, 2nd ed.
+- Identify which sounds lead, carry across, or end at a picture cut.
+- Explain how a pattern of sounds changes the way a scene feels paced.
+- Explain how an ambience bed can hold a place together as the listening perspective shifts.
+
+{{% note %}}
+Work through transitions, compound time, and rhythm. Save a few minutes for the A/B listening comparison. Extra clips and theory follow it.
+
+Sources: Tim Harrison, *Sound Design for Film*, ch. 10. Walter Murch, *In the Blink of an Eye*, 2nd ed. Michel Chion, *Audio-Vision: Sound on Screen*, pp. 8–9.
+{{%/ note %}}
 
 ---
 
@@ -44,7 +52,8 @@ Tarkovsky suggests that the essence of filmmaking is this mastery over time, all
 
 ## Transitions
 
-
+- What changes at the picture cut?
+- What does the sound lead you to infer about place or time?
 
 {{% note %}}
 Sound significantly influences an audience's perception of time and continuity in a film:
@@ -65,7 +74,11 @@ In essence, sound plays a pivotal role in shaping an audience's experience of ti
 
 ---
 
-# flashback/flashforwards
+## Flashbacks and flash-forwards
+
+**Edit timing:** Where does the sound start or end relative to the picture cut?
+
+**Story time:** Does the cut take us to the same moment, the past, or the future?
 
 {{% note %}}
 
@@ -84,67 +97,30 @@ In essence, sound plays a pivotal role in shaping an audience's experience of ti
 
 **Flashback - Soul**
 
+What stays audible across the cuts? What changes underneath it?
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5i_DKxZu0aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Watch on YouTube](https://www.youtube.com/watch?v=5i_DKxZu0aI)
+
 {{% note %}}
+Ask for one audible detail before explaining the transition. Replay a single cut and have students track the piano on one pass and the ambience on the next.
+
 Joe's piano is the bridge: the diegetic playing in his apartment carries over the cuts into his memories, binding present and flashback into one continuous emotional line. The ambience shifts under the piano with each memory (the pizza parlor, the subway, his father's club) while the music holds the timeline together.
 {{%/ note %}}
 
 ---
 
-**Flashback - Ratatouille**
+**How sound introduces the killer in *M* (1931)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVd6CnKLPgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — Soul covers the flashback bridge.
-{{%/ note %}}
-
----
-
-**Flash forward - Arrival**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XyUYdyen2Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-**Flash forward - Dune**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qOf1Fuhd59M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — Arrival covers the flash-forward.
-{{%/ note %}}
-
----
-
-**Sound in - M (1931)**
+In this Criterion commentary, listen for the whistle. What does it tell you before you see its source?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/My7fxjUY2co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Watch on YouTube](https://www.youtube.com/watch?v=My7fxjUY2co)
+
 {{% note %}}
-"Fritz Lang's "M" (1931) is a pioneering film in many respects, especially in its use of sound, which was still a relatively new innovation in cinema at the time. The sound bridge is one of the techniques Lang employed to great effect in the movie.
-
-In "M", a sound bridge works as follows:
-
-- **Linking Different Scenes**:
-  - The sound from one scene continues into the next scene, even before the visuals of the next scene begin. This creates a connection between two separate scenes, helping to smooth the transition for viewers.
-
-- **Foreshadowing**:
-  - The sound bridge can hint at what's about to happen in the subsequent scene. For instance, before the visuals of a new scene appear, the audience might hear relevant sounds or dialogues that foreshadow the events of that scene.
-
-- **Creating a Mood**:
-  - In "M", the continuous use of sound, especially the haunting whistle of the killer, helps in setting a tense and ominous mood. The whistle, in particular, acts as an audio signature for the murderer, alerting the audience to his presence even before he is seen on screen.
-
-- **Illustrating Collective Panic**:
-  - The movie "M" revolves around the hunt for a child murderer, leading to a collective hysteria in the city. Sound bridges are used to connect different parts of the city and its inhabitants, thus illustrating the widespread nature of the panic. For instance, the echoing sound of the murderer's whistle or discussions about him can be heard across different scenes, tying together the narrative and emphasizing the city's collective fear.
-
-- **Societal Commentary**:
-  - Lang uses sound bridges to not just move between scenes but also to draw parallels between different strata of society. The transitions often compare the reactions of different groups – from the criminal underworld to the police to ordinary citizens – to the threat posed by the child murderer.
-
-In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together narrative threads, foreshadow events, create mood, and offer societal commentary, showcasing the potential of sound as a storytelling tool in cinema.
-
-
+Introduce this as a preview of Kristin Thompson's Criterion commentary. The recurring whistle identifies the killer when he's offscreen. Ask what students infer about who is nearby. Use the phone example on slide 10 to check the timing of a prelap across an edit.
 {{%/ note %}}
 
 ---
@@ -155,7 +131,7 @@ In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together 
 - Murch calls the effect "fruitful confusion": for a moment you hear the sound metaphorically, and then the cut explains it.
 
 {{% note %}}
-- The M whistle you just heard is the classic case: the killer's sound precedes and outruns his image.
+- Return to the cue in *M*. Ask what the class inferred before the picture gave them more information. A sound can precede its visible source within one shot. For a prelap across an edit, the incoming scene's sound must start before the picture cut.
 - Source: Harrison, ch. 10, quoting Murch.
 {{%/ note %}}
 
@@ -163,74 +139,63 @@ In summary, in "M", Fritz Lang masterfully uses sound bridges to weave together 
 
 ### Postlap
 
-- The sound of the last scene lingers over the new picture, often with a long reverb tail.
-- The outgoing emotion overstays into the next scene on purpose.
+- Sound from the outgoing scene continues after the picture cut.
+- The lingering sound can carry the previous scene's feeling into the next.
 
 {{% note %}}
-- An editing tip that saves a lab day: hard ambience cuts land on the first frame of the new scene, and the cut goes at a zero crossing, or you ship an audible click.
+- Listen for clicks or dips at edit points. Try a short fade or crossfade where it helps, then audition the join against picture.
 - Source: Harrison, ch. 10.
 {{%/ note %}}
 
 ---
 
+## Prelap and postlap at a glance
+
+| | Before the picture cut | After the picture cut |
+| --- | --- | --- |
+| **Prelap** | Incoming sound **starts** | Incoming sound continues |
+| **Postlap** | Outgoing sound is playing | Outgoing sound **ends** |
+
+A phone rings before we cut to the room it's in. Prelap or postlap?
+
+{{% note %}}
+Point to the line between the two time columns as the picture cut. Give the class a beat to call out the answer: prelap, because the incoming room's phone is audible before we see the room. If useful, give the reverse example aloud: the ring continues as we cut away from the room, making it a postlap.
+{{%/ note %}}
+
+---
+
+**Flash forward - Arrival**
+
+What makes the images feel like a memory? What changes once you understand where they sit in the story?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XyUYdyen2Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=XyUYdyen2Ho)
+
+---
+
 ## Compound time
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vROih4weKoM?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Sound from one moment can play over the picture of another. In *The Conversation*, Harry plays back a conversation he recorded earlier.
+
+What is Harry doing now? When was the conversation we hear recorded?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vROih4weKoM" title="The Conversation: Harry plays back the recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=vROih4weKoM)
 
 {{% note %}}
-**COMPOUND TIME in Film Sound:**
-
-- Sound in film has the capability to layer multiple timelines together, allowing past and present to coexist.  
-- Common techniques:
-  - **Memory Recall**: Dialogue from earlier in the film can be replayed as a character's memory, such as the line ‘He’d kill us if he had the chance’ from "The Conversation."
-  - **Technological Devices**: The use of voicemails or audio recordings can bring past events or conversations into the current narrative.
-
+Start at the beginning. Pause after students hear the recorded line, “He'd kill us if he got the chance.” Ask what the recording lets the characters hear in the present and how the picture helps us tell the two moments apart.
 {{%/ note %}}
 
 ---
 
-### Superimpose time - A Touch of Evil
+## Rhythm, tempo, and felt time
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r4YS55Y1joY?start=180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **Rhythm** is the pattern of sounds and silences.
+- **Tempo** is the rate of the pulse, when a pulse is audible.
 
-{{% note %}}
-Skippable if short on time — the Apocalypse Now slide's notes make the same compound-time point.
-
-**1. A Touch of Evil (Directed by Orson Welles, 1958)**
-
-- **Setting and Context**: Set in a town on the U.S.-Mexico border, the film is a crime thriller that delves into themes of corruption, morality, and justice.
-  
-- **Key Scene**: Towards the climax, the hero, Miguel "Mike" Vargas, tries to gather evidence against the corrupt police captain Hank Quinlan. Instead of confronting Quinlan with a weapon, Vargas uses a microphone and tape recorder in an attempt to capture Quinlan's confession of his misdeeds.
-  
-- **Significance of Sound**: Once Vargas successfully records the confession, Quinlan is fatally shot. As he lies dying, his own incriminating words are replayed through the small speaker of the tape recorder. This playback serves multiple purposes:
-    - **Diminishment of Power**: Quinlan's powerful and menacing presence throughout the film is reduced when his voice, associated with guilt, comes out of a tiny, distorted speaker.
-    - **Commentary**: Orson Welles intended this echoing of Quinlan's words as a broader comment on the story's themes. The repetition emphasized the inevitable outcome of corruption and deceit.
-
-{{%/ note %}}
-
----
-
-### Apocolypse Now
-
-
-{{% note %}}
-
-**2. Apocalypse Now (Directed by Francis Ford Coppola, 1979)**
-
-- **Setting and Context**: A war film that offers a harrowing depiction of the Vietnam War, exploring the chaos, moral ambiguity, and the blurred lines between good and evil.
-  
-- **Key Scene**: One of the soldiers, Private Clean, is on a boat with his squad, journeying through Vietnam's dangerous waters. During a moment of respite, they listen to letters and tapes sent from home. Clean plays a tape from his mother, where she shares news and sends her love.
-  
-- **Significance of Sound**: As Clean listens, their boat is suddenly ambushed. Clean gets fatally wounded in the attack. However, the tape from his mother continues to play. This overlay of sound serves multiple purposes:
-    - **Juxtaposition of Worlds**: The contrasting sounds—his mother's comforting voice and the violent reality of war—highlight the vast distance between the safety of home and the dangers of the battlefield.
-    - **Amplification of Tragedy**: The continuation of his mother's voice over Clean's dying moments accentuates the heartbreak and loss. It's a poignant reminder of the personal stories and lives interrupted by war, making the scene deeply emotional for the audience.
-
-Both film examples adeptly utilize sound to enhance the narrative's impact, showcasing how audio can amplify the emotions and themes inherent in the storyline.
-{{%/ note %}}
-
----
-
-## Time perception - Rhythm and Tempo
+What makes a scene feel faster or slower even when its running time stays the same?
 
 {{% note %}}
 * Sound punctuates scenes, adding shape and emotion like musical notes.
@@ -245,12 +210,132 @@ Both film examples adeptly utilize sound to enhance the narrative's impact, show
     * Propel scenes forward.
     * Use everyday rhythmic elements like clocks, heartbeats, or dripping faucets.
     * Align with scene transitions for cohesion.
-* The rate of sounds changes how fast time feels: fast, unpredictable sounds compress a chase, while elongated sounds stretch a dream.
+* The timing of sounds can change how fast a scene feels. Ask what the spacing, density, or length of events contributes in this particular scene.
+{{%/ note %}}
+
+---
+
+### Delicatessen
+
+What sets the pulse? Which sounds join it? When does it speed up?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GVL5_I4CvTc" title="Delicatessen: the apartment building's rhythmic montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=GVL5_I4CvTc)
+
+{{% note %}}
+Play from the beginning. Rialto's trailer shows the rhythmic montage after its opening titles. Listen for the creaking bedsprings establishing the pulse, then the cello and other residents' sounds joining it. Ask students to name two sources and describe when the rate changes. Replay that part together.
+
+If the video is unavailable, use the tapping demonstration on the next slide.
+{{%/ note %}}
+
+---
+
+## Phrasing in sound design
+
+Listen to the same sound grouped in **threes, fours, and fives** at the same pulse.
+
+Which grouping feels most predictable? What did you hear that made it feel that way?
+
+{{% note %}}
+Tap a steady pulse. Accent every third beat for several groups, then every fourth, then every fifth. Keep the spacing and accent strength consistent. Ask students to describe the pattern they heard before giving the counts.
+
+Harrison (ch. 10) offers associations such as rotation in threes and irregularity in fives. Compare those interpretations with the class's descriptions.
+{{%/ note %}}
+
+---
+
+## One cut, two versions
+
+Play A, then B, with sound on.
+
+<div style="display:flex; justify-content:center; gap:4%; align-items:flex-start;">
+  <figure style="width:40%; margin:0;">
+    <figcaption>A</figcaption>
+    <video controls playsinline preload="metadata" width="480" height="360" style="width:100%; height:auto;" aria-label="Cemetery scene, version A">
+      <source src='{{< rel "downloads/cemetery-perspective-a.mp4" >}}' type="video/mp4">
+    </video>
+  </figure>
+  <figure style="width:40%; margin:0;">
+    <figcaption>B</figcaption>
+    <video controls playsinline preload="metadata" width="480" height="360" style="width:100%; height:auto;" aria-label="Cemetery scene, version B">
+      <source src='{{< rel "downloads/cemetery-perspective-b.mp4" >}}' type="video/mp4">
+    </video>
+  </figure>
+</div>
+
+In which version does traffic sound farther away after the cut? What sound keeps the location consistent?
+
+{{% note %}}
+Play the two eight-second clips in order. Take a quick show of hands. In B, the road drops about 11 dB just after the cut. The breeze and birds stay the same in both versions. Replay the cut if the difference is hard to hear.
+
+Connect the comparison to [Assignment 6]({{< rel "assignments/assignment-6-ambiences/" >}}). Carry the bed across cuts within one place and adjust a detail to shift where we seem to be listening from.
+
+Picture: excerpt from the course's silent *Night of the Living Dead* cemetery clip. Sound: ezwa's [Gentle breeze and birds singing](https://commons.wikimedia.org/wiki/File:Gentle_breeze_and_birds_singing.ogg) (public domain) and FOSSarts' [freeway traffic (CA) 1](https://freesound.org/people/FOSSarts/sounds/750573/) (CC0), edited for this comparison.
+{{%/ note %}}
+
+---
+
+## Optional clips and discussion
+
+Revisit a transition, compare how two scenes handle rhythm, or discuss how sound changes the viewer's attention.
+
+{{% note %}}
+After the demo, choose a slide here if time allows. Students can also use these slides to revisit the lesson.
+{{%/ note %}}
+
+---
+
+**Flashback - Ratatouille**
+
+What cue tells you the scene has shifted into a memory?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVd6CnKLPgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Skippable if short on time — Soul covers the flashback bridge.
+{{%/ note %}}
+
+---
+
+**Flash forward - Dune**
+
+Which sound links the vision to the scene around it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOf1Fuhd59M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Skippable if short on time — Arrival covers the flash-forward.
+{{%/ note %}}
+
+---
+
+### Superimpose time - A Touch of Evil
+
+Listen for Quinlan's recorded voice. How does hearing it through a small speaker change its effect?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r4YS55Y1joY?start=144" title="Touch of Evil: Quinlan's voice plays through the recorder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+The clip starts shortly before the recorder playback. Listen for the change in sound as we see the small speaker around 2:35. Ask what the recording changes about the present action.
+
+**1. A Touch of Evil (Directed by Orson Welles, 1958)**
+
+- **Setting and Context**: Set in a town on the U.S.-Mexico border, the film is a crime thriller that delves into themes of corruption, morality, and justice.
+
+- **Key Scene**: Towards the climax, the hero, Miguel "Mike" Vargas, tries to gather evidence against the corrupt police captain Hank Quinlan. Instead of confronting Quinlan with a weapon, Vargas uses a microphone and tape recorder in an attempt to capture Quinlan's confession of his misdeeds.
+
+- **Significance of Sound**: Once Vargas successfully records the confession, Quinlan is fatally shot. As he lies dying, his own incriminating words are replayed through the small speaker of the tape recorder. This playback serves multiple purposes:
+    - **Diminishment of Power**: Quinlan's powerful and menacing presence throughout the film is reduced when his voice, associated with guilt, comes out of a tiny, distorted speaker.
+    - **Commentary**: Orson Welles intended this echoing of Quinlan's words as a broader comment on the story's themes. The repetition emphasized the inevitable outcome of corruption and deceit.
+
 {{%/ note %}}
 
 ---
 
 ### Saving Private Ryan
+
+Listen for a repeating gunfire pattern beneath the louder events. What does it help you follow?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sB4h6obTRBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -269,123 +354,9 @@ Both film examples adeptly utilize sound to enhance the narrative's impact, show
 
 ---
 
-### Delicatessen
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GVL5_I4CvTc?start=113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{{% note %}}
-**Delicatessen - Rhythmic Apartment Scene:**
-- Directed by Jean-Pierre Jeunet and Marc Caro, "Delicatessen" is a dark comedic film set in a post-apocalyptic France.
-- The scene in question unfolds in a dilapidated apartment building, highlighting various tenants going about their routines.
-- What stands out is the rhythmic synchronization of their actions. A tenant playing a cello sets the rhythm, which is mirrored and amplified by other sounds like bed springs creaking, paint rollers sloshing, bicycle pumps hissing, and so on.
-- The tenants, unaware of each other, move in unison to this rhythm. As the tempo gradually accelerates, the seemingly unrelated activities begin to form a harmonious, synchronized dance of sounds and visuals.
-- This scene is not only humorous but also serves to emphasize the interconnectedness of the building's residents, even in their individual, isolated routines.
-
-Both scenes are masterful examples of how sound design can be integral to a film's storytelling and emotional impact.
-{{%/ note %}}
-
----
-
-## Phrasing in sound design 
-
-* Emotional Impact through Phrasing
-* Symmetric Patterns and Attention
-* Interpretation through Sound Groupings
-
-{{% note %}}
-**Phrasing in Sound Design**
-
-- **Emotional Impact through Phrasing:**
-  - Different phrasings of rhythmic sound elicit distinct emotions.
-  - Groupings of three evoke a sense of rotation, fours drive forward, and fives bring irregularity.
-
-- **Symmetric Patterns and Attention:**
-  - The brain is drawn to symmetric patterns.
-  - Patterns not equally divided, like fives and sevens, are more attention-grabbing. 
-  - For authenticity, sounds should reflect real-world designs, e.g., alarms repeating in odd numbers.
-
-- **Interpretation through Sound Groupings:**
-  - How sounds are grouped can indicate intention or coincidence.
-  - The rule of threes, similar to story structure and visual composition, resonates strongly in sound. For instance, three dog barks seem more satisfactory than any other number.
-
-This phrasing material is Harrison's (ch. 10), including the observation that real alarms repeat in odd numbers.
-{{%/ note %}}
-
----
-
-## Dream/nightmare sequences
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0vyVT4HFgM?si=6j5mG3wJEXFU2inc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-Skippable if short on time — one line of commentary carries this; say it instead of playing the clip.
-
-- Continuous, unpatterned sounds, or "drones", induce anxiety, making them apt for thrillers and horror.
-{{%/ note %}}
-
----
-
-## Sound's Role in Time Perception
-
-{{% note %}}
-**Aligning Character and Audience: Sound's Role in Time Perception**
-
-- **Character's Breath as an Indicator**:
-  - Breath can reveal a character's emotions, e.g., contentment vs. fear.
-  
-- **Direct Effect on Audience**:
-  - Michel Chion asserts that a film's breathing noises can affect our own respiration.
-  - Walter Murch suggests that synchronized film edits with a character's internal rhythms might make audiences blink in unison.
-{{%/ note %}}
-
----
-
-## Chion 
-
-### "Empathetic Sound"
-
-<div style="display: flex; justify-content: space-between;">
-    <iframe style="margin-right: 20px;" width="560" height="315" src="https://www.youtube.com/embed/MgFF-JBCHUg?si=rBlEpf8rVD4skeHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/pVqOcGEbZvo?si=weiFUUJgZf8IKPt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
-{{% note %}}
-If short on time, play just one of the two clips — either makes the empathetic-sound point.
-
-**Aligning Character and Audience: Sound's Role in Time Perception**
-
-- **Character's Breath as an Indicator**:
-  - Breath can reveal a character's emotions, e.g., contentment vs. fear.
-  
-
-**Michel Chion on Breathing**:
-- Michel Chion is a renowned theorist on film sound. One of the ideas he's explored is the concept of "empathetic sound," wherein the audience emotionally and physically syncs with what they hear on screen.
-- Regarding breathing, Chion posits that when audiences hear a character's breathing in a film, it can directly influence their own respiratory patterns. For instance, if a character is breathing heavily or erratically due to fear or exertion, the audience might find themselves unconsciously matching that rhythm, leading to a heightened sense of anxiety or tension.
-- This concept reinforces the idea of cinema as a holistic experience where the line between the viewer and the viewed blurs. The audience doesn't just observe emotions on screen; they feel them.
-
-{{%/ note %}}
-
----
-
-## **Walter Murch on Blinking**:
-
-### "Apocalypse Now" (1979)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/30QzJKCUekQ?si=fZNDkKG7q9rwv7mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-**Walter Murch on blinking** (In the Blink of an Eye, 2nd ed.):
-- Murch's claim is physiological: we blink to punctuate thoughts, not just to wet our eyes. A listener blinks at the exact moment they "get" what a speaker is saying.
-- A good cut lands on the audience's blink point. When the editing rhythm matches the story's emotional beats, the whole theater blinks together.
-- This pairs with Chion's breathing idea on the previous slide: both argue that film is a physiological experience, synchronizing bodies with the screen.
-
-* "Apocalypse Now" (1979): Another collaboration between Coppola and Murch. During the "Ride of the Valkyries" helicopter attack, the cuts are rapid and intense, matching the chaos of the scene and, in Murch's account, guiding the audience's blinks to the rhythm of the action.
-{{%/ note %}}
-
----
-
 ## Irregular rhythms
+
+In *Fantasia*, listen for accents that land with the dinosaurs' movements. How predictable are they?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Vw-fy-Gfl8?start=286" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -404,10 +375,67 @@ If short on time, play just one of the two clips — either makes the empathetic
 
 ### To Kill A King
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPmSR--BktE?start=286" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Listen to the bell between beats. How does its steady spacing affect the wait?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPmSR--BktE" title="To Kill a King: bells before the execution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-- **Techniques to Slow Down Perceived Time**:
-  - Use regular rhythms and constant volumes.
-  - Sparse mixes or the sound of clocks can elongate time perception. Example: the execution scene in "To Kill A King" emphasized by the regular striking of a bell.
+Play from the beginning and stop after the first 25–30 seconds. There are several bell strikes before the dialogue begins. Ask whether their regular spacing makes the wait feel longer and what they hear in the gaps.
+{{%/ note %}}
+
+---
+
+## Dream/nightmare sequences
+
+What happens to your sense of elapsed time while a sustained sound holds?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0vyVT4HFgM?si=6j5mG3wJEXFU2inc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+Skippable if short on time — one line of commentary carries this; say it instead of playing the clip.
+
+- A sustained sound can build unease in some scenes. Ask what about its texture, level, or relation to the image contributes to that effect.
+{{%/ note %}}
+
+---
+
+## Breath and listening perspective
+
+How close does the character's breath sound? What does its rhythm suggest about their state?
+
+<div style="display: flex; justify-content: space-between;">
+    <iframe style="margin-right: 20px;" width="560" height="315" src="https://www.youtube.com/embed/MgFF-JBCHUg?si=rBlEpf8rVD4skeHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pVqOcGEbZvo?si=weiFUUJgZf8IKPt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+{{% note %}}
+Choose one clip if time allows. Ask what students can hear about the character's state and what makes the breath feel close or distant. Invite students to describe any change in their own sense of pace or tension.
+{{%/ note %}}
+
+---
+
+## Chion’s empathetic music
+
+**Empathetic music** takes on the scene's feeling through rhythm, tone, or phrasing.
+
+**Anempathetic music** carries on with apparent indifference to what's happening.
+
+{{% note %}}
+Optional discussion: imagine an anxious scene scored first with music that follows its tension, then with a cheery tune that carries on through the action. Ask how each choice changes the scene's feeling.
+
+Source: Michel Chion, [*Audio-Vision: Sound on Screen*, pp. 8–9](https://mwsae.org/wp-content/uploads/2020/09/Chion_Michel_Audio-Vision.pdf#page=25).
+{{%/ note %}}
+
+---
+
+## Murch’s blink-point idea
+
+Pick a cut in *Apocalypse Now* that feels motivated. What changes just before it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30QzJKCUekQ?si=fZNDkKG7q9rwv7mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+Murch proposes that a blink can mark a change or completion in thought. Use that as an editor's hypothesis about where a cut might feel right. Ask students to point to a shift in attention, action, or sound and explain why it makes a cut feel timely.
+
+Source: Walter Murch, *In the Blink of an Eye*, 2nd ed.
 {{%/ note %}}
