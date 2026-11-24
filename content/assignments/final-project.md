@@ -4,7 +4,7 @@ number: "★"
 weight: 11
 week: 13
 assigned: "2026-11-16"
-due: "2026-12-14"
+due: "2026-12-11"
 summary: "A five-minute sound design piece: Foley, ambience, SFX, and final mix."
 rubric: false   # the brief carries its own rubric table
 ---
@@ -39,7 +39,7 @@ scope in class; no finished audio is required with the proposal.
   Use a setting from this project when possible, then revise it after feedback.
 - **December 2:** bring your working REAPER session and recording progress.
 - **December 7:** present a complete draft for feedback.
-- **December 14:** submit to D2L and present at the **3:30–5:30 PM** final exam.
+- **December 11:** submit to D2L and present during the **1:00–3:00 PM** final exam.
 
 ## Build the soundtrack
 

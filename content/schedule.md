@@ -282,8 +282,8 @@ undergraduate work.
   - Overall sound design effectiveness
   - Emotional and narrative alignment
   - Final tweaks before submission
-- [Final Project](/assignments/final-project/) — presented at the final exam, Mon 12/14, 3:30–5:30 pm
+- [Final Project](/assignments/final-project/) presentations are during the final exam on Fri 12/11, 1:00–3:00 pm.
 
-## 12/14
+## 12/11
 - [due] [Final Project](/assignments/final-project/) — due today, submitted on D2L
-- Final project presentations — **3:30–5:30 PM**, our scheduled final exam slot
+- Final project presentations during the **1:00–3:00 PM** final exam slot
